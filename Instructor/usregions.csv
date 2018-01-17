@@ -1,0 +1,52 @@
+state,census_region,census_division,economic_region,ombfed_region,court_region
+Alabama,South,East Southern Central,Southeast,IV,Eleventh
+Alaska,West,Pacific,Far West,X,Ninth
+Arizona,West,Mountain,Southwest,IX,Ninth
+Arkansas,South,West Southern Central,Southeast,VI,Eighth
+California,West,Pacific,Far West,IX,Ninth
+Colorado,West,Mountain,Rocky Mountain,VIII,Tenth
+Connecticut,Northeast,New England,New England,I,Second
+Delaware,South,South Atlantic,Mideast,III,Third
+District of Columbia,South,South Atlantic,Mideast,III,DC
+Florida,South,South Atlantic,Southeast,IV,Eleventh
+Georgia,South,South Atlantic,Southeast,IV,Eleventh
+Hawaii,West,Pacific,Far West,IX,Ninth
+Idaho,West,Mountain,Rocky Mountain,X,Ninth
+Illinois,Midwest,East North Central,Great Lakes,V,Seventh
+Indiana,Midwest,East North Central,Great Lakes,V,Seventh
+Iowa,Midwest,West North Central,Plains,VII,Eighth
+Kansas,Midwest,West North Central,Plains,VII,Tenth
+Kentucky,South,East Southern Central,Southeast,IV,Sixth
+Louisiana,South,West Southern Central,Southeast,VI,Fifth
+Maine,Northeast,New England,New England,I,First
+Maryland,South,South Atlantic,Mideast,III,Fourth
+Massachusetts,Northeast,New England,New England,I,First
+Michigan,Midwest,East North Central,Great Lakes,V,Sixth
+Minnesota,Midwest,West North Central,Plains,V,Eighth
+Mississippi,South,East Southern Central,Southeast,IV,Fifth
+Missouri,Midwest,West North Central,Plains,VII,Eighth
+Montana,West,Mountain,Rocky Mountain,VIII,Ninth
+Nebraska,Midwest,West North Central,Plains,VII,Eighth
+Nevada,West,Mountain,Far West,IX,Ninth
+New Hampshire,Northeast,New England,New England,I,First
+New Jersey,Northeast,Mid-Atlantic,Mideast,II,Third
+New Mexico,West,Mountain,Southeast,VI,Tenth
+New York,Northeast,Mid-Atlantic,Mideast,II,Second
+North Carolina,South,South Atlantic,Southeast,IV,Fourth
+North Dakota,Midwest,West North Central,Plains,VIII,Eighth
+Ohio,Midwest,East North Central,Great Lakes,V,Sixth
+Oklahoma,South,West Southern Central,Southeast,VI,Tenth
+Oregon,West,Pacific,Far West,X,Ninth
+Pennsylvania,Northeast,Mid-Atlantic,Mideast,III,Third
+Rhode Island,Northeast,New England,New England,I,First
+South Carolina,South,South Atlantic,Southeast,IV,Fourth
+South Dakota,Midwest,West North Central,Plains,VIII,Eighth
+Tennessee,South,East Southern Central,Southeast,IV,Sixth
+Texas,South,West Southern Central,Southeast,VI,Fifth
+Utah,West,Mountain,Rocky Mountain,VIII,Tenth
+Vermont,Northeast,New England,New England,I,Second
+Virginia,South,South Atlantic,Southeast,III,Fourth
+Washington,West,Pacific,Far West,X,Ninth
+West Virginia,South,South Atlantic,Southeast,III,Fourth
+Wisconsin,Midwest,East North Central,Great Lakes,V,Seventh
+Wyoming,West,Mountain,Rocky Mountain,VIII,Tenth

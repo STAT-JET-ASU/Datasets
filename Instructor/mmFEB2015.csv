@@ -1,0 +1,51 @@
+state,marriage,mgmethod,mgyear,marijuana,mjtype,mjmethod,mjyear,region
+Alabama,yes,court,2015,no,none,,,south
+Alaska,yes,court,2014,yes,recreational,vote,1988,west
+Arizona,yes,court,2014,yes,medical,vote,2010,west
+Arkansas,no,,,no,none,,,south
+California,yes,court,2008,yes,medical,vote,1996,west
+Colorado,yes,court,2014,yes,recreational,vote,2000,west
+Connecticut,yes,court,2008,yes,medical,legislative,2010,northeast
+Delaware,yes,legislative,2013,yes,medical,legislative,2011,south
+Florida,yes,court,2015,no,none,,,south
+Georgia,no,,,no,none,,,south
+Hawaii,yes,legislative,2013,yes,medical,legislative,2000,west
+Idaho,yes,court,2014,no,none,,,west
+Illinois,yes,legislative,2014,yes,medical,legislative,2013,midwest
+Indiana,yes,court,2014,no,none,,,midwest
+Iowa,yes,court,2009,no,none,,,midwest
+Kansas,yes,court,2014,no,none,,,midwest
+Kentucky,no,,,no,none,,,south
+Louisiana,no,,,no,none,,,south
+Maine,yes,vote,2012,yes,medical,vote,1999,northeast
+Maryland,yes,vote,2013,yes,medical,legislative,2014,south
+Massachusetts,yes,court,2004,yes,medical,vote,2012,northeast
+Michigan,no,,,yes,medical,vote,2008,midwest
+Minnesota,yes,legislative,2013,yes,medical,legislative,2014,midwest
+Mississippi,no,,,no,none,,,south
+Missouri,no,,,no,none,,,midwest
+Montana,yes,court,2014,yes,medical,vote,2004,west
+Nebraska,no,,,no,none,,,midwest
+Nevada,yes,court,2014,yes,medical,vote,2000,west
+New Hampshire,yes,legislative,2010,yes,medical,legislative,2013,northeast
+New Jersey,yes,court,2013,yes,medical,legislative,2010,northeast
+New Mexico,yes,court,2013,yes,medical,legislative,2007,west
+New York,yes,legislative,2011,yes,medical,legislative,2014,northeast
+North Carolina,yes,court,2014,no,none,,,south
+North Dakota,no,,,no,none,,,midwest
+Ohio,no,,,no,none,,,midwest
+Oklahoma,yes,court,2014,no,none,,,south
+Oregon,yes,court,2014,yes,recreational,vote,1998,west
+Pennsylvania,yes,court,2014,no,none,,,northeast
+Rhode Island,yes,legislative,2013,yes,medical,legislative,2006,northeast
+South Carolina,yes,court,2014,no,none,,,south
+South Dakota,no,,,no,none,,,midwest
+Tennessee,no,,,no,none,,,south
+Texas,no,,,no,none,,,south
+Utah,yes,court,2014,no,none,,,west
+Vermont,yes,legislative,2009,yes,medical,legislative,2004,northeast
+Virginia,yes,court,2014,no,none,,,south
+Washington,yes,vote,2012,yes,recreational,vote,1998,west
+West Virginia,yes,court,2014,no,none,,,south
+Wisconsin,yes,court,2014,no,none,,,midwest
+Wyoming,yes,court,2014,no,none,,,west

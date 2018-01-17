@@ -1,0 +1,325 @@
+Gender,Major,Type,EorI,SorN,TorF,JorP,Accuracy,Vacation,Semester
+Female,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,,F14
+Female,Actuarial Science,ENTJ,Extravert,Intuitive,Thinking,Judging,6,,F14
+Female,Actuarial Science,ISFJ,Introvert,Sensing,Feeling,Judging,6,,F14
+Female,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,F14
+Female,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,,F14
+Female,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,7,,F14
+Male,Actuarial Science,ENFJ,Extravert,Intuitive,Feeling,Judging,6,,F14
+Male,Actuarial Science,ENFJ,Extravert,Intuitive,Feeling,Judging,7,,F14
+Male,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,,F14
+Male,Actuarial Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,6,,F14
+Male,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,,F14
+Female,Chemistry,INTJ,Introvert,Intuitive,Thinking,Judging,7,,F14
+Female,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,7,,F14
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,4,,F14
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,,F14
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,,F14
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,7,,F14
+Male,Computer Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,7,,F14
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,,F14
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,,F14
+Male,Computer Science,ESTP,Extravert,Sensing,Thinking,Perceiving,6,,F14
+Male,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,5,,F14
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,,F14
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,F14
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,F14
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,F14
+Male,Computer Science,ISFP,Introvert,Sensing,Feeling,Perceiving,3,,F14
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,5,,F14
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,,F14
+Male,Computer Science,ISTP,Introvert,Sensing,Thinking,Perceiving,6,,F14
+Female,Environmental Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,,F14
+Female,Mathematics,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,,F14
+Female,Mathematics,ESFP,Extravert,Sensing,Feeling,Perceiving,6,,F14
+Female,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,5,,F14
+Female,Mathematics,ISFJ,Introvert,Sensing,Feeling,Judging,3,,F14
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,,F14
+Female,Mathematics,ISTJ,Introvert,Sensing,Thinking,Judging,6,,F14
+Male,Mathematics,ESFJ,Extravert,Sensing,Feeling,Judging,5,,F14
+Male,Mathematics,ESTJ,Extravert,Sensing,Thinking,Judging,5,,F14
+Male,Mathematics,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,,F14
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,4,,F14
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,4,,F14
+Male,Mathematics,ISFP,Introvert,Sensing,Feeling,Perceiving,4,,F14
+Female,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,S15
+Female,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Female,Actuarial Science,ISFP,Introvert,Sensing,Feeling,Perceiving,3,,S15
+Female,Actuarial Science,ISFP,Introvert,Sensing,Feeling,Perceiving,5,,S15
+Male,Actuarial Science,ESFP,Extravert,Sensing,Feeling,Perceiving,5,,S15
+Male,Actuarial Science,ESTP,Extravert,Sensing,Thinking,Perceiving,6,,S15
+Male,Actuarial Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,,S15
+Male,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,1,,S15
+Male,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,S15
+Male,Biology,ENFJ,Extravert,Intuitive,Feeling,Judging,4,,S15
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,4,,S15
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,1,,S15
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,4,,S15
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,,S15
+Male,Computer Science,ESTJ,Extravert,Sensing,Thinking,Judging,3,,S15
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,4,,S15
+Male,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,4,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,,S15
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,S15
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,,S15
+Male,Computer Science,INFP,Introvert,Intuitive,Feeling,Perceiving,5,,S15
+Male,Computer Science,INFP,Introvert,Intuitive,Feeling,Perceiving,6,,S15
+Male,Computer Science,ISFP,Introvert,Sensing,Feeling,Perceiving,2,,S15
+Male,Computer Science,ISFP,Introvert,Sensing,Feeling,Perceiving,4,,S15
+Male,Computer Science,ISFP,Introvert,Sensing,Feeling,Perceiving,5,,S15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,3,,S15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,,S15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,,S15
+Male,Computer Science,ISTP,Introvert,Sensing,Thinking,Perceiving,5,,S15
+Male,Computer Science,ISTP,Introvert,Sensing,Thinking,Perceiving,6,,S15
+Male,Economics,INTJ,Introvert,Intuitive,Thinking,Judging,4,,S15
+Male,Economics,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Female,Environmental Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Environmental Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,,S15
+Male,Environmental Science,ENFJ,Extravert,Intuitive,Feeling,Judging,7,,S15
+Male,Environmental Science,INFJ,Introvert,Intuitive,Feeling,Judging,5,,S15
+Male,Environmental Science,INFP,Introvert,Intuitive,Feeling,Perceiving,6,,S15
+Female,Mathematics,ENFJ,Extravert,Intuitive,Feeling,Judging,6,,S15
+Female,Mathematics,ESFJ,Extravert,Sensing,Feeling,Judging,4,,S15
+Female,Mathematics,ESFJ,Extravert,Sensing,Feeling,Judging,5,,S15
+Female,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,6,,S15
+Female,Mathematics,ESFP,Extravert,Sensing,Feeling,Perceiving,4,,S15
+Female,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,5,,S15
+Female,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,5,,S15
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Female,Mathematics,ISFP,Introvert,Sensing,Feeling,Perceiving,6,,S15
+Male,Mathematics,ENFJ,Extravert,Intuitive,Feeling,Judging,5,,S15
+Male,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,6,,S15
+Male,Mathematics,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,,S15
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,,S15
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,7,,S15
+Male,Mathematics,ISTJ,Introvert,Sensing,Thinking,Judging,4,,S15
+Male,Mathematics,ISTJ,Introvert,Sensing,Thinking,Judging,5,,S15
+Male,Mathematics,INFP,Introvert,Intuitive,Feeling,Perceiving,6,,S15
+Male,Mathematics,INTP,Introvert,Intuitive,Thinking,Perceiving,7,,S15
+Male,Mathematics,ISTP,Introvert,Sensing,Thinking,Perceiving,4,,S15
+Female,Psychology,ISTJ,Introvert,Sensing,Thinking,Judging,6,,S15
+Male,Psychology,ENTJ,Extravert,Intuitive,Thinking,Judging,4,,S15
+Male,Psychology,ENTJ,Extravert,Intuitive,Thinking,Judging,7,,S15
+Male,Psychology,INFJ,Introvert,Intuitive,Feeling,Judging,5,,S15
+Female,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,7,,Sum15
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,2,,Sum15
+Male,Computer Science,ESTJ,Extravert,Sensing,Thinking,Judging,5,,Sum15
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,6,,Sum15
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,,Sum15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,Sum15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,,Sum15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,Sum15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,,Sum15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,,Sum15
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,,Sum15
+Male,Computer Science,ISTP,Introvert,Sensing,Thinking,Perceiving,7,,Sum15
+Female,Environmental Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,,Sum15
+Male,Environmental Science,ENFJ,Extravert,Intuitive,Feeling,Judging,6,,Sum15
+Male,Environmental Science,INTP,Introvert,Intuitive,Thinking,Perceiving,5,,Sum15
+NA,Environmental Science,INFP,Introvert,Intuitive,Feeling,Perceiving,6,,Sum15
+Female,HLES,ENFJ,Extravert,Intuitive,Feeling,Judging,5,,Sum15
+Female,HLES,ENTJ,Extravert,Intuitive,Thinking,Judging,5,,Sum15
+Male,HLES,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,,Sum15
+Female,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,Beach,F15
+Female,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,Beach,F15
+Female,Actuarial Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,Mountains,F15
+Female,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Beach,F15
+Male,Actuarial Science,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,F15
+Male,Actuarial Science,ENTJ,Extravert,Intuitive,Thinking,Judging,3,Mountains,F15
+Male,Actuarial Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,Mountains,F15
+Male,Actuarial Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Beach,F15
+Male,Actuarial Science,ESTP,Extravert,Sensing,Thinking,Perceiving,5,Mountains,F15
+Male,Actuarial Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,Beach,F15
+Male,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,Chemistry,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Mountains,F15
+Female,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Female,Computer Science,INFP,Introvert,Intuitive,Feeling,Perceiving,5,Mountains,F15
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Beach,F15
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,4,Mountains,F15
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,4,Mountains,F15
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,3,Mountains,F15
+Male,Computer Science,ESTJ,Extravert,Sensing,Thinking,Judging,5,Mountains,F15
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Mountains,F15
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,Mountains,F15
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,7,Beach,F15
+Male,Computer Science,ESFP,Extravert,Sensing,Feeling,Perceiving,4,Beach,F15
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,3,Mountains,F15
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,4,Mountains,F15
+Male,Computer Science,ESTP,Extravert,Sensing,Thinking,Perceiving,5,Mountains,F15
+Male,Computer Science,ESTP,Extravert,Sensing,Thinking,Perceiving,5,Mountains,F15
+Male,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,3,Beach,F15
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Beach,F15
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,Mountains,F15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,7,Mountains,F15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,Mountains,F15
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,5,Mountains,F15
+Male,Economics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Beach,F15
+Female,Environmental Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,6,Beach,F15
+Female,Environmental Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,Mountains,F15
+Male,Environmental Science,ENTJ,Extravert,Intuitive,Thinking,Judging,4,Mountains,F15
+Male,Environmental Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Beach,F15
+Male,Environmental Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,Beach,F15
+Female,Mathematics,ENFJ,Extravert,Intuitive,Feeling,Judging,7,Mountains,F15
+Female,Mathematics,ESFJ,Extravert,Sensing,Feeling,Judging,6,Mountains,F15
+Female,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,F15
+Female,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,4,Beach,F15
+Female,Mathematics,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Beach,F15
+Female,Mathematics,ESFP,Extravert,Sensing,Feeling,Perceiving,5,Beach,F15
+Female,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,6,Beach,F15
+Female,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,5,Beach,F15
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,4,Beach,F15
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F15
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Female,Mathematics,INFP,Introvert,Intuitive,Feeling,Perceiving,5,Mountains,F15
+Male,Mathematics,ESFJ,Extravert,Sensing,Feeling,Judging,4,Beach,F15
+Male,Mathematics,ESTJ,Extravert,Sensing,Thinking,Judging,5,Beach,F15
+Male,Mathematics,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,Beach,F15
+Male,Mathematics,INFJ,Introvert,Intuitive,Feeling,Judging,5,Beach,F15
+NA,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F15
+Male,None,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F15
+Male,Physics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F15
+Female,Sociology,INFJ,Introvert,Intuitive,Feeling,Judging,5,Mountains,F15
+Male,Chemistry,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Beach,Sum16
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,Beach,Sum16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,Sum16
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,Mountains,Sum16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,Sum16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,Sum16
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Mountains,Sum16
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,Sum16
+Male,Computer Science,ISTP,Introvert,Sensing,Thinking,Perceiving,4,Mountains,Sum16
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,Mountains,Sum16
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,Beach,Sum16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Beach,Sum16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Beach,Sum16
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,5,Mountains,Sum16
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,3,Mountains,Sum16
+Male,Economics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,Sum16
+Female,Environmental Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,Beach,Sum16
+Male,Environmental Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,Mountains,Sum16
+Male,Environmental Science,ENFJ,Extravert,Intuitive,Feeling,Judging,4,Mountains,Sum16
+Male,Environmental Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,Mountains,Sum16
+Female,Mathematics,ENFP,Extravert,Intuitive,Thinking,Perceiving,5,Mountains,Sum16
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,Sum16
+Male,Political Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,7,Mountains,Sum16
+Male,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Female,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,6,Mountains,F16
+Male,Actuarial Science,ISTJ,Introvert,Sensing,Thinking,Judging,4,Mountains,F16
+Male,Actuarial Science,ENTJ,Extravert,Intuitive,Thinking,Judging,5,Beach,F16
+Female,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,6,Mountains,F16
+Male,Actuarial Science,ESTJ,Extravert,Sensing,Thinking,Judging,5,Beach,F16
+Female,Actuarial Science,ESFJ,Extravert,Sensing,Feeling,Judging,5,Mountains,F16
+Male,Actuarial Science,INTJ,Introvert,Intuitive,Thinking,Judging,4,Beach,F16
+Female,Actuarial Science,ESTJ,Extravert,Sensing,Thinking,Judging,5,Beach,F16
+Female,Actuarial Science,INFJ,Introvert,Intuitive,Feeling,Judging,5,Beach,F16
+Male,Chemistry,ENFJ,Extravert,Intuitive,Feeling,Judging,4,Mountains,F16
+Male,Chemistry,INTP,Introvert,Intuitive,Thinking,Perceiving,5,Beach,F16
+Female,Chemistry,ISTJ,Introvert,Sensing,Thinking,Judging,3,Mountains,F16
+Female,Chemistry,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Chemistry,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Computer Science,INFP,Introvert,Intuitive,Feeling,Perceiving,5,Mountains,F16
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,4,Mountains,F16
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,Mountains,F16
+Female,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F16
+Male,Computer Science,INFP,Introvert,Intuitive,Feeling,Perceiving,5,Mountains,F16
+Male,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,5,Beach,F16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Beach,F16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F16
+Male,Computer Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Beach,F16
+Female,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Beach,F16
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,7,Mountains,F16
+Male,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,5,Mountains,F16
+Female,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F16
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,5,Mountains,F16
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Mountains,F16
+Female,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F16
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,4,Beach,F16
+Male,Computer Science,ESFJ,Extravert,Sensing,Feeling,Judging,3,Beach,F16
+Male,Computer Science,ESTP,Extravert,Sensing,Thinking,Perceiving,4,Mountains,F16
+Male,Computer Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,Mountains,F16
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,7,Mountains,F16
+Male,Computer Science,INTP,Introvert,Intuitive,Thinking,Perceiving,6,Mountains,F16
+Male,Computer Science,ESTJ,Extravert,Sensing,Thinking,Judging,7,Beach,F16
+Male,Computer Science,ISTJ,Introvert,Sensing,Thinking,Judging,5,Mountains,F16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Female,Computer Science,INFJ,Introvert,Intuitive,Feeling,Judging,6,Beach,F16
+Male,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F16
+Male,Computer Science,ENTJ,Extravert,Intuitive,Thinking,Judging,7,Beach,F16
+Male,Computer Science,ISFJ,Introvert,Sensing,Feeling,Judging,7,Beach,F16
+Female,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,5,Beach,F16
+Female,Computer Science,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,Mountains,F16
+Male,Computer Science,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,Mountains,F16
+Male,Environmental Science,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F16
+NA,Environmental Science,ENTP,Extravert,Intuitive,Thinking,Perceiving,5,Mountains,F16
+Male,Environmental Science,ENFJ,Extravert,Intuitive,Feeling,Judging,5,Mountains,F16
+Male,Geography,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F16
+Female,Interdisciplinary Studies,ENFP,Extravert,Intuitive,Feeling,Perceiving,6,Beach,F16
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F16
+Female,Mathematics,ISFJ,Introvert,Sensing,Feeling,Judging,6,Mountains,F16
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Mountains,F16
+Female,Mathematics,ISTP,Introvert,Sensing,Thinking,Perceiving,5,Beach,F16
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,5,Beach,F16
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,7,Mountains,F16
+Male,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,7,Beach,F16
+Female,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Mathematics,INTP,Introvert,Intuitive,Thinking,Perceiving,5,Beach,F16
+Male,Mathematics,INTP,Introvert,Intuitive,Thinking,Perceiving,6,Mountains,F16
+Male,Mathematics,ENTJ,Extravert,Intuitive,Thinking,Judging,5,Mountains,F16
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,Beach,F16
+Female,Mathematics,ISTJ,Introvert,Sensing,Thinking,Judging,4,Mountains,F16
+Female,Mathematics,INTJ,Introvert,Intuitive,Thinking,Judging,6,Mountains,F16
+Male,Physics,ENTJ,Extravert,Intuitive,Thinking,Judging,6,Mountains,F16
+Female,Psychology,INFP,Introvert,Intuitive,Feeling,Perceiving,6,Mountains,F16
