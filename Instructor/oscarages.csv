@@ -1,6 +1,6 @@
 ceremony,decade,category,name,age,title
 1929,1920s-30s,Best Actor,Emil Jannings,44,
-1929,1920s-30s,Best Actress,Laura Gainor,22,
+1929,1920s-30s,Best Actress,Janet Gaynor,22,
 1930,1920s-30s,Best Actor,Warner Baxter,41,In Old Arizona
 1930,1920s-30s,Best Actor,George Arliss,62,Disraeli
 1930,1920s-30s,Best Actress,Mary Pickford,37,Coquette
@@ -337,7 +337,11 @@ ceremony,decade,category,name,age,title
 2016,2010s,Best Actress,Brie Larson,27,Room
 2016,2010s,Supporting Actor,Mark Rylance,56,Bridge of Spies
 2016,2010s,Supporting Actress,Alicia Vikander,27,The Danish Girl
-2017,2010s,Best Actor,Caset Affleck,41,Manchester by the Sea
+2017,2010s,Best Actor,Casey Affleck,41,Manchester by the Sea
 2017,2010s,Best Actress,Emma Stone,28,La La Land
 2017,2010s,Supporting Actor,Mahershala Ali,43,Moonlight
 2017,2010s,Supporting Actress,Viola Davis,51,Fences
+2018,2010s,Best Actor,Gary Oldman,59,Darkest Hour
+2018,2010s,Best Actress,Frances McDormand,60,Three Billboards Outside Ebbing Missouri
+2018,2010s,Supporting Actor,Sam Rockwell,49,Three Billboards Outside Ebbing Missouri
+2018,2010s,Supporting Actress,Allison Janney,58,I Tonya
