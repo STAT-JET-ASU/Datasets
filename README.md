@@ -2,4 +2,4 @@
 
 Data files for varous courses.
 
-Chihara & Hesterberg datasets canbe accessed on the book's companion page https://sites.google.com/site/chiharahesterberg/.
+Datasets for Chihara, L. and Hesterberg, T. (2011). * Statistics with Resampling and R*. Hoboken, NJ: John Wiley & Sons, Inc. were sourced from https://sites.google.com/site/chiharahesterberg/.
