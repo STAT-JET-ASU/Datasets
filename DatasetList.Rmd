@@ -32,7 +32,7 @@ output:
 * [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/vietnamdraft.csv)
 * [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/wcsweatherdays.csv)
 
-## Chihara and Hesterberg {-}
+## Chihara & Hesterberg {-}
 
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
 * [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
