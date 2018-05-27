@@ -1,0 +1,82 @@
+---
+title: "Course Data Files"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+<hr>
+
+## Instructor Files {-}
+
+* [personalitySTT1810.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/personalitySTT1810.csv)
+* [personalitySTT3850.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/personalitySTT3850.csv)
+* [popular.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/popular.csv)
+* [powerballjackpot.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballjackpot.csv)
+* [powerballnumbers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballnumbers.csv)
+* [powerballsets.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballsets.csv)
+* [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/shipsanitation.csv)
+* [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/smallpox.csv)
+* [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/sunspots.csv)
+* [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicCLSE.csv)
+* [titanicCLSU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicCLSU.csv)
+* [titanicSESU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicSESU.csv)
+* [tommypickles1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/tommypickles1.csv)
+* [tommypickles2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/tommypickles2.csv)
+* [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/unemployment.csv)
+* [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/uscounties2013.csv)
+* [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/usregions.csv)
+* [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/vietnamdraft.csv)
+* [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/wcsweatherdays.csv)
+
+## Chihara and Hesterberg {-}
+
+* [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
+* [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
+* [Basketball09.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Basketball09.csv)
+* [Batters2005.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Batters2005.csv)
+* [Beerwings.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Beerwings.csv)
+* [BookPrices.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/BookPrices.csv)
+* [Bushmeat.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bushmeat.csv)
+* [Bushmeat2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bushmeat2.csv)
+* [Cameras.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Cameras.csv)
+* [Cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Cereals.csv)
+* [Challenger.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Challenger.csv)
+* [Cuckoos.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Cuckoos.csv)
+* [Fatalities.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Fatalities.csv)
+* [FishMercury.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/FishMercury.csv)
+* [FlightDelays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/FlightDelays.csv)
+* [GSS2002.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/GSS2002.csv)
+* [GSS2006.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/GSS2006.csv)
+* [Girls2004.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Girls2004.csv)
+* [ILBoys.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/ILBoys.csv)
+* [IceCream.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/IceCream.csv)
+* [Illiteracy.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Illiteracy.csv)
+* [Lottery.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Lottery.csv)
+* [Maunaloa.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Maunaloa.csv)
+* [MnGroundwater.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/MnGroundwater.csv)
+* [NCBirths2004.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/NCBirths2004.csv)
+* [Phillies2009.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Phillies2009.csv)
+* [Pitchers2005.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Pitchers2005.csv)
+* [Quakes.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Quakes.csv)
+* [Reading.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Reading.csv)
+* [Sat2008.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Sat2008.csv)
+* [Service.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Service.csv)
+* [Skating2010.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Skating2010.csv)
+* [Spruce.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Spruce.csv)
+* [Starcraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Starcraft.csv)
+* [TV.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/TV.csv)
+* [TXBirths2004.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/TXBirths2004.csv)
+* [Titanic.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Titanic.csv)
+* [Turbine.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Turbine.csv)
+* [Verizon.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Verizon.csv)
+* [Volleyball2009.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Volleyball2009.csv)
+* [Walleye.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Walleye.csv)
+* [Watertable.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Watertable.csv)
+* [corrExerciseA.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/corrExerciseA.csv)
+* [corrExerciseB.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/corrExerciseB.csv)
+* [manatees.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/manatees.csv)
+* [volleyball2005.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/volleyball2005.csv)
