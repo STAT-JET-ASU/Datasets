@@ -1,5 +1,5 @@
 ---
-title: "Course Data Files"
+title: "Class Data Files"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 
@@ -12,25 +12,25 @@ output:
 
 ## Instructor Files {-}
 
-* [personalitySTT1810.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/personalitySTT1810.csv)
-* [personalitySTT3850.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/personalitySTT3850.csv)
-* [popular.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/popular.csv)
-* [powerballjackpot.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballjackpot.csv)
-* [powerballnumbers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballnumbers.csv)
-* [powerballsets.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/powerballsets.csv)
-* [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/shipsanitation.csv)
-* [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/smallpox.csv)
-* [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/sunspots.csv)
-* [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicCLSE.csv)
-* [titanicCLSU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicCLSU.csv)
-* [titanicSESU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/titanicSESU.csv)
-* [tommypickles1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/tommypickles1.csv)
-* [tommypickles2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/tommypickles2.csv)
-* [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/unemployment.csv)
-* [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/uscounties2013.csv)
-* [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/usregions.csv)
-* [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/vietnamdraft.csv)
-* [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/wcsweatherdays.csv)
+* [personalitySTT1810.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/personalitySTT1810.csv)
+* [personalitySTT3850.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/personalitySTT3850.csv)
+* [popular.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv)
+* [powerballjackpot.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballjackpot.csv)
+* [powerballnumbers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballnumbers.csv)
+* [powerballsets.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballsets.csv)
+* [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/shipsanitation.csv)
+* [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv)
+* [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv)
+* [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSE.csv)
+* [titanicCLSU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSU.csv)
+* [titanicSESU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicSESU.csv)
+* [tommypickles1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/tommypickles1.csv)
+* [tommypickles2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/tommypickles2.csv)
+* [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
+* [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/uscounties2013.csv)
+* [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv)
+* [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
+* [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
 
 ## Chihara & Hesterberg {-}
 
