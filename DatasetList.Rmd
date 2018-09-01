@@ -21,6 +21,7 @@ output:
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
 * [electoralvotes.xlsx](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.xlsx)
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
+* [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
 * [iris.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/iris.csv)
 * [maunaloaCO2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2.csv)
 * [maunaloaCO2annual.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2annual.csv)
