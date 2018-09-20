@@ -4,13 +4,12 @@ author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 
   html_document: 
-    highlight: textmate
     theme: cosmo
 ---
 
 <hr>
 
-## Instructor Files {-}
+## Instructor Files
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv)
@@ -34,7 +33,7 @@ output:
 * [oscarages.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oscarages.csv)
 * [personalitySTT1810.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/personalitySTT1810.csv)
 * [personalitySTT3850.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/personalitySTT3850.csv)
-* [popular.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv)
+* [popular.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv) // [description](InstructorDescriptions/popular.html)
 * [powerballjackpot.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballjackpot.csv)
 * [powerballnumbers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballnumbers.csv)
 * [powerballsets.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballsets.csv)
@@ -52,7 +51,7 @@ output:
 * [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
 * [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
 
-## Chihara & Hesterberg {-}
+## Chihara & Hesterberg
 
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
 * [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
