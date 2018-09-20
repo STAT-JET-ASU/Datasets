@@ -1,0 +1,47 @@
+---
+title: "Vietman Draft Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
+
+
+### Description
+
+In December 1969, the U.S. Selective Service System conducted a lottery to a determine draft order for eligible men in the upcoming year. The 366 days of the year (including February 29) were written on small pieces of paper. Each was placed in a plastic capsule, then the capsules were hand-mixed in a shoebox and dumped in a glass jar. Capsules were pulled out one at a time. The first number chosen was 258 (September 14). Anyone born on that day in 1944 through 1950 was assigned lottery number 1. The first 195 birthdates drawn were later called to serve in the order they were drawn. Some people asserted that the numbers were not randomly distributed through the year, in particular when you compared the first half and second half of the year.
+
+![Representative Alexander Pirnie (R-NY) drawing the first draft number. Image is public domain.](https://stat-jet-asu.github.io/Moodlepics/draftlottery1968.jpg)
+
+
+### Variables
+
+* month: month of the year
+* day: day of the month
+* halfyear: Jan 1 to Jun 30 (first half) or July 1 to Dec 31 (second half)  
+* num1970: draft number for a given day drawn in 1969 for 1970 draft
+* num1971: draft number for a given day, drawn in 1970 for 1971 draft
+* num1972: draft number for a given day, drawn in 1971 for 1972 draft
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+POP <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv")
+glimpse(POP)
+```
+
+
+### References
+
+[Selective Service: The Vietnam Lotteries](https://www.sss.gov/About/History-And-Records/lotter1)
+
+[Live from Washington, It’s Lottery Night 1969!](http://www.historynet.com/live-from-dc-its-lottery-night-1969.htm)

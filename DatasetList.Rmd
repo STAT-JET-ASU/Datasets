@@ -12,12 +12,12 @@ output:
 ## Instructor Files
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
-* [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv)
+* [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) // [description](InstructorDescriptions/anthropometric.html)
 * [balance.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/balance.csv)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
-* [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
+* [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) // [description](InstructorDescriptions/anthropometric.html)
 * [electoralvotes.xlsx](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.xlsx)
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
 * [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
@@ -48,7 +48,7 @@ output:
 * [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
 * [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/uscounties2013.csv)
 * [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv)
-* [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
+* [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv) // [description](InstructorDescriptions/vietnamdraft.html)
 * [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
 
 ## Chihara & Hesterberg

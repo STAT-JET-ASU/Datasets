@@ -47,6 +47,12 @@ Regardless of how they answered the first question, all students were also asked
 * looks_rank: rank of "being handsome or pretty" for popularity (1 = most important, 4 = least important)
 * money_rank: rank of "having lots of money" for popularity (1 = most important, 4 = least important)
 
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+POP <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv")
+glimpse(POP)
+```
+
 
 ### References
 
