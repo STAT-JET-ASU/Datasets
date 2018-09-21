@@ -45,8 +45,8 @@ Anthropometric
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)
-POP <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv")
-glimpse(POP)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv")
+glimpse(DATA)
 ```
 
 Egyptian Skulls

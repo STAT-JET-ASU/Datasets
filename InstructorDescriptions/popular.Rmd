@@ -49,8 +49,8 @@ Regardless of how they answered the first question, all students were also asked
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)
-POP <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv")
-glimpse(POP)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv")
+glimpse(DATA)
 ```
 
 

@@ -1,0 +1,54 @@
+---
+title: "Watauga County Schools Weather Days Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
+
+
+### Description
+
+All K-12 schools in North Carolina schools are required to complete 1,025 hours of instruction or a minimum of 185 student days in a school year. Watauga County Schools starts the school year with calendar that includes 180 student days. However, the system typically has several county-wide closings every year as a result of inclement weather. These days must be made up either during the year (e.g., Saturday school or moving teacher workdays) or by adding days to the end of the year. Even with makeups, the number of days students miss is of concern to many people because they feel canceled days disrupt student learning, especially considering the pressure to perform well on standardized tests and the [NC School Report Cards](https://ncreportcards.ondemand.sas.com/src/?county=Watauga).
+
+
+### Variables
+
+* year: school year
+* fall: fall year of the school year
+* start_date: first day for students
+* end_date: last day for students
+* aug_days: number of days canceled for inclement weather in August
+* sep_days: number of days canceled for inclement weather in September
+* oct_days: number of days canceled for inclement weather in October
+* nov_days: number of days canceled for inclement weather in November
+* dec_days: number of days canceled for inclement weather in December
+* jan_days: number of days canceled for inclement weather in January
+* feb_days: number of days canceled for inclement weather in February
+* mar_days: number of days canceled for inclement weather in March
+* apr_days: number of days canceled for inclement weather in April
+* may_days: number of days canceled for inclement weather in May
+* total_days: number of says canceled for the school year
+* total_snow: total inches of snow during the school year
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+[Bureau of Labor Statistics: Seasonally Adjusted Unemployment Rate](https://data.bls.gov/timeseries/LNS14000000)
+

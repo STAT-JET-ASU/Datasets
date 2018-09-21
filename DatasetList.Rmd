@@ -45,11 +45,11 @@ output:
 * [titanicSESU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicSESU.csv)
 * [tommypickles1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/tommypickles1.csv)
 * [tommypickles2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/tommypickles2.csv)
-* [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
+* [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv) // [description](InstructorDescriptions/unemployment.html)
 * [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/uscounties2013.csv)
 * [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv)
 * [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv) // [description](InstructorDescriptions/vietnamdraft.html)
-* [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
+* [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv) // [description](InstructorDescriptions/wcsweatherdays.html)
 
 ## Chihara & Hesterberg
 
