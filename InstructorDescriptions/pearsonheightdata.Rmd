@@ -1,0 +1,46 @@
+---
+title: "Pearson Height Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [pearsonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/pearsonheightdata.csv)
+
+
+### Description
+
+Karl Pearson studied the relationship between the heights of men and their adult sons, similar to research done by his colleague [Francis Galton](galtonheightdata.html). Pearson’s original data was measured and rounded to the nearest inch. The authors of an introductory statistics tectbook added a small amount of random uniform noise "to render it continuous"---but not large enough to fundamentally change its meaning. 
+
+
+### Variables
+
+* father: father's height in inches
+* son: son's height in inches
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+[Random Services: Pearson's Height Data](http://www.randomservices.org/random/data/Pearson.html)
+
+[Pearson: Heights of Fathers and Sons](http://myweb.uiowa.edu/pbreheny/data/pearson.html)
+
+Pearson, Karl and Lee, Alice. (1903). On the laws of inheritance in man. _Biometrika_, 2, pp. 357-462.
+
+Freedman, David, Pisani, Robert, and Purves Roger. (2007). _Statistics (4th ed.)_. W. W. Norton & Company.
+

@@ -18,6 +18,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <i class="fas fa-database"></i> [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
 
+See also [Galton Height Dataset](galtonheightdata.html) and [Pearson Height Dataset](pearsonheightdata.html)
 
 
 ### Description
@@ -35,7 +36,7 @@ Anthropometric
 
 * gender: self-identified gender
 * ideal: self-chosen ideal height in inches
-* height: measured heigth in inches
+* height: measured height in inches
 * armspan: measured armspan in inches
 * forearm: measured forearm length in inches (elbow crease to middle fingertip)
 * hand: measured hand length in inches (wrist crease to tip of middle finger)
@@ -70,8 +71,6 @@ library(dplyr)
 SKULL <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv")
 glimpse(SKULL)
 ```
-
-
 
 
 ### References
