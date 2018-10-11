@@ -50,5 +50,5 @@ glimpse(DATA)
 
 ### References
 
-[Bureau of Labor Statistics: Seasonally Adjusted Unemployment Rate](https://data.bls.gov/timeseries/LNS14000000)
+[Watauga County Schools Calendar](https://www.wataugaschools.org/domain/886)
 
