@@ -1,0 +1,121 @@
+Movie,Run.Time,Budget,USGross,Genre,Drama
+White Noise,101,30,56094360,Horror,No
+Coach Carter,136,45,67264877,Drama,Yes
+Elektra,100,65,24409722,Action,No
+Racing Stripes,110,30,49772522,Comedy,No
+Assault on Precinct 13,109,30,20040895,Action,No
+Are We There Yet?,94,20,82674398,Comedy,No
+Alone in the Dark,96,20,5178569,Horror,No
+Indigo,105,25,51100486,Drama,Yes
+Boogeyman,88,20,46752382,Horror,No
+The Wedding Date,90,40,31726995,Comedy,No
+Hitch,113,55,177784257,Comedy,No
+Pooh's Heffalump Movie,68,20,18081626,Adventure,No
+Because of Winn-Dixie,106,15,32647042,Comedy,No
+Constantine,122,75,75976178,Action,No
+Son of the Mask,86,100,17018422,Comedy,No
+Cursed,105,35,19294901,Horror,No
+Man of the House,100,50,19699706,Comedy,No
+Be Cool,150,75,55849401,Comedy,No
+The Jacket,103,28.5,6301131,Thriller,No
+The Pacifier,97,56,113006880,Comedy,No
+Hostage,108,75,34636443,Action,No
+Robots,89,80,128200012,Adventure,No
+The Upside of Anger ,117,12,18761993,Drama,Yes
+Ice Princess,99,25,24381334,Comedy,No
+The Ring Two,111,50,75941727,Horror,No
+Miss Congeniality 2: Armed and Fabulous,115,60,48478006,Comedy,No
+Guess Who,103,35,68915888,Comedy,No
+Beauty Shop,105,25,36351350,Comedy,No
+Sin City,126,40,74098862,Action,No
+Fever Pitch,103,40,42071069,Comedy,No
+Kung Fu Hustle ,99,20,17104669,Action,No
+Sahara,123,130,68671925,Adventure,No
+The Amityville Horror,89,18.5,64538396,Horror,No
+The Interpreter,118,90,72708161,Thriller,No
+King's Ransom,98,25,4008527,Comedy,No
+A Lot Like Love,107,25,21835784,Comedy,No
+The Hitchhiker's Guide to the Galaxy,103,45,51019112,Comedy,No
+XXX: State of the Union,100,60,26873932,Action,No
+Crash,107,6.5,54557348,Drama,Yes
+House of Wax,113,35,32064800,Horror,No
+Kingdom of Heaven,144,110,47398413,Adventure,No
+Kicking and Screaming,90,45,52842724,Comedy,No
+Mindhunters,106,27,4476235,Thriller,No
+Monster-in-Law,95,45,82931301,Comedy,No
+Star Wars Episode III: Revenge of the Sith,140,115,380270577,Adventure,No
+The Longest Yard,113,82,158119460,Comedy,No
+Madagascar,86,75,193202933,Adventure,No
+The Sisterhood of the Traveling Pants,145,25,39053061,Drama,Yes
+Cinderella Man,144,88,61649308,Drama,Yes
+Lords of Dogtown,107,25,11273517,Action,No
+Batman Begins,140,150,205343774,Action,No
+The Perfect Man,101,10,16535005,Comedy,No
+Herbie: Fully Loaded,95,50,66010682,Comedy,No
+Bewitched,100,80,63313159,Comedy,No
+Land of the Dead,97,15,20700082,Horror,No
+War of the Worlds,116,132,234280354,Action,No
+Rebound,103,45,16809014,Comedy,No
+Dark Water,105,60,25473093,Thriller,No
+Fantastic Four,123,87.5,154695569,Action,No
+Charlie and the Chocolate Factory,115,150,206459076,Comedy,No
+Wedding Crashers,113,40,209218368,Comedy,No
+Bad News Bears,113,35,32868349,Comedy,No
+Hustle & Flow,115,2.8,22202809,Drama,Yes
+The Island,136,120,35818913,Action,No
+Must Love Dogs,98,35,43894863,Comedy,No
+Sky High,102,60,63939454,Adventure,No
+Stealth,121,138,32116746,Action,No
+Deuce Bigalow: European Gigolo,83,22,22400154,Comedy,No
+Four Brothers,109,30,74494381,Drama,Yes
+The Skeleton Key,104,40,47907715,Horror,No
+The Great Raid,133,20,10166502,Action,No
+The 40-Year-Old Virgin,111,26,109449237,Comedy,No
+Valiant,76,35,19471912,Adventure,No
+The Brothers Grimm,119,80,37899638,Adventure,No
+The Cave,97,30,15007991,Horror,No
+Undiscovered,97,27,74888996,Comedy,No
+The Constant Gardener,129,25.5,33579798,Drama,Yes
+Transporter 2,87,32,43095856,Action,No
+The Exorcism of Emily Rose,114,18,75072454,Horror,No
+The Man,83,20,8330720,Comedy,No
+An Unfinished Life ,108,30,8535575,Drama,Yes
+Corpse Bride ,77,30,53359111,Adventure,No
+Cry Wolf,91,1,10047674,Thriller,No
+Just Like Heaven,95,58,48318130,Comedy,No
+Lord of War,121,42,24149632,Action,No
+Flightplan,93,55,89706988,Action,No
+A History of Violence ,96,32,31493782,Drama,Yes
+Roll Bounce,106,10,17380866,Comedy,No
+Capote ,114,7,28750530,Drama,Yes
+Into the Blue,109,50,18782227,Adventure,No
+Serenity,119,39,25514517,Action,No
+Wallace & Gromit: The Curse of the Were-Rabbit,85,30,56068547,Adventure,No
+Waiting...,93,1.125,16124543,Comedy,No
+Domino,133,50,10169202,Action,No
+Elizabethtown,133,54,26850426,Drama,Yes
+The Fog,101,18,29511112,Horror,No
+Doom,113,70,28212337,Horror,No
+North Country,123,30,18324242,Drama,Yes
+The Weather Man,101,20,12482775,Drama,Yes
+Chicken Little,80,60,135386665,Adventure,No
+Jarhead,115,72,62647540,Drama,Yes
+"Good Night, and Good Luck ",93,7,31501218,Drama,Yes
+Get Rich or Die Tryin',116,40,30981850,Drama,Yes
+Pride and Prejudice ,129,28,38372662,Drama,Yes
+Harry Potter and the Goblet of Fire,157,150,290013036,Drama,Yes
+Walk the Line,81,28,119519402,Drama,Yes
+Syriana ,126,50,50824620,Drama,Yes
+"Yours, Mine and Ours",90,45,53359917,Comedy,No
+The Libertine ,130,22,4835065,Drama,Yes
+Aeon Flux,95,55,25857987,Action,No
+Transamerica ,104,1,9015303,Drama,Yes
+Brokeback Mountain ,134,13.9,83043761,Drama,Yes
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",140,180,291710957,Adventure,No
+Memoirs of a Geisha ,145,85,57010853,Drama,Yes
+King Kong,187,207,52614445,Drama,Yes
+The Family Stone,103,18,60062868,Comedy,No
+Hoodwinked ,80,17.5,51224985,Comedy,No
+Munich ,164,75,47379090,Drama,Yes
+The New World ,135,30,12712093,Adventure,No
+The Matador ,97,1.1,16186348,Thriller,No
