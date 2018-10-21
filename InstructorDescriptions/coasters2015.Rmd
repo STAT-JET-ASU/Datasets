@@ -1,0 +1,47 @@
+---
+title: "Rollercoasters Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [coasters2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv)
+
+
+### Description
+
+The [Roller Coaster Database](https://rcdb.com/) gathers information about every roller coaster in the world, past or present. This dataset contains data for coasters that were new in 2015.
+
+
+### Variables
+
+* Name: coaster name
+* Park: park where the rollercoaster is located
+* Track: steel or wooden coaster
+* Speed: speed in mph
+* Height: maximum height in feet
+* Drop: maximum drop in feet
+* Length: length in feet
+* Duration: ride time in seconds
+* Inversions: do the riders turn upside down at any point?
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/coasters-2015/
+

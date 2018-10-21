@@ -1,0 +1,53 @@
+---
+title: "Cereals Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv)
+
+
+### Description
+
+Students collected nutrition information from the nutrition labels of cereals in one supermarket.
+
+
+### Variables
+
+* name: cereal name
+* mfr: manufacturer
+* calories: number of calories
+* sugars: grams of sugar
+* carbo: grams of carbohydrates
+* protein: grams of protein
+* fat: grams of fat
+* sodium: milligrams of sodium
+* fiber: grams of fiber
+* potass: milligrams of potassium
+* shelf: shelf on which the cereal was displayed
+* Middle: middle shelf?
+* shelf_1: shelf 1 or not
+* shelf_2: shelf 2 or not
+* shelf_3: shelf 3 or not
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/cereals/
+

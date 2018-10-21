@@ -1,0 +1,40 @@
+---
+title: "Homing Pigeons Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [homingpigeons.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv)
+
+
+### Description
+
+An experiment compared the homing abilities of two groups of homing pigeons. Evidence suggests that pigeons use the earth's magnetic field to help them navigate. One randomly selected group of pigeons was exposed to a magnetic pulse perpendicular to the earth's magnetic field while the control group was not. Both were released 106km from their home lofts.
+
+
+### Variables
+
+* group: control or experimental (magnetic pulse) group
+* home: whether the pigeon successfully navigated home
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/diamond-quality/
+
