@@ -1,0 +1,40 @@
+---
+title: "Ginko and Memory Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [ginkomemory.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ginkomemory.csv)
+
+
+### Description
+
+Researchers conducted experiment to test whether ginkgo biloba helps memory in older adults. Participants over 60 years old with good mental and physical health were randomly assigned to take ginkgo biloba supplements or a placebo for six weeks. Their memory was tested both at the beginning (pre) and end (post) to see whether it improved.
+
+
+### Variables
+
+* group: ginko or control group
+* change: change in memory test score (post - pre)
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ginkomemory.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/memory/
+

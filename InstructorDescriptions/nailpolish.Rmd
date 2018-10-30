@@ -1,0 +1,40 @@
+---
+title: "Nail Polish Experiment Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [nailpolish.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nailpolish.csv)
+
+
+### Description
+
+A student preparing for a triathlon suspected that the time she spent training in the pool was damaging her nail polish. She wished to investigate whether the color of the nail polish might make a difference. To investigate this, she mounted acrylic nails on sticks and polished them with two different color nail polishes. She soaked them together in a chlorine solution equivalent to a swimming pool’s chlorination and then tapped them 100 times on a computer keyboard to simulate daily stress. The response is the % of nail chipped off as measured by scanning images of the nails and using an image processing program.
+
+
+### Variables
+
+* Color: nail polish color
+* PctChipped: % of nail chipped off during stress testing
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nailpolish.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/nail-polish/
+

@@ -19,7 +19,7 @@ output:
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) // [description](InstructorDescriptions/cereals.html)
 * [coasters2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv) // [description](InstructorDescriptions/coasters2015.html)
-* [couples.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv)
+* [couples.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv) // [description](InstructorDescriptions/couples.html)
 * [diamondquality.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/diamondquality.csv) // [description](InstructorDescriptions/diamondquality.html)
 * [dietcrackers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv) // [description](InstructorDescriptions/dietcrackers.html)
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) // [description](InstructorDescriptions/anthropometric.html)

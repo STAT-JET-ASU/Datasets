@@ -1,0 +1,40 @@
+---
+title: "Fireplaces and Home Prices Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [fireplaces.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fireplaces.csv)
+
+
+### Description
+
+This dataset includes a sample of homes from real estate listings, including asking price and whether or not the house has a fireplace.
+
+
+### Variables
+
+* Price: asking price of the house
+* Fireplace: dies the house have a fireplace?
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fireplaces.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/fire-sale/
+

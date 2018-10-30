@@ -1,0 +1,44 @@
+---
+title: "2005 Movies Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [movies2005.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/movies2005.csv)
+
+
+### Description
+
+This dataset contains a sample of US movies from 2005.
+
+
+### Variables
+
+* Movie: movie name
+* Run.Time: run time in minutes
+* Budget: budget in millions of US dollars
+* USGross: gross amount earned in dollars
+* Genre: genre of the movie
+* Drama: is the movie a drama?
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/movies2005.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/movie-budgets/
+

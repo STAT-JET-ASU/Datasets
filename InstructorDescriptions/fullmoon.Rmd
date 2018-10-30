@@ -1,0 +1,40 @@
+---
+title: "Full Moon and Crimes Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [fullmoon.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fullmoon.csv)
+
+
+### Description
+
+Some research suggests that more crimes occur on full moon nights than during other phases of the moon. Is it just the number of crimes that is affected, or do the types of crimes committed vary? This dataset contains a sample of crimes in a given jurisdiction. 
+
+
+### Variables
+
+* Offense: type of crime
+* Moon: whether or not the moon was full
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fullmoon.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Source: https://dasl.datadescription.com/datafile/full-moon/
+
