@@ -11,7 +11,10 @@ output:
 
 ## Instructor Files
 
-These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See the descriptions for more information.
+These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See  descriptions for more information. Click on the dataset name to see the CSV file and get its URL.
+
+    # to read into RStudio using a url
+    datasetname <- read.csv("URL HERE")
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) // [description](InstructorDescriptions/anthropometric.html)
@@ -63,9 +66,12 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 
 ## Chihara & Hesterberg 2nd Edition
 
-These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical Statistics with Resampling and R, 2nd Edition_](https://sites.google.com/site/chiharahesterberg/home). New Jersey: John Wiley & Sons. They are available in the `resampledata` package.
+These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical Statistics with Resampling and R, 2nd Edition_](https://sites.google.com/site/chiharahesterberg/home). New Jersey: John Wiley & Sons. They are also available in the `resampledata` package.
 
-    # to load a dataset
+    # to read into RStudio using a url
+    datasetname <- read.csv("URL HERE")
+
+    # to load from resampledata package
     library(resampledata)
     data(FlightDelays)
 
