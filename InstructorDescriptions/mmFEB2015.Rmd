@@ -1,0 +1,51 @@
+---
+title: "Gay Marrriage and Marijuana Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [mmFEB2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mmFEB2015.csv)
+
+
+### Description
+
+These data come from a [2015 Vox article](https://www.vox.com/2014/11/7/7169501/same-sex-marriage-marijuana-legalization-midterm-election-2014) examined the relationship between gay marriage and legal marijuana use in US states. 
+
+
+### Variables
+
+* state: state name
+* marriage: whether gay marriage was legal in Feb 2015
+* mgmethod: method by which gay marriage became legal
+* mgyear: year in which gay marriage was legalized
+* marijuana: whether marijuana use was legal in Feb 2015
+* mjtype: type of legal marijuana use (none if illegal)
+* mjmethod: method by which use marijuana was legalized
+* mjyear: yearn which  marijuana use was legalized
+* region: census region of the state
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mmFEB2015.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+Lopez, G. (2015, February 12). States where you can get high at a same-sex wedding, in one chart. [Blog post]. Retrieved from https://www.vox.com/2014/11/7/7169501/same-sex-marriage-marijuana-legalization-midterm-election-2014
+
+Bump, P. (2014, November 5). This Venn diagram shows where you can both smoke weed and get a same-sex marriage. [Blog post]. Retrieved from https://www.washingtonpost.com/news/the-fix/wp/2014/11/05/this-venn-diagram-shows-where-you-can-both-smoke-weed-and-get-a-same-sex-marriage
+
+
+
