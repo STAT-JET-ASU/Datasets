@@ -28,7 +28,7 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [diamondquality.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/diamondquality.csv) // [description](InstructorDescriptions/diamondquality.html)
 * [dietcrackers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv) // [description](InstructorDescriptions/dietcrackers.html)
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) // [description](InstructorDescriptions/anthropometric.html)
-* [electoralvotes.xlsx](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.xlsx)
+* [electoralvotes.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.csv)
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
 * [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
 * [galtonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv) // [description](InstructorDescriptions/galtonheightdata.html)
