@@ -1,5 +1,5 @@
 ---
-title: "Gay Marrriage and Marijuana Dataset"
+title: "Gay Marriage and Marijuana Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 

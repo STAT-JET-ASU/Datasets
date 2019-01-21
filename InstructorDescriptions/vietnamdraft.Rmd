@@ -28,10 +28,9 @@ In December 1969, the U.S. Selective Service System conducted a lottery to a det
 
 * month: month of the year
 * day: day of the month
+* draftyear: calendar year of call-up/induction
 * halfyear: Jan 1 to Jun 30 (first half) or July 1 to Dec 31 (second half)  
-* num1970: draft number for a given day drawn in 1969 for 1970 draft
-* num1971: draft number for a given day, drawn in 1970 for 1971 draft
-* num1972: draft number for a given day, drawn in 1971 for 1972 draft
+* draftnumber: draft number (order) for each day in a given calendar year
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)

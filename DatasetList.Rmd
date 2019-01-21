@@ -32,6 +32,7 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
 * [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
 * [galtonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv) // [description](InstructorDescriptions/galtonheightdata.html)
+* [happyface.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/happyface.csv)
 * [homingpigeons.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv) // [description](InstructorDescriptions/homingpigeons.html)
 * [iris.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/iris.csv)
 * [maunaloaCO2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2.csv)
