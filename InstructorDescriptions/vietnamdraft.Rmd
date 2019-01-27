@@ -46,3 +46,5 @@ glimpse(DATA)
 [Selective Service: The Vietnam Lotteries](https://www.sss.gov/About/History-And-Records/lotter1)
 
 [Live from Washington, It’s Lottery Night 1969!](http://www.historynet.com/live-from-dc-its-lottery-night-1969.htm)
+
+[Vietnam Draft Lottery Data](http://www.randomservices.org/random/data/Draft.html)
