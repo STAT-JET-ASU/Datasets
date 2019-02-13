@@ -40,9 +40,6 @@ library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv")
 glimpse(DATA)
 head(DATA)
-DATA2 <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv")
-glimpse(DATA2)
-head(DATA2)
 ```
 
 
