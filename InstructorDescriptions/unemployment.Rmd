@@ -32,6 +32,7 @@ The official unemployment rate is the fraction of the labor force that is unempl
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

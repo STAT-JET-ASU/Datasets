@@ -38,6 +38,7 @@ In December 1969, the U.S. Selective Service System conducted a lottery to a det
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

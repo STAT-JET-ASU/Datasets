@@ -31,6 +31,7 @@ Researchers conducted experiment to test whether ginkgo biloba helps memory in o
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ginkomemory.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

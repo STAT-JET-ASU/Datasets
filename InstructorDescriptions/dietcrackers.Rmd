@@ -31,6 +31,7 @@ Overweight women volunteered for a study to determine whether eating specially p
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

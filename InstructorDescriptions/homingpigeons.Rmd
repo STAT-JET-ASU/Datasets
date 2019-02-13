@@ -31,6 +31,7 @@ An experiment compared the homing abilities of two groups of homing pigeons. Evi
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

@@ -37,6 +37,7 @@ Dataset of characteristics for round diamonds.
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/diamondquality.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 

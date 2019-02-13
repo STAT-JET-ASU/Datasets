@@ -16,6 +16,8 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <i class="fas fa-database"></i> [galtonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv)
 
+<i class="fas fa-database"></i> [galtonparentheights.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv)
+
 
 ### Description
 
@@ -37,6 +39,10 @@ The dataset here was [created under the direction of Dr. James A. Hanley](http:/
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv")
 glimpse(DATA)
+head(DATA)
+DATA2 <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv")
+glimpse(DATA2)
+head(DATA2)
 ```
 
 

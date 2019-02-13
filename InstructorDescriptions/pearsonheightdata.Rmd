@@ -31,6 +31,7 @@ Karl Pearson studied the relationship between the heights of men and their adult
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/pearsonheightdata.csv")
 glimpse(DATA)
+head(DATA)
 ```
 
 
