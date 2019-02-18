@@ -1,0 +1,55 @@
+---
+title: "Monopoly Game Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+<hr>
+
+<i class="fas fa-database"></i> [monopolygame.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv)
+
+### Description
+
+Monopoly is a board game in which players roll two six-sided dice to move around the game board. They buy and trade properties, and once they have all street properties of one color (a monopoly) they may develop them with houses and hotels. There are also railroad and utility properties which cannot be developed, but whose rent value increases if a player owns more than one. Players collect "rent"" from their opponents when an opponent lands on one of their properties. The goal is to drive all other players into bankruptcy. Some properties are more expensive to purchase the farther the player moves (clockwise) from Go.
+
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("images/monopoly.jpg", dpi = 100)
+```
+
+### Variables
+
+* name: property name
+* type: property type (street, railroad, utility)
+* color: property color (for streets)
+* spaces: number of spaces from Go
+* cost: purchase price
+* mortgage: amount the players gets for mortgaging the property
+* house_price: how much it costs to add a house to the property
+* rent_0: rental price with no houses or hotel
+* rent_1: rental price with 1 house
+* rent_2: rental price with 2 houses
+* rent_3: rental price with 3 houses
+* rent_4: rental price with 4 houses
+* rent_hotel: rental price with a hotel
+
+```{r, echo=FALSE, message=FALSE}
+library(dplyr)
+DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv")
+glimpse(DATA)
+```
+
+
+### References
+
+[Monopoly Rents (with houses and hotels)](http://www.falstad.com/monopoly.html)
+
+[Monopoly Prices, Rents, and Rules](http://www.math.yorku.ca/~zabrocki/math2042/Monopoly/prices.html)
+

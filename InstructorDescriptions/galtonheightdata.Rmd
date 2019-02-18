@@ -23,7 +23,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 Francis Galton, a cousin of Charles Darwin, studied the relationship between parent heights and the heights of their offspring. From his original article on regression, cited below: "My data consisted of the heights of 930 adult children and of their respective parentages, 205 in number. In every case I transmuted the female statures to their corresponding male equivalents and used them in their transmuted form... The factor I used was 1.08, which is equivalent to adding a little less than one-twelfth to each female height. It differs a very little from the factors employed by other anthropologists..." 
 
-The dataset here was [created under the direction of Dr. James A. Hanley](http://www.medicine.mcgill.ca/epidemiology/hanley/galton/) from Galton's original paper notebooks, though eight families were left out for illustrative purposes. The "female statures" are in their raw (untransmuted) form.
+The `galtonheightdata` dataset was [created under the direction of Dr. James A. Hanley](http://www.medicine.mcgill.ca/epidemiology/hanley/galton/) from Galton's original paper notebooks. Eight families were left out for illustrative purposes. The "female statures" are in their raw (untransmuted) form. The `galtonparentheights` dataset contains just the heights of the parents.
 
 
 ### Variables
