@@ -41,7 +41,7 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [mlb2002.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2002.csv)
 * [mlb2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2013.csv)
 * [mmFEB2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mmFEB2015.csv) // [description](InstructorDescriptions/mmFEB2015.html)
-* [monopolydata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv)
+* [monopolygame.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv) // [description](InstructorDescriptions/monopoly.html)
 * [nccounties20102016.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccounties20102016.csv)
 * [normaltestdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/normaltestdata.csv)
 * [oldfaithful.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oldfaithful.csv)
