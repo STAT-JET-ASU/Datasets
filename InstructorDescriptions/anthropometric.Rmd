@@ -48,7 +48,6 @@ Anthropometric
 library(dplyr)
 DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv")
 glimpse(DATA)
-head(DATA)
 ```
 
 Egyptian Skulls
