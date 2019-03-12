@@ -29,6 +29,7 @@ Belgian scholar [Adolphe Quetelet](http://www-groups.dcs.st-and.ac.uk/history/Bi
 
 Although he was among the first to approach anthropometrics in a systematic manner, Quetelet was certainly not the first person to theorize about human measurements. Roman architect and engineer Vitruvius (approximately 80 BC-15 BC) wrote [Ten Books on Architecture](http://www.gutenberg.org/ebooks/20239) (circa 20 BC), which is one of the most important sources of information on Roman building methods. It also included his thoughts about the proportionality of the human body and how these geometric features relate to divinity and the ideal design of man-made structures. He suggested (among other things) that people are squares: “the length of the outspread arms is equal to the height of a man”. Other statements include “the length of the hand is one-tenth of the height of a man” and “from below the foot to below the knee is a quarter of the height of a man.” Some of these ideas were illustrated by Leonardo da Vinci (1452-1590) in his famous pen-and-ink drawing “[The Vitruvian Man](https://leonardodavinci.stanford.edu/submissions/clabaugh/history/leonardo.html)” (~1490 AD). In 2008, Time magazine published a picture of Olympic medalist Michael helps in a Vitruvian Man pose to illustrate what some call his "[freakish physique](http://gawker.com/5038018/michael-phelps-freakish-physique-explained"), a term that has also applied been to surfer [Owen Wright](https://stabmag.com/style/the-anatomy-of-owen-wright/).
 
+The anthropometric data here were collected from students in Dr. Thomley's STT1810 and STT3850 courses at Appalachian State University.
 
 ### Variables
 
@@ -76,5 +77,3 @@ glimpse(SKULL)
 ### References
 
 Thomson, Arthur and Randall-MacIver, David. (1905). [Ancient Races of the Thebaid](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
-
-Anthropometric data were collected from students in Dr. Thomley's STT1810 and STT3850 courses.
