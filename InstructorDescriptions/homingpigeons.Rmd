@@ -37,5 +37,5 @@ head(DATA)
 
 ### References
 
-Source: https://dasl.datadescription.com/datafile/diamond-quality/
+Source: [Inference for Two Proportions: An Example of a Confidence Interval and a Hypothesis Test](https://youtu.be/OIYkOiQX3fk) (video)
 
