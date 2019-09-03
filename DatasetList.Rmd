@@ -14,7 +14,8 @@ output:
 These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See  descriptions for more information. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
-    datasetname <- read.csv("URL HERE")
+    datasetname <- read.csv("URL HERE") # base code version
+    datasetname <- read_csv("URL HERE") # tidyverse version
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) // [description](InstructorDescriptions/anthropometric.html)
@@ -73,10 +74,11 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
 
     # to read into RStudio using a url
     datasetname <- read.csv("URL HERE")
-
+    datasetname <- read_csv("URL HERE")
+    
     # to load from resampledata package
     library(resampledata)
-    data(FlightDelays)
+    data(datasetnamehere)
 
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
 * [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)

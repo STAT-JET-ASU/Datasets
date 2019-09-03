@@ -16,8 +16,6 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <i class="fas fa-database"></i> [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
 
-<i class="fas fa-database"></i> [vietnamdraft_wide.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft_wide.csv)
-
 
 ### Description
 
