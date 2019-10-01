@@ -1,0 +1,428 @@
+Lego Set #,Lego Set Name,Price,Pieces,Minifigures,Special Minifigures,Min Age,Max Age,Theme,Type,Rating,Exclusive,Hard to Find,Remote
+75821,Piggy Car Escape,12.99,74,2,1,6,12,Angry Birds,Pop Culture,3,0,0,0
+75822,Piggy Plane Attack,19.99,168,2,2,6,12,Angry Birds,Pop Culture,5,0,0,0
+75823,Bird Island Egg Heist,29.99,277,3,3,6,12,Angry Birds,Pop Culture,4,0,0,0
+75824,Pig City Teardown,39.99,386,4,2,7,14,Angry Birds,Pop Culture,4,0,0,0
+75825,Piggy Pirate Ship,59.99,620,4,4,7,14,Angry Birds,Pop Culture,5,0,0,0
+75826,King Pig's Castle,89.99,859,5,5,8,14,Angry Birds,Pop Culture,5,0,0,0
+21006,White House,49.99,561,0,0,12,99,Architecture,Creative,4.6,0,0,0
+21013,Big Ben,29.99,346,0,0,12,99,Architecture,Creative,4.7,0,0,0
+21019,The Eiffel Tower,34.99,321,0,0,12,99,Architecture,Creative,4.7,0,0,0
+21020,Trevi Fountain,49.99,731,0,0,12,99,Architecture,Creative,4.6,0,0,0
+21022,Lincoln Memorial,29.99,274,0,0,12,99,Architecture,Creative,3.9,0,0,0
+21023,Flatiron Building,39.99,471,0,0,12,99,Architecture,Creative,3.9,0,0,0
+21024,Louvre,59.99,695,0,0,12,99,Architecture,Creative,4.6,0,0,0
+21026,Venice,29.99,212,0,0,12,99,Architecture,Creative,4.8,0,0,0
+21027,Berlin,29.99,289,0,0,12,99,Architecture,Creative,4.7,0,0,0
+21028,New York City,59.99,598,0,0,12,99,Architecture,Creative,4.4,0,0,0
+21031,Burj Khalifa,39.99,333,0,0,12,99,Architecture,Creative,4.8,0,0,0
+21050,Studio,159.99,1211,0,0,16,99,Architecture,Creative,4.9,0,0,0
+60044,Mobile Police Unit,44.99,375,3,0,5,12,City,City,4.9,0,0,0
+60047,Police Station,99.99,854,7,0,6,12,City,City,4.7,0,0,0
+60051,High-speed Passenger Train,149.99,610,3,0,6,12,City,City,4.4,0,0,1
+60052,Cargo Train,199.99,888,4,0,6,12,City,City,4.6,0,0,1
+60067,Helicopter Pursuit,39.99,253,3,0,5,12,City,City,4.8,0,0,0
+60069,Swamp Police Station,89.99,707,6,0,6,12,City,City,4.8,0,0,0
+60070,Water Plane Chase,29.99,263,2,0,5,12,City,City,5,0,0,0
+60071,Hovercraft Arrest,44.99,331,3,0,5,12,City,City,4.8,0,0,0
+60072,Demoliton Starter Set,9.99,85,4,0,5,12,City,City,5,0,0,0
+60073,Service Truck,24.99,233,2,0,5,12,City,City,4.6,0,0,0
+60074,Bulldozer,39.99,384,2,0,6,12,City,City,5,0,0,0
+60076,Demolition Site,89.99,776,5,0,6,12,City,City,4,0,0,0
+60077,Space Starter Set,9.99,107,4,0,5,12,City,City,5,0,0,0
+60078,Utility Shuttle,24.99,155,2,0,5,12,City,City,5,0,0,0
+60079,Training Jet Transporter,49.99,448,3,0,5,12,City,City,5,0,0,0
+60080,Spaceport,119.99,586,5,0,6,12,City,City,3.7,0,0,0
+60081,Pickup Tow Truck,19.99,209,2,0,5,12,City,City,4.7,0,0,0
+60084,Racing Bike Transporter,19.99,178,2,0,5,12,City,City,5,0,0,0
+60085,4 X 4 with Powerboat,29.99,301,2,0,5,12,City,City,4.3,0,0,0
+60090,Deep Sea Scuba Scooter,6.99,42,1,0,5,12,City,City,4.7,0,0,0
+60091,Deep Sea Starter Set,9.99,90,3,0,5,12,City,City,5,0,0,0
+60092,Deep Sea Submarine,39.99,274,3,0,6,12,City,City,5,0,0,0
+60093,Deep Sea Helicopter,49.99,388,3,0,7,12,City,City,4.7,0,0,0
+60095,Deep Sea Exploration Vessel,119.99,717,7,0,8,12,City,City,4.8,0,0,0
+60096,Deep Sea Operation Base,99.99,907,5,0,7,12,City,City,5,0,0,0
+60097,City Square,189.99,1683,12,0,6,12,City,City,4.9,0,0,0
+60098,Heavy-Haul Train,199.99,984,5,0,6,12,City,City,5,0,0,1
+60100,Airport Starter Set,9.99,81,4,0,5,12,City,City,,0,0,0
+60101,Airport Cargo Plane,24.99,157,2,0,5,12,City,City,,0,0,0
+60102,Airport VIP Service,49.99,364,4,0,5,12,City,City,,0,0,0
+60103,Airport Air Show,89.99,670,6,0,6,12,City,City,,0,0,0
+60104,Airport Passenger Terminal,99.99,694,6,0,6,12,City,City,,0,0,0
+60105,Fire ATV,6.99,64,1,0,5,12,City,City,,0,0,0
+60106,Fire Starter Set,9.99,90,4,0,5,12,City,City,4,0,0,0
+60107,Fire Ladder Truck,24.99,214,2,0,5,12,City,City,3.5,0,0,0
+60108,Fire Response Unit,39.99,257,3,0,5,12,City,City,4,0,0,0
+60109,Fire Boat,79.99,412,5,0,6,12,City,City,4.5,0,0,0
+60110,Fire Station,99.99,919,6,0,6,12,City,City,5,0,0,0
+60111,Fire Utility Truck,39.99,368,3,0,5,12,City,City,5,0,0,0
+60112,Fire Engine,49.99,376,3,0,5,12,City,City,3.6,0,0,0
+60113,Rally Car,9.99,104,1,0,5,12,City,City,4.8,0,0,0
+60114,Race Boat,9.99,95,1,0,5,12,City,City,5,0,0,0
+60115,4 X 4 Off Roader,19.99,176,2,0,5,12,City,City,4.5,0,0,0
+60116,Ambulance Plane,19.99,183,3,0,5,12,City,City,4.8,0,0,0
+60117,Van & Caravan,19.99,250,2,0,5,12,City,City,4.6,0,0,0
+60118,Garbage Truck,19.99,248,2,0,5,12,City,City,5,0,0,0
+60119,Ferry,29.99,301,2,0,6,12,City,City,3.9,0,0,0
+60120,Volcano Starter Set,9.99,83,4,0,5,12,City,City,,0,0,0
+60121,Volcano Exploration Truck,24.99,175,2,0,5,12,City,City,,0,0,0
+60122,Volcano Crawler,39.99,324,3,0,6,12,City,City,,0,0,0
+60123,Volcano Supply Helicopter,49.99,330,3,0,7,12,City,City,,0,0,0
+60124,Volcano Exploration Base,119.99,824,6,0,8,12,City,City,,0,0,0
+60125,Volcano Heavy-lift Helicopter,149.99,1277,8,0,8,12,City,City,,0,0,0
+60126,Tire Escape,6.99,47,2,0,5,12,City,City,,0,0,0
+60127,Prison Island Starter Set,9.99,92,4,0,5,12,City,City,5,0,0,0
+60128,Police Pursuit,24.99,184,2,0,5,12,City,City,4.1,0,0,0
+60129,Police Patrol Boat,49.99,200,4,0,5,12,City,City,5,0,0,0
+60130,Prison Island,89.99,754,8,0,6,12,City,City,3.8,0,0,0
+60131,Crooks Island,29.99,244,3,0,5,12,City,City,5,0,0,0
+60132,Service Station,89.99,515,4,0,7,12,City,City,,0,0,0
+60134,Fun in the park,39.99,157,14,0,5,12,City,City,,0,0,0
+10218,Pet Shop,149.99,2032,4,0,16,99,Creator,Creative,4.8,1,1,0
+10220,Volkswagen T1 Camper Van,119.99,1334,0,0,16,99,Creator,Creative,4.7,1,1,0
+10232,Palace Cinema,149.99,2194,6,0,16,99,Creator,Creative,4.7,1,1,0
+10234,Sydney Opera House,319.99,2989,0,0,16,99,Creator,Creative,4.8,1,1,0
+10242,MINI Cooper,99.99,1077,0,0,16,99,Creator,Creative,4.7,1,1,0
+10243,Parisian Restaurant,159.99,2469,5,0,16,99,Creator,Creative,4.9,1,1,0
+10244,Fairground Mixer,149.99,1746,12,0,16,99,Creator,Creative,4.8,1,1,0
+10245,Santa's Workshop,69.99,883,6,0,12,99,Creator,Creative,4,1,1,0
+10246,Detective's Office,159.99,2262,6,0,16,99,Creator,Creative,4.5,1,1,0
+10247,Ferris Wheel,199.99,2464,10,0,16,99,Creator,Creative,4.9,1,1,0
+10248,Ferrari F40,99.99,1158,0,0,14,99,Creator,Creative,4.9,1,1,0
+10249,Winter Toy Shop,79.99,898,8,0,12,99,Creator,Creative,3.6,1,1,0
+10251,Brick Bank,169.99,2380,5,0,16,99,Creator,Creative,4.5,1,1,0
+10252,Volkswagen Beetle,99.99,1167,0,0,16,99,Creator,Creative,4.8,1,0,0
+10253,Big Ben,249.99,4163,0,0,16,99,Creator,Creative,4.9,1,1,0
+10254,Winter Holiday Train,99.99,734,5,0,12,99,Creator,Creative,,1,0,0
+31027,Blue Racer,4.99,67,0,0,6,12,Creator,Creative,3.5,0,0,0
+31028,Sea Plane,4.99,53,0,0,6,12,Creator,Creative,4.7,0,0,0
+31029,Cargo Heli,9.99,132,0,0,6,12,Creator,Creative,4.7,0,0,0
+31031,Rainforest Animals,14.99,215,0,0,6,12,Creator,Creative,4.6,0,0,0
+31032,Red Creatures,14.99,221,0,0,7,12,Creator,Creative,4.9,0,0,0
+31033,Vehicle Transporter,24.99,264,0,0,7,12,Creator,Creative,5,0,0,0
+31034,Future Flyers,24.99,237,0,0,7,12,Creator,Creative,5,0,0,0
+31035,Beach Hut,29.99,286,2,0,7,12,Creator,Creative,4.3,0,0,0
+31036,Toy & Grocery Shop,39.99,466,2,0,8,12,Creator,Creative,4,0,0,0
+31037,Adventure Vehicles,24.99,282,0,0,7,12,Creator,Creative,5,0,0,0
+31038,Changing Seasons,49.99,536,2,0,8,12,Creator,Creative,4.8,0,0,0
+31039,Blue Power Jet,69.99,608,0,0,9,14,Creator,Creative,4.5,0,0,0
+31040,Desert Racers,4.99,65,0,0,6,12,Creator,Creative,5,0,0,0
+31041,Construction Vehicles,4.99,64,0,0,6,12,Creator,Creative,5,0,0,0
+31042,Super Soarer,9.99,100,0,0,6,12,Creator,Creative,,0,0,0
+31043,Chopper Transporter,9.99,124,0,0,6,12,Creator,Creative,,0,0,0
+31044,Park Animals,14.99,202,0,0,6,12,Creator,Creative,4.8,0,0,0
+31045,Ocean Explorer,14.99,213,0,0,7,12,Creator,Creative,4.5,0,0,0
+31046,Fast Car,19.99,222,0,0,7,12,Creator,Creative,4.3,0,0,0
+31047,Propeller Plane,19.99,230,0,0,7,12,Creator,Creative,4.7,0,0,0
+31048,Lakeside Lodge,29.99,368,1,0,7,12,Creator,Creative,4.7,0,0,0
+31049,Twin Spin Helicopter,29.99,326,0,0,8,12,Creator,Creative,,0,0,0
+31050,Corner Deli,39.99,467,2,0,8,12,Creator,Creative,4.6,0,0,0
+31051,Lighthouse Point,59.99,528,2,0,8,12,Creator,Creative,5,0,0,0
+31052,Vacation Getaways,69.99,792,2,0,9,14,Creator,Creative,5,0,0,0
+31053,Treehouse Adventures,34.99,387,2,0,7,12,Creator,Creative,,0,0,0
+76025,Green Lantern vs. Sinestro,19.99,174,3,3,6,12,DC Comics,Pop Culture,4.8,0,0,0
+76026,Gorilla Grodd goes Bananas,49.99,347,6,5,6,12,DC Comics,Pop Culture,3.9,0,0,0
+76034,The Batboat Harbor Pursuit,29.99,264,3,3,6,12,DC Comics,Pop Culture,4.5,0,0,0
+76035,Jokerland,119.99,1037,8,8,8,14,DC Comics,Pop Culture,4.9,0,0,0
+76044,Clash of the Heroes,12.99,91,2,2,6,12,DC Comics,Pop Culture,4.5,0,0,0
+76045,Kryptonite Interception,29.99,306,3,1,7,14,DC Comics,Pop Culture,4.5,0,0,0
+76046,Heroes of Justice: Sky High Battle,59.99,517,5,5,8,14,DC Comics,Pop Culture,4.8,0,0,0
+76052,Batman Classic TV Series - Batcave,269.99,2526,9,9,14,99,DC Comics,Pop Culture,4.3,1,1,0
+76053,Batman: Gotham City Cycle Chase,19.99,224,3,3,7,14,DC Comics,Pop Culture,4.7,0,0,0
+76054,Batman: Scarecrow Harvest of Fear,59.99,563,5,4,7,14,DC Comics,Pop Culture,,0,0,0
+76055,Batman: Killer Croc Sewer Smash,79.99,759,5,5,8,14,DC Comics,Pop Culture,,0,0,0
+76056,Batman: Rescue from Ra's al Ghul,29.99,257,4,4,6,12,DC Comics,Pop Culture,,0,0,0
+76061,Mighty Micros: Batman vs. Catwoman,9.99,79,2,2,5,12,DC Comics,Pop Culture,4,0,0,0
+76062,Mighty Micros: Robin vs. Bane,9.99,77,2,2,5,12,DC Comics,Pop Culture,4,0,0,0
+76063,Mighty Micros: The Flash vs. Captain Cold,9.99,88,2,2,5,12,DC Comics,Pop Culture,4.3,0,0,0
+41055,Cinderella's Romantic Castle,69.99,646,2,2,6,12,Disney Princess,Female,5,0,0,0
+41061,Jasmine's Exotic Palace,19.99,143,1,1,5,12,Disney Princess,Female,4.3,0,0,0
+41062,Elsa's Sparkling Ice Castle,39.99,292,3,3,6,12,Disney Princess,Female,4.3,0,0,0
+41063,Ariel's Undersea Palace,54.99,379,2,2,6,12,Disney Princess,Female,5,0,0,0
+41065,Rapunzel's Best Day Ever,19.99,145,1,1,5,12,Disney Princess,Female,,0,0,0
+41066,Anna & Kristoff's Sleigh Adventure,29.99,174,2,2,5,12,Disney Princess,Female,4.2,0,0,0
+41067,Belle's Enchanted Castle,49.99,374,2,2,6,12,Disney Princess,Female,,0,0,0
+41068,Arendelle Castle Celebration,59.99,477,3,3,6,12,Disney Princess,Female,5,0,0,0
+41069,Treasure's Day at the Pool,5.99,70,0,0,5,12,Disney Princess,Female,,0,0,0
+41140,Daisy's Beauty Salon,9.99,98,0,0,5,12,Disney Princess,Female,5,0,0,0
+41141,Pumpkin's Royal Carriage,9.99,79,0,0,5,12,Disney Princess,Female,,0,0,0
+41142,Palace Pets Royal Castle,19.99,186,0,0,5,12,Disney Princess,Female,,0,0,0
+41073,Naida's Epic Adventure Ship,29.99,312,2,2,7,12,Elves,Female,4.8,0,0,0
+41075,The Elves' Treetop Hideway,49.99,505,4,4,8,12,Elves,Female,4.9,0,0,0
+41077,Aira's Pegasus Sleigh,29.99,319,5,5,8,12,Elves,Female,5,0,0,0
+41078,Skyra's Mysterious Sky Castle,79.99,808,5,5,8,12,Elves,Female,4.7,0,0,0
+41171,Emily Jones & the Baby Wind Dragon,9.99,80,2,2,7,12,Elves,Female,4.6,0,0,0
+41172,The Water Dragon Adventure,19.99,212,2,2,7,12,Elves,Female,5,0,0,0
+41173,Elvendale School of Dragons,19.99,230,2,2,7,12,Elves,Female,5,0,0,0
+41174,The Starlight Inn,29.99,343,3,3,7,12,Elves,Female,5,0,0,0
+41175,Fire Dragon's Lava Cave,39.99,447,3,3,8,12,Elves,Female,5,0,0,0
+41176,The Secret Market Place,59.99,691,5,5,8,12,Elves,Female,5,0,0,0
+41177,The Precious Crystal Mine,29.99,273,3,3,7,12,Elves,Female,,0,0,0
+41178,The Dragon Sanctuary,49.99,585,4,4,8,12,Elves,Female,,0,0,0
+41179,Queen Dragon's Rescue,69.99,833,4,4,9,12,Elves,Female,,0,0,0
+41180,Ragana's Magic Shadow Castle,99.99,1014,5,5,8,12,Elves,Female,,0,0,0
+41093,Heartlake Hair Salon,29.99,318,2,2,6,12,Friends,Female,3.9,0,0,0
+41094,Heartlake Lighthouse,39.99,473,2,2,6,12,Friends,Female,3.8,0,0,0
+41095,Emma's House,69.99,706,3,3,7,12,Friends,Female,4.7,0,0,0
+41097,Heartlake Hot Air Balloon,19.99,254,2,2,6,12,Friends,Female,4.8,0,0,0
+41099,Heartlake Skate Park,19.99,199,1,1,6,12,Friends,Female,,0,0,0
+41100,Heartlake Private Jet,29.99,230,2,2,6,12,Friends,Female,4.6,0,0,0
+41101,Heartlake Grand Hotel,129.99,1552,5,5,8,12,Friends,Female,4.8,0,0,0
+41103,Pop Star Recording Studio,14.99,172,1,1,6,12,Friends,Female,5,0,0,0
+41104,Pop Star Dressing Room,29.99,279,2,2,7,12,Friends,Female,4.8,0,0,0
+41105,Pop Star Show Stage,39.99,446,2,2,7,12,Friends,Female,4.3,0,0,0
+41106,Pop Star Tour Bus,59.99,682,3,3,8,12,Friends,Female,4.8,0,0,0
+41107,Pop Star Limo,24.99,265,2,2,6,12,Friends,Female,5,0,0,0
+41108,Heartlake Food Market,39.99,388,2,2,6,12,Friends,Female,5,0,0,0
+41109,Heartlake Airport,89.99,692,3,3,7,12,Friends,Female,4,0,0,0
+41110,Birthday Party,19.99,191,1,1,5,12,Friends,Female,5,0,0,0
+41111,Party Train,9.99,109,1,1,5,12,Friends,Female,4.7,0,0,0
+41114,Party Styling,4.99,54,0,0,5,12,Friends,Female,,0,0,0
+41115,Emma's Creative Workshop,9.99,108,1,1,5,12,Friends,Female,5,0,0,0
+41116,Olivia's Exploration Car,14.99,185,1,1,6,12,Friends,Female,4.5,0,0,0
+41117,Pop Star TV Studio,19.99,194,1,1,6,12,Friends,Female,4.5,0,0,0
+41118,Heartlake Supermarket,29.99,313,2,2,6,12,Friends,Female,5,0,0,0
+41119,Heartlake Cupcake Café,39.99,439,2,2,6,12,Friends,Female,4,0,0,0
+41120,Adventure Camp Archery,9.99,114,1,1,6,12,Friends,Female,,0,0,0
+41121,Adventure Camp Rafting,29.99,320,2,2,6,12,Friends,Female,5,0,0,0
+41122,Adventure Camp Tree House,79.99,726,3,3,7,12,Friends,Female,5,0,0,0
+41123,Foal's Washing Station,9.99,77,2,2,5,12,Friends,Female,,0,0,0
+41124,Heartlake Puppy Daycare,29.99,286,2,2,6,12,Friends,Female,,0,0,0
+41125,Horse Vet Trailer,39.99,370,3,3,6,12,Friends,Female,,0,0,0
+41126,Heartlake Riding Club,59.99,575,4,4,6,12,Friends,Female,,0,0,0
+41127,Amusement Park Arcade,14.99,174,1,1,6,12,Friends,Female,,0,0,0
+41128,Amusement Park Space Ride,19.99,195,1,1,6,12,Friends,Female,,0,0,0
+41129,Amusement Park Hot Dog Van,29.99,243,2,2,6,12,Friends,Female,,0,0,0
+41130,Amusement Park Roller Coaster,99.99,1124,4,0,8,12,Friends,Female,4.3,0,0,0
+41132,Heartlake Party Shop,29.99,176,2,2,6,12,Friends,Female,,0,0,0
+41133,Amusement Park Bumper Cars,39.99,424,2,2,8,12,Friends,Female,,0,0,0
+41134,Heartlake Performance School,79.99,774,3,3,7,12,Friends,Female,,0,0,0
+41135,Livi's Pop Star House,49.99,597,3,3,7,12,Friends,Female,5,0,0,0
+21108,Ghostbusters Ecto-1,49.99,508,4,4,10,99,Ideas,Pop Culture,4.8,0,0,0
+21302,The Big Bang Theory,59.99,484,7,7,12,99,Ideas,Pop Culture,4.5,0,0,0
+21303,Wall-E,59.99,676,0,0,12,99,Ideas,Pop Culture,4.5,0,0,0
+21304,Doctor Who,59.99,625,4,4,10,99,Ideas,Pop Culture,4.9,0,0,0
+21305,Maze,69.99,769,0,0,10,99,Ideas,Creative,4,0,0,0
+10667,Lego Juniors Construction,14.99,160,1,0,4,7,Juniors,Kids,4.7,0,0,0
+10673,Race Car Rally,29.99,350,2,0,4,7,Juniors,Kids,4.8,0,0,0
+10674,Pony Farm,29.99,306,1,0,4,7,Juniors,Kids,4,0,0,0
+10680,Garbage Truck,19.99,99,2,0,4,7,Juniors,Kids,5,0,0,0
+10683,Road Work Truck,19.99,132,2,0,4,7,Juniors,Kids,5,0,0,0
+10684,Supermarket Suitcase,19.99,134,2,0,4,7,Juniors,Kids,5,0,0,0
+10685,Fire Suitcase,19.99,113,2,0,4,7,Juniors,Kids,5,0,0,0
+10686,Family House,29.99,226,3,0,4,7,Juniors,Kids,4,0,0,0
+10687,Spider-Man Hideout,29.99,137,3,2,4,7,Juniors,Kids,5,0,0,0
+10720,Police Helicopter Chase,9.99,63,2,0,4,7,Juniors,Kids,,0,0,0
+10721,Iron Man vs. Loki,12.99,66,2,2,4,7,Juniors,Kids,5,0,0,0
+10722,Snake Showdown,14.99,92,2,2,4,7,Juniors,Kids,,0,0,0
+10723,Ariel's Dophin Carriage,14.99,70,1,1,4,7,Juniors,Kids,,0,0,0
+10724,Batman & Superman vs. Lex Luthor,19.99,164,3,3,4,7,Juniors,Kids,4,0,0,0
+10725,Lost Temple,29.99,172,3,2,4,7,Juniors,Kids,4,0,0,0
+10726,Stephanie's Horse Carriage,12.99,58,1,1,4,7,Juniors,Kids,,0,0,0
+10727,Emma's Ice Cream Truck,19.99,136,2,2,4,7,Juniors,Kids,3,0,0,0
+10728,Mia's Vet Clinic,29.99,173,2,2,4,7,Juniors,Kids,,0,0,0
+10729,Cinderella's Carriage,24.99,116,2,2,4,7,Juniors,Kids,,0,0,0
+75915,Pteranodon Capture,19.99,174,2,2,6,12,Jurassic World,Pop Culture,4.9,0,0,0
+75916,Dilophosaurus Ambush,29.99,248,2,2,6,12,Jurassic World,Pop Culture,4.5,0,0,0
+75917,Raptor Rampage,49.99,324,3,3,6,12,Jurassic World,Pop Culture,4.6,0,0,0
+75918,T. rex Tracker,69.99,520,3,2,7,12,Jurassic World,Pop Culture,4.4,0,0,0
+75919,Indominus rex Breakout,129.99,1156,4,3,7,12,Jurassic World,Pop Culture,3.9,0,0,0
+76029,Iron Man vs. Ultron,12.99,92,4,1,6,12,Marvel Super Heroes,Pop Culture,4.6,0,0,0
+76030,Avengers Hydra Showdown,19.99,220,3,3,6,12,Marvel Super Heroes,Pop Culture,4.4,0,0,0
+76031,The Hulk Buster Smash,29.99,248,4,4,7,14,Marvel Super Heroes,Pop Culture,4.5,0,0,0
+76032,The Avengers Quinjet City Chase,79.99,722,5,5,8,14,Marvel Super Heroes,Pop Culture,4.5,0,0,0
+76036,Carnage's SHIELD Sky Attack,12.99,97,3,2,6,12,Marvel Super Heroes,Pop Culture,4.6,0,0,0
+76037,Rhino and Sandman Super Villain Team-Up,39.99,386,4,4,7,14,Marvel Super Heroes,Pop Culture,3.9,0,0,0
+76038,Attack on Avengers Tower,59.99,515,5,5,7,14,Marvel Super Heroes,Pop Culture,4.6,0,0,0
+76042,The SHIELD Helicarrier,349.99,2996,5,5,16,99,Marvel Super Heroes,Pop Culture,4.7,1,1,0
+76047,Black Panther Pursuit,29.99,287,3,3,7,14,Marvel Super Heroes,Pop Culture,4.8,0,0,0
+76048,Iron Skull Sub Attack,29.99,335,4,3,7,14,Marvel Super Heroes,Pop Culture,5,0,0,0
+76049,Avenjet Space Mission,59.99,523,5,5,7,14,Marvel Super Heroes,Pop Culture,4.8,0,0,0
+76050,Crossbones' Hazard Heist,19.99,179,3,3,6,12,Marvel Super Heroes,Pop Culture,4,0,0,0
+76051,Super Hero Airport Battle,79.99,807,6,6,8,14,Marvel Super Heroes,Pop Culture,4.9,0,0,0
+76057,Spider-Man: Web Warriors Ultimate Bridge Battle,99.99,1092,7,7,8,14,Marvel Super Heroes,Pop Culture,,0,0,0
+76058,Spider-Man: Ghost Rider Team-up,19.99,217,3,3,7,14,Marvel Super Heroes,Pop Culture,,0,0,0
+76059,Spider-Man: Doc Ock's Tentacle Trap,39.99,446,5,5,7,14,Marvel Super Heroes,Pop Culture,,0,0,0
+76060,Doctor Strange's Sanctum Sanctorum,29.99,358,3,3,7,14,Marvel Super Heroes,Pop Culture,5,0,0,0
+76064,Mighty Micros: Spider-Man vs. Green Goblin,9.99,85,2,2,5,12,Marvel Super Heroes,Pop Culture,4,0,0,0
+76065,Mighty Micros: Captain America vs. Red Skull,9.99,95,2,2,5,12,Marvel Super Heroes,Pop Culture,,0,0,0
+76066,Mighty Micros: Hulk vs. Ultron,9.99,80,2,2,5,12,Marvel Super Heroes,Pop Culture,3.8,0,0,0
+76067,Tanker Truck Takedown,29.99,330,4,4,6,12,Marvel Super Heroes,Pop Culture,5,0,0,0
+21113,The Cave,19.99,249,2,1,8,99,Minecraft,Pop Culture,4.8,0,0,0
+21114,The Farm,29.99,262,1,1,8,99,Minecraft,Pop Culture,4.4,0,0,0
+21115,The First Night,39.99,408,3,2,8,99,Minecraft,Pop Culture,4.6,0,0,0
+21116,Crafting Box,49.99,518,1,1,8,99,Minecraft,Pop Culture,4.6,0,0,0
+21117,The Ender Dragon,69.99,634,4,1,8,99,Minecraft,Pop Culture,4.6,0,0,0
+21119,The Dungeon,19.99,219,3,1,8,99,Minecraft,Pop Culture,3.5,0,0,0
+21120,The Snow Hideout,39.99,327,3,3,8,99,Minecraft,Pop Culture,5,0,0,0
+21121,The Desert Outpost,59.99,519,2,2,8,99,Minecraft,Pop Culture,5,0,0,0
+21122,The Nether Fortress,79.99,571,3,3,8,99,Minecraft,Pop Culture,3.4,0,0,0
+21123,The Iron Golem,19.99,208,2,1,8,99,Minecraft,Pop Culture,4.8,0,0,0
+21124,The End Portal,59.99,559,1,1,8,99,Minecraft,Pop Culture,5,0,0,0
+21125,The Jungle Tree House,69.99,706,2,2,8,99,Minecraft,Pop Culture,5,0,0,0
+21126,The Wither,39.99,318,1,1,8,99,Minecraft,Pop Culture,5,0,0,0
+21128,The Village,199.99,1600,4,2,8,99,Minecraft,Pop Culture,4,1,0,0
+70310,Knighton Battle Blaster,9.99,76,2,0,7,14,Nexo Knights,Kids,5,0,0,0
+70311,Chaos Catapult,9.99,93,2,0,7,14,Nexo Knights,Kids,5,0,0,0
+70312,Lance's Mecha Horse,19.99,237,3,2,8,14,Nexo Knights,Kids,4,0,0,0
+70313,Moltor's Lava Smasher,19.99,187,2,2,8,14,Nexo Knights,Kids,4.7,0,0,0
+70314,Beast Master's Choas Chariot,29.99,314,2,2,8,14,Nexo Knights,Kids,4.2,0,0,0
+70315,Clay's Rumble Blade,39.99,367,5,1,8,14,Nexo Knights,Kids,5,0,0,0
+70316,Jestro's Evil Mobile,59.99,658,2,2,8,14,Nexo Knights,Kids,4.8,0,0,0
+70317,The Fortrex,99.99,1140,7,4,9,14,Nexo Knights,Kids,5,0,0,0
+70318,The Glob Lobber,9.99,95,2,0,7,14,Nexo Knights,Kids,,0,0,0
+70319,Macy's Thunder Mace,19.99,202,3,1,8,14,Nexo Knights,Kids,,0,0,0
+70320,Aaron Fox's Aero-Striker V2,29.99,301,3,1,8,14,Nexo Knights,Kids,,0,0,0
+70321,General Magmar's Siege Machine of Doom,49.99,516,3,3,8,14,Nexo Knights,Kids,,0,0,0
+70322,Axl's Tower Carrier,69.99,670,4,1,8,14,Nexo Knights,Kids,,0,0,0
+70323,Jestro's Volcano Lair,119.99,1186,8,6,9,14,Nexo Knights,Kids,,0,0,0
+70324,Merlok's Library 2.0,24.99,288,3,2,8,14,Nexo Knights,Kids,4,0,0,0
+70325,Infernox captures the Queen,24.99,253,2,2,8,14,Nexo Knights,Kids,4,0,0,0
+70326,The Black Knight Mech,39.99,530,4,2,8,14,Nexo Knights,Kids,,0,0,0
+70327,The King's Mech,29.99,375,3,1,8,14,Nexo Knights,Kids,4,0,0,0
+70589,Rock Roader,39.99,406,4,4,8,14,Ninjago,Kids,,0,0,0
+70590,Airjitzu Battle Grounds,59.99,666,5,5,8,14,Ninjago,Kids,,0,0,0
+70592,Salvage M.E.C.,39.99,439,4,4,8,14,Ninjago,Kids,,0,0,0
+70593,The Green NRG Dragon,49.99,567,5,5,8,14,Ninjago,Kids,5,0,0,0
+70594,The Lighthouse Siege,69.99,767,7,7,8,14,Ninjago,Kids,5,0,0,0
+70595,Ultra Stealth Raider,99.99,1093,7,7,9,14,Ninjago,Kids,5,0,0,0
+70596,Samurai X Cave Chaos,119.99,1253,8,8,9,14,Ninjago,Kids,5,0,0,0
+70599,Cole's Dragon,9.99,98,2,2,6,14,Ninjago,Kids,4.2,0,0,0
+70600,Ninja Bike Chase,19.99,231,3,3,7,14,Ninjago,Kids,4.4,0,0,0
+70601,Sky Shark,19.99,221,2,2,7,14,Ninjago,Kids,3.9,0,0,0
+70602,Jay's Elemental Dragon,29.99,350,2,2,7,14,Ninjago,Kids,5,0,0,0
+70603,Raid Zeppelin,29.99,294,3,3,7,14,Ninjago,Kids,3.8,0,0,0
+70604,Tiger Widow Island,49.99,450,4,4,8,14,Ninjago,Kids,4.7,0,0,0
+70605,Misfortune's Keep,79.99,754,6,6,9,14,Ninjago,Kids,5,0,0,0
+70730,Chain Cycle Ambush,29.99,298,3,3,8,14,Ninjago,Kids,4.8,0,0,0
+70731,Jay Walker One,39.99,386,4,4,7,14,Ninjago,Kids,3.8,0,0,0
+70732,City of Stiix,99.99,1069,8,8,8,14,Ninjago,Kids,4.8,0,0,0
+70733,Blaster Bike,19.99,212,2,2,7,14,Ninjago,Kids,4.3,0,0,0
+70734,Master Wu Dragon,39.99,575,5,5,8,14,Ninjago,Kids,5,0,0,0
+70735,Ronin R.E.X.,49.99,547,4,4,8,14,Ninjago,Kids,4.6,0,0,0
+70736,Attack of the Morro Dragon,69.99,658,6,6,8,14,Ninjago,Kids,4.9,0,0,0
+70737,Titan Mech Battle,59.99,754,5,5,8,14,Ninjago,Kids,4.6,0,0,0
+70738,Final Flight of Destiny's Bounty,119.99,1253,9,9,9,14,Ninjago,Kids,5,0,0,0
+70746,Condrai Copter Attack,29.99,311,3,3,7,14,Ninjago,Kids,4.1,0,0,0
+70747,Boulder Blaster,29.99,236,3,3,7,14,Ninjago,Kids,4.9,0,0,0
+70748,Titanium Dragon,39.99,360,3,3,7,14,Ninjago,Kids,4.9,0,0,0
+70749,Enter the Serpent,59.99,529,5,5,7,14,Ninjago,Kids,4.7,0,0,0
+70751,Temple of Airjitzu,199.99,2028,12,12,14,99,Ninjago,Kids,4.8,1,1,0
+70755,Jungle Raider,19.99,188,2,2,7,14,Ninjago,Kids,4.8,0,0,0
+70756,Dojo Showdown,24.99,215,4,4,6,14,Ninjago,Kids,4.3,0,0,0
+71006,The Simpsons House,199.99,2523,6,6,12,99,Other,Pop Culture,4.6,1,1,0
+71016,The Kwik-E-Mart,199.99,2179,6,6,12,99,Other,Pop Culture,4.8,1,1,0
+71040,The Disney Castle,349.99,4080,5,5,16,99,Other,Pop Culture,,0,0,0
+75827,Firehouse Headquarters,349.99,4634,9,9,16,99,Other,Pop Culture,,1,1,0
+75828,Ecto-1 & 2,59.99,556,5,5,8,14,Other,Pop Culture,,1,0,0
+75900,Mummy Museum Mystery,14.99,110,2,2,5,12,Scooby Doo,Pop Culture,4.7,0,0,0
+75901,Mystery Plane Adventures,19.99,128,2,2,5,12,Scooby Doo,Pop Culture,4.5,0,0,0
+75902,The Mystery Machine,29.99,301,3,3,6,12,Scooby Doo,Pop Culture,4.8,0,0,0
+75903,Haunted Lighthouse,49.99,437,4,4,6,12,Scooby Doo,Pop Culture,4.9,0,0,0
+75904,Mystery Mansion,89.99,860,6,6,6,12,Scooby Doo,Pop Culture,4.7,0,0,0
+75870,Chevrolet Corvette Z06,14.99,173,1,0,7,14,Speed Champions,Transportation,5,0,0,0
+75871,Ford Mustang GT,14.99,185,1,0,7,14,Speed Champions,Transportation,4.1,0,0,0
+75872,Audi R18 e-tron quattro,14.99,166,1,0,7,14,Speed Champions,Transportation,5,0,0,0
+75873,Audi R8 LMS ultra,14.99,175,1,0,7,14,Speed Champions,Transportation,4.8,0,0,0
+75874,Chevrolet Camaro Drag Race,29.99,445,3,0,7,14,Speed Champions,Transportation,4.8,0,0,0
+75875,Ford F-150 Raptor & Ford Model A Hot Rod,49.99,664,4,0,8,14,Speed Champions,Transportation,5,0,0,0
+75876,Porsche 919 Hybrid and 917K Pit Lane,69.99,732,5,0,8,14,Speed Champions,Transportation,5,0,0,0
+75899,LaFerrari,14.99,164,1,0,7,14,Speed Champions,Transportation,4.4,0,0,0
+75908,458 Italia GT2,14.99,153,1,0,7,14,Speed Champions,Transportation,4.8,0,0,0
+75909,McLaren P1,14.99,168,1,0,7,14,Speed Champions,Transportation,4.6,0,0,0
+75910,Porsche 918 Spyder,14.99,151,1,0,7,14,Speed Champions,Transportation,4.5,0,0,0
+75911,McLaren Mercedes Pit Stop,29.99,332,3,0,7,14,Speed Champions,Transportation,4.9,0,0,0
+75912,Porsche 911 GT Finish Line,49.99,551,4,0,7,14,Speed Champions,Transportation,4.8,0,0,0
+75913,F14 T & Scuderia Ferrari Truck,99.99,884,6,0,8,14,Speed Champions,Transportation,4.6,0,0,0
+10236,Ewok Village,249.99,1990,17,6,12,99,Star Wars,Star Wars,5,1,1,0
+75059,Sandcrawler,299.99,3296,7,7,14,99,Star Wars,Star Wars,4.6,1,1,0
+75060,Slave I,199.99,1996,4,3,14,99,Star Wars,Star Wars,4.8,1,1,0
+75074,Snowspeeder,9.99,97,1,0,6,12,Star Wars,Star Wars,4.8,0,0,0
+75075,AT-AT,9.99,88,1,0,6,12,Star Wars,Star Wars,4.9,0,0,0
+75078,Imperial Troop Transport,12.99,141,4,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75079,Shadow Troopers,12.99,95,4,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75082,TIE Advanced Prototype,39.99,355,3,0,8,14,Star Wars,Star Wars,4.6,0,0,0
+75085,Hailfire Droid,19.99,163,3,0,7,12,Star Wars,Star Wars,4.3,0,0,0
+75086,Battle Droid Troop Carrier,39.99,565,15,0,8,14,Star Wars,Star Wars,4.4,0,0,0
+75087,Anakin's Custom Jedi Starfighter,39.99,370,3,2,8,14,Star Wars,Star Wars,4.4,0,0,0
+75088,Senate Commando Troopers,12.99,106,4,0,6,12,Star Wars,Star Wars,4.7,0,0,0
+75089,Geonosis Troopers,12.99,105,4,0,6,12,Star Wars,Star Wars,4.1,0,0,0
+75091,Flash Speeder,29.99,312,5,1,7,12,Star Wars,Star Wars,4.1,0,0,0
+75092,Naboo Starfighter,49.99,442,7,3,8,14,Star Wars,Star Wars,4.8,0,0,0
+75093,Death Star Final Duel,79.99,724,5,3,8,14,Star Wars,Star Wars,4.6,0,0,0
+75094,Imperial Shuttle Tydirium,99.99,937,5,3,9,14,Star Wars,Star Wars,4.8,0,0,0
+75095,TIE Fighter,199.99,1685,1,0,14,99,Star Wars,Star Wars,4.6,1,1,0
+75096,Sith Infiltrator,89.99,662,5,5,9,14,Star Wars,Star Wars,3.6,0,0,0
+75098,Assault on Hoth,249.99,2144,14,7,12,99,Star Wars,Star Wars,2.8,1,1,0
+75099,Rey's Speeder,19.99,193,2,1,7,12,Star Wars,Star Wars,4.3,0,0,0
+75100,First Order Snowspeeder,39.99,444,3,0,8,14,Star Wars,Star Wars,4.4,0,0,0
+75101,First Order Special Forces TIE Fighter,69.99,533,4,0,8,14,Star Wars,Star Wars,4.1,0,0,0
+75102,Poe's X-Wing Fighter,79.99,717,4,2,8,14,Star Wars,Star Wars,4.6,0,0,0
+75103,First Order Transporter,89.99,792,7,1,9,14,Star Wars,Star Wars,4.8,0,0,0
+75104,Kylo Ren's Command Shuttle,119.99,1005,6,2,9,14,Star Wars,Star Wars,4.3,0,0,0
+75105,Millennium Falcon,149.99,1329,6,5,9,14,Star Wars,Star Wars,4.6,0,0,0
+75106,Imperial Assault Carrier,129.99,1216,5,3,9,14,Star Wars,Star Wars,4.3,0,0,0
+75107,Jango Fett,19.99,85,0,0,7,12,Star Wars,Star Wars,4,0,0,0
+75108,Clone Commander Cody,19.99,82,0,0,7,12,Star Wars,Star Wars,4.3,0,0,0
+75109,Obi-Wan Kenobi,24.99,83,0,0,7,12,Star Wars,Star Wars,4.4,0,0,0
+75110,Luke Skywalker,19.99,83,0,0,7,12,Star Wars,Star Wars,4,0,0,0
+75111,Darth Vader,29.99,160,0,0,9,14,Star Wars,Star Wars,4.7,0,0,0
+75112,General Grievous,34.99,186,0,0,9,14,Star Wars,Star Wars,5,0,0,0
+75113,Rey,19.99,84,0,0,7,14,Star Wars,Star Wars,4,0,0,0
+75114,First Order Stormtrooper,19.99,81,0,0,7,14,Star Wars,Star Wars,4.9,0,0,0
+75115,Poe Dameron,24.99,102,0,0,7,14,Star Wars,Star Wars,4.7,0,0,0
+75116,Finn,24.99,98,0,0,8,14,Star Wars,Star Wars,5,0,0,0
+75117,Kylo Ren,24.99,86,0,0,8,14,Star Wars,Star Wars,4.6,0,0,0
+75118,Captain Phasma,24.99,82,0,0,7,14,Star Wars,Star Wars,4.2,0,0,0
+75125,Resistance X-Wing Fighter,9.99,87,1,0,6,12,Star Wars,Star Wars,4.3,0,0,0
+75126,First Order Stormtrooper,9.99,91,1,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75127,The Ghost,9.99,104,1,0,6,12,Star Wars,Star Wars,4.6,0,0,0
+75128,TIE Advanced Prototype,9.99,93,1,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75129,Wookiee Gunship,9.99,84,1,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75130,AT-DP,9.99,76,1,0,6,12,Star Wars,Star Wars,,0,0,0
+75131,Resistance Trooper Battle Pack,12.99,112,4,0,6,12,Star Wars,Star Wars,4.6,0,0,0
+75132,First Order Battle Pack,12.99,88,4,0,6,12,Star Wars,Star Wars,3.9,0,0,0
+75133,Rebel Alliance Battle Pack,12.99,101,4,0,6,12,Star Wars,Star Wars,4.5,0,0,0
+75134,Galactic Empire Battle Pack,12.99,109,4,0,6,12,Star Wars,Star Wars,4.4,0,0,0
+75135,Obi-Wan Jedi Interceptor,24.99,215,2,1,7,12,Star Wars,Star Wars,4.3,0,0,0
+75136,Droid Escape Pod,24.99,197,4,4,7,12,Star Wars,Star Wars,4.1,0,0,0
+75137,Carbon-Freezing Chamber,24.99,231,3,3,7,12,Star Wars,Star Wars,4.6,0,0,0
+75138,Hoth Attack,24.99,233,3,1,7,12,Star Wars,Star Wars,4.8,0,0,0
+75139,Battle on Takodana,59.99,409,5,3,8,14,Star Wars,Star Wars,4,0,0,0
+75140,Resistance Troop Transport,69.99,646,4,2,8,14,Star Wars,Star Wars,4.4,0,0,0
+75141,Kanan's Speeder Bike,19.99,234,3,1,7,12,Star Wars,Star Wars,3.8,0,0,0
+75142,Homing Spider Droid,29.99,310,4,1,7,12,Star Wars,Star Wars,4.5,0,0,0
+75145,Eclipse Fighter,29.99,363,2,2,8,12,Star Wars,Star Wars,4.9,0,0,0
+75147,StarScavenger,49.99,558,5,4,8,14,Star Wars,Star Wars,2.8,0,0,0
+75148,Encounter on Jakku,59.99,530,4,4,8,14,Star Wars,Star Wars,3.1,0,0,0
+75149,Resistance X-Wing Fighter,79.99,740,4,3,8,14,Star Wars,Star Wars,4.6,0,0,0
+75150,Vader's TIE Advanced vs. A-Wing Starfighter,89.99,702,4,3,9,14,Star Wars,Star Wars,4,0,0,0
+75151,Clone Turbo Tank,109.99,903,6,3,9,14,Star Wars,Star Wars,4.1,0,0,0
+75157,Captain Rex's AT-TE,119.99,972,5,3,9,14,Star Wars,Star Wars,5,0,0,0
+75158,Rebel Combat Frigate,109.99,936,5,4,9,14,Star Wars,Star Wars,3.9,0,0,0
+42030,Remote-Controlled VOLVO L350F Wheel Loader,249.99,1636,0,0,11,16,Technic,Transportation,4.8,0,1,1
+42031,Cherry Picker,12.99,155,0,0,7,14,Technic,Transportation,4.7,0,0,0
+42032,Compact Tracked Loader,19.99,252,0,0,8,14,Technic,Transportation,4.5,0,0,0
+42033,Record Breaker,19.99,125,0,0,7,14,Technic,Transportation,4.6,0,0,0
+42034,Quad Bike,19.99,148,0,0,7,14,Technic,Transportation,4.8,0,0,0
+42035,Mining Truck,29.99,362,0,0,9,16,Technic,Transportation,4.8,0,0,0
+42036,Street Motorcycle,39.99,375,0,0,9,16,Technic,Transportation,4.9,0,0,0
+42037,Formula Off-Roader,59.99,494,0,0,9,16,Technic,Transportation,4.6,0,0,0
+42038,Arctic Truck,84.99,913,0,0,10,16,Technic,Transportation,4.1,0,0,0
+42039,24 Hours Race Car,129.99,1219,0,0,11,16,Technic,Transportation,4.8,0,0,0
+42040,Fire Plane,49.99,578,0,0,9,16,Technic,Transportation,4.8,0,0,0
+42041,Race Truck,69.99,608,0,0,10,16,Technic,Transportation,4.7,0,0,0
+42042,Crawler Crane,149.99,1401,0,0,10,16,Technic,Transportation,4.8,0,0,0
+42043,Mercedes-Benz Arocs 3245,229.99,2793,0,0,11,16,Technic,Transportation,4.9,0,0,0
+42044,Display Team Jet,12.99,113,0,0,7,14,Technic,Transportation,5,0,0,0
+42045,Hydroplane Racer,19.99,180,0,0,8,14,Technic,Transportation,5,0,0,0
+42046,Getaway Racer,19.99,170,0,0,7,14,Technic,Transportation,5,0,0,0
+42047,Police Interceptor,19.99,185,0,0,7,14,Technic,Transportation,5,0,0,0
+42048,Race Kart,29.99,345,0,0,9,16,Technic,Transportation,4.8,0,0,0
+42049,Mine Loader,49.99,476,0,0,9,16,Technic,Transportation,4,0,0,0
+42050,Drag Racer,79.99,647,0,0,10,16,Technic,Transportation,5,0,0,0
+42052,Heavy Lift Helicopter,139.99,1042,0,0,10,16,Technic,Transportation,4.3,0,0,0
+42053,Volvo EW 160E,119.99,1166,0,0,10,16,Technic,Transportation,5,0,0,0
+42054,CLAAS XERION 5000 TRAC VC,179.99,1977,0,0,11,16,Technic,Transportation,4.5,0,0,0
+42055,Bucket Wheel Excavator,279.99,3929,0,0,12,16,Technic,Transportation,4.8,0,0,0
+42056,Porsche 911 GT3 RS,299.99,2704,0,0,16,99,Technic,Transportation,4.6,1,0,0
