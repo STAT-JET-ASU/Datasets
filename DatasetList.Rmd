@@ -11,11 +11,11 @@ output:
 
 ## Instructor Files
 
-These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See  descriptions for more information. Click on the dataset name to see the CSV file and get its URL.
+These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See  **descriptions** for more information about some datasets. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
     datasetname <- read.csv("URL HERE") # base code version
-    datasetname <- read_csv("URL HERE") # tidyverse version
+    datasetname <- read_csv("URL HERE") # tidyverse version, requires library(readr)
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) // [description](InstructorDescriptions/anthropometric.html)
@@ -31,12 +31,15 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) // [description](InstructorDescriptions/anthropometric.html)
 * [electoralvotes.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.csv)
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
+* [farmpop1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop1.csv)
+* [farmpop2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop2.csv)
+* [florida2000.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/florida2000.csv)
 * [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
 * [galtonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv) // [description](InstructorDescriptions/galtonheightdata.html)
 * [galtonparentheights.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv) // [description](InstructorDescriptions/galtonheightdata.html)
 * [happyface.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/happyface.csv)
 * [homingpigeons.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv) // [description](InstructorDescriptions/homingpigeons.html)
-* [iris.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/iris.csv)
+* [lego816.cvs](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv)
 * [maunaloaCO2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2.csv)
 * [maunaloaCO2annual.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2annual.csv)
 * [mlb2002.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2002.csv)
@@ -74,12 +77,15 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical Statistics with Resampling and R, 2nd Edition_](https://sites.google.com/site/chiharahesterberg/home). New Jersey: John Wiley & Sons. They are also available in the `resampledata` package.
 
     # to read into RStudio using a url
-    datasetname <- read.csv("URL HERE")
-    datasetname <- read_csv("URL HERE")
+    # and then assign it to an object
+    datasetname <- read.csv("URL HERE") # base code version
+    datasetname <- read_csv("URL HERE") # tidyverse version, requires library(readr)
     
-    # to load from resampledata package
+    # to read from resampledata package
+    # and then assign it to an object
     library(resampledata)
-    data(datasetnamehere)
+    datasetname <- datasetnameHERE
+    
 
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
 * [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)

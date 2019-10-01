@@ -179,7 +179,7 @@ summary {
 
 <h1 class="title toc-ignore">Class Data Files</h1>
 <h4 class="author">Instructor: Jill E. Thomley (<a href="mailto:thomleyje@appstate.edu">thomleyje@appstate.edu</a>)</h4>
-<h4 class="date">Updated: Monday, September 16, 2019 @ 07:27:19 PM</h4>
+<h4 class="date">Updated: Tuesday, October 01, 2019 @ 11:41:49 AM</h4>
 
 </div>
 
@@ -187,10 +187,10 @@ summary {
 <hr>
 <div id="instructor-files" class="section level2">
 <h2>Instructor Files</h2>
-<p>These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See descriptions for more information. Click on the dataset name to see the CSV file and get its URL.</p>
+<p>These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See <strong>descriptions</strong> for more information about some datasets. Click on the dataset name to see the CSV file and get its URL.</p>
 <pre><code># to read into RStudio using a url
 datasetname &lt;- read.csv(&quot;URL HERE&quot;) # base code version
-datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version</code></pre>
+datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version, requires library(readr)</code></pre>
 <ul>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv">annualinflation.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv">anthropometric.csv</a> // <a href="InstructorDescriptions/anthropometric.html">description</a></li>
@@ -206,12 +206,15 @@ datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version</code></pre
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv">egyptianskulls.csv</a> // <a href="InstructorDescriptions/anthropometric.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.csv">electoralvotes.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv">executions.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop1.csv">farmpop1.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop2.csv">farmpop2.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/florida2000.csv">florida2000.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv">gasmileage.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv">galtonheightdata.csv</a> // <a href="InstructorDescriptions/galtonheightdata.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv">galtonparentheights.csv</a> // <a href="InstructorDescriptions/galtonheightdata.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/happyface.csv">happyface.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv">homingpigeons.csv</a> // <a href="InstructorDescriptions/homingpigeons.html">description</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/iris.csv">iris.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv">lego816.cvs</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2.csv">maunaloaCO2.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2annual.csv">maunaloaCO2annual.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2002.csv">mlb2002.csv</a></li>
@@ -249,12 +252,14 @@ datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version</code></pre
 <h2>Chihara &amp; Hesterberg 2nd Edition</h2>
 <p>These datafiles come from Chihara, L. and Hesterberg, T. (2018). <a href="https://sites.google.com/site/chiharahesterberg/home"><em>Mathematical Statistics with Resampling and R, 2nd Edition</em></a>. New Jersey: John Wiley &amp; Sons. They are also available in the <code>resampledata</code> package.</p>
 <pre><code># to read into RStudio using a url
-datasetname &lt;- read.csv(&quot;URL HERE&quot;)
-datasetname &lt;- read_csv(&quot;URL HERE&quot;)
+# and then assign it to an object
+datasetname &lt;- read.csv(&quot;URL HERE&quot;) # base code version
+datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version, requires library(readr)
 
-# to load from resampledata package
+# to read from resampledata package
+# and then assign it to an object
 library(resampledata)
-data(datasetnamehere)</code></pre>
+datasetname &lt;- datasetnameHERE</code></pre>
 <ul>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv">Alelager.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv">Bangladesh.csv</a></li>
