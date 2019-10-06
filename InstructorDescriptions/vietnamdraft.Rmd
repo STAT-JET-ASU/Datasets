@@ -40,8 +40,6 @@ In December 1969, the U.S. Selective Service System conducted a lottery to a det
 * draftnumber: draft number (order) for each day in a given calendar year
 
 ```{r}
-library(readr)
-library(dplyr)
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv")
 glimpse(DATA)
 head(DATA)

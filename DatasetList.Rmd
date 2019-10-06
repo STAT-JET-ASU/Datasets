@@ -33,6 +33,7 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
 * [farmpop1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop1.csv)
 * [farmpop2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop2.csv)
+* [fastfood2017.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fastfood2017.csv) // [description](InstructorDescriptions/fastfood2017.html)
 * [florida2000.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/florida2000.csv)
 * [gasmileage.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/gasmileage.csv)
 * [galtonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonheightdata.csv) // [description](InstructorDescriptions/galtonheightdata.html)
