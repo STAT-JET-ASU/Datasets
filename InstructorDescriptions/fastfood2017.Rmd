@@ -32,12 +32,12 @@ Data were collected in January 2017 from online nutritional information provided
 * restaurant: name of the fast food restaurant
 * item: name of the food item
 * type: type of food item (e.g., burger, chicken nuggets)
-* calories: total calories
 * servingsize: total serving size (g)
+* calories: total calories
 * totalfat: total fat (g)
 * saturatedfat: total saturated fat (g)
 * transfat: total trans fat (g)
-* sodium: total sodium (g)
+* sodium: total sodium (mg)
 * carbs: total carbs (g)
 * sugars: total sodium (g)
 * protein: total protein (g)
