@@ -19,10 +19,12 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [fastfood2017.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fastfood2017.csv)
 
+<i class="fas fa-database"></i> [cookoutburgers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cookoutburgers.csv)
+
 
 ### Description
 
-Data were collected in January 2017 from online nutritional information provided by fast food restaurant chains. Food items from each restaurant include various burgers, a breaded chicken sandwich, a grilled chicken sandwich, chicken nuggets, french fries, and a chocolate milkshake, when possible. The "various burgers" selected were the smallest hamburger, the smallest cheeseburger, and some of the restaurant's most well known larger burgers (e.g., Big Mac, Whopper).
+Data were collected in January 2017 from online nutritional information provided by fast food restaurant chains. Food items from each restaurant include various burgers, a breaded chicken sandwich, a grilled chicken sandwich, chicken nuggets, french fries, and a chocolate milkshake, when possible. The "various burgers" selected were the smallest hamburger, the smallest cheeseburger, and some of the restaurant's most well known larger burgers (e.g., Big Mac, Whopper). The Cookout data was sourced from https://www.fastfoodmenuprices.com/cookout-nutrition/.
 
 
 ### Variables
@@ -43,6 +45,20 @@ Data were collected in January 2017 from online nutritional information provided
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fastfood2017.csv")
 glimpse(DATA)
+head(DATA)
+```
+
+
+### Variables
+
+* burger: name of the burger
+* calories: total calories
+* fat: total fat (g)
+* carbs: total carbs (g)
+* protein: total protein (g)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cookoutburgers.csv")
 head(DATA)
 ```
 
