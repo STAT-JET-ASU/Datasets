@@ -1,850 +1,850 @@
 last,first,salary,league,region,team,position
-Belle,Albert,12368790,AL,East,Baltimore Orioles,O
-Segui,David,6762895,AL,East,Baltimore Orioles,B1
-Erickson,Scott,5142986,AL,East,Baltimore Orioles,P
-Batista,Tony,4900000,AL,East,Baltimore Orioles,B3
-Bordick,Mike,4873439,AL,East,Baltimore Orioles,SS
-Hentgen,Pat,4246877,AL,East,Baltimore Orioles,P
-Conine,Jeff,3500000,AL,East,Baltimore Orioles,O
-Ponson,Sidney,2650000,AL,East,Baltimore Orioles,P
-Cordova,Marty,2500000,AL,East,Baltimore Orioles,O
-Fordyce,Brook,2500000,AL,East,Baltimore Orioles,C
-Groom,Buddy,2500000,AL,East,Baltimore Orioles,P
-Johnson,Jason,1800000,AL,East,Baltimore Orioles,P
-Singleton,Chris,1400000,AL,East,Baltimore Orioles,O
-Brock,Chris,1000000,AL,East,Baltimore Orioles,P
-Mora,Melvin,350000,AL,East,Baltimore Orioles,O
-Hairston,Jerry,300000,AL,East,Baltimore Orioles,B2
-Richard,Chris,300000,AL,East,Baltimore Orioles,O
-Ryan,BJ,300000,AL,East,Baltimore Orioles,P
-Maduro,Calvin,270000,AL,East,Baltimore Orioles,P
-Roberts,Willis,260000,AL,East,Baltimore Orioles,P
-Towers,Josh,245000,AL,East,Baltimore Orioles,P
-Gibbons,Jay,232500,AL,East,Baltimore Orioles,O
-Matos,Luis,230000,AL,East,Baltimore Orioles,O
-Lunar,Fernando,225000,AL,East,Baltimore Orioles,C
-Julio,Jorge,216000,AL,East,Baltimore Orioles,P
-Parrish,John,215000,AL,East,Baltimore Orioles,P
-Rivera,Luis,205000,AL,East,Baltimore Orioles,P
-Bauer,Rich,200000,AL,East,Baltimore Orioles,P
-Garcia,Luis,200000,AL,East,Baltimore Orioles,SS
-Gil,Geronimo,200000,AL,East,Baltimore Orioles,C
-Lopez,Rodrigo,200000,AL,East,Baltimore Orioles,P
-Moriarty,Mike,200000,AL,East,Baltimore Orioles,B2
-Ramirez,Manny,15462727,AL,East,Boston Red Sox,O
-Martinez,Pedro,14000000,AL,East,Boston Red Sox,P
-Garciaparra,Nomar,9000000,AL,East,Boston Red Sox,SS
-Damon,Johnny,7250000,AL,East,Boston Red Sox,O
-Oliver,Darren,7000000,AL,East,Boston Red Sox,P
-Offerman,Jose,6750000,AL,East,Boston Red Sox,B1
-Urbina,Ugueth,6700000,AL,East,Boston Red Sox,P
-Hermanson,Dustin,5833333,AL,East,Boston Red Sox,P
-Burkett,John,5500000,AL,East,Boston Red Sox,P
-Clark,Tony,5000000,AL,East,Boston Red Sox,B1
-Varitek,Jason,3500000,AL,East,Boston Red Sox,C
-Wakefield,Tim,3200000,AL,East,Boston Red Sox,P
-Lowe,Derek,3125000,AL,East,Boston Red Sox,P
-Nixon,Trot,2700000,AL,East,Boston Red Sox,O
-Daubach,Brian,2325000,AL,East,Boston Red Sox,O
-Castillo,Frank,2250000,AL,East,Boston Red Sox,P
-Garces,Rich,2200000,AL,East,Boston Red Sox,P
-Arrojo,Rolando,1900000,AL,East,Boston Red Sox,P
-Baerga,Carlos,700000,AL,East,Boston Red Sox,B2
-Sanchez,Rey,700000,AL,East,Boston Red Sox,SS
-Mirabelli,Doug,650000,AL,East,Boston Red Sox,C
-Banks,Willie,450000,AL,East,Boston Red Sox,P
-Wallace,Jeff,400000,AL,East,Boston Red Sox,P
-Henderson,Rickey,350000,AL,East,Boston Red Sox,O
-Merloni,Lou,290000,AL,East,Boston Red Sox,B2
-Hillenbrand,Shea,260000,AL,East,Boston Red Sox,B3
-Coleman,Michael,250000,AL,East,Boston Red Sox,O
-Fossum,Casey,215000,AL,East,Boston Red Sox,P
-Crawford,Paxton,205000,AL,East,Boston Red Sox,P
-Pickering,Calvin,200000,AL,East,Boston Red Sox,B1
-Jeter,Derek,14600000,AL,East,New York Yankees,SS
-Williams,Bernie,12357143,AL,East,New York Yankees,O
-Mussina,Mike,11000000,AL,East,New York Yankees,P
-Giambi,Jason,10428571,AL,East,New York Yankees,B1
-Clemens,Roger,10300000,AL,East,New York Yankees,P
-Pettitte,Andy,9500000,AL,East,New York Yankees,P
-Rivera,Mariano,9450000,AL,East,New York Yankees,P
-Ventura,Robin,8500000,AL,East,New York Yankees,B1
-Posada,Jorge,7000000,AL,East,New York Yankees,C
-Hitchcock,Sterling,4936719,AL,East,New York Yankees,P
-White,Rondell,4500000,AL,East,New York Yankees,O
-Karsay,Steve,4000000,AL,East,New York Yankees,P
-Hernandez,Orlando,3200000,AL,East,New York Yankees,P
-Mendoza,Ramiro,2600000,AL,East,New York Yankees,P
-Stanton,Mike,2500000,AL,East,New York Yankees,P
-Wells,David,2250000,AL,East,New York Yankees,P
-Williams,Gerald,2000000,AL,East,New York Yankees,O
-Vander Wal,John,1850000,AL,East,New York Yankees,O
-Spencer,Shane,885000,AL,East,New York Yankees,O
-Coomer,Ron,750000,AL,East,New York Yankees,B1
-Wilson,Enrique,720000,AL,East,New York Yankees,B3
-Castillo,Alberto,650000,AL,East,New York Yankees,C
-Soriano,Alfonso,630000,AL,East,New York Yankees,B2
-Lilly,Ted,237150,AL,East,New York Yankees,P
-Choate,Randy,223350,AL,East,New York Yankees,P
-Johnson,Nick,220650,AL,East,New York Yankees,B1
-Parker,Christian,218600,AL,East,New York Yankees,P
-Keisler,Randy,211400,AL,East,New York Yankees,P
-Tessmer,Jay,210000,AL,East,New York Yankees,P
-Vaughn,Greg,8750000,AL,East,Tampa Bay Devil Rays,O
-Alvarez,Wilson,8000000,AL,East,Tampa Bay Devil Rays,P
-Grieve,Ben,4000000,AL,East,Tampa Bay Devil Rays,O
-Flaherty,John,3250000,AL,East,Tampa Bay Devil Rays,C
-Yan,Esteban,1500000,AL,East,Tampa Bay Devil Rays,P
-Wilson,Paul,1200000,AL,East,Tampa Bay Devil Rays,P
-Gomez,Chris,1000000,AL,East,Tampa Bay Devil Rays,B2
-Winn,Randy,960000,AL,East,Tampa Bay Devil Rays,O
-Creek,Doug,685000,AL,East,Tampa Bay Devil Rays,P
-Johnson,Russ,575000,AL,East,Tampa Bay Devil Rays,B3
-Rupe,Ryan,575000,AL,East,Tampa Bay Devil Rays,P
-McGlinchy,Kevin,300000,AL,East,Tampa Bay Devil Rays,P
-Sturtze,Tanyon,295000,AL,East,Tampa Bay Devil Rays,P
-Cox,Steve,280000,AL,East,Tampa Bay Devil Rays,B1
-Smith,Bobby,255000,AL,East,Tampa Bay Devil Rays,B3
-Tyner,Jason,250000,AL,East,Tampa Bay Devil Rays,O
-Kennedy,Joe,225000,AL,East,Tampa Bay Devil Rays,P
-Phelps,Travis,218000,AL,East,Tampa Bay Devil Rays,P
-Abernathy,Brent,215000,AL,East,Tampa Bay Devil Rays,B2
-Colome,Jesus,215000,AL,East,Tampa Bay Devil Rays,P
-Zambrano,Victor,215000,AL,East,Tampa Bay Devil Rays,P
-Hall,Toby,210000,AL,East,Tampa Bay Devil Rays,C
-Conti,Jason,205000,AL,East,Tampa Bay Devil Rays,O
-Seay,Bobby,202000,AL,East,Tampa Bay Devil Rays,P
-Escalona,Felix,200000,AL,East,Tampa Bay Devil Rays,SS
-Kent,Steve,200000,AL,East,Tampa Bay Devil Rays,P
-Smith,Jason,200000,AL,East,Tampa Bay Devil Rays,B3
-Sosa,Jorge,200000,AL,East,Tampa Bay Devil Rays,P
-Delgado,Carlos,19400000,AL,East,Toronto Blue Jays,B1
-Mondesi,Raul,11000000,AL,East,Toronto Blue Jays,O
-Loaiza,Esteban,6050000,AL,East,Toronto Blue Jays,P
-Stewart,Shannon,4250000,AL,East,Toronto Blue Jays,O
-Cruz,Jose,3950000,AL,East,Toronto Blue Jays,O
-Fletcher,Darrin,3825000,AL,East,Toronto Blue Jays,C
-Sirotka,Mike,3800000,AL,East,Toronto Blue Jays,P
-Parris,Steve,3775000,AL,East,Toronto Blue Jays,P
-Carpenter,Chris,3450000,AL,East,Toronto Blue Jays,P
-Bush,Homer,3375000,AL,East,Toronto Blue Jays,B2
-Halladay,Roy,2583333,AL,East,Toronto Blue Jays,P
-Escobar,Kelvim,2300000,AL,East,Toronto Blue Jays,P
-Plesac,Dan,2200000,AL,East,Toronto Blue Jays,P
-Heredia,Felix,1850000,AL,East,Toronto Blue Jays,P
-Borbon,Pedro,1650000,AL,East,Toronto Blue Jays,P
-Berg,Dave,450000,AL,East,Toronto Blue Jays,SS
-Eyre,Scott,280000,AL,East,Toronto Blue Jays,P
-Prokopec,Luke,268000,AL,East,Toronto Blue Jays,P
-File,Bob,245000,AL,East,Toronto Blue Jays,P
-Lesher,Brian,245000,AL,East,Toronto Blue Jays,B1
-Woodward,Chris,235000,AL,East,Toronto Blue Jays,SS
-Lopez,Felipe,221000,AL,East,Toronto Blue Jays,SS
-Lyon,Brandon,221000,AL,East,Toronto Blue Jays,P
-Wells,Vernon,221000,AL,East,Toronto Blue Jays,O
-Wilson,Thomas,220000,AL,East,Toronto Blue Jays,C
-Cassidy,Scott,200000,AL,East,Toronto Blue Jays,P
-Hinske,Eric,200000,AL,East,Toronto Blue Jays,B3
-Lawrence,Joe,200000,AL,East,Toronto Blue Jays,B3
-Thurman,Corey,200000,AL,East,Toronto Blue Jays,P
-Thomas,Frank,9927000,AL,Central,Chicago White Sox,DH
-Ordonez,Magglio,6500000,AL,Central,Chicago White Sox,O
-Durham,Ray,6300000,AL,Central,Chicago White Sox,B2
-Valentin,Jose,5000000,AL,Central,Chicago White Sox,SS
-Clayton,Royce,4500000,AL,Central,Chicago White Sox,SS
-Foulke,Keith,4000000,AL,Central,Chicago White Sox,P
-Konerko,Paul,3800000,AL,Central,Chicago White Sox,B1
-Ritchie,Todd,3533333,AL,Central,Chicago White Sox,P
-Lee,Carlos,2700000,AL,Central,Chicago White Sox,O
-Alomar,Sandy,2500000,AL,Central,Chicago White Sox,C
-Osuna,Antonio,2200000,AL,Central,Chicago White Sox,P
-Howry,Tony,1200000,AL,Central,Chicago White Sox,P
-Lofton,Kenny,1025000,AL,Central,Chicago White Sox,O
-Graffanino,Tony,575000,AL,Central,Chicago White Sox,B3
-Johnson,Mark,320000,AL,Central,Chicago White Sox,B1
-Buehrle,Mark,310000,AL,Central,Chicago White Sox,P
-Liefer,Jeffrey,285000,AL,Central,Chicago White Sox,B3
-Wunsch,Kelly,285000,AL,Central,Chicago White Sox,P
-Garland,Jon,275000,AL,Central,Chicago White Sox,P
-Biddle,Lee,250000,AL,Central,Chicago White Sox,P
-Barcelo,Lorenzo,240000,AL,Central,Chicago White Sox,P
-Glover,Gary,240000,AL,Central,Chicago White Sox,P
-Marte,Damaso,227500,AL,Central,Chicago White Sox,P
-Rowand,Aaron,225000,AL,Central,Chicago White Sox,O
-Wright,Danny,220000,AL,Central,Chicago White Sox,P
-Porzio,Mike,215000,AL,Central,Chicago White Sox,P
-Rauch,Jon,200000,AL,Central,Chicago White Sox,P
-Thorne,Jim,8000000,AL,Central,Cleveland Indians,B1
-Finley,Chuck,7911948,AL,Central,Cleveland Indians,P
-Burks,Ellis,6666667,AL,Central,Cleveland Indians,DH
-Nagy,Charles,6000000,AL,Central,Cleveland Indians,P
-Fryman,Travis,5825000,AL,Central,Cleveland Indians,B3
-Lawton,Matt,5250000,AL,Central,Cleveland Indians,O
-Colon,Bartolo,4925000,AL,Central,Cleveland Indians,P
-Vizquel,Omar,4500000,AL,Central,Cleveland Indians,SS
-Wright,Jaret,4312500,AL,Central,Cleveland Indians,P
-Cordero,Will,4166667,AL,Central,Cleveland Indians,O
-Baez,Danys,4125000,AL,Central,Cleveland Indians,P
-Wickman,Bob,3400000,AL,Central,Cleveland Indians,P
-Shuey,Paul,3250000,AL,Central,Cleveland Indians,P
-Gutierrez,Ricky,2166667,AL,Central,Cleveland Indians,B2
-Taubensee,Eddie,1800000,AL,Central,Cleveland Indians,C
-Rincon,Ricardo,1500000,AL,Central,Cleveland Indians,P
-Diaz,Einar,1087500,AL,Central,Cleveland Indians,C
-Sabathia,CC,700000,AL,Central,Cleveland Indians,P
-Wohlers,Mark,600000,AL,Central,Cleveland Indians,P
-Perez,Eddie,500000,AL,Central,Cleveland Indians,C
-Cabrera,Jolbert,266000,AL,Central,Cleveland Indians,B2
-Branyan,Russell,251000,AL,Central,Cleveland Indians,B3
-Riske,David,227500,AL,Central,Cleveland Indians,P
-Bradley,Milton,221000,AL,Central,Cleveland Indians,O
-Riggan,Jerrod,218000,AL,Central,Cleveland Indians,P
-Westbrook,Jake,217000,AL,Central,Cleveland Indians,P
-McDonald,John,210000,AL,Central,Cleveland Indians,SS
-Drese,Ryan,206500,AL,Central,Cleveland Indians,P
-Escobar,Alex,205500,AL,Central,Cleveland Indians,O
-Anderson,Brady,200000,AL,Central,Cleveland Indians,O
-Palmer,Dean,8000000,AL,Central,Detroit Tigers,B3
-Lima,Jose,7250000,AL,Central,Detroit Tigers,P
-Easley,Damion,6250000,AL,Central,Detroit Tigers,B3
-Higginson,Bobby,5850000,AL,Central,Detroit Tigers,O
-Young,Dmitri,5500000,AL,Central,Detroit Tigers,O
-Sparks,Steve,3000000,AL,Central,Detroit Tigers,P
-Moehler,Brian,2400000,AL,Central,Detroit Tigers,P
-Weaver,Jeff,2350000,AL,Central,Detroit Tigers,P
-Paquette,Craig,2125000,AL,Central,Detroit Tigers,B3
-Anderson,Matt,1800000,AL,Central,Detroit Tigers,P
-Patterson,Danny,1700000,AL,Central,Detroit Tigers,P
-Halter,Shane,1500000,AL,Central,Detroit Tigers,SS
-Paniagua,Jose,1325000,AL,Central,Detroit Tigers,P
-Fick,Robert,1150000,AL,Central,Detroit Tigers,B1
-Acevedo,Juan,850000,AL,Central,Detroit Tigers,P
-Jackson,Damian,625000,AL,Central,Detroit Tigers,B2
-Magree,Wendell,425000,AL,Central,Detroit Tigers,O
-Cruz,Jacob,400000,AL,Central,Detroit Tigers,O
-Macias,Jose,375000,AL,Central,Detroit Tigers,O
-Meluskey,Mitch,345000,AL,Central,Detroit Tigers,C
-Redman,Mark,300000,AL,Central,Detroit Tigers,P
-Simon,Randall,290000,AL,Central,Detroit Tigers,B1
-Cornejo,Nate,218000,AL,Central,Detroit Tigers,P
-Pettyjohn,Adam,217500,AL,Central,Detroit Tigers,P
-Miller,Matt,202500,AL,Central,Detroit Tigers,P
-Farnsworth,Jeff,200000,AL,Central,Detroit Tigers,P
-Pearson,Terry,200000,AL,Central,Detroit Tigers,P
-Rivera,Mike,200000,AL,Central,Detroit Tigers,C
-Sweeney,Mike,8000000,AL,Central,KansasCity Royals,B1
-Hernandez,Roberto,6000000,AL,Central,KansasCity Royals,P
-Suppan,Jeff,4150000,AL,Central,KansasCity Royals,P
-Perez,Neifi,4100000,AL,Central,KansasCity Royals,SS
-Randa,Joe,4000000,AL,Central,KansasCity Royals,B3
-Beltran,Carlos,3500000,AL,Central,KansasCity Royals,O
-Mayne,Brent,2500000,AL,Central,KansasCity Royals,C
-Tucker,Michael,2250000,AL,Central,KansasCity Royals,O
-Knoblauch,Chuck,2000000,AL,Central,KansasCity Royals,O
-Grimsley,Jason,1900000,AL,Central,KansasCity Royals,P
-Stein,Blake,1350000,AL,Central,KansasCity Royals,P
-Byrd,Paul,850000,AL,Central,KansasCity Royals,P
-McCarty,Dave,850000,AL,Central,KansasCity Royals,O
-Alicea,Luis,800000,AL,Central,KansasCity Royals,B2
-Ibanez,Raul,800000,AL,Central,KansasCity Royals,O
-Febles,Carlos,775000,AL,Central,KansasCity Royals,B2
-May,Darrell,375000,AL,Central,KansasCity Royals,P
-Quinn,Mark,375000,AL,Central,KansasCity Royals,O
-Bailey,Cory,320000,AL,Central,KansasCity Royals,P
-Reichart,Dan,310000,AL,Central,KansasCity Royals,P
-Durbin,Chad,275000,AL,Central,KansasCity Royals,P
-Hinch,AJ,260000,AL,Central,KansasCity Royals,C
-Sadler,Donnie,255000,AL,Central,KansasCity Royals,B2
-Wilson,Kris,240000,AL,Central,KansasCity Royals,P
-Shouse,Brian,215000,AL,Central,KansasCity Royals,P
-Austin,Jeff,205000,AL,Central,KansasCity Royals,P
-Berger,Brandon,202000,AL,Central,KansasCity Royals,O
-Affeldt,Jeremy,200000,AL,Central,KansasCity Royals,P
-Asencio,Miguel,200000,AL,Central,KansasCity Royals,P
-Radke,Brad,8750000,AL,Central,MinnesotaTwins,P
-Reed,Rick,7000000,AL,Central,MinnesotaTwins,P
-Milton,Eric,4000000,AL,Central,MinnesotaTwins,P
-Hawkins,Latroy,2750000,AL,Central,MinnesotaTwins,P
-Hunter,Torii,2400000,AL,Central,MinnesotaTwins,O
-Mays,Joe,2350000,AL,Central,MinnesotaTwins,P
-Koskie,Corey,2150000,AL,Central,MinnesotaTwins,B3
-Guardado,Eddie,1800000,AL,Central,MinnesotaTwins,P
-Wells,Bob,1700000,AL,Central,MinnesotaTwins,P
-Guzman,Cristian,1425000,AL,Central,MinnesotaTwins,SS
-Hocking,Denny,1100000,AL,Central,MinnesotaTwins,SS
-Ortiz,David,950000,AL,Central,MinnesotaTwins,B1
-Jackson,Mike,500000,AL,Central,MinnesotaTwins,P
-Prince,Tom,450000,AL,Central,MinnesotaTwins,C
-Jones,Jacque,312500,AL,Central,MinnesotaTwins,O
-Mientkiewicz,Doug,285000,AL,Central,MinnesotaTwins,B1
-Morris,Warren,275000,AL,Central,MinnesotaTwins,B2
-Pierzynski,AJ,250000,AL,Central,MinnesotaTwins,C
-Rivas,Luis,240000,AL,Central,MinnesotaTwins,B2
-Canizaro,Jay,235000,AL,Central,MinnesotaTwins,B2
-Buchanan,Brian,225000,AL,Central,MinnesotaTwins,O
-Duvall,Michael,225000,AL,Central,MinnesotaTwins,P
-Cressend,Jack,222500,AL,Central,MinnesotaTwins,P
-Lohse,Kyle,215000,AL,Central,MinnesotaTwins,P
-Romero,JC,215000,AL,Central,MinnesotaTwins,P
-Mohr,Dustin,200000,AL,Central,MinnesotaTwins,O
-Salmon,Tim,9650000,AL,West,Anaheim Angels,O
-Appier,Kevin,9500000,AL,West,Anaheim Angels,P
-Sele,Aaron,7166667,AL,West,Anaheim Angels,P
-Erstad,Darin,6250000,AL,West,Anaheim Angels,O
-Percival,Troy,5250000,AL,West,Anaheim Angels,P
 Anderson,Garret,5000000,AL,West,Anaheim Angels,O
-Fullmer,Brad,4000000,AL,West,Anaheim Angels,DH
-Glaus,Troy,4000000,AL,West,Anaheim Angels,B3
-Spiezio,Scott,2275000,AL,West,Anaheim Angels,B1
-Levine,Alan,1325000,AL,West,Anaheim Angels,P
+Appier,Kevin,9500000,AL,West,Anaheim Angels,P
 Cook,Dennis,1250000,AL,West,Anaheim Angels,P
-Palmeiro,Orlando,1000000,AL,West,Anaheim Angels,O
-Ortiz,Ramon,575000,AL,West,Anaheim Angels,P
-Fabregas,Jorge,500000,AL,West,Anaheim Angels,C
-Gil,Benji,400000,AL,West,Anaheim Angels,SS
-Kennedy,Adam,375000,AL,West,Anaheim Angels,B2
-Molina,Benji,350000,AL,West,Anaheim Angels,C
-Washburn,Jarrod,350000,AL,West,Anaheim Angels,P
-Schoeneweis,Scott,325000,AL,West,Anaheim Angels,P
-Wall,Donne,300000,AL,West,Anaheim Angels,P
-Eckstein,David,280000,AL,West,Anaheim Angels,SS
-Pote,Lou,255000,AL,West,Anaheim Angels,P
-Wooten,Shawn,250000,AL,West,Anaheim Angels,C
-Nieves,Jose,240000,AL,West,Anaheim Angels,SS
-Weber,Ben,240000,AL,West,Anaheim Angels,P
 Davanon,Jeffrey,207500,AL,West,Anaheim Angels,O
-Lukasiewicz,Mark,207500,AL,West,Anaheim Angels,P
+Eckstein,David,280000,AL,West,Anaheim Angels,SS
+Erstad,Darin,6250000,AL,West,Anaheim Angels,O
+Fabregas,Jorge,500000,AL,West,Anaheim Angels,C
+Fullmer,Brad,4000000,AL,West,Anaheim Angels,DH
+Gil,Benji,400000,AL,West,Anaheim Angels,SS
+Glaus,Troy,4000000,AL,West,Anaheim Angels,B3
 Green,Steve,200000,AL,West,Anaheim Angels,P
-Dye,Jermaine,7166667,AL,West,Oakland A's,O
-Justice,David,7000000,AL,West,Oakland A's,O
-Tejada,Miguel,3625000,AL,West,Oakland A's,SS
-Lidle,Cory,2550000,AL,West,Oakland A's,P
-Koch,Billy,2433333,AL,West,Oakland A's,P
-Mecir,Jim,2366667,AL,West,Oakland A's,P
-Chavez,Eric,2125000,AL,West,Oakland A's,B3
-Magnante,Mike,1200000,AL,West,Oakland A's,P
-Giambi,Jeremy,1065000,AL,West,Oakland A's,B1
-Velarde,Randy,1000000,AL,West,Oakland A's,B2
-Hatteberg,Scott,900000,AL,West,Oakland A's,B1
-Hudson,Tim,875000,AL,West,Oakland A's,P
-Holtz,Mike,825000,AL,West,Oakland A's,P
-Venafro,Mike,812500,AL,West,Oakland A's,P
-Mulder,Mark,800000,AL,West,Oakland A's,P
-Myers,Greg,800000,AL,West,Oakland A's,C
-Saenz,Olmedo,800000,AL,West,Oakland A's,B1
-Tam,Jeff,700000,AL,West,Oakland A's,P
-Long,Terrence,675000,AL,West,Oakland A's,O
-Hernandez,Ramon,497500,AL,West,Oakland A's,C
-Colangelo,Mike,300000,AL,West,Oakland A's,O
-Menechino,Frank,295000,AL,West,Oakland A's,B2
-Zito,Barry,295000,AL,West,Oakland A's,P
-Hiljus,Erik,237500,AL,West,Oakland A's,P
-Bradford,Chad,235000,AL,West,Oakland A's,P
-Valdez,Mario,223000,AL,West,Oakland A's,B1
-Pena,Carlos,202000,AL,West,Oakland A's,B1
-Boone,Brett,8000000,AL,West,Seattle Mariners,B2
-Martinez,Edgar,7086668,AL,West,Seattle Mariners,DH
-Olerud,John,6950000,AL,West,Seattle Mariners,B1
-Moyer,Jamie,6500000,AL,West,Seattle Mariners,P
-Cirillo,Jeff,6375000,AL,West,Seattle Mariners,B3
-Sasaki,Kazuhiro,5070000,AL,West,Seattle Mariners,P
-Cameron,Mike,4666667,AL,West,Seattle Mariners,O
-Wilson,Dan,4500000,AL,West,Seattle Mariners,C
-Garcia,Freddy,3800000,AL,West,Seattle Mariners,B3
-Suzuki,Ichiro,3696000,AL,West,Seattle Mariners,O
-Rhodes,Arthur,3500000,AL,West,Seattle Mariners,P
-Abbott,Paul,3425000,AL,West,Seattle Mariners,P
-Nelson,Jeff,3333333,AL,West,Seattle Mariners,P
-McLemore,Mark,3150000,AL,West,Seattle Mariners,O
-Sierra,Ruben,1900000,AL,West,Seattle Mariners,O
-Hasegawa,Shigetoshi,1500000,AL,West,Seattle Mariners,P
-Guillen,Carlos,1400000,AL,West,Seattle Mariners,SS
-Halama,John,1400000,AL,West,Seattle Mariners,P
-Relaford,Desi,1275000,AL,West,Seattle Mariners,SS
-Baldwin,James,1250000,AL,West,Seattle Mariners,P
-Gipson,Charles,450000,AL,West,Seattle Mariners,O
-Davis,Ben,350000,AL,West,Seattle Mariners,C
-Pineiro,Joel,255000,AL,West,Seattle Mariners,P
-Franklin,Ryan,250000,AL,West,Seattle Mariners,P
-Ugueto,Luis,200000,AL,West,Seattle Mariners,SS
-Rodriguez,Alex,22000000,AL,West,Texas Rangers,SS
-Gonzalez,Juan,11000000,AL,West,Texas Rangers,O
-Rodriguez,Ivan,9600000,AL,West,Texas Rangers,C
-Palmeiro,Rafael,8712986,AL,West,Texas Rangers,B1
-Everett,Carl,8666666,AL,West,Texas Rangers,O
-Rogers,Kenny,7500000,AL,West,Texas Rangers,P
-Park,Chan Ho,6884803,AL,West,Texas Rangers,P
-Greer,Rusty,6800000,AL,West,Texas Rangers,O
-Rocker,John,2500000,AL,West,Texas Rangers,P
-Valdes,Ismael,2500000,AL,West,Texas Rangers,P
-Catalanotto,Frank,2475000,AL,West,Texas Rangers,O
-Powell,Jay,2250000,AL,West,Texas Rangers,P
-Zimmerman,Jeff,2166667,AL,West,Texas Rangers,P
-Burba,Dave,2000000,AL,West,Texas Rangers,P
-Van Poppel,Todd,2000000,AL,West,Texas Rangers,P
-Kapler,Gabe,1850000,AL,West,Texas Rangers,O
-Miceli,Dan,1000000,AL,West,Texas Rangers,P
-Seanez,Rudy,1000000,AL,West,Texas Rangers,P
-Perry,Herbert,900000,AL,West,Texas Rangers,B3
-Haselman,Bill,800000,AL,West,Texas Rangers,C
-Rodriguez,Rich,600000,AL,West,Texas Rangers,P
-Irabu,Hideki,550000,AL,West,Texas Rangers,P
-Woodward,Steve,550000,AL,West,Texas Rangers,P
-Davis,Doug,310000,AL,West,Texas Rangers,P
-Kolb,Danny,260000,AL,West,Texas Rangers,P
-Young,Michael,250000,AL,West,Texas Rangers,B2
-Bialock,Hank,200000,AL,West,Texas Rangers,B3
-Cedeno,Jovanny,200000,AL,West,Texas Rangers,P
-Lewis,Colby,200000,AL,West,Texas Rangers,P
-Maddux,Greg,13100000,NL,East,Atlanta Braves,P
-Jones,Chipper,11333333,NL,East,Atlanta Braves,O
-Jones,Andruw,10000000,NL,East,Atlanta Braves,O
-Sheffield,Gary,9916667,NL,East,Atlanta Braves,O
-Glavine,Tom,8623700,NL,East,Atlanta Braves,P
-Smoltz,John,7666667,NL,East,Atlanta Braves,P
-Lopez,Javy,6000000,NL,East,Atlanta Braves,C
-Surhoff,BJ,4500000,NL,East,Atlanta Braves,O
-Lopez,Albie,4000000,NL,East,Atlanta Braves,P
-Millwood,Kevin,3900000,NL,East,Atlanta Braves,P
-Castilla,Vinny,3000000,NL,East,Atlanta Braves,B3
-Remlinger,Mike,2000000,NL,East,Atlanta Braves,P
-Ligtenberg,Kerry,1700000,NL,East,Atlanta Braves,P
-Blanco,Henry,1512500,NL,East,Atlanta Braves,C
-Martinez,Dave,1500000,NL,East,Atlanta Braves,O
-Franco,Julio,600000,NL,East,Atlanta Braves,B1
-Lockhart,Keith,600000,NL,East,Atlanta Braves,B2
-Hammond,Chris,450000,NL,East,Atlanta Braves,P
-Furcal,Rafael,405000,NL,East,Atlanta Braves,SS
-Holmes,Darren,325000,NL,East,Atlanta Braves,P
-Helms,Wes,250000,NL,East,Atlanta Braves,B3
-Marquis,Jason,230000,NL,East,Atlanta Braves,P
-De Rosa,Mark,222500,NL,East,Atlanta Braves,SS
-Moss,Damian,215000,NL,East,Atlanta Braves,P
-Giles,Marcus,210000,NL,East,Atlanta Braves,B2
-Lombard,George,210000,NL,East,Atlanta Braves,O
-Aldridge,Cory,200000,NL,East,Atlanta Braves,O
-Green,Nick,200000,NL,East,Atlanta Braves,B2
-Lewis,Derrick,200000,NL,East,Atlanta Braves,P
-Ramirez,Horacio,200000,NL,East,Atlanta Braves,P
-Spooneybarger,Tim,200000,NL,East,Atlanta Braves,P
-Floyd,Cliff,6500000,NL,East,Florida Marlins,O
-Johnson,Charles,5000000,NL,East,Florida Marlins,C
-Wilson,Preston,3500000,NL,East,Florida Marlins,O
-Castillo,Luis,3325000,NL,East,Florida Marlins,B2
-Tavarez,Julian,3100000,NL,East,Florida Marlins,P
-Lee,Derrek,2700000,NL,East,Florida Marlins,B1
-Dempster,Ryan,2475000,NL,East,Florida Marlins,P
-Lowell,Mike,2300000,NL,East,Florida Marlins,B3
-Owens,Eric,2166667,NL,East,Florida Marlins,O
-Beckett,Josh,2156250,NL,East,Florida Marlins,P
-Gonzalez,Alex,1700000,NL,East,Florida Marlins,SS
-Millar,Kevin,900000,NL,East,Florida Marlins,B1
-Looper,Braden,800000,NL,East,Florida Marlins,P
-Darensbourg,Vic,775000,NL,East,Florida Marlins,P
-Fox,Andy,700000,NL,East,Florida Marlins,SS
-Redmond,Mike,650000,NL,East,Florida Marlins,C
-Penny,Brad,377500,NL,East,Florida Marlins,P
-Burnett,AJ,367500,NL,East,Florida Marlins,P
-Nunez,Vladimir,360000,NL,East,Florida Marlins,P
-Raines,Tim,350000,NL,East,Florida Marlins,O
-Almanza,Armando,346000,NL,East,Florida Marlins,P
-Castro,Ramon,216000,NL,East,Florida Marlins,C
-Malloy,Martin,210000,NL,East,Florida Marlins,B2
-Baez,Benito,202000,NL,East,Florida Marlins,P
-Ozuna,Pablo,202000,NL,East,Florida Marlins,B2
-Tejera,Michael,201000,NL,East,Florida Marlins,P
-Knotts,Gary,200000,NL,East,Florida Marlins,P
-Olsen,Kevin,200000,NL,East,Florida Marlins,P
-Guerrero,Vladiimir,8000000,NL,East,Montreal Expos,O
-Vasquez,Javier,4725000,NL,East,Montreal Expos,P
-Tatis,Fernando,4500000,NL,East,Montreal Expos,B3
-Stevens,Lee,4000000,NL,East,Montreal Expos,B1
-Vidro,Jose,4000000,NL,East,Montreal Expos,B2
-Lloyd,Graeme,3000000,NL,East,Montreal Expos,P
-Cabrera,Orlando,2400000,NL,East,Montreal Expos,SS
-Pavano,Carl,1312500,NL,East,Montreal Expos,P
-Barrett,Michael,1150000,NL,East,Montreal Expos,C
-Galarraga,Andres,500000,NL,East,Montreal Expos,B1
-Mordecai,Mike,500000,NL,East,Montreal Expos,SS
-Vosberg,Ed,400000,NL,East,Montreal Expos,P
-Herges,Matt,370000,NL,East,Montreal Expos,P
-Strickland,Scott,355000,NL,East,Montreal Expos,P
-Armas,Tony Jr.,335000,NL,East,Montreal Expos,P
-Rodriguez,Henry,300000,NL,East,Montreal Expos,O
-Yoshii,Masato,300000,NL,East,Montreal Expos,P
-Truby,Chris,270000,NL,East,Montreal Expos,B3
-Bergeron,Peter,250000,NL,East,Montreal Expos,O
-Collier,Lou,250000,NL,East,Montreal Expos,B2
-Ohka,Tomo,240000,NL,East,Montreal Expos,P
-Reames,Britt,235000,NL,East,Montreal Expos,P
-Stewart,Scott,235000,NL,East,Montreal Expos,P
-Downs,Scott,225000,NL,East,Montreal Expos,P
-Schneider,Brain,212000,NL,East,Montreal Expos,C
-Wilkerson,Brad,206000,NL,East,Montreal Expos,O
-Mattes,Troy,200000,NL,East,Montreal Expos,P
-Tucker,TJ,200000,NL,East,Montreal Expos,P
-Vaughn,Mo,12166667,NL,East,New York Mets,B1
-Piazza,Mike,10571429,NL,East,New York Mets,C
-Leiter,Al,9250000,NL,East,New York Mets,P
-Alomar,Roberto,7939664,NL,East,New York Mets,B2
-Burnitz,Jeromy,7166667,NL,East,New York Mets,O
-Ordonez,Rey,6250000,NL,East,New York Mets,SS
-Alfonzo,Edgardo,6200000,NL,East,New York Mets,B3
-Estes,Shawn,6200000,NL,East,New York Mets,P
-Benitez,Armando,5812500,NL,East,New York Mets,P
-Traschel,Steve,4300000,NL,East,New York Mets,P
-Astacio,Pedro,4000000,NL,East,New York Mets,P
-Franco,John,3083333,NL,East,New York Mets,P
-Cedeno,Roger,2375000,NL,East,New York Mets,O
-D'Amico,Jeff,1840000,NL,East,New York Mets,P
-Weathers,David,1833333,NL,East,New York Mets,P
-Guthrie,Mark,1800000,NL,East,New York Mets,P
-McEwing,Joe,750000,NL,East,New York Mets,O
-Valentin,John,550000,NL,East,New York Mets,B3
-Komiyama,Saturo,500000,NL,East,New York Mets,P
-Johnson,Mark,475000,NL,East,New York Mets,B1
-Payton,Jay,362500,NL,East,New York Mets,O
-Chen,Bruce,300000,NL,East,New York Mets,P
-Matthews,Gary Jr.,237500,NL,East,New York Mets,O
-Davis,Kane,235000,NL,East,New York Mets,P
-Wilson,Vance,222500,NL,East,New York Mets,C
-Roberts,Grant,212500,NL,East,New York Mets,P
-Rolen,Scott,8600000,NL,East,Philadelphia Phillies,B3
-Lieberthal,Mike,7333333,NL,East,Philadelphia Phillies,C
-Abreu,Bobby,6333333,NL,East,Philadelphia Phillies,O
-Person,Robert,6250000,NL,East,Philadelphia Phillies,P
-Mesa,Jose,4200000,NL,East,Philadelphia Phillies,P
-Glanville,Doug,4000000,NL,East,Philadelphia Phillies,O
-Lee,Travis,3000000,NL,East,Philadelphia Phillies,B1
-Wendell,Turk,2950000,NL,East,Philadelphia Phillies,P
-Cormier,Rheal,2883333,NL,East,Philadelphia Phillies,P
-Adams,Terry,2700000,NL,East,Philadelphia Phillies,P
-Burrell,Pat,1905000,NL,East,Philadelphia Phillies,O
-Bottalico,Ricky,1500000,NL,East,Philadelphia Phillies,P
-Ledee,Ricky,750000,NL,East,Philadelphia Phillies,O
-Santiago,Jose,700000,NL,East,Philadelphia Phillies,P
-Pratt,Todd,650000,NL,East,Philadelphia Phillies,C
-Mabry,John,500000,NL,East,Philadelphia Phillies,O
-Perez,Tomas,475000,NL,East,Philadelphia Phillies,SS
-Wolf,Randy,450000,NL,East,Philadelphia Phillies,P
-Anderson,Marlon,400000,NL,East,Philadelphia Phillies,B2
-Hollins,Dave,400000,NL,East,Philadelphia Phillies,P
-Rollins,Jimmy,355000,NL,East,Philadelphia Phillies,SS
-Mercado,Hector,255000,NL,East,Philadelphia Phillies,P
-Padilla,Vicente,245000,NL,East,Philadelphia Phillies,P
-Politte,Cliff,245000,NL,East,Philadelphia Phillies,P
-Coggin,David,240000,NL,East,Philadelphia Phillies,P
-Duckworth,Brandon,235000,NL,East,Philadelphia Phillies,P
-Punto,Nick,200000,NL,East,Philadelphia Phillies,SS
-Silva,Carlos,200000,NL,East,Philadelphia Phillies,P
-Sosa,Sammy,15000000,NL,Central,Chicago Cubs,O
-McGriff,Fred,7250000,NL,Central,Chicago Cubs,B1
-Hundley,Todd,6500000,NL,Central,Chicago Cubs,C
-Alou,Moises,6000000,NL,Central,Chicago Cubs,O
-Lieber,Jon,5833333,NL,Central,Chicago Cubs,P
-Gonzalez,Alex,4250000,NL,Central,Chicago Cubs,SS
-Wood,Kerry,3695000,NL,Central,Chicago Cubs,P
-Alfonseca,Antonio,3550000,NL,Central,Chicago Cubs,P
-Mueller,Bill,3450000,NL,Central,Chicago Cubs,B3
-Bere,Jason,3400000,NL,Central,Chicago Cubs,P
-Fassero,Jeff,2800000,NL,Central,Chicago Cubs,P
-Gordon,Tom,2800000,NL,Central,Chicago Cubs,P
-Clement,Matt,2500000,NL,Central,Chicago Cubs,P
-Girardi,Joe,1500000,NL,Central,Chicago Cubs,C
-Sanchez,Jesus,1425000,NL,Central,Chicago Cubs,P
-DeShields,Delino,1250000,NL,Central,Chicago Cubs,B2
-Stynes,Chris,1250000,NL,Central,Chicago Cubs,B3
-Lewis,Darren,500000,NL,Central,Chicago Cubs,P
-Osborne,Donovan,450000,NL,Central,Chicago Cubs,P
-Farnsworth,Kyle,410000,NL,Central,Chicago Cubs,P
-Machado,Robert,277500,NL,Central,Chicago Cubs,C
-Brown,Roosevelt,255000,NL,Central,Chicago Cubs,O
-Ojeda,Augie,240000,NL,Central,Chicago Cubs,B3
-Borowski,Joe,235000,NL,Central,Chicago Cubs,P
-Patterson,Corey,227500,NL,Central,Chicago Cubs,O
-Bellhorn,Mark,224000,NL,Central,Chicago Cubs,B3
-Cruz,Juan,215000,NL,Central,Chicago Cubs,P
-Ohman,Will,203500,NL,Central,Chicago Cubs,P
-Larkin,Barry,9000000,NL,Central,Cincinnati Reds,SS
-Griffey,Ken Jr.,8557223,NL,Central,Cincinnati Reds,O
-Casey,Sean,4000000,NL,Central,Cincinnati Reds,B1
-Graves,Danny,3525000,NL,Central,Cincinnati Reds,P
-White,Gabe,2491667,NL,Central,Cincinnati Reds,P
-Sullivan,Scott,2200000,NL,Central,Cincinnati Reds,P
-Boone,Aaron,2100000,NL,Central,Cincinnati Reds,B3
-Walker,Todd,2050000,NL,Central,Cincinnati Reds,B2
-Dessens,Elmer,1825000,NL,Central,Cincinnati Reds,P
-Encarnacion,Juan,1550000,NL,Central,Cincinnati Reds,O
-Stinnett,Kelly,1000000,NL,Central,Cincinnati Reds,C
-Guerrero,Wilton,850000,NL,Central,Cincinnati Reds,B2
-Silva,Jose,650000,NL,Central,Cincinnati Reds,P
-Hamilton,Joey,500000,NL,Central,Cincinnati Reds,P
-Haynes,Jimmy,500000,NL,Central,Cincinnati Reds,P
-Rijo,Jose,500000,NL,Central,Cincinnati Reds,P
-Castro,Juan,400000,NL,Central,Cincinnati Reds,SS
-Williamson,Scott,400000,NL,Central,Cincinnati Reds,P
-Jennings,Robin,310000,NL,Central,Cincinnati Reds,O
-La Rue,Jason,305000,NL,Central,Cincinnati Reds,C
-Reitsma,Chris,252000,NL,Central,Cincinnati Reds,P
-Brower,Jim,250000,NL,Central,Cincinnati Reds,P
-Dunn,Adam,250000,NL,Central,Cincinnati Reds,O
-Davis,Lance,246500,NL,Central,Cincinnati Reds,P
-Riedling,John,240000,NL,Central,Cincinnati Reds,P
-Acevedo,Jose,233000,NL,Central,Cincinnati Reds,P
-Clark,Brady,233000,NL,Central,Cincinnati Reds,O
-Etherton,Seth,224000,NL,Central,Cincinnati Reds,P
-Pineda,Luis,208000,NL,Central,Cincinnati Reds,P
-Taylor,Reggie,200000,NL,Central,Cincinnati Reds,O
-Bagwell,Jeff,11000000,NL,Central,Houston Astros,B1
-Biggio,Craig,8750000,NL,Central,Houston Astros,O
-Wagner,Billy,8000000,NL,Central,Houston Astros,P
-Reynolds,Shane,7666667,NL,Central,Houston Astros,P
-Mlicki,Dave,6200000,NL,Central,Houston Astros,P
-Hidalgo,Richard,5500000,NL,Central,Houston Astros,O
-Ausmus,Brad,5000000,NL,Central,Houston Astros,C
-Vizcaino,Jose,1700000,NL,Central,Houston Astros,SS
-Zuan,Gregg,1150000,NL,Central,Houston Astros,C
-Merced,Orlando,1050000,NL,Central,Houston Astros,O
-Hunter,Brian,1000000,NL,Central,Houston Astros,O
-Mathews,TJ,1000000,NL,Central,Houston Astros,P
-Brocail,Doug,750000,NL,Central,Houston Astros,P
-Berkman,Brian,500000,NL,Central,Houston Astros,O
-Pichardo,Hipolito,500000,NL,Central,Houston Astros,P
-Dotel,Octavio,435000,NL,Central,Houston Astros,P
-Cruz,Nelson,375000,NL,Central,Houston Astros,P
-Ward,Daryle,375000,NL,Central,Houston Astros,O
-Everett,Adam,366750,NL,Central,Houston Astros,SS
-Miller,Wade,350000,NL,Central,Houston Astros,P
-Lugo,Julio,325000,NL,Central,Houston Astros,SS
-Blum,Geoff,315000,NL,Central,Houston Astros,B3
-Oswalt,Roy,300000,NL,Central,Houston Astros,P
-Linebrink,Scott,230000,NL,Central,Houston Astros,P
-Hernandez,Carlos,210000,NL,Central,Houston Astros,P
-Ensberg,Morgan,200000,NL,Central,Houston Astros,B3
-Stone,Ricky,200000,NL,Central,Houston Astros,P
-Hammonds,Jeffrey,7500000,NL,Central,Milwaukee Brewers,O
-Loretta,Mark,5000000,NL,Central,Milwaukee Brewers,B2
-Wright,Jamey,4250000,NL,Central,Milwaukee Brewers,P
-Leskanic,Curtis,3500000,NL,Central,Milwaukee Brewers,P
-Hernandez,Jose,3333333,NL,Central,Milwaukee Brewers,B3
-Jenkins,Geoff,3187500,NL,Central,Milwaukee Brewers,O
-Sexson,Richie,3125000,NL,Central,Milwaukee Brewers,B1
-Rusch,Glendon,2800000,NL,Central,Milwaukee Brewers,P
-Ochoa,Alex,2750000,NL,Central,Milwaukee Brewers,O
-Young,Eric,2000000,NL,Central,Milwaukee Brewers,B2
-Belliard,Ronnie,1650000,NL,Central,Milwaukee Brewers,B2
-Houston,Tyler,1625000,NL,Central,Milwaukee Brewers,B3
-DeJean,Mike,1400000,NL,Central,Milwaukee Brewers,P
-Fox,Chad,1200000,NL,Central,Milwaukee Brewers,P
-Harris,Lenny,1100000,NL,Central,Milwaukee Brewers,B3
-Casanova,Raul,850000,NL,Central,Milwaukee Brewers,C
-Bako,Paul,750000,NL,Central,Milwaukee Brewers,C
-Cabrera,Jose,705000,NL,Central,Milwaukee Brewers,P
-Lopez,Luis,700000,NL,Central,Milwaukee Brewers,B1
-Stairs,Matt,500000,NL,Central,Milwaukee Brewers,O
-Nomura,Takaki,430000,NL,Central,Milwaukee Brewers,P
-King,Ray,300000,NL,Central,Milwaukee Brewers,P
-Sheets,Ben,290000,NL,Central,Milwaukee Brewers,P
-Rigdon,Paul,255000,NL,Central,Milwaukee Brewers,P
-Quevedo,Ruben,252500,NL,Central,Milwaukee Brewers,P
-Buddie,Mike,218000,NL,Central,Milwaukee Brewers,P
-Vizcaino,Luis,212500,NL,Central,Milwaukee Brewers,P
-Neugebauer,Nick,202000,NL,Central,Milwaukee Brewers,P
-Sanchez,Alexis,202000,NL,Central,Milwaukee Brewers,O
-Giles,Brian,8063003,NL,Central,Pittsburgh Pirates,O
-Kendall,Jason,6571429,NL,Central,Pittsburgh Pirates,C
-Young,Kevin,5625000,NL,Central,Pittsburgh Pirates,B1
-Mearas,Pat,3790000,NL,Central,Pittsburgh Pirates,B2
-Benson,Kris,2700000,NL,Central,Pittsburgh Pirates,P
-Fetters,Mike,2275000,NL,Central,Pittsburgh Pirates,P
-Williams,Mike,2000000,NL,Central,Pittsburgh Pirates,P
-Reese,Pokey,1750000,NL,Central,Pittsburgh Pirates,B2
-Lowe,Sean,950000,NL,Central,Pittsburgh Pirates,P
-Benjamin,Mike,925000,NL,Central,Pittsburgh Pirates,B3
-Rios,Armando,925000,NL,Central,Pittsburgh Pirates,O
-Villone,Ron,900000,NL,Central,Pittsburgh Pirates,P
-Sauerbeck,Scott,766667,NL,Central,Pittsburgh Pirates,P
-Boehringer,Brian,675000,NL,Central,Pittsburgh Pirates,P
-Osik,Keith,625000,NL,Central,Pittsburgh Pirates,C
-Ramirez,Aramis,500000,NL,Central,Pittsburgh Pirates,B3
-Brown,Adrian,450000,NL,Central,Pittsburgh Pirates,O
-Anderson,Jimmy,305000,NL,Central,Pittsburgh Pirates,P
-Wells,Kip,272500,NL,Central,Pittsburgh Pirates,P
-Lincoln,Mike,267500,NL,Central,Pittsburgh Pirates,P
-Williams,Dave,234000,NL,Central,Pittsburgh Pirates,P
-Wilson,Jack,232000,NL,Central,Pittsburgh Pirates,SS
-Wilson,Craig,229000,NL,Central,Pittsburgh Pirates,O
-Beimel,Joe,227000,NL,Central,Pittsburgh Pirates,P
-Mackowiak,Rob,227000,NL,Central,Pittsburgh Pirates,O
-Hermansen,Chad,223000,NL,Central,Pittsburgh Pirates,P
-Vogelsong,Ryan,212500,NL,Central,Pittsburgh Pirates,P
-Fogg,Josh,203000,NL,Central,Pittsburgh Pirates,P
-Nunez,Abraham,200000,NL,Central,Pittsburgh Pirates,P
-Edmonds,Jim,7333333,NL,Central,St. Louis Cardinals,O
-Williams,Woody,7300000,NL,Central,St. Louis Cardinals,P
-Kile,Darryl,7166667,NL,Central,St. Louis Cardinals,P
-Benes,Andy,6367542,NL,Central,St. Louis Cardinals,P
-Renteria,Edgar,6000000,NL,Central,St. Louis Cardinals,SS
-Martinez,Tino,5750000,NL,Central,St. Louis Cardinals,B1
-Timlin,Mike,5250000,NL,Central,St. Louis Cardinals,P
-Vina,Fernando,4333333,NL,Central,St. Louis Cardinals,B2
-Veres,Dave,4250000,NL,Central,St. Louis Cardinals,P
-Morris,Matt,4000000,NL,Central,St. Louis Cardinals,P
-Drew,JD,3100000,NL,Central,St. Louis Cardinals,O
-Isringhausen,Jason,2750000,NL,Central,St. Louis Cardinals,P
-Matheny,Mike,2500000,NL,Central,St. Louis Cardinals,C
-Polanco,Placido,1750000,NL,Central,St. Louis Cardinals,B2
-Kline,Steve,1200000,NL,Central,St. Louis Cardinals,P
-Stephenson,Garrett,900000,NL,Central,St. Louis Cardinals,P
-Marrero,Eli,850000,NL,Central,St. Louis Cardinals,O
-DiFelice,Mike,750000,NL,Central,St. Louis Cardinals,C
-Cairo,Miguel,600000,NL,Central,St. Louis Cardinals,B2
-Pujois,Albert,600000,NL,Central,St. Louis Cardinals,O
-Perez,Eddie,450000,NL,Central,St. Louis Cardinals,C
-Ankiel,Rick,400000,NL,Central,St. Louis Cardinals,P
-Matthews,Mike,300000,NL,Central,St. Louis Cardinals,P
-Stechschulte,Gene,265000,NL,Central,St. Louis Cardinals,P
-Robinson,Kerry,250000,NL,Central,St. Louis Cardinals,O
-Hackman,Luther,245000,NL,Central,St. Louis Cardinals,P
-Johnson,Randy,13350000,NL,West,Arizona Diamondbacks,P
-Schilling,Curt,10000000,NL,West,Arizona Diamondbacks,P
-Williams,Matt,9500000,NL,West,Arizona Diamondbacks,B3
-Bell,Jay,8000000,NL,West,Arizona Diamondbacks,B3
-Stottlemyre,Todd,8000000,NL,West,Arizona Diamondbacks,P
+Kennedy,Adam,375000,AL,West,Anaheim Angels,B2
+Levine,Alan,1325000,AL,West,Anaheim Angels,P
+Lukasiewicz,Mark,207500,AL,West,Anaheim Angels,P
+Molina,Benji,350000,AL,West,Anaheim Angels,C
+Nieves,Jose,240000,AL,West,Anaheim Angels,SS
+Ortiz,Ramon,575000,AL,West,Anaheim Angels,P
+Palmeiro,Orlando,1000000,AL,West,Anaheim Angels,O
+Percival,Troy,5250000,AL,West,Anaheim Angels,P
+Pote,Lou,255000,AL,West,Anaheim Angels,P
+Salmon,Tim,9650000,AL,West,Anaheim Angels,O
+Schoeneweis,Scott,325000,AL,West,Anaheim Angels,P
+Sele,Aaron,7166667,AL,West,Anaheim Angels,P
+Spiezio,Scott,2275000,AL,West,Anaheim Angels,B1
+Wall,Donne,300000,AL,West,Anaheim Angels,P
+Washburn,Jarrod,350000,AL,West,Anaheim Angels,P
+Weber,Ben,240000,AL,West,Anaheim Angels,P
+Wooten,Shawn,250000,AL,West,Anaheim Angels,C
 Anderson,Brian,5375000,NL,West,Arizona Diamondbacks,P
-Finley,Steve,5375000,NL,West,Arizona Diamondbacks,O
-Womack,Tony,4500000,NL,West,Arizona Diamondbacks,B2
-Gonzalez,Luis,4333333,NL,West,Arizona Diamondbacks,O
-Mantel,Matt,4333333,NL,West,Arizona Diamondbacks,P
-Reynoso,Armando,4125000,NL,West,Arizona Diamondbacks,P
-Grace,Mark,3000000,NL,West,Arizona Diamondbacks,B1
-Helling,Rick,3000000,NL,West,Arizona Diamondbacks,P
-Swindell,Greg,2833333,NL,West,Arizona Diamondbacks,P
-Miller,Damian,2650000,NL,West,Arizona Diamondbacks,C
+Barajas,Rod,215000,NL,West,Arizona Diamondbacks,C
 Batista,Miguel,2125000,NL,West,Arizona Diamondbacks,P
 Bautista,Danny,2000000,NL,West,Arizona Diamondbacks,O
+Bell,Jay,8000000,NL,West,Arizona Diamondbacks,B3
 Colbrunn,Greg,1800000,NL,West,Arizona Diamondbacks,B1
-Meyers,Mike,1533333,NL,West,Arizona Diamondbacks,P
 Counsell,Craig,1516667,NL,West,Arizona Diamondbacks,B3
 Dellucci,David,775000,NL,West,Arizona Diamondbacks,O
-Kim,Byung-Hyun,762500,NL,West,Arizona Diamondbacks,P
-Morgan,Mike,750000,NL,West,Arizona Diamondbacks,P
-Guillen,Jose,500000,NL,West,Arizona Diamondbacks,O
-McCracken,Quinton,500000,NL,West,Arizona Diamondbacks,O
-Durazo,Erubiel,375000,NL,West,Arizona Diamondbacks,B1
 Donnels,Chris,350000,NL,West,Arizona Diamondbacks,B3
+Durazo,Erubiel,375000,NL,West,Arizona Diamondbacks,B1
+Finley,Steve,5375000,NL,West,Arizona Diamondbacks,O
+Gonzalez,Luis,4333333,NL,West,Arizona Diamondbacks,O
+Grace,Mark,3000000,NL,West,Arizona Diamondbacks,B1
+Guillen,Jose,500000,NL,West,Arizona Diamondbacks,O
+Helling,Rick,3000000,NL,West,Arizona Diamondbacks,P
+Johnson,Randy,13350000,NL,West,Arizona Diamondbacks,P
+Kim,Byung-Hyun,762500,NL,West,Arizona Diamondbacks,P
+Klassen,Danny,227500,NL,West,Arizona Diamondbacks,B3
+Mantel,Matt,4333333,NL,West,Arizona Diamondbacks,P
+McCracken,Quinton,500000,NL,West,Arizona Diamondbacks,O
+Meoller,Chad,215000,NL,West,Arizona Diamondbacks,C
+Meyers,Mike,1533333,NL,West,Arizona Diamondbacks,P
+Miller,Damian,2650000,NL,West,Arizona Diamondbacks,C
+Morgan,Mike,750000,NL,West,Arizona Diamondbacks,P
 Oropesa,Edilberto,350000,NL,West,Arizona Diamondbacks,P
 Prinz,Bret,235000,NL,West,Arizona Diamondbacks,P
-Klassen,Danny,227500,NL,West,Arizona Diamondbacks,B3
-Barajas,Rod,215000,NL,West,Arizona Diamondbacks,C
-Meoller,Chad,215000,NL,West,Arizona Diamondbacks,C
+Reynoso,Armando,4125000,NL,West,Arizona Diamondbacks,P
+Schilling,Curt,10000000,NL,West,Arizona Diamondbacks,P
 Spivey,Junior,215000,NL,West,Arizona Diamondbacks,B2
-Walker,Larry,12666667,NL,West,Colorado Rockies,O
+Stottlemyre,Todd,8000000,NL,West,Arizona Diamondbacks,P
+Swindell,Greg,2833333,NL,West,Arizona Diamondbacks,P
+Williams,Matt,9500000,NL,West,Arizona Diamondbacks,B3
+Womack,Tony,4500000,NL,West,Arizona Diamondbacks,B2
+Aldridge,Cory,200000,NL,East,Atlanta Braves,O
+Blanco,Henry,1512500,NL,East,Atlanta Braves,C
+Castilla,Vinny,3000000,NL,East,Atlanta Braves,B3
+De Rosa,Mark,222500,NL,East,Atlanta Braves,SS
+Franco,Julio,600000,NL,East,Atlanta Braves,B1
+Furcal,Rafael,405000,NL,East,Atlanta Braves,SS
+Giles,Marcus,210000,NL,East,Atlanta Braves,B2
+Glavine,Tom,8623700,NL,East,Atlanta Braves,P
+Green,Nick,200000,NL,East,Atlanta Braves,B2
+Hammond,Chris,450000,NL,East,Atlanta Braves,P
+Helms,Wes,250000,NL,East,Atlanta Braves,B3
+Holmes,Darren,325000,NL,East,Atlanta Braves,P
+Jones,Andruw,10000000,NL,East,Atlanta Braves,O
+Jones,Chipper,11333333,NL,East,Atlanta Braves,O
+Lewis,Derrick,200000,NL,East,Atlanta Braves,P
+Ligtenberg,Kerry,1700000,NL,East,Atlanta Braves,P
+Lockhart,Keith,600000,NL,East,Atlanta Braves,B2
+Lombard,George,210000,NL,East,Atlanta Braves,O
+Lopez,Albie,4000000,NL,East,Atlanta Braves,P
+Lopez,Javy,6000000,NL,East,Atlanta Braves,C
+Maddux,Greg,13100000,NL,East,Atlanta Braves,P
+Marquis,Jason,230000,NL,East,Atlanta Braves,P
+Martinez,Dave,1500000,NL,East,Atlanta Braves,O
+Millwood,Kevin,3900000,NL,East,Atlanta Braves,P
+Moss,Damian,215000,NL,East,Atlanta Braves,P
+Ramirez,Horacio,200000,NL,East,Atlanta Braves,P
+Remlinger,Mike,2000000,NL,East,Atlanta Braves,P
+Sheffield,Gary,9916667,NL,East,Atlanta Braves,O
+Smoltz,John,7666667,NL,East,Atlanta Braves,P
+Spooneybarger,Tim,200000,NL,East,Atlanta Braves,P
+Surhoff,BJ,4500000,NL,East,Atlanta Braves,O
+Batista,Tony,4900000,AL,East,Baltimore Orioles,B3
+Bauer,Rich,200000,AL,East,Baltimore Orioles,P
+Belle,Albert,12368790,AL,East,Baltimore Orioles,O
+Bordick,Mike,4873439,AL,East,Baltimore Orioles,SS
+Brock,Chris,1000000,AL,East,Baltimore Orioles,P
+Conine,Jeff,3500000,AL,East,Baltimore Orioles,O
+Cordova,Marty,2500000,AL,East,Baltimore Orioles,O
+Erickson,Scott,5142986,AL,East,Baltimore Orioles,P
+Fordyce,Brook,2500000,AL,East,Baltimore Orioles,C
+Garcia,Luis,200000,AL,East,Baltimore Orioles,SS
+Gibbons,Jay,232500,AL,East,Baltimore Orioles,O
+Gil,Geronimo,200000,AL,East,Baltimore Orioles,C
+Groom,Buddy,2500000,AL,East,Baltimore Orioles,P
+Hairston,Jerry,300000,AL,East,Baltimore Orioles,B2
+Hentgen,Pat,4246877,AL,East,Baltimore Orioles,P
+Johnson,Jason,1800000,AL,East,Baltimore Orioles,P
+Julio,Jorge,216000,AL,East,Baltimore Orioles,P
+Lopez,Rodrigo,200000,AL,East,Baltimore Orioles,P
+Lunar,Fernando,225000,AL,East,Baltimore Orioles,C
+Maduro,Calvin,270000,AL,East,Baltimore Orioles,P
+Matos,Luis,230000,AL,East,Baltimore Orioles,O
+Mora,Melvin,350000,AL,East,Baltimore Orioles,O
+Moriarty,Mike,200000,AL,East,Baltimore Orioles,B2
+Parrish,John,215000,AL,East,Baltimore Orioles,P
+Ponson,Sidney,2650000,AL,East,Baltimore Orioles,P
+Richard,Chris,300000,AL,East,Baltimore Orioles,O
+Rivera,Luis,205000,AL,East,Baltimore Orioles,P
+Roberts,Willis,260000,AL,East,Baltimore Orioles,P
+Ryan,BJ,300000,AL,East,Baltimore Orioles,P
+Segui,David,6762895,AL,East,Baltimore Orioles,B1
+Singleton,Chris,1400000,AL,East,Baltimore Orioles,O
+Towers,Josh,245000,AL,East,Baltimore Orioles,P
+Arrojo,Rolando,1900000,AL,East,Boston Red Sox,P
+Baerga,Carlos,700000,AL,East,Boston Red Sox,B2
+Banks,Willie,450000,AL,East,Boston Red Sox,P
+Burkett,John,5500000,AL,East,Boston Red Sox,P
+Castillo,Frank,2250000,AL,East,Boston Red Sox,P
+Clark,Tony,5000000,AL,East,Boston Red Sox,B1
+Coleman,Michael,250000,AL,East,Boston Red Sox,O
+Crawford,Paxton,205000,AL,East,Boston Red Sox,P
+Damon,Johnny,7250000,AL,East,Boston Red Sox,O
+Daubach,Brian,2325000,AL,East,Boston Red Sox,O
+Fossum,Casey,215000,AL,East,Boston Red Sox,P
+Garces,Rich,2200000,AL,East,Boston Red Sox,P
+Garciaparra,Nomar,9000000,AL,East,Boston Red Sox,SS
+Henderson,Rickey,350000,AL,East,Boston Red Sox,O
+Hermanson,Dustin,5833333,AL,East,Boston Red Sox,P
+Hillenbrand,Shea,260000,AL,East,Boston Red Sox,B3
+Lowe,Derek,3125000,AL,East,Boston Red Sox,P
+Martinez,Pedro,14000000,AL,East,Boston Red Sox,P
+Merloni,Lou,290000,AL,East,Boston Red Sox,B2
+Mirabelli,Doug,650000,AL,East,Boston Red Sox,C
+Nixon,Trot,2700000,AL,East,Boston Red Sox,O
+Offerman,Jose,6750000,AL,East,Boston Red Sox,B1
+Oliver,Darren,7000000,AL,East,Boston Red Sox,P
+Pickering,Calvin,200000,AL,East,Boston Red Sox,B1
+Ramirez,Manny,15462727,AL,East,Boston Red Sox,O
+Sanchez,Rey,700000,AL,East,Boston Red Sox,SS
+Urbina,Ugueth,6700000,AL,East,Boston Red Sox,P
+Varitek,Jason,3500000,AL,East,Boston Red Sox,C
+Wakefield,Tim,3200000,AL,East,Boston Red Sox,P
+Wallace,Jeff,400000,AL,East,Boston Red Sox,P
+Alfonseca,Antonio,3550000,NL,Central,Chicago Cubs,P
+Alou,Moises,6000000,NL,Central,Chicago Cubs,O
+Bellhorn,Mark,224000,NL,Central,Chicago Cubs,B3
+Bere,Jason,3400000,NL,Central,Chicago Cubs,P
+Borowski,Joe,235000,NL,Central,Chicago Cubs,P
+Brown,Roosevelt,255000,NL,Central,Chicago Cubs,O
+Clement,Matt,2500000,NL,Central,Chicago Cubs,P
+Cruz,Juan,215000,NL,Central,Chicago Cubs,P
+DeShields,Delino,1250000,NL,Central,Chicago Cubs,B2
+Farnsworth,Kyle,410000,NL,Central,Chicago Cubs,P
+Fassero,Jeff,2800000,NL,Central,Chicago Cubs,P
+Girardi,Joe,1500000,NL,Central,Chicago Cubs,C
+Gonzalez,Alex,4250000,NL,Central,Chicago Cubs,SS
+Gordon,Tom,2800000,NL,Central,Chicago Cubs,P
+Hundley,Todd,6500000,NL,Central,Chicago Cubs,C
+Lewis,Darren,500000,NL,Central,Chicago Cubs,P
+Lieber,Jon,5833333,NL,Central,Chicago Cubs,P
+Machado,Robert,277500,NL,Central,Chicago Cubs,C
+McGriff,Fred,7250000,NL,Central,Chicago Cubs,B1
+Mueller,Bill,3450000,NL,Central,Chicago Cubs,B3
+Ohman,Will,203500,NL,Central,Chicago Cubs,P
+Ojeda,Augie,240000,NL,Central,Chicago Cubs,B3
+Osborne,Donovan,450000,NL,Central,Chicago Cubs,P
+Patterson,Corey,227500,NL,Central,Chicago Cubs,O
+Sanchez,Jesus,1425000,NL,Central,Chicago Cubs,P
+Sosa,Sammy,15000000,NL,Central,Chicago Cubs,O
+Stynes,Chris,1250000,NL,Central,Chicago Cubs,B3
+Wood,Kerry,3695000,NL,Central,Chicago Cubs,P
+Alomar,Sandy,2500000,AL,Central,Chicago White Sox,C
+Barcelo,Lorenzo,240000,AL,Central,Chicago White Sox,P
+Biddle,Lee,250000,AL,Central,Chicago White Sox,P
+Buehrle,Mark,310000,AL,Central,Chicago White Sox,P
+Clayton,Royce,4500000,AL,Central,Chicago White Sox,SS
+Durham,Ray,6300000,AL,Central,Chicago White Sox,B2
+Foulke,Keith,4000000,AL,Central,Chicago White Sox,P
+Garland,Jon,275000,AL,Central,Chicago White Sox,P
+Glover,Gary,240000,AL,Central,Chicago White Sox,P
+Graffanino,Tony,575000,AL,Central,Chicago White Sox,B3
+Howry,Tony,1200000,AL,Central,Chicago White Sox,P
+Johnson,Mark,320000,AL,Central,Chicago White Sox,B1
+Konerko,Paul,3800000,AL,Central,Chicago White Sox,B1
+Lee,Carlos,2700000,AL,Central,Chicago White Sox,O
+Liefer,Jeffrey,285000,AL,Central,Chicago White Sox,B3
+Lofton,Kenny,1025000,AL,Central,Chicago White Sox,O
+Marte,Damaso,227500,AL,Central,Chicago White Sox,P
+Ordonez,Magglio,6500000,AL,Central,Chicago White Sox,O
+Osuna,Antonio,2200000,AL,Central,Chicago White Sox,P
+Porzio,Mike,215000,AL,Central,Chicago White Sox,P
+Rauch,Jon,200000,AL,Central,Chicago White Sox,P
+Ritchie,Todd,3533333,AL,Central,Chicago White Sox,P
+Rowand,Aaron,225000,AL,Central,Chicago White Sox,O
+Thomas,Frank,9927000,AL,Central,Chicago White Sox,DH
+Valentin,Jose,5000000,AL,Central,Chicago White Sox,SS
+Wright,Danny,220000,AL,Central,Chicago White Sox,P
+Wunsch,Kelly,285000,AL,Central,Chicago White Sox,P
+Acevedo,Jose,233000,NL,Central,Cincinnati Reds,P
+Boone,Aaron,2100000,NL,Central,Cincinnati Reds,B3
+Brower,Jim,250000,NL,Central,Cincinnati Reds,P
+Casey,Sean,4000000,NL,Central,Cincinnati Reds,B1
+Castro,Juan,400000,NL,Central,Cincinnati Reds,SS
+Clark,Brady,233000,NL,Central,Cincinnati Reds,O
+Davis,Lance,246500,NL,Central,Cincinnati Reds,P
+Dessens,Elmer,1825000,NL,Central,Cincinnati Reds,P
+Dunn,Adam,250000,NL,Central,Cincinnati Reds,O
+Encarnacion,Juan,1550000,NL,Central,Cincinnati Reds,O
+Etherton,Seth,224000,NL,Central,Cincinnati Reds,P
+Graves,Danny,3525000,NL,Central,Cincinnati Reds,P
+Griffey,Ken Jr.,8557223,NL,Central,Cincinnati Reds,O
+Guerrero,Wilton,850000,NL,Central,Cincinnati Reds,B2
+Hamilton,Joey,500000,NL,Central,Cincinnati Reds,P
+Haynes,Jimmy,500000,NL,Central,Cincinnati Reds,P
+Jennings,Robin,310000,NL,Central,Cincinnati Reds,O
+La Rue,Jason,305000,NL,Central,Cincinnati Reds,C
+Larkin,Barry,9000000,NL,Central,Cincinnati Reds,SS
+Pineda,Luis,208000,NL,Central,Cincinnati Reds,P
+Reitsma,Chris,252000,NL,Central,Cincinnati Reds,P
+Riedling,John,240000,NL,Central,Cincinnati Reds,P
+Rijo,Jose,500000,NL,Central,Cincinnati Reds,P
+Silva,Jose,650000,NL,Central,Cincinnati Reds,P
+Stinnett,Kelly,1000000,NL,Central,Cincinnati Reds,C
+Sullivan,Scott,2200000,NL,Central,Cincinnati Reds,P
+Taylor,Reggie,200000,NL,Central,Cincinnati Reds,O
+Walker,Todd,2050000,NL,Central,Cincinnati Reds,B2
+White,Gabe,2491667,NL,Central,Cincinnati Reds,P
+Williamson,Scott,400000,NL,Central,Cincinnati Reds,P
+Anderson,Brady,200000,AL,Central,Cleveland Indians,O
+Baez,Danys,4125000,AL,Central,Cleveland Indians,P
+Bradley,Milton,221000,AL,Central,Cleveland Indians,O
+Branyan,Russell,251000,AL,Central,Cleveland Indians,B3
+Burks,Ellis,6666667,AL,Central,Cleveland Indians,DH
+Cabrera,Jolbert,266000,AL,Central,Cleveland Indians,B2
+Colon,Bartolo,4925000,AL,Central,Cleveland Indians,P
+Cordero,Will,4166667,AL,Central,Cleveland Indians,O
+Diaz,Einar,1087500,AL,Central,Cleveland Indians,C
+Drese,Ryan,206500,AL,Central,Cleveland Indians,P
+Escobar,Alex,205500,AL,Central,Cleveland Indians,O
+Finley,Chuck,7911948,AL,Central,Cleveland Indians,P
+Fryman,Travis,5825000,AL,Central,Cleveland Indians,B3
+Gutierrez,Ricky,2166667,AL,Central,Cleveland Indians,B2
+Lawton,Matt,5250000,AL,Central,Cleveland Indians,O
+McDonald,John,210000,AL,Central,Cleveland Indians,SS
+Nagy,Charles,6000000,AL,Central,Cleveland Indians,P
+Perez,Eddie,500000,AL,Central,Cleveland Indians,C
+Riggan,Jerrod,218000,AL,Central,Cleveland Indians,P
+Rincon,Ricardo,1500000,AL,Central,Cleveland Indians,P
+Riske,David,227500,AL,Central,Cleveland Indians,P
+Sabathia,CC,700000,AL,Central,Cleveland Indians,P
+Shuey,Paul,3250000,AL,Central,Cleveland Indians,P
+Taubensee,Eddie,1800000,AL,Central,Cleveland Indians,C
+Thorne,Jim,8000000,AL,Central,Cleveland Indians,B1
+Vizquel,Omar,4500000,AL,Central,Cleveland Indians,SS
+Westbrook,Jake,217000,AL,Central,Cleveland Indians,P
+Wickman,Bob,3400000,AL,Central,Cleveland Indians,P
+Wohlers,Mark,600000,AL,Central,Cleveland Indians,P
+Wright,Jaret,4312500,AL,Central,Cleveland Indians,P
+Agbayani,Benny,600000,NL,West,Colorado Rockies,O
+Bennett,Gary,290000,NL,West,Colorado Rockies,C
+Chacon,Shawn,235000,NL,West,Colorado Rockies,P
+Elarton,Scott,1400000,NL,West,Colorado Rockies,P
 Hampton,Mike,9503543,NL,West,Colorado Rockies,P
-Neagle,Denny,7000000,NL,West,Colorado Rockies,P
-Zeile,Todd,6833333,NL,West,Colorado Rockies,B3
+Harnisch,Pete,250000,NL,West,Colorado Rockies,P
 Helton,Todd,5000000,NL,West,Colorado Rockies,B1
 Hollandsworth,Todd,2750000,NL,West,Colorado Rockies,O
+James,Mike,500000,NL,West,Colorado Rockies,P
+Jennings,Jason,206000,NL,West,Colorado Rockies,P
 Jimenez,Jose,1937500,NL,West,Colorado Rockies,P
-Elarton,Scott,1400000,NL,West,Colorado Rockies,P
-Thomson,John,1100000,NL,West,Colorado Rockies,P
 Jones,Todd,1000000,NL,West,Colorado Rockies,P
-White,Rick,1000000,NL,West,Colorado Rockies,P
+Little,Mark,250000,NL,West,Colorado Rockies,O
+Mercker,Kent,500000,NL,West,Colorado Rockies,P
+Neagle,Denny,7000000,NL,West,Colorado Rockies,P
+Norton,Greg,525000,NL,West,Colorado Rockies,B3
+Ortiz,Jose,232000,NL,West,Colorado Rockies,B2
+Petrick,Ben,265000,NL,West,Colorado Rockies,C
+Pierre,Juan,600000,NL,West,Colorado Rockies,O
 Reyes,Dennys,900000,NL,West,Colorado Rockies,P
 Shumpert,Terry,775000,NL,West,Colorado Rockies,B2
-Agbayani,Benny,600000,NL,West,Colorado Rockies,O
-Pierre,Juan,600000,NL,West,Colorado Rockies,O
-Norton,Greg,525000,NL,West,Colorado Rockies,B3
-James,Mike,500000,NL,West,Colorado Rockies,P
-Mercker,Kent,500000,NL,West,Colorado Rockies,P
 Speier,Justin,310000,NL,West,Colorado Rockies,P
-Bennett,Gary,290000,NL,West,Colorado Rockies,C
-Petrick,Ben,265000,NL,West,Colorado Rockies,C
-Harnisch,Pete,250000,NL,West,Colorado Rockies,P
-Little,Mark,250000,NL,West,Colorado Rockies,O
-Chacon,Shawn,235000,NL,West,Colorado Rockies,P
-Ortiz,Jose,232000,NL,West,Colorado Rockies,B2
+Thomson,John,1100000,NL,West,Colorado Rockies,P
 Uribe,Juan,222000,NL,West,Colorado Rockies,SS
-Jennings,Jason,206000,NL,West,Colorado Rockies,P
-Brown,Kevin,15714286,NL,West,Los Angeles Dodgers,P
-Green,Shawn,13416667,NL,West,Los Angeles Dodgers,O
-Dreifort,Darren,9400000,NL,West,Los Angeles Dodgers,P
+Walker,Larry,12666667,NL,West,Colorado Rockies,O
+White,Rick,1000000,NL,West,Colorado Rockies,P
+Zeile,Todd,6833333,NL,West,Colorado Rockies,B3
+Acevedo,Juan,850000,AL,Central,Detroit Tigers,P
+Anderson,Matt,1800000,AL,Central,Detroit Tigers,P
+Cornejo,Nate,218000,AL,Central,Detroit Tigers,P
+Cruz,Jacob,400000,AL,Central,Detroit Tigers,O
+Easley,Damion,6250000,AL,Central,Detroit Tigers,B3
+Farnsworth,Jeff,200000,AL,Central,Detroit Tigers,P
+Fick,Robert,1150000,AL,Central,Detroit Tigers,B1
+Halter,Shane,1500000,AL,Central,Detroit Tigers,SS
+Higginson,Bobby,5850000,AL,Central,Detroit Tigers,O
+Jackson,Damian,625000,AL,Central,Detroit Tigers,B2
+Lima,Jose,7250000,AL,Central,Detroit Tigers,P
+Macias,Jose,375000,AL,Central,Detroit Tigers,O
+Magree,Wendell,425000,AL,Central,Detroit Tigers,O
+Meluskey,Mitch,345000,AL,Central,Detroit Tigers,C
+Miller,Matt,202500,AL,Central,Detroit Tigers,P
+Moehler,Brian,2400000,AL,Central,Detroit Tigers,P
+Palmer,Dean,8000000,AL,Central,Detroit Tigers,B3
+Paniagua,Jose,1325000,AL,Central,Detroit Tigers,P
+Paquette,Craig,2125000,AL,Central,Detroit Tigers,B3
+Patterson,Danny,1700000,AL,Central,Detroit Tigers,P
+Pearson,Terry,200000,AL,Central,Detroit Tigers,P
+Pettyjohn,Adam,217500,AL,Central,Detroit Tigers,P
+Redman,Mark,300000,AL,Central,Detroit Tigers,P
+Rivera,Mike,200000,AL,Central,Detroit Tigers,C
+Simon,Randall,290000,AL,Central,Detroit Tigers,B1
+Sparks,Steve,3000000,AL,Central,Detroit Tigers,P
+Weaver,Jeff,2350000,AL,Central,Detroit Tigers,P
+Young,Dmitri,5500000,AL,Central,Detroit Tigers,O
+Almanza,Armando,346000,NL,East,Florida Marlins,P
+Baez,Benito,202000,NL,East,Florida Marlins,P
+Beckett,Josh,2156250,NL,East,Florida Marlins,P
+Burnett,AJ,367500,NL,East,Florida Marlins,P
+Castillo,Luis,3325000,NL,East,Florida Marlins,B2
+Castro,Ramon,216000,NL,East,Florida Marlins,C
+Darensbourg,Vic,775000,NL,East,Florida Marlins,P
+Dempster,Ryan,2475000,NL,East,Florida Marlins,P
+Floyd,Cliff,6500000,NL,East,Florida Marlins,O
+Fox,Andy,700000,NL,East,Florida Marlins,SS
+Gonzalez,Alex,1700000,NL,East,Florida Marlins,SS
+Johnson,Charles,5000000,NL,East,Florida Marlins,C
+Knotts,Gary,200000,NL,East,Florida Marlins,P
+Lee,Derrek,2700000,NL,East,Florida Marlins,B1
+Looper,Braden,800000,NL,East,Florida Marlins,P
+Lowell,Mike,2300000,NL,East,Florida Marlins,B3
+Malloy,Martin,210000,NL,East,Florida Marlins,B2
+Millar,Kevin,900000,NL,East,Florida Marlins,B1
+Nunez,Vladimir,360000,NL,East,Florida Marlins,P
+Olsen,Kevin,200000,NL,East,Florida Marlins,P
+Owens,Eric,2166667,NL,East,Florida Marlins,O
+Ozuna,Pablo,202000,NL,East,Florida Marlins,B2
+Penny,Brad,377500,NL,East,Florida Marlins,P
+Raines,Tim,350000,NL,East,Florida Marlins,O
+Redmond,Mike,650000,NL,East,Florida Marlins,C
+Tavarez,Julian,3100000,NL,East,Florida Marlins,P
+Tejera,Michael,201000,NL,East,Florida Marlins,P
+Wilson,Preston,3500000,NL,East,Florida Marlins,O
+Ausmus,Brad,5000000,NL,Central,Houston Astros,C
+Bagwell,Jeff,11000000,NL,Central,Houston Astros,B1
+Berkman,Brian,500000,NL,Central,Houston Astros,O
+Biggio,Craig,8750000,NL,Central,Houston Astros,O
+Blum,Geoff,315000,NL,Central,Houston Astros,B3
+Brocail,Doug,750000,NL,Central,Houston Astros,P
+Cruz,Nelson,375000,NL,Central,Houston Astros,P
+Dotel,Octavio,435000,NL,Central,Houston Astros,P
+Ensberg,Morgan,200000,NL,Central,Houston Astros,B3
+Everett,Adam,366750,NL,Central,Houston Astros,SS
+Hernandez,Carlos,210000,NL,Central,Houston Astros,P
+Hidalgo,Richard,5500000,NL,Central,Houston Astros,O
+Hunter,Brian,1000000,NL,Central,Houston Astros,O
+Linebrink,Scott,230000,NL,Central,Houston Astros,P
+Lugo,Julio,325000,NL,Central,Houston Astros,SS
+Mathews,TJ,1000000,NL,Central,Houston Astros,P
+Merced,Orlando,1050000,NL,Central,Houston Astros,O
+Miller,Wade,350000,NL,Central,Houston Astros,P
+Mlicki,Dave,6200000,NL,Central,Houston Astros,P
+Oswalt,Roy,300000,NL,Central,Houston Astros,P
+Pichardo,Hipolito,500000,NL,Central,Houston Astros,P
+Reynolds,Shane,7666667,NL,Central,Houston Astros,P
+Stone,Ricky,200000,NL,Central,Houston Astros,P
+Vizcaino,Jose,1700000,NL,Central,Houston Astros,SS
+Wagner,Billy,8000000,NL,Central,Houston Astros,P
+Ward,Daryle,375000,NL,Central,Houston Astros,O
+Zuan,Gregg,1150000,NL,Central,Houston Astros,C
+Affeldt,Jeremy,200000,AL,Central,KansasCity Royals,P
+Alicea,Luis,800000,AL,Central,KansasCity Royals,B2
+Asencio,Miguel,200000,AL,Central,KansasCity Royals,P
+Austin,Jeff,205000,AL,Central,KansasCity Royals,P
+Bailey,Cory,320000,AL,Central,KansasCity Royals,P
+Beltran,Carlos,3500000,AL,Central,KansasCity Royals,O
+Berger,Brandon,202000,AL,Central,KansasCity Royals,O
+Byrd,Paul,850000,AL,Central,KansasCity Royals,P
+Durbin,Chad,275000,AL,Central,KansasCity Royals,P
+Febles,Carlos,775000,AL,Central,KansasCity Royals,B2
+Grimsley,Jason,1900000,AL,Central,KansasCity Royals,P
+Hernandez,Roberto,6000000,AL,Central,KansasCity Royals,P
+Hinch,AJ,260000,AL,Central,KansasCity Royals,C
+Ibanez,Raul,800000,AL,Central,KansasCity Royals,O
+Knoblauch,Chuck,2000000,AL,Central,KansasCity Royals,O
+May,Darrell,375000,AL,Central,KansasCity Royals,P
+Mayne,Brent,2500000,AL,Central,KansasCity Royals,C
+McCarty,Dave,850000,AL,Central,KansasCity Royals,O
+Perez,Neifi,4100000,AL,Central,KansasCity Royals,SS
+Quinn,Mark,375000,AL,Central,KansasCity Royals,O
+Randa,Joe,4000000,AL,Central,KansasCity Royals,B3
+Reichart,Dan,310000,AL,Central,KansasCity Royals,P
+Sadler,Donnie,255000,AL,Central,KansasCity Royals,B2
+Shouse,Brian,215000,AL,Central,KansasCity Royals,P
+Stein,Blake,1350000,AL,Central,KansasCity Royals,P
+Suppan,Jeff,4150000,AL,Central,KansasCity Royals,P
+Sweeney,Mike,8000000,AL,Central,KansasCity Royals,B1
+Tucker,Michael,2250000,AL,Central,KansasCity Royals,O
+Wilson,Kris,240000,AL,Central,KansasCity Royals,P
 Ashby,Andy,8000000,NL,West,Los Angeles Dodgers,P
-Karros,Eric,6875000,NL,West,Los Angeles Dodgers,B1
-Jordan,Brian,6600000,NL,West,Los Angeles Dodgers,O
+Beltre,Adrian,2800000,NL,West,Los Angeles Dodgers,B3
+Bocachica,Hiram,225000,NL,West,Los Angeles Dodgers,O
+Brown,Kevin,15714286,NL,West,Los Angeles Dodgers,P
+Carrara,Giovanni,360000,NL,West,Los Angeles Dodgers,P
+Christiansen,McKay,222500,NL,West,Los Angeles Dodgers,O
+Cora,Alex,625000,NL,West,Los Angeles Dodgers,SS
 Daal,Omar,5000000,NL,West,Los Angeles Dodgers,P
+Dreifort,Darren,9400000,NL,West,Los Angeles Dodgers,P
+Gagne,Eric,300000,NL,West,Los Angeles Dodgers,P
+Green,Shawn,13416667,NL,West,Los Angeles Dodgers,O
 Grissom,Marquis,5000000,NL,West,Los Angeles Dodgers,O
 Grudzielanek,Mark,5000000,NL,West,Los Angeles Dodgers,B2
-Nomo,Hideo,4500000,NL,West,Los Angeles Dodgers,P
-Mulholland,Terry,3250000,NL,West,Los Angeles Dodgers,P
-Quantrill,Paul,2833333,NL,West,Los Angeles Dodgers,P
-Beltre,Adrian,2800000,NL,West,Los Angeles Dodgers,B3
-Kreuter,Chad,1100000,NL,West,Los Angeles Dodgers,C
-Ishii,Kazuhisa,900000,NL,West,Los Angeles Dodgers,P
 Hansen,Dave,675000,NL,West,Los Angeles Dodgers,B1
-Cora,Alex,625000,NL,West,Los Angeles Dodgers,SS
-Perez,Odalis,625000,NL,West,Los Angeles Dodgers,P
-Lo Duca,Paul,546667,NL,West,Los Angeles Dodgers,C
-Reboulet,Jeff,450000,NL,West,Los Angeles Dodgers,B2
-Carrara,Giovanni,360000,NL,West,Los Angeles Dodgers,P
-Gagne,Eric,300000,NL,West,Los Angeles Dodgers,P
-Bocachica,Hiram,225000,NL,West,Los Angeles Dodgers,O
-Christiansen,McKay,222500,NL,West,Los Angeles Dodgers,O
-Roberts,Dave,217500,NL,West,Los Angeles Dodgers,O
+Ishii,Kazuhisa,900000,NL,West,Los Angeles Dodgers,P
 Izturis,Cesar,215000,NL,West,Los Angeles Dodgers,SS
-Lankford,Ray,8100000,NL,West,San Diego Padres,O
-Hoffman,Trevor,6600000,NL,West,San Diego Padres,P
-Klesko,Ryan,6000000,NL,West,San Diego Padres,B1
-Jones,Bobby,4000000,NL,West,San Diego Padres,P
-Kotsay,Mark,3050000,NL,West,San Diego Padres,O
-Nevin,Phil,2600000,NL,West,San Diego Padres,O
-Trammell,Bubba,1500000,NL,West,San Diego Padres,O
-Jarvis,Kevin,1250000,NL,West,San Diego Padres,P
-Lampkin,Tom,1250000,NL,West,San Diego Padres,C
-Tomko,Brett,1100000,NL,West,San Diego Padres,P
+Jordan,Brian,6600000,NL,West,Los Angeles Dodgers,O
+Karros,Eric,6875000,NL,West,Los Angeles Dodgers,B1
+Kreuter,Chad,1100000,NL,West,Los Angeles Dodgers,C
+Lo Duca,Paul,546667,NL,West,Los Angeles Dodgers,C
+Mulholland,Terry,3250000,NL,West,Los Angeles Dodgers,P
+Nomo,Hideo,4500000,NL,West,Los Angeles Dodgers,P
+Perez,Odalis,625000,NL,West,Los Angeles Dodgers,P
+Quantrill,Paul,2833333,NL,West,Los Angeles Dodgers,P
+Reboulet,Jeff,450000,NL,West,Los Angeles Dodgers,B2
+Roberts,Dave,217500,NL,West,Los Angeles Dodgers,O
+Bako,Paul,750000,NL,Central,Milwaukee Brewers,C
+Belliard,Ronnie,1650000,NL,Central,Milwaukee Brewers,B2
+Buddie,Mike,218000,NL,Central,Milwaukee Brewers,P
+Cabrera,Jose,705000,NL,Central,Milwaukee Brewers,P
+Casanova,Raul,850000,NL,Central,Milwaukee Brewers,C
+DeJean,Mike,1400000,NL,Central,Milwaukee Brewers,P
+Fox,Chad,1200000,NL,Central,Milwaukee Brewers,P
+Hammonds,Jeffrey,7500000,NL,Central,Milwaukee Brewers,O
+Harris,Lenny,1100000,NL,Central,Milwaukee Brewers,B3
+Hernandez,Jose,3333333,NL,Central,Milwaukee Brewers,B3
+Houston,Tyler,1625000,NL,Central,Milwaukee Brewers,B3
+Jenkins,Geoff,3187500,NL,Central,Milwaukee Brewers,O
+King,Ray,300000,NL,Central,Milwaukee Brewers,P
+Leskanic,Curtis,3500000,NL,Central,Milwaukee Brewers,P
+Lopez,Luis,700000,NL,Central,Milwaukee Brewers,B1
+Loretta,Mark,5000000,NL,Central,Milwaukee Brewers,B2
+Neugebauer,Nick,202000,NL,Central,Milwaukee Brewers,P
+Nomura,Takaki,430000,NL,Central,Milwaukee Brewers,P
+Ochoa,Alex,2750000,NL,Central,Milwaukee Brewers,O
+Quevedo,Ruben,252500,NL,Central,Milwaukee Brewers,P
+Rigdon,Paul,255000,NL,Central,Milwaukee Brewers,P
+Rusch,Glendon,2800000,NL,Central,Milwaukee Brewers,P
+Sanchez,Alexis,202000,NL,Central,Milwaukee Brewers,O
+Sexson,Richie,3125000,NL,Central,Milwaukee Brewers,B1
+Sheets,Ben,290000,NL,Central,Milwaukee Brewers,P
+Stairs,Matt,500000,NL,Central,Milwaukee Brewers,O
+Vizcaino,Luis,212500,NL,Central,Milwaukee Brewers,P
+Wright,Jamey,4250000,NL,Central,Milwaukee Brewers,P
+Young,Eric,2000000,NL,Central,Milwaukee Brewers,B2
+Buchanan,Brian,225000,AL,Central,MinnesotaTwins,O
+Canizaro,Jay,235000,AL,Central,MinnesotaTwins,B2
+Cressend,Jack,222500,AL,Central,MinnesotaTwins,P
+Duvall,Michael,225000,AL,Central,MinnesotaTwins,P
+Guardado,Eddie,1800000,AL,Central,MinnesotaTwins,P
+Guzman,Cristian,1425000,AL,Central,MinnesotaTwins,SS
+Hawkins,Latroy,2750000,AL,Central,MinnesotaTwins,P
+Hocking,Denny,1100000,AL,Central,MinnesotaTwins,SS
+Hunter,Torii,2400000,AL,Central,MinnesotaTwins,O
+Jackson,Mike,500000,AL,Central,MinnesotaTwins,P
+Jones,Jacque,312500,AL,Central,MinnesotaTwins,O
+Koskie,Corey,2150000,AL,Central,MinnesotaTwins,B3
+Lohse,Kyle,215000,AL,Central,MinnesotaTwins,P
+Mays,Joe,2350000,AL,Central,MinnesotaTwins,P
+Mientkiewicz,Doug,285000,AL,Central,MinnesotaTwins,B1
+Milton,Eric,4000000,AL,Central,MinnesotaTwins,P
+Mohr,Dustin,200000,AL,Central,MinnesotaTwins,O
+Morris,Warren,275000,AL,Central,MinnesotaTwins,B2
+Ortiz,David,950000,AL,Central,MinnesotaTwins,B1
+Pierzynski,AJ,250000,AL,Central,MinnesotaTwins,C
+Prince,Tom,450000,AL,Central,MinnesotaTwins,C
+Radke,Brad,8750000,AL,Central,MinnesotaTwins,P
+Reed,Rick,7000000,AL,Central,MinnesotaTwins,P
+Rivas,Luis,240000,AL,Central,MinnesotaTwins,B2
+Romero,JC,215000,AL,Central,MinnesotaTwins,P
+Wells,Bob,1700000,AL,Central,MinnesotaTwins,P
+Armas,Tony Jr.,335000,NL,East,Montreal Expos,P
+Barrett,Michael,1150000,NL,East,Montreal Expos,C
+Bergeron,Peter,250000,NL,East,Montreal Expos,O
+Cabrera,Orlando,2400000,NL,East,Montreal Expos,SS
+Collier,Lou,250000,NL,East,Montreal Expos,B2
+Downs,Scott,225000,NL,East,Montreal Expos,P
+Galarraga,Andres,500000,NL,East,Montreal Expos,B1
+Guerrero,Vladiimir,8000000,NL,East,Montreal Expos,O
+Herges,Matt,370000,NL,East,Montreal Expos,P
+Lloyd,Graeme,3000000,NL,East,Montreal Expos,P
+Mattes,Troy,200000,NL,East,Montreal Expos,P
+Mordecai,Mike,500000,NL,East,Montreal Expos,SS
+Ohka,Tomo,240000,NL,East,Montreal Expos,P
+Pavano,Carl,1312500,NL,East,Montreal Expos,P
+Reames,Britt,235000,NL,East,Montreal Expos,P
+Rodriguez,Henry,300000,NL,East,Montreal Expos,O
+Schneider,Brain,212000,NL,East,Montreal Expos,C
+Stevens,Lee,4000000,NL,East,Montreal Expos,B1
+Stewart,Scott,235000,NL,East,Montreal Expos,P
+Strickland,Scott,355000,NL,East,Montreal Expos,P
+Tatis,Fernando,4500000,NL,East,Montreal Expos,B3
+Truby,Chris,270000,NL,East,Montreal Expos,B3
+Tucker,TJ,200000,NL,East,Montreal Expos,P
+Vasquez,Javier,4725000,NL,East,Montreal Expos,P
+Vidro,Jose,4000000,NL,East,Montreal Expos,B2
+Vosberg,Ed,400000,NL,East,Montreal Expos,P
+Wilkerson,Brad,206000,NL,East,Montreal Expos,O
+Yoshii,Masato,300000,NL,East,Montreal Expos,P
+Alfonzo,Edgardo,6200000,NL,East,New York Mets,B3
+Alomar,Roberto,7939664,NL,East,New York Mets,B2
+Astacio,Pedro,4000000,NL,East,New York Mets,P
+Benitez,Armando,5812500,NL,East,New York Mets,P
+Burnitz,Jeromy,7166667,NL,East,New York Mets,O
+Cedeno,Roger,2375000,NL,East,New York Mets,O
+Chen,Bruce,300000,NL,East,New York Mets,P
+D'Amico,Jeff,1840000,NL,East,New York Mets,P
+Davis,Kane,235000,NL,East,New York Mets,P
+Estes,Shawn,6200000,NL,East,New York Mets,P
+Franco,John,3083333,NL,East,New York Mets,P
+Guthrie,Mark,1800000,NL,East,New York Mets,P
+Johnson,Mark,475000,NL,East,New York Mets,B1
+Komiyama,Saturo,500000,NL,East,New York Mets,P
+Leiter,Al,9250000,NL,East,New York Mets,P
+Matthews,Gary Jr.,237500,NL,East,New York Mets,O
+McEwing,Joe,750000,NL,East,New York Mets,O
+Ordonez,Rey,6250000,NL,East,New York Mets,SS
+Payton,Jay,362500,NL,East,New York Mets,O
+Piazza,Mike,10571429,NL,East,New York Mets,C
+Roberts,Grant,212500,NL,East,New York Mets,P
+Traschel,Steve,4300000,NL,East,New York Mets,P
+Valentin,John,550000,NL,East,New York Mets,B3
+Vaughn,Mo,12166667,NL,East,New York Mets,B1
+Weathers,David,1833333,NL,East,New York Mets,P
+Wilson,Vance,222500,NL,East,New York Mets,C
+Castillo,Alberto,650000,AL,East,New York Yankees,C
+Choate,Randy,223350,AL,East,New York Yankees,P
+Clemens,Roger,10300000,AL,East,New York Yankees,P
+Coomer,Ron,750000,AL,East,New York Yankees,B1
+Giambi,Jason,10428571,AL,East,New York Yankees,B1
+Hernandez,Orlando,3200000,AL,East,New York Yankees,P
+Hitchcock,Sterling,4936719,AL,East,New York Yankees,P
+Jeter,Derek,14600000,AL,East,New York Yankees,SS
+Johnson,Nick,220650,AL,East,New York Yankees,B1
+Karsay,Steve,4000000,AL,East,New York Yankees,P
+Keisler,Randy,211400,AL,East,New York Yankees,P
+Lilly,Ted,237150,AL,East,New York Yankees,P
+Mendoza,Ramiro,2600000,AL,East,New York Yankees,P
+Mussina,Mike,11000000,AL,East,New York Yankees,P
+Parker,Christian,218600,AL,East,New York Yankees,P
+Pettitte,Andy,9500000,AL,East,New York Yankees,P
+Posada,Jorge,7000000,AL,East,New York Yankees,C
+Rivera,Mariano,9450000,AL,East,New York Yankees,P
+Soriano,Alfonso,630000,AL,East,New York Yankees,B2
+Spencer,Shane,885000,AL,East,New York Yankees,O
+Stanton,Mike,2500000,AL,East,New York Yankees,P
+Tessmer,Jay,210000,AL,East,New York Yankees,P
+Vander Wal,John,1850000,AL,East,New York Yankees,O
+Ventura,Robin,8500000,AL,East,New York Yankees,B1
+Wells,David,2250000,AL,East,New York Yankees,P
+White,Rondell,4500000,AL,East,New York Yankees,O
+Williams,Bernie,12357143,AL,East,New York Yankees,O
+Williams,Gerald,2000000,AL,East,New York Yankees,O
+Wilson,Enrique,720000,AL,East,New York Yankees,B3
+Bradford,Chad,235000,AL,West,Oakland A's,P
+Chavez,Eric,2125000,AL,West,Oakland A's,B3
+Colangelo,Mike,300000,AL,West,Oakland A's,O
+Dye,Jermaine,7166667,AL,West,Oakland A's,O
+Giambi,Jeremy,1065000,AL,West,Oakland A's,B1
+Hatteberg,Scott,900000,AL,West,Oakland A's,B1
+Hernandez,Ramon,497500,AL,West,Oakland A's,C
+Hiljus,Erik,237500,AL,West,Oakland A's,P
+Holtz,Mike,825000,AL,West,Oakland A's,P
+Hudson,Tim,875000,AL,West,Oakland A's,P
+Justice,David,7000000,AL,West,Oakland A's,O
+Koch,Billy,2433333,AL,West,Oakland A's,P
+Lidle,Cory,2550000,AL,West,Oakland A's,P
+Long,Terrence,675000,AL,West,Oakland A's,O
+Magnante,Mike,1200000,AL,West,Oakland A's,P
+Mecir,Jim,2366667,AL,West,Oakland A's,P
+Menechino,Frank,295000,AL,West,Oakland A's,B2
+Mulder,Mark,800000,AL,West,Oakland A's,P
+Myers,Greg,800000,AL,West,Oakland A's,C
+Pena,Carlos,202000,AL,West,Oakland A's,B1
+Saenz,Olmedo,800000,AL,West,Oakland A's,B1
+Tam,Jeff,700000,AL,West,Oakland A's,P
+Tejada,Miguel,3625000,AL,West,Oakland A's,SS
+Valdez,Mario,223000,AL,West,Oakland A's,B1
+Velarde,Randy,1000000,AL,West,Oakland A's,B2
+Venafro,Mike,812500,AL,West,Oakland A's,P
+Zito,Barry,295000,AL,West,Oakland A's,P
+Abreu,Bobby,6333333,NL,East,Philadelphia Phillies,O
+Adams,Terry,2700000,NL,East,Philadelphia Phillies,P
+Anderson,Marlon,400000,NL,East,Philadelphia Phillies,B2
+Bottalico,Ricky,1500000,NL,East,Philadelphia Phillies,P
+Burrell,Pat,1905000,NL,East,Philadelphia Phillies,O
+Coggin,David,240000,NL,East,Philadelphia Phillies,P
+Cormier,Rheal,2883333,NL,East,Philadelphia Phillies,P
+Duckworth,Brandon,235000,NL,East,Philadelphia Phillies,P
+Glanville,Doug,4000000,NL,East,Philadelphia Phillies,O
+Hollins,Dave,400000,NL,East,Philadelphia Phillies,P
+Ledee,Ricky,750000,NL,East,Philadelphia Phillies,O
+Lee,Travis,3000000,NL,East,Philadelphia Phillies,B1
+Lieberthal,Mike,7333333,NL,East,Philadelphia Phillies,C
+Mabry,John,500000,NL,East,Philadelphia Phillies,O
+Mercado,Hector,255000,NL,East,Philadelphia Phillies,P
+Mesa,Jose,4200000,NL,East,Philadelphia Phillies,P
+Padilla,Vicente,245000,NL,East,Philadelphia Phillies,P
+Perez,Tomas,475000,NL,East,Philadelphia Phillies,SS
+Person,Robert,6250000,NL,East,Philadelphia Phillies,P
+Politte,Cliff,245000,NL,East,Philadelphia Phillies,P
+Pratt,Todd,650000,NL,East,Philadelphia Phillies,C
+Punto,Nick,200000,NL,East,Philadelphia Phillies,SS
+Rolen,Scott,8600000,NL,East,Philadelphia Phillies,B3
+Rollins,Jimmy,355000,NL,East,Philadelphia Phillies,SS
+Santiago,Jose,700000,NL,East,Philadelphia Phillies,P
+Silva,Carlos,200000,NL,East,Philadelphia Phillies,P
+Wendell,Turk,2950000,NL,East,Philadelphia Phillies,P
+Wolf,Randy,450000,NL,East,Philadelphia Phillies,P
+Anderson,Jimmy,305000,NL,Central,Pittsburgh Pirates,P
+Beimel,Joe,227000,NL,Central,Pittsburgh Pirates,P
+Benjamin,Mike,925000,NL,Central,Pittsburgh Pirates,B3
+Benson,Kris,2700000,NL,Central,Pittsburgh Pirates,P
+Boehringer,Brian,675000,NL,Central,Pittsburgh Pirates,P
+Brown,Adrian,450000,NL,Central,Pittsburgh Pirates,O
+Fetters,Mike,2275000,NL,Central,Pittsburgh Pirates,P
+Fogg,Josh,203000,NL,Central,Pittsburgh Pirates,P
+Giles,Brian,8063003,NL,Central,Pittsburgh Pirates,O
+Hermansen,Chad,223000,NL,Central,Pittsburgh Pirates,P
+Kendall,Jason,6571429,NL,Central,Pittsburgh Pirates,C
+Lincoln,Mike,267500,NL,Central,Pittsburgh Pirates,P
+Lowe,Sean,950000,NL,Central,Pittsburgh Pirates,P
+Mackowiak,Rob,227000,NL,Central,Pittsburgh Pirates,O
+Mearas,Pat,3790000,NL,Central,Pittsburgh Pirates,B2
+Nunez,Abraham,200000,NL,Central,Pittsburgh Pirates,P
+Osik,Keith,625000,NL,Central,Pittsburgh Pirates,C
+Ramirez,Aramis,500000,NL,Central,Pittsburgh Pirates,B3
+Reese,Pokey,1750000,NL,Central,Pittsburgh Pirates,B2
+Rios,Armando,925000,NL,Central,Pittsburgh Pirates,O
+Sauerbeck,Scott,766667,NL,Central,Pittsburgh Pirates,P
+Villone,Ron,900000,NL,Central,Pittsburgh Pirates,P
+Vogelsong,Ryan,212500,NL,Central,Pittsburgh Pirates,P
+Wells,Kip,272500,NL,Central,Pittsburgh Pirates,P
+Williams,Dave,234000,NL,Central,Pittsburgh Pirates,P
+Williams,Mike,2000000,NL,Central,Pittsburgh Pirates,P
+Wilson,Craig,229000,NL,Central,Pittsburgh Pirates,O
+Wilson,Jack,232000,NL,Central,Pittsburgh Pirates,SS
+Young,Kevin,5625000,NL,Central,Pittsburgh Pirates,B1
+Boyd,Jason,253000,NL,West,San Diego Padres,P
+Burroughs,Sean,200000,NL,West,San Diego Padres,B3
 Cruz,Deivi,600000,NL,West,San Diego Padres,SS
+Davey,Tom,270000,NL,West,San Diego Padres,P
+Eaton,Adam,280000,NL,West,San Diego Padres,P
 Embree,Alan,500000,NL,West,San Diego Padres,P
+Fikac,Jeremy,210000,NL,West,San Diego Padres,P
 Gant,Ron,500000,NL,West,San Diego Padres,O
-Reed,Steve,500000,NL,West,San Diego Padres,P
 Gonzalez,Wiki,350000,NL,West,San Diego Padres,C
+Hoffman,Trevor,6600000,NL,West,San Diego Padres,P
 Hubbard,Trenidad,300000,NL,West,San Diego Padres,O
+Jarvis,Kevin,1250000,NL,West,San Diego Padres,P
+Jimenez,D'Angelo,240000,NL,West,San Diego Padres,B2
+Jones,Bobby,4000000,NL,West,San Diego Padres,P
+Klesko,Ryan,6000000,NL,West,San Diego Padres,B1
+Kotsay,Mark,3050000,NL,West,San Diego Padres,O
+Lampkin,Tom,1250000,NL,West,San Diego Padres,C
+Lankford,Ray,8100000,NL,West,San Diego Padres,O
+Lawrence,Brian,235000,NL,West,San Diego Padres,P
+Nevin,Phil,2600000,NL,West,San Diego Padres,O
+Nunez,Jose,245000,NL,West,San Diego Padres,P
+Ramsay,Rob,235000,NL,West,San Diego Padres,P
+Reed,Steve,500000,NL,West,San Diego Padres,P
 Sweeney,Mark,300000,NL,West,San Diego Padres,B1
 Tollberg,Brian,285000,NL,West,San Diego Padres,P
-Eaton,Adam,280000,NL,West,San Diego Padres,P
-Davey,Tom,270000,NL,West,San Diego Padres,P
-Walker,Kevin,267000,NL,West,San Diego Padres,P
-Boyd,Jason,253000,NL,West,San Diego Padres,P
-Nunez,Jose,245000,NL,West,San Diego Padres,P
-Jimenez,D'Angelo,240000,NL,West,San Diego Padres,B2
-Lawrence,Brian,235000,NL,West,San Diego Padres,P
-Ramsay,Rob,235000,NL,West,San Diego Padres,P
-Fikac,Jeremy,210000,NL,West,San Diego Padres,P
+Tomko,Brett,1100000,NL,West,San Diego Padres,P
+Trammell,Bubba,1500000,NL,West,San Diego Padres,O
 Vasquez,Ramon,205000,NL,West,San Diego Padres,SS
-Burroughs,Sean,200000,NL,West,San Diego Padres,B3
-Bonds,Barry,15000000,NL,West,San Francisco Giants,O
-Nen,Robb,8300000,NL,West,San Francisco Giants,P
-Kent,Jeff,6000000,NL,West,San Francisco Giants,B2
-Snow,JT,5900000,NL,West,San Francisco Giants,B1
-Aurilla,Rich,5250000,NL,West,San Francisco Giants,SS
-Schmidt,Jason,4937500,NL,West,San Francisco Giants,P
-Reuter,Kirk,4866667,NL,West,San Francisco Giants,P
-Benard,Marvin,4200000,NL,West,San Francisco Giants,O
-Hernandez,Livan,3625000,NL,West,San Francisco Giants,P
-Ortiz,Russ,2862500,NL,West,San Francisco Giants,P
-Rodriguez,Felix,2516667,NL,West,San Francisco Giants,P
-Santiago,Benito,2044168,NL,West,San Francisco Giants,C
-Bell,David,1750000,NL,West,San Francisco Giants,B3
-Sanders,Reggie,1750000,NL,West,San Francisco Giants,O
-Christiansen,Jason,1733333,NL,West,San Francisco Giants,P
-Worrell,Tim,1400000,NL,West,San Francisco Giants,P
-Shinjo,Tsuyoshi,1350000,NL,West,San Francisco Giants,O
-Witasick,Jay,1250000,NL,West,San Francisco Giants,P
-Dunston,Shawon,1150000,NL,West,San Francisco Giants,O
-Martinez,Ramon,775000,NL,West,San Francisco Giants,B2
-Murray,Calvin,305000,NL,West,San Francisco Giants,O
-Fultz,Aaron,300000,NL,West,San Francisco Giants,P
-Feliz,Pedro,222000,NL,West,San Francisco Giants,B3
-Jensen,Ryan,209000,NL,West,San Francisco Giants,P
-Minor,Damon,203000,NL,West,San Francisco Giants,B1
+Walker,Kevin,267000,NL,West,San Diego Padres,P
 Ainsworth,Kurt,200000,NL,West,San Francisco Giants,P
+Aurilla,Rich,5250000,NL,West,San Francisco Giants,SS
+Bell,David,1750000,NL,West,San Francisco Giants,B3
+Benard,Marvin,4200000,NL,West,San Francisco Giants,O
+Bonds,Barry,15000000,NL,West,San Francisco Giants,O
+Christiansen,Jason,1733333,NL,West,San Francisco Giants,P
+Dunston,Shawon,1150000,NL,West,San Francisco Giants,O
+Feliz,Pedro,222000,NL,West,San Francisco Giants,B3
+Fultz,Aaron,300000,NL,West,San Francisco Giants,P
+Hernandez,Livan,3625000,NL,West,San Francisco Giants,P
+Jensen,Ryan,209000,NL,West,San Francisco Giants,P
+Kent,Jeff,6000000,NL,West,San Francisco Giants,B2
+Martinez,Ramon,775000,NL,West,San Francisco Giants,B2
+Minor,Damon,203000,NL,West,San Francisco Giants,B1
+Murray,Calvin,305000,NL,West,San Francisco Giants,O
+Nen,Robb,8300000,NL,West,San Francisco Giants,P
+Ortiz,Russ,2862500,NL,West,San Francisco Giants,P
+Reuter,Kirk,4866667,NL,West,San Francisco Giants,P
+Rodriguez,Felix,2516667,NL,West,San Francisco Giants,P
+Sanders,Reggie,1750000,NL,West,San Francisco Giants,O
+Santiago,Benito,2044168,NL,West,San Francisco Giants,C
+Schmidt,Jason,4937500,NL,West,San Francisco Giants,P
+Shinjo,Tsuyoshi,1350000,NL,West,San Francisco Giants,O
+Snow,JT,5900000,NL,West,San Francisco Giants,B1
 Torrealba,Yorvit,200000,NL,West,San Francisco Giants,C
+Witasick,Jay,1250000,NL,West,San Francisco Giants,P
+Worrell,Tim,1400000,NL,West,San Francisco Giants,P
+Abbott,Paul,3425000,AL,West,Seattle Mariners,P
+Baldwin,James,1250000,AL,West,Seattle Mariners,P
+Boone,Brett,8000000,AL,West,Seattle Mariners,B2
+Cameron,Mike,4666667,AL,West,Seattle Mariners,O
+Cirillo,Jeff,6375000,AL,West,Seattle Mariners,B3
+Davis,Ben,350000,AL,West,Seattle Mariners,C
+Franklin,Ryan,250000,AL,West,Seattle Mariners,P
+Garcia,Freddy,3800000,AL,West,Seattle Mariners,B3
+Gipson,Charles,450000,AL,West,Seattle Mariners,O
+Guillen,Carlos,1400000,AL,West,Seattle Mariners,SS
+Halama,John,1400000,AL,West,Seattle Mariners,P
+Hasegawa,Shigetoshi,1500000,AL,West,Seattle Mariners,P
+Martinez,Edgar,7086668,AL,West,Seattle Mariners,DH
+McLemore,Mark,3150000,AL,West,Seattle Mariners,O
+Moyer,Jamie,6500000,AL,West,Seattle Mariners,P
+Nelson,Jeff,3333333,AL,West,Seattle Mariners,P
+Olerud,John,6950000,AL,West,Seattle Mariners,B1
+Pineiro,Joel,255000,AL,West,Seattle Mariners,P
+Relaford,Desi,1275000,AL,West,Seattle Mariners,SS
+Rhodes,Arthur,3500000,AL,West,Seattle Mariners,P
+Sasaki,Kazuhiro,5070000,AL,West,Seattle Mariners,P
+Sierra,Ruben,1900000,AL,West,Seattle Mariners,O
+Suzuki,Ichiro,3696000,AL,West,Seattle Mariners,O
+Ugueto,Luis,200000,AL,West,Seattle Mariners,SS
+Wilson,Dan,4500000,AL,West,Seattle Mariners,C
+Ankiel,Rick,400000,NL,Central,St. Louis Cardinals,P
+Benes,Andy,6367542,NL,Central,St. Louis Cardinals,P
+Cairo,Miguel,600000,NL,Central,St. Louis Cardinals,B2
+DiFelice,Mike,750000,NL,Central,St. Louis Cardinals,C
+Drew,JD,3100000,NL,Central,St. Louis Cardinals,O
+Edmonds,Jim,7333333,NL,Central,St. Louis Cardinals,O
+Hackman,Luther,245000,NL,Central,St. Louis Cardinals,P
+Isringhausen,Jason,2750000,NL,Central,St. Louis Cardinals,P
+Kile,Darryl,7166667,NL,Central,St. Louis Cardinals,P
+Kline,Steve,1200000,NL,Central,St. Louis Cardinals,P
+Marrero,Eli,850000,NL,Central,St. Louis Cardinals,O
+Martinez,Tino,5750000,NL,Central,St. Louis Cardinals,B1
+Matheny,Mike,2500000,NL,Central,St. Louis Cardinals,C
+Matthews,Mike,300000,NL,Central,St. Louis Cardinals,P
+Morris,Matt,4000000,NL,Central,St. Louis Cardinals,P
+Perez,Eddie,450000,NL,Central,St. Louis Cardinals,C
+Polanco,Placido,1750000,NL,Central,St. Louis Cardinals,B2
+Pujois,Albert,600000,NL,Central,St. Louis Cardinals,O
+Renteria,Edgar,6000000,NL,Central,St. Louis Cardinals,SS
+Robinson,Kerry,250000,NL,Central,St. Louis Cardinals,O
+Stechschulte,Gene,265000,NL,Central,St. Louis Cardinals,P
+Stephenson,Garrett,900000,NL,Central,St. Louis Cardinals,P
+Timlin,Mike,5250000,NL,Central,St. Louis Cardinals,P
+Veres,Dave,4250000,NL,Central,St. Louis Cardinals,P
+Vina,Fernando,4333333,NL,Central,St. Louis Cardinals,B2
+Williams,Woody,7300000,NL,Central,St. Louis Cardinals,P
+Abernathy,Brent,215000,AL,East,Tampa Bay Devil Rays,B2
+Alvarez,Wilson,8000000,AL,East,Tampa Bay Devil Rays,P
+Colome,Jesus,215000,AL,East,Tampa Bay Devil Rays,P
+Conti,Jason,205000,AL,East,Tampa Bay Devil Rays,O
+Cox,Steve,280000,AL,East,Tampa Bay Devil Rays,B1
+Creek,Doug,685000,AL,East,Tampa Bay Devil Rays,P
+Escalona,Felix,200000,AL,East,Tampa Bay Devil Rays,SS
+Flaherty,John,3250000,AL,East,Tampa Bay Devil Rays,C
+Gomez,Chris,1000000,AL,East,Tampa Bay Devil Rays,B2
+Grieve,Ben,4000000,AL,East,Tampa Bay Devil Rays,O
+Hall,Toby,210000,AL,East,Tampa Bay Devil Rays,C
+Johnson,Russ,575000,AL,East,Tampa Bay Devil Rays,B3
+Kennedy,Joe,225000,AL,East,Tampa Bay Devil Rays,P
+Kent,Steve,200000,AL,East,Tampa Bay Devil Rays,P
+McGlinchy,Kevin,300000,AL,East,Tampa Bay Devil Rays,P
+Phelps,Travis,218000,AL,East,Tampa Bay Devil Rays,P
+Rupe,Ryan,575000,AL,East,Tampa Bay Devil Rays,P
+Seay,Bobby,202000,AL,East,Tampa Bay Devil Rays,P
+Smith,Bobby,255000,AL,East,Tampa Bay Devil Rays,B3
+Smith,Jason,200000,AL,East,Tampa Bay Devil Rays,B3
+Sosa,Jorge,200000,AL,East,Tampa Bay Devil Rays,P
+Sturtze,Tanyon,295000,AL,East,Tampa Bay Devil Rays,P
+Tyner,Jason,250000,AL,East,Tampa Bay Devil Rays,O
+Vaughn,Greg,8750000,AL,East,Tampa Bay Devil Rays,O
+Wilson,Paul,1200000,AL,East,Tampa Bay Devil Rays,P
+Winn,Randy,960000,AL,East,Tampa Bay Devil Rays,O
+Yan,Esteban,1500000,AL,East,Tampa Bay Devil Rays,P
+Zambrano,Victor,215000,AL,East,Tampa Bay Devil Rays,P
+Bialock,Hank,200000,AL,West,Texas Rangers,B3
+Burba,Dave,2000000,AL,West,Texas Rangers,P
+Catalanotto,Frank,2475000,AL,West,Texas Rangers,O
+Cedeno,Jovanny,200000,AL,West,Texas Rangers,P
+Davis,Doug,310000,AL,West,Texas Rangers,P
+Everett,Carl,8666666,AL,West,Texas Rangers,O
+Gonzalez,Juan,11000000,AL,West,Texas Rangers,O
+Greer,Rusty,6800000,AL,West,Texas Rangers,O
+Haselman,Bill,800000,AL,West,Texas Rangers,C
+Irabu,Hideki,550000,AL,West,Texas Rangers,P
+Kapler,Gabe,1850000,AL,West,Texas Rangers,O
+Kolb,Danny,260000,AL,West,Texas Rangers,P
+Lewis,Colby,200000,AL,West,Texas Rangers,P
+Miceli,Dan,1000000,AL,West,Texas Rangers,P
+Palmeiro,Rafael,8712986,AL,West,Texas Rangers,B1
+Park,Chan Ho,6884803,AL,West,Texas Rangers,P
+Perry,Herbert,900000,AL,West,Texas Rangers,B3
+Powell,Jay,2250000,AL,West,Texas Rangers,P
+Rocker,John,2500000,AL,West,Texas Rangers,P
+Rodriguez,Alex,22000000,AL,West,Texas Rangers,SS
+Rodriguez,Ivan,9600000,AL,West,Texas Rangers,C
+Rodriguez,Rich,600000,AL,West,Texas Rangers,P
+Rogers,Kenny,7500000,AL,West,Texas Rangers,P
+Seanez,Rudy,1000000,AL,West,Texas Rangers,P
+Valdes,Ismael,2500000,AL,West,Texas Rangers,P
+Van Poppel,Todd,2000000,AL,West,Texas Rangers,P
+Woodward,Steve,550000,AL,West,Texas Rangers,P
+Young,Michael,250000,AL,West,Texas Rangers,B2
+Zimmerman,Jeff,2166667,AL,West,Texas Rangers,P
+Berg,Dave,450000,AL,East,Toronto Blue Jays,SS
+Borbon,Pedro,1650000,AL,East,Toronto Blue Jays,P
+Bush,Homer,3375000,AL,East,Toronto Blue Jays,B2
+Carpenter,Chris,3450000,AL,East,Toronto Blue Jays,P
+Cassidy,Scott,200000,AL,East,Toronto Blue Jays,P
+Cruz,Jose,3950000,AL,East,Toronto Blue Jays,O
+Delgado,Carlos,19400000,AL,East,Toronto Blue Jays,B1
+Escobar,Kelvim,2300000,AL,East,Toronto Blue Jays,P
+Eyre,Scott,280000,AL,East,Toronto Blue Jays,P
+File,Bob,245000,AL,East,Toronto Blue Jays,P
+Fletcher,Darrin,3825000,AL,East,Toronto Blue Jays,C
+Halladay,Roy,2583333,AL,East,Toronto Blue Jays,P
+Heredia,Felix,1850000,AL,East,Toronto Blue Jays,P
+Hinske,Eric,200000,AL,East,Toronto Blue Jays,B3
+Lawrence,Joe,200000,AL,East,Toronto Blue Jays,B3
+Lesher,Brian,245000,AL,East,Toronto Blue Jays,B1
+Loaiza,Esteban,6050000,AL,East,Toronto Blue Jays,P
+Lopez,Felipe,221000,AL,East,Toronto Blue Jays,SS
+Lyon,Brandon,221000,AL,East,Toronto Blue Jays,P
+Mondesi,Raul,11000000,AL,East,Toronto Blue Jays,O
+Parris,Steve,3775000,AL,East,Toronto Blue Jays,P
+Plesac,Dan,2200000,AL,East,Toronto Blue Jays,P
+Prokopec,Luke,268000,AL,East,Toronto Blue Jays,P
+Sirotka,Mike,3800000,AL,East,Toronto Blue Jays,P
+Stewart,Shannon,4250000,AL,East,Toronto Blue Jays,O
+Thurman,Corey,200000,AL,East,Toronto Blue Jays,P
+Wells,Vernon,221000,AL,East,Toronto Blue Jays,O
+Wilson,Thomas,220000,AL,East,Toronto Blue Jays,C
+Woodward,Chris,235000,AL,East,Toronto Blue Jays,SS
