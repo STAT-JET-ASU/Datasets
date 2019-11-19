@@ -1,865 +1,815 @@
 name,team,position,state,division,salary,age
-Alex Rodriguez,New York Yankees,Third baseman,New York,AL East,29000000,36
-Cliff Lee,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,25000000,33
-Johan Santana,New York Mets,Starting pitcher,New York,NL East,24644708,33
-Vernon Wells,New York Yankees,Left fielder,New York,AL East,24642857,34
-CC Sabathia,New York Yankees,Starting pitcher,New York,AL East,24285714,31
-Mark Teixeira,New York Yankees,First baseman,New York,AL East,23125000,32
-Prince Fielder,Detroit Tigers,First baseman,Michigan,AL Central,23000000,28
-Joe Mauer,Minnesota Twins,Catcher,Minnesota,AL Central,23000000,29
-Tim Lincecum,San Francisco Giants,Starting pitcher,California,NL West,22250000,28
-Adrian Gonzalez,Los Angeles Dodgers,First baseman,California,NL West,21857143,30
-Miguel Cabrera,Detroit Tigers,Third baseman,Michigan,AL Central,21000000,29
-Zack Greinke,Los Angeles Dodgers,Starting pitcher,California,NL West,21000000,28
-Carl Crawford,Los Angeles Dodgers,Left fielder,California,NL West,20857143,30
-Matt Cain,San Francisco Giants,Starting pitcher,California,NL West,20833333,27
-Felix Hernandez,Seattle Mariners,Starting pitcher,Washington,AL West,20557143,26
-Cole Hamels,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,20500000,28
-Matt Kemp,Los Angeles Dodgers,Center fielder,California,NL West,20250000,27
+A.J. Pollock,Arizona Diamondbacks,Outfielder,Arizona,NL West,491000,25
+Aaron Hill,Arizona Diamondbacks,Second baseman,Arizona,NL West,5500000,30
+Adam Eaton,Arizona Diamondbacks,Center fielder,Arizona,NL West,491000,23
+Brad Ziegler,Arizona Diamondbacks,Bullpen,Arizona,NL West,3150000,32
+Brandon McCarthy,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,5250000,28
+Cliff Pennington,Arizona Diamondbacks,Shortstop,Arizona,NL West,1750000,28
+Cody Ross,Arizona Diamondbacks,Right fielder,Arizona,NL West,6000000,31
+Daniel Hudson,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,518500,25
+David Hernandez,Arizona Diamondbacks,Bullpen,Arizona,NL West,1375000,27
+Didi Gregorius,Arizona Diamondbacks,Shortstop,Arizona,NL West,491000,23
+Eric Chavez,Arizona Diamondbacks,Third baseman,Arizona,NL West,3000000,34
+Eric Hinske,Arizona Diamondbacks,Outfielder,Arizona,NL West,1350000,34
+Gerardo Parra,Arizona Diamondbacks,Outfielder,Arizona,NL West,2350000,25
+Ian Kennedy,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,4265000,27
+J.J. Putz,Arizona Diamondbacks,Closer,Arizona,NL West,6500000,35
+Joe Paterson,Arizona Diamondbacks,Bullpen,Arizona,NL West,497500,26
+Josh Collmenter,Arizona Diamondbacks,Bullpen,Arizona,NL West,504000,26
+Martin Prado,Arizona Diamondbacks,Third baseman,Arizona,NL West,7000000,28
+Matt Reynolds,Arizona Diamondbacks,Bullpen,Arizona,NL West,505500,27
+Patrick Corbin,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,494000,23
+Paul Goldschmidt,Arizona Diamondbacks,First baseman,Arizona,NL West,500000,24
+Randall Delgado,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,495000,22
+Tony Campana,Arizona Diamondbacks,Outfielder,Arizona,NL West,497500,26
+Tony Sipp,Arizona Diamondbacks,Bullpen,Arizona,NL West,1275000,29
+Trevor Cahill,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,5700000,24
+Wade Miley,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,500500,25
+Wil Nieves,Arizona Diamondbacks,Catcher,Arizona,NL West,800000,34
+Willie Bloomquist,Arizona Diamondbacks,Utility,Arizona,NL West,1900000,34
+Andrelton Simmons,Atlanta Braves,Shortstop,Georgia,NL East,491250,22
+Anthony Varvaro,Atlanta Braves,Bullpen,Georgia,NL East,490000,28
+B.J. Upton,Atlanta Braves,Center fielder,Georgia,NL East,13050000,27
+Brandon Beachy,Atlanta Braves,Starting pitcher,Georgia,NL East,510000,25
+Brian McCann,Atlanta Braves,Catcher,Georgia,NL East,12000000,28
+Chris Johnson,Atlanta Braves,Third baseman,Georgia,NL East,2287500,27
+Cory Gearrin,Atlanta Braves,Bullpen,Georgia,NL East,491250,26
+Craig Kimbrel,Atlanta Braves,Closer,Georgia,NL East,655000,24
+Cristhian Martinez,Atlanta Braves,Bullpen,Georgia,NL East,749750,30
+Dan Uggla,Atlanta Braves,Second baseman,Georgia,NL East,13146942,32
+Eric O'Flaherty,Atlanta Braves,Bullpen,Georgia,NL East,4320000,27
+Freddie Freeman,Atlanta Braves,First baseman,Georgia,NL East,560000,22
+Gerald Laird,Atlanta Braves,Catcher,Georgia,NL East,1500000,32
+Jason Heyward,Atlanta Braves,Right fielder,Georgia,NL East,3650000,22
+Jonny Venters,Atlanta Braves,Bullpen,Georgia,NL East,1625000,27
+Jordan Schafer,Atlanta Braves,Outfielder,Georgia,NL East,512500,26
+Jordan Walden,Atlanta Braves,Bullpen,Georgia,NL East,541500,24
+Juan Francisco,Atlanta Braves,Third baseman,Georgia,NL East,496250,25
+Julio Teheran,Atlanta Braves,Starting pitcher,Georgia,NL East,490000,21
+Kris Medlen,Atlanta Braves,Starting pitcher,Georgia,NL East,2600000,26
+Luis Avilan,Atlanta Braves,Bullpen,Georgia,NL East,491250,23
+Mike Minor,Atlanta Braves,Starting pitcher,Georgia,NL East,505000,24
+Paul Janish,Atlanta Braves,Shortstop,Georgia,NL East,725000,29
+Paul Maholm,Atlanta Braves,Starting pitcher,Georgia,NL East,6500000,30
+Ramiro Pena,Atlanta Braves,Infielder,Georgia,NL East,550000,23
+Reed Johnson,Atlanta Braves,Outfielder,Georgia,NL East,1600000,35
+Brian Matusz,Baltimore Orioles,Bullpen,Maryland,AL East,1600000,25
+Brian Roberts,Baltimore Orioles,Second baseman,Maryland,AL East,10000000,34
+Chris Davis,Baltimore Orioles,First baseman,Maryland,AL East,3300000,26
+Chris Tillman,Baltimore Orioles,Starting pitcher,Maryland,AL East,508500,24
+Darren O'Day,Baltimore Orioles,Bullpen,Maryland,AL East,2200000,29
+Jake Arrieta,Baltimore Orioles,Starting pitcher,Maryland,AL East,516500,26
+Jason Hammel,Baltimore Orioles,Starting pitcher,Maryland,AL East,6750000,29
+Jim Johnson,Baltimore Orioles,Closer,Maryland,AL East,6500000,29
+Luis Ayala,Baltimore Orioles,Bullpen,Maryland,AL East,1000000,34
+Manny Machado,Baltimore Orioles,Third baseman,Maryland,AL East,495000,19
+Matt Wieters,Baltimore Orioles,Catcher,Maryland,AL East,5500000,26
+Miguel Gonzalez,Baltimore Orioles,Starting pitcher,Maryland,AL East,502000,28
+Nate McLouth,Baltimore Orioles,Left fielder,Maryland,AL East,2000000,30
+Nick Markakis,Baltimore Orioles,Right fielder,Maryland,AL East,15350000,28
+Nolan Reimold,Baltimore Orioles,Outfielder,Maryland,AL East,1000000,28
+Pedro Strop,Baltimore Orioles,Bullpen,Maryland,AL East,502500,27
+Ryan Flaherty,Baltimore Orioles,Second baseman,Maryland,AL East,493500,25
+Steve Johnson,Baltimore Orioles,Bullpen,Maryland,AL East,495000,25
+T.J. McFarland,Baltimore Orioles,Starting pitcher,Maryland,AL East,490000,23
+Taylor Teagarden,Baltimore Orioles,Catcher,Maryland,AL East,650000,28
+Tommy Hunter,Baltimore Orioles,Bullpen,Maryland,AL East,1820000,25
+Troy Patton,Baltimore Orioles,Bullpen,Maryland,AL East,815000,26
+Tsuyoshi Wada,Baltimore Orioles,Starting pitcher,Maryland,AL East,4200000,31
+Wei-Yin Chen,Baltimore Orioles,Starting pitcher,Maryland,AL East,3655333,26
+Wilson Betemit,Baltimore Orioles,Utility,Maryland,AL East,2000000,30
+Alfredo Aceves,Boston Red Sox,Bullpen,Massachusetts,AL East,2650000,29
+Andrew Bailey,Boston Red Sox,Bullpen,Massachusetts,AL East,4100000,28
+Andrew Miller,Boston Red Sox,Bullpen,Massachusetts,AL East,1475000,27
+Clay Buchholz,Boston Red Sox,Starting pitcher,Massachusetts,AL East,5750000,27
+Clayton Mortensen,Boston Red Sox,Bullpen,Massachusetts,AL East,504500,27
+Craig Breslow,Boston Red Sox,Bullpen,Massachusetts,AL East,2325000,31
+Daniel Bard,Boston Red Sox,Bullpen,Massachusetts,AL East,1862500,27
+Daniel Nava,Boston Red Sox,Outfielder,Massachusetts,AL East,505500,30
+David Ortiz,Boston Red Sox,Designated hitter,Massachusetts,AL East,14500000,36
+David Ross,Boston Red Sox,Catcher,Massachusetts,AL East,3100000,35
+Dustin Pedroia,Boston Red Sox,Second baseman,Massachusetts,AL East,10250000,28
+Felix Doubront,Boston Red Sox,Starting pitcher,Massachusetts,AL East,518500,24
+Franklin Morales,Boston Red Sox,Bullpen,Massachusetts,AL East,1487500,26
+Jarrod Saltalamacchia,Boston Red Sox,Catcher,Massachusetts,AL East,4500000,27
+John Lackey,Boston Red Sox,Starting pitcher,Massachusetts,AL East,15950000,34
+Jon Lester,Boston Red Sox,Starting pitcher,Massachusetts,AL East,11625000,28
+Jonny Gomes,Boston Red Sox,Left fielder,Massachusetts,AL East,5000000,31
+Jose Iglesias,Boston Red Sox,Shortstop,Massachusetts,AL East,2062500,22
+Junichi Tazawa,Boston Red Sox,Bullpen,Massachusetts,AL East,815000,26
+Koji Uehara,Boston Red Sox,Bullpen,Massachusetts,AL East,4250000,37
+Mike Carp,Boston Red Sox,Outfielder,Massachusetts,AL East,508500,26
+Mike Napoli,Boston Red Sox,First baseman,Massachusetts,AL East,5000000,30
+Pedro Ciriaco,Boston Red Sox,Utility,Massachusetts,AL East,502500,26
+Ryan Dempster,Boston Red Sox,Starting pitcher,Massachusetts,AL East,13250000,35
+Ryan Kalish,Boston Red Sox,Outfielder,Massachusetts,AL East,498000,24
+Shane Victorino,Boston Red Sox,Right fielder,Massachusetts,AL East,13000000,31
+Will Middlebrooks,Boston Red Sox,Third baseman,Massachusetts,AL East,498000,23
+Alfonso Soriano,Chicago Cubs,Left fielder,Illinois,NL Central,19000000,36
+Anthony Rizzo,Chicago Cubs,First baseman,Illinois,NL Central,498000,22
+Arodys Vizcaino,Chicago Cubs,Bullpen,Illinois,NL Central,491000,22
+Brett Jackson,Chicago Cubs,Outfielder,Illinois,NL Central,492000,23
+Carlos Marmol,Chicago Cubs,Closer,Illinois,NL Central,10133333,29
+Carlos Villanueva,Chicago Cubs,Starting pitcher,Illinois,NL Central,5000000,28
+Darwin Barney,Chicago Cubs,Second baseman,Illinois,NL Central,562000,26
+Dave Sappelt,Chicago Cubs,Outfielder,Illinois,NL Central,492000,26
+David DeJesus,Chicago Cubs,Center fielder,Illinois,NL Central,4250000,32
+Dioner Navarro,Chicago Cubs,Catcher,Illinois,NL Central,1750000,28
+Edwin Jackson,Chicago Cubs,Starting pitcher,Illinois,NL Central,13000000,28
+Guillermo Moscoso,Chicago Cubs,Starting pitcher,Illinois,NL Central,504250,29
+Hector Rondon,Chicago Cubs,Starting pitcher,Illinois,NL Central,490000,25
+Ian Stewart,Chicago Cubs,Third baseman,Illinois,NL Central,2000000,27
+James Russell,Chicago Cubs,Bullpen,Illinois,NL Central,1075000,26
+Jeff Samardzija,Chicago Cubs,Starting pitcher,Illinois,NL Central,2640000,27
+Jorge Soler,Chicago Cubs,Outfielder,Illinois,NL Central,1000000,20
+Kyuji Fujikawa,Chicago Cubs,Bullpen,Illinois,NL Central,4500000,32
+Luis Valbuena,Chicago Cubs,Utility,Illinois,NL Central,930000,26
+Matt Garza,Chicago Cubs,Starting pitcher,Illinois,NL Central,10250000,28
+Michael Bowden,Chicago Cubs,Bullpen,Illinois,NL Central,509500,25
+Nate Schierholtz,Chicago Cubs,Right fielder,Illinois,NL Central,2250000,28
+Scott Baker,Chicago Cubs,Starting pitcher,Illinois,NL Central,5500000,31
+Scott Feldman,Chicago Cubs,Starting pitcher,Illinois,NL Central,6000000,29
+Scott Hairston,Chicago Cubs,Outfielder,Illinois,NL Central,2500000,32
+Shawn Camp,Chicago Cubs,Bullpen,Illinois,NL Central,1350000,36
+Starlin Castro,Chicago Cubs,Shortstop,Illinois,NL Central,5857143,22
+Steve Clevenger,Chicago Cubs,Catcher,Illinois,NL Central,496000,26
+Travis Wood,Chicago Cubs,Bullpen,Illinois,NL Central,527500,25
+Welington Castillo,Chicago Cubs,Catcher,Illinois,NL Central,503000,25
+Adam Dunn,Chicago White Sox,Designated hitter,Illinois,AL Central,15000000,32
+Addison Reed,Chicago White Sox,Closer,Illinois,AL Central,520000,23
+Alejandro De Aza,Chicago White Sox,Right fielder,Illinois,AL Central,2075000,28
+Alex Rios,Chicago White Sox,Center fielder,Illinois,AL Central,13000000,31
+Angel Sanchez,Chicago White Sox,Shortstop,Illinois,AL Central,505000,29
+Brian Omogrosso,Chicago White Sox,Bullpen,Illinois,AL Central,492000,28
+Chris Sale,Chicago White Sox,Starting pitcher,Illinois,AL Central,850000,23
+Conor Gillaspie,Chicago White Sox,Third baseman,Illinois,AL Central,490500,25
+Dayan Viciedo,Chicago White Sox,Left fielder,Illinois,AL Central,2800000,23
+Dewayne Wise,Chicago White Sox,Outfielder,Illinois,AL Central,700000,34
+Donald Veal,Chicago White Sox,Bullpen,Illinois,AL Central,497500,28
+Dylan Axelrod,Chicago White Sox,Starting pitcher,Illinois,AL Central,493000,27
+Gordon Beckham,Chicago White Sox,Second baseman,Illinois,AL Central,2925000,25
+Hector Gimenez,Chicago White Sox,Catcher,Illinois,AL Central,493000,29
+Hector Santiago,Chicago White Sox,Bullpen,Illinois,AL Central,505000,24
+Jake Peavy,Chicago White Sox,Starting pitcher,Illinois,AL Central,16157271,31
+Jeff Keppinger,Chicago White Sox,Utility,Illinois,AL Central,3500000,32
+Jesse Crain,Chicago White Sox,Bullpen,Illinois,AL Central,4500000,30
+John Danks,Chicago White Sox,Starting pitcher,Illinois,AL Central,15750000,27
+Jose Quintana,Chicago White Sox,Starting pitcher,Illinois,AL Central,500000,23
+Leyson Septimo,Chicago White Sox,Bullpen,Illinois,AL Central,493000,27
+Matt Lindstrom,Chicago White Sox,Bullpen,Illinois,AL Central,2300000,32
+Matt Thornton,Chicago White Sox,Bullpen,Illinois,AL Central,5500000,35
+Nate Jones,Chicago White Sox,Bullpen,Illinois,AL Central,507500,26
+Paul Konerko,Chicago White Sox,First baseman,Illinois,AL Central,12501506,36
+Tyler Flowers,Chicago White Sox,Catcher,Illinois,AL Central,510000,26
+Alfredo Simon,Cincinnati Reds,Bullpen,Ohio,NL Central,890000,31
+Aroldis Chapman,Cincinnati Reds,Starting pitcher,Ohio,NL Central,4835772,24
+Brandon Phillips,Cincinnati Reds,Second baseman,Ohio,NL Central,10083333,31
+Bronson Arroyo,Cincinnati Reds,Starting pitcher,Ohio,NL Central,16445535,35
+Chris Heisey,Cincinnati Reds,Outfielder,Ohio,NL Central,1325000,27
+Devin Mesoraco,Cincinnati Reds,Catcher,Ohio,NL Central,480000,24
+Homer Bailey,Cincinnati Reds,Starting pitcher,Ohio,NL Central,5350000,26
+J.J. Hoover,Cincinnati Reds,Bullpen,Ohio,NL Central,492500,25
+Jack Hannahan,Cincinnati Reds,Third baseman,Ohio,NL Central,1000000,32
+Jason Donald,Cincinnati Reds,Utility,Ohio,NL Central,502500,28
+Joey Votto,Cincinnati Reds,First baseman,Ohio,NL Central,18910655,28
+Jonathan Broxton,Cincinnati Reds,Closer,Ohio,NL Central,4000000,28
+Jose Arredondo,Cincinnati Reds,Bullpen,Ohio,NL Central,1200000,28
+Logan Ondrusek,Cincinnati Reds,Bullpen,Ohio,NL Central,950000,27
+Manny Parra,Cincinnati Reds,Bullpen,Ohio,NL Central,1000000,29
+Mat Latos,Cincinnati Reds,Starting pitcher,Ohio,NL Central,4250000,24
+Mike Leake,Cincinnati Reds,Starting pitcher,Ohio,NL Central,3060000,24
+Nick Masset,Cincinnati Reds,Bullpen,Ohio,NL Central,3100000,30
+Ryan Hanigan,Cincinnati Reds,Catcher,Ohio,NL Central,2350000,31
+Ryan Ludwick,Cincinnati Reds,Left fielder,Ohio,NL Central,2000000,33
+Sam LeCure,Cincinnati Reds,Bullpen,Ohio,NL Central,510000,28
+Sean Marshall,Cincinnati Reds,Bullpen,Ohio,NL Central,4625000,29
+Todd Frazier,Cincinnati Reds,Third baseman,Ohio,NL Central,527500,26
+Xavier Paul,Cincinnati Reds,Outfielder,Ohio,NL Central,505000,28
+Zack Cozart,Cincinnati Reds,Shortstop,Ohio,NL Central,497500,26
+Asdrubal Cabrera,Cleveland Indians,Shortstop,Ohio,AL Central,6500000,26
+Blake Wood,Cleveland Indians,Bullpen,Ohio,AL Central,560000,27
+Bryan Shaw,Cleveland Indians,Bullpen,Ohio,AL Central,501700,25
+Carlos Carrasco,Cleveland Indians,Starting pitcher,Ohio,AL Central,490000,28
+Carlos Santana,Cleveland Indians,Catcher,Ohio,AL Central,750000,26
+Cody Allen,Cleveland Indians,Bullpen,Ohio,AL Central,492600,24
+David Huff,Cleveland Indians,Bullpen,Ohio,AL Central,493600,27
+Drew Stubbs,Cleveland Indians,Center fielder,Ohio,AL Central,2825000,27
+Frank Herrmann,Cleveland Indians,Bullpen,Ohio,AL Central,495500,28
+Jason Giambi,Cleveland Indians,Designated hitter,Ohio,AL Central,750000,42
+Jason Kipnis,Cleveland Indians,Second baseman,Ohio,AL Central,509400,25
+Joe Smith,Cleveland Indians,Bullpen,Ohio,AL Central,3150000,28
+Josh Tomlin,Cleveland Indians,Starting pitcher,Ohio,AL Central,501800,27
+Justin Masterson,Cleveland Indians,Starting pitcher,Ohio,AL Central,5687500,27
+Lonnie Chisenhall,Cleveland Indians,Third baseman,Ohio,AL Central,492900,23
+Lou Marson,Cleveland Indians,Catcher,Ohio,AL Central,1000000,26
+Mark Reynolds,Cleveland Indians,First baseman,Ohio,AL Central,6000000,28
+Matt Albers,Cleveland Indians,Bullpen,Ohio,AL Central,1750000,29
+Michael Bourn,Cleveland Indians,Center fielder,Ohio,AL Central,7000000,30
+Michael Brantley,Cleveland Indians,Left fielder,Ohio,AL Central,526900,25
+Mike Aviles,Cleveland Indians,Utility,Ohio,AL Central,2250000,31
+Nick Hagadone,Cleveland Indians,Bullpen,Ohio,AL Central,492100,26
+Nick Swisher,Cleveland Indians,Right fielder,Ohio,AL Central,11000000,32
+Rich Hill,Cleveland Indians,Bullpen,Ohio,AL Central,1000000,33
+Ubaldo Jimenez,Cleveland Indians,Starting pitcher,Ohio,AL Central,5750000,28
+Vinnie Pestano,Cleveland Indians,Bullpen,Ohio,AL Central,501900,27
+Zach McAllister,Cleveland Indians,Starting pitcher,Ohio,AL Central,496400,24
+Aaron Cook,Colorado Rockies,Starting pitcher,Colorado,NL West,490000,34
+Adam Ottavino,Colorado Rockies,Bullpen,Colorado,NL West,491000,26
+Chris Nelson,Colorado Rockies,Third baseman,Colorado,NL West,491000,26
+Dexter Fowler,Colorado Rockies,Left fielder,Colorado,NL West,3750000,26
+Edgmer Escalona,Colorado Rockies,Bullpen,Colorado,NL West,491000,26
+Edwar Cabrera,Colorado Rockies,Starting pitcher,Colorado,NL West,490000,25
+Eric Young Jr.,Colorado Rockies,Utility,Colorado,NL West,492000,27
+Jeff Francis,Colorado Rockies,Starting pitcher,Colorado,NL West,1500000,31
+Jhoulys Chacin,Colorado Rockies,Starting pitcher,Colorado,NL West,1650000,24
+Jon Garland,Colorado Rockies,Starting pitcher,Colorado,NL West,500000,33
+Jonathan Herrera,Colorado Rockies,Utility,Colorado,NL West,900000,27
+Jordan Pacheco,Colorado Rockies,Catcher,Colorado,NL West,491000,26
+Jorge De La Rosa,Colorado Rockies,Starting pitcher,Colorado,NL West,11000000,31
+Josh Rutledge,Colorado Rockies,Shortstop,Colorado,NL West,490000,23
+Juan Nicasio,Colorado Rockies,Starting pitcher,Colorado,NL West,491000,25
+Matt Belisle,Colorado Rockies,Bullpen,Colorado,NL West,4100000,32
+Michael Cuddyer,Colorado Rockies,Right fielder,Colorado,NL West,10500000,33
+Rafael Betancourt,Colorado Rockies,Closer,Colorado,NL West,4250000,27
+Ramon Hernandez,Colorado Rockies,Catcher,Colorado,NL West,3200000,36
+Reid Brignac,Colorado Rockies,Infielder,Colorado,NL West,499000,27
+Rex Brothers,Colorado Rockies,Bullpen,Colorado,NL West,491000,24
+Todd Helton,Colorado Rockies,First baseman,Colorado,NL West,6175000,38
+Tyler Colvin,Colorado Rockies,Outfielder,Colorado,NL West,2275000,26
+Wilin Rosario,Colorado Rockies,Catcher,Colorado,NL West,491000,23
+Wilton Lopez,Colorado Rockies,Bullpen,Colorado,NL West,1762500,28
+Al Alburqueque,Detroit Tigers,Bullpen,Michigan,AL Central,500000,26
+Alex Avila,Detroit Tigers,Catcher,Michigan,AL Central,2950000,25
+Andy Dirks,Detroit Tigers,Left fielder,Michigan,AL Central,505000,26
+Austin Jackson,Detroit Tigers,Center fielder,Michigan,AL Central,3500000,25
+Avisail Garcia,Detroit Tigers,Right fielder,Michigan,AL Central,490000,21
+Brayan Pena,Detroit Tigers,Catcher,Michigan,AL Central,875000,30
+Brayan Villarreal,Detroit Tigers,Bullpen,Michigan,AL Central,502500,25
+Darin Downs,Detroit Tigers,Bullpen,Michigan,AL Central,494000,28
+Doug Fister,Detroit Tigers,Starting pitcher,Michigan,AL Central,4000000,28
+Drew Smyly,Detroit Tigers,Bullpen,Michigan,AL Central,498000,23
+Jhonny Peralta,Detroit Tigers,Shortstop,Michigan,AL Central,6000000,30
+Joaquin Benoit,Detroit Tigers,Bullpen,Michigan,AL Central,5500000,34
 Justin Verlander,Detroit Tigers,Starting pitcher,Michigan,AL Central,20100000,29
+Max Scherzer,Detroit Tigers,Starting pitcher,Michigan,AL Central,6725000,27
+Miguel Cabrera,Detroit Tigers,Third baseman,Michigan,AL Central,21000000,29
+Octavio Dotel,Detroit Tigers,Bullpen,Michigan,AL Central,3500000,38
+Omar Infante,Detroit Tigers,Second baseman,Michigan,AL Central,4000000,30
+Phil Coke,Detroit Tigers,Bullpen,Michigan,AL Central,850000,29
+Prince Fielder,Detroit Tigers,First baseman,Michigan,AL Central,23000000,28
+Ramon Santiago,Detroit Tigers,Utility,Michigan,AL Central,2100000,32
+Rick Porcello,Detroit Tigers,Starting pitcher,Michigan,AL Central,5100000,23
+Torii Hunter,Detroit Tigers,Right fielder,Michigan,AL Central,12000000,36
+Victor Martinez,Detroit Tigers,Designated hitter,Michigan,AL Central,13000000,34
+Alex White,Houston Astros,Starting pitcher,Texas,AL West,497100,23
+Brad Peacock,Houston Astros,Starting pitcher,Texas,AL West,490000,25
+Brandon Barnes,Houston Astros,Outfielder,Texas,AL West,491700,26
+Brett Wallace,Houston Astros,First baseman,Texas,AL West,495000,25
+Bud Norris,Houston Astros,Starting pitcher,Texas,AL West,3000000,27
+Carlos Corporan,Houston Astros,Catcher,Texas,AL West,495000,28
+Carlos Pena,Houston Astros,First baseman,Texas,AL West,2900000,34
+Chris Carter,Houston Astros,First baseman,Texas,AL West,494000,25
+Fernando Martinez,Houston Astros,Outfielder,Texas,AL West,493000,23
+Hector Ambriz,Houston Astros,Bullpen,Texas,AL West,493400,28
+Jason Castro,Houston Astros,Catcher,Texas,AL West,496600,25
+Jose Altuve,Houston Astros,Second baseman,Texas,AL West,505700,22
+Jose Veras,Houston Astros,Closer,Texas,AL West,1850000,32
+Josh Fields,Houston Astros,Infielder,Texas,AL West,490000,30
+Justin Maxwell,Houston Astros,Outfielder,Texas,AL West,492500,28
+Lucas Harrell,Houston Astros,Starting pitcher,Texas,AL West,500700,27
+Marwin Gonzalez,Houston Astros,Third baseman,Texas,AL West,494400,23
+Matt Dominguez,Houston Astros,Third baseman,Texas,AL West,491800,22
+Philip Humber,Houston Astros,Starting pitcher,Texas,AL West,480000,29
+Rhiner Cruz,Houston Astros,Bullpen,Texas,AL West,498000,25
+Ronny Cedeno,Houston Astros,Infielder,Texas,AL West,718000,30
+Wesley Wright,Houston Astros,Bullpen,Texas,AL West,1025000,27
+Xavier Cedeno,Houston Astros,Bullpen,Texas,AL West,495900,25
+Aaron Crow,Kansas City Royals,Bullpen,Missouri,AL Central,1280000,25
+Alcides Escobar,Kansas City Royals,Shortstop,Missouri,AL Central,3000000,25
+Brett Hayes,Kansas City Royals,Catcher,Missouri,AL Central,600000,25
+Bruce Chen,Kansas City Royals,Starting pitcher,Missouri,AL Central,4500000,35
+Chris Getz,Kansas City Royals,Second baseman,Missouri,AL Central,1050000,28
+Danny Duffy,Kansas City Royals,Starting pitcher,Missouri,AL Central,505125,24
+Elliot Johnson,Kansas City Royals,Infielder,Missouri,AL Central,520500,29
+Eric Hosmer,Kansas City Royals,First baseman,Missouri,AL Central,528250,22
+Ervin Santana,Kansas City Royals,Starting pitcher,Missouri,AL Central,13000000,29
+Felipe Paulino,Kansas City Royals,Starting pitcher,Missouri,AL Central,1750000,28
+George Kottaras,Kansas City Royals,Catcher,Missouri,AL Central,1000000,29
+Greg Holland,Kansas City Royals,Bullpen,Missouri,AL Central,539500,26
+James Shields,Kansas City Royals,Starting pitcher,Missouri,AL Central,11000000,30
+Jarrod Dyson,Kansas City Royals,Center fielder,Missouri,AL Central,506000,27
+Jeff Francoeur,Kansas City Royals,Right fielder,Missouri,AL Central,6750000,28
+Jeremy Guthrie,Kansas City Royals,Starting pitcher,Missouri,AL Central,5000000,33
+Juan Gutierrez,Kansas City Royals,Bullpen,Missouri,AL Central,750000,24
+Kelvin Herrera,Kansas City Royals,Bullpen,Missouri,AL Central,508175,22
+Lorenzo Cain,Kansas City Royals,Center fielder,Missouri,AL Central,503175,26
+Luis Mendoza,Kansas City Royals,Bullpen,Missouri,AL Central,532000,28
+Luke Hochevar,Kansas City Royals,Starting pitcher,Missouri,AL Central,4560000,28
+Miguel Tejada,Kansas City Royals,Infielder,Missouri,AL Central,1100000,38
+Mike Moustakas,Kansas City Royals,Third baseman,Missouri,AL Central,524500,23
+Salvador Perez,Kansas City Royals,Catcher,Missouri,AL Central,1000000,22
+Tim Collins,Kansas City Royals,Bullpen,Missouri,AL Central,534500,22
+Wade Davis,Kansas City Royals,Starting pitcher,Missouri,AL Central,2800000,26
+Albert Pujols,Los Angeles Angels,First baseman,California,AL West,16000000,32
+Alberto Callaspo,Los Angeles Angels,Third baseman,California,AL West,4100000,29
+Andrew Romine,Los Angeles Angels,Infielder,California,AL West,492000,27
+Andrew Taylor,Los Angeles Angels,Bullpen,California,AL West,490000,26
+C.J. Wilson,Los Angeles Angels,Starting pitcher,California,AL West,11500000,31
+Chris Iannetta,Los Angeles Angels,Catcher,California,AL West,5050000,29
+Dave Carpenter,Los Angeles Angels,Bullpen,California,AL West,493000,27
+Ernesto Frieri,Los Angeles Angels,Bullpen,California,AL West,530000,26
+Garret Richards,Los Angeles Angels,Starting pitcher,California,AL West,495000,24
+Hank Conger,Los Angeles Angels,Catcher,California,AL West,495000,24
+Jered Weaver,Los Angeles Angels,Starting pitcher,California,AL West,16200000,29
+Jerome Williams,Los Angeles Angels,Bullpen,California,AL West,2000000,30
+Joe Blanton,Los Angeles Angels,Starting pitcher,California,AL West,6500000,31
+John Hester,Los Angeles Angels,Catcher,California,AL West,495000,29
+Josh Hamilton,Los Angeles Angels,Right fielder,California,AL West,17400000,31
+Kevin Jepsen,Los Angeles Angels,Bullpen,California,AL West,1181250,27
+Kole Calhoun,Los Angeles Angels,Right fielder,California,AL West,491000,25
+Luis Jimenez,Los Angeles Angels,Third baseman,California,AL West,490000,25
+Mark Trumbo,Los Angeles Angels,Designated hitter,California,AL West,540000,26
+Mike Trout,Los Angeles Angels,Left fielder,California,AL West,510000,20
+Peter Bourjos,Los Angeles Angels,Center fielder,California,AL West,512500,25
+Ryan Madson,Los Angeles Angels,Closer,California,AL West,3500000,32
+Scott Downs,Los Angeles Angels,Bullpen,California,AL West,5000000,36
+Sean Burnett,Los Angeles Angels,Bullpen,California,AL West,3625000,29
+Tommy Hanson,Los Angeles Angels,Starting pitcher,California,AL West,3725000,25
+A.J. Ellis,Los Angeles Dodgers,Catcher,California,NL West,2000000,31
+Aaron Harang,Los Angeles Dodgers,Starting pitcher,California,NL West,6000000,34
+Adrian Gonzalez,Los Angeles Dodgers,First baseman,California,NL West,21857143,30
+Alex Castellanos,Los Angeles Dodgers,Left fielder,California,NL West,490500,26
+Andre Ethier,Los Angeles Dodgers,Right fielder,California,NL West,13500000,30
+Brandon League,Los Angeles Dodgers,Closer,California,NL West,5500000,29
+Carl Crawford,Los Angeles Dodgers,Left fielder,California,NL West,20857143,30
+Chad Billingsley,Los Angeles Dodgers,Starting pitcher,California,NL West,11000000,27
+Chris Capuano,Los Angeles Dodgers,Starting pitcher,California,NL West,6375000,33
+Clayton Kershaw,Los Angeles Dodgers,Starting pitcher,California,NL West,11750000,24
+Elian Herrera,Los Angeles Dodgers,Utility,California,NL West,492500,23
+Hanley Ramirez,Los Angeles Dodgers,Shortstop,California,NL West,15500000,28
+Hyun-Jin Ryu,Los Angeles Dodgers,Starting pitcher,California,NL West,3333333,25
+J.P. Howell,Los Angeles Dodgers,Bullpen,California,NL West,2850000,29
+Jerry Hairston Jr.,Los Angeles Dodgers,Utility,California,NL West,3750000,36
+Josh Beckett,Los Angeles Dodgers,Starting pitcher,California,NL West,17000000,32
+Josh Wall,Los Angeles Dodgers,Bullpen,California,NL West,490500,26
+Kenley Jansen,Los Angeles Dodgers,Bullpen,California,NL West,512000,24
+Luis Cruz,Los Angeles Dodgers,Third baseman,California,NL West,505000,29
+Mark Ellis,Los Angeles Dodgers,Second baseman,California,NL West,5250000,35
+Matt Guerrier,Los Angeles Dodgers,Bullpen,California,NL West,4711499,33
+Matt Kemp,Los Angeles Dodgers,Center fielder,California,NL West,20250000,27
+Nick Punto,Los Angeles Dodgers,Utility,California,NL West,1500000,34
+Ronald Belisario,Los Angeles Dodgers,Bullpen,California,NL West,1450000,29
+Scott Elbert,Los Angeles Dodgers,Bullpen,California,NL West,505000,26
+Skip Schumaker,Los Angeles Dodgers,Utility,California,NL West,1500000,32
+Stephen Fife,Los Angeles Dodgers,Starting pitcher,California,NL West,492500,26
+Steven Rodriguez,Los Angeles Dodgers,Bullpen,California,NL West,491500,21
+Ted Lilly,Los Angeles Dodgers,Starting pitcher,California,NL West,13166667,36
+Tim Federowicz,Los Angeles Dodgers,Catcher,California,NL West,491000,24
+Yasiel Puig,Los Angeles Dodgers,Outfielder,California,NL West,2000000,22
+Zack Greinke,Los Angeles Dodgers,Starting pitcher,California,NL West,21000000,28
+A.J. Ramos,Miami Marlins,Bullpen,Florida,NL East,490000,26
+Adeiny Hechavarria,Miami Marlins,Shortstop,Florida,NL East,2750000,23
+Alfredo Silverio,Miami Marlins,Outfielder,Florida,NL East,490000,25
+Chris Coghlan,Miami Marlins,Outfielder,Florida,NL East,503500,27
+Donovan Solano,Miami Marlins,Second baseman,Florida,NL East,491500,24
+Giancarlo Stanton,Miami Marlins,Right fielder,Florida,NL East,537000,22
+Gorkys Hernandez,Miami Marlins,Outfielder,Florida,NL East,490000,24
+Greg Dobbs,Miami Marlins,Utility,Florida,NL East,1600000,33
+Henderson Alvarez,Miami Marlins,Starting pitcher,Florida,NL East,507900,22
+Jacob Turner,Miami Marlins,Starting pitcher,Florida,NL East,2150000,21
+Jeff Mathis,Miami Marlins,Catcher,Florida,NL East,1500000,29
+Joe Mahoney,Miami Marlins,First baseman,Florida,NL East,490000,26
+Jon Rauch,Miami Marlins,Bullpen,Florida,NL East,1000000,33
+Jose Ceda,Miami Marlins,Bullpen,Florida,NL East,490000,26
+Juan Pierre,Miami Marlins,Left fielder,Florida,NL East,1600000,34
+Justin Ruggiano,Miami Marlins,Center fielder,Florida,NL East,494500,30
+Kyle Skipworth,Miami Marlins,Catcher,Florida,NL East,490000,23
+Logan Morrison,Miami Marlins,First baseman,Florida,NL East,491500,24
+Michael Dunn,Miami Marlins,Bullpen,Florida,NL East,492500,27
+Miguel Olivo,Miami Marlins,Catcher,Florida,NL East,800000,34
+Nathan Eovaldi,Miami Marlins,Starting pitcher,Florida,NL East,502000,22
+Placido Polanco,Miami Marlins,Third baseman,Florida,NL East,2750000,36
+Ricky Nolasco,Miami Marlins,Starting pitcher,Florida,NL East,11500000,29
+Rob Brantly,Miami Marlins,Catcher,Florida,NL East,490000,22
+Ryan Webb,Miami Marlins,Bullpen,Florida,NL East,975000,26
+Steve Cishek,Miami Marlins,Closer,Florida,NL East,505000,26
+Wade LeBlanc,Miami Marlins,Starting pitcher,Florida,NL East,491500,27
+Alex Gonzalez,Milwaukee Brewers,Shortstop,Wisconsin,NL Central,1450000,35
+Aramis Ramirez,Milwaukee Brewers,Third baseman,Wisconsin,NL Central,10000000,34
+Brandon Kintzler,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,491000,27
+Burke Badenhop,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,1550000,29
+Carlos Gomez,Milwaukee Brewers,Center fielder,Wisconsin,NL Central,4300000,27
+Chris Narveson,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,840000,30
+Corey Hart,Milwaukee Brewers,First baseman,Wisconsin,NL Central,10333333,30
+Jean Segura,Milwaukee Brewers,Shortstop,Wisconsin,NL Central,492000,22
+Jeff Bianchi,Milwaukee Brewers,Utility,Wisconsin,NL Central,490000,25
+Jim Henderson,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,492000,30
+John Axford,Milwaukee Brewers,Closer,Wisconsin,NL Central,5000000,29
+Jonathan Lucroy,Milwaukee Brewers,Catcher,Wisconsin,NL Central,850000,26
+Khris Davis,Milwaukee Brewers,Left fielder,Wisconsin,NL Central,490000,25
+Kyle Lohse,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,10063922,34
+Logan Schafer,Milwaukee Brewers,Center fielder,Wisconsin,NL Central,490000,26
+Marco Estrada,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,1955000,28
+Mark Rogers,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,491000,26
+Martin Maldonado,Milwaukee Brewers,Catcher,Wisconsin,NL Central,494000,26
+Mat Gamel,Milwaukee Brewers,First baseman,Wisconsin,NL Central,491000,26
+Mike Fiers,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,498000,27
+Mike Gonzalez,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2250000,34
+Norichika Aoki,Milwaukee Brewers,Right fielder,Wisconsin,NL Central,1712500,30
+Rickie Weeks,Milwaukee Brewers,Second baseman,Wisconsin,NL Central,11000000,29
+Taylor Green,Milwaukee Brewers,Utility,Wisconsin,NL Central,491000,25
+Tom Gorzelanny,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2750000,29
+Wily Peralta,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,490000,23
+Yuniesky Betancourt,Milwaukee Brewers,Infielder,Wisconsin,NL Central,900000,31
+Aaron Hicks,Minnesota Twins,Center fielder,Minnesota,AL Central,490000,23
+Anthony Swarzak,Minnesota Twins,Bullpen,Minnesota,AL Central,502500,26
+Brian Dozier,Minnesota Twins,Utility,Minnesota,AL Central,497500,25
+Brian Duensing,Minnesota Twins,Bullpen,Minnesota,AL Central,1300000,29
+Casey Fien,Minnesota Twins,Bullpen,Minnesota,AL Central,500000,28
+Chris Parmelee,Minnesota Twins,Right fielder,Minnesota,AL Central,497500,25
+Cole DeVries,Minnesota Twins,Starting pitcher,Minnesota,AL Central,500000,28
+Darin Mastroianni,Minnesota Twins,Center fielder,Minnesota,AL Central,500000,26
+Drew Butera,Minnesota Twins,Catcher,Minnesota,AL Central,700000,28
+Eduardo Escobar,Minnesota Twins,Infielder,Minnesota,AL Central,495000,24
+Glen Perkins,Minnesota Twins,Closer,Minnesota,AL Central,2500000,29
+Jamey Carroll,Minnesota Twins,Second baseman,Minnesota,AL Central,3750000,38
+Jared Burton,Minnesota Twins,Bullpen,Minnesota,AL Central,2050000,31
+Joe Mauer,Minnesota Twins,Catcher,Minnesota,AL Central,23000000,29
+Josh Roenicke,Minnesota Twins,Bullpen,Minnesota,AL Central,505000,29
+Justin Morneau,Minnesota Twins,First baseman,Minnesota,AL Central,15000000,31
+Kevin Correia,Minnesota Twins,Starting pitcher,Minnesota,AL Central,4500000,31
+Liam Hendriks,Minnesota Twins,Starting pitcher,Minnesota,AL Central,495000,23
+Mike Pelfrey,Minnesota Twins,Starting pitcher,Minnesota,AL Central,4000000,29
+Pedro Floriman Jr.,Minnesota Twins,Utility,Minnesota,AL Central,495000,25
+Ryan Doumit,Minnesota Twins,Catcher,Minnesota,AL Central,3500000,31
+Ryan Pressly,Minnesota Twins,Starting pitcher,Minnesota,AL Central,490000,24
+Scott Diamond,Minnesota Twins,Starting pitcher,Minnesota,AL Central,530000,25
+Tim Wood,Minnesota Twins,Bullpen,Minnesota,AL Central,675000,30
+Trevor Plouffe,Minnesota Twins,Third baseman,Minnesota,AL Central,520000,26
+Tyler Robertson,Minnesota Twins,Bullpen,Minnesota,AL Central,495000,24
+Vance Worley,Minnesota Twins,Starting pitcher,Minnesota,AL Central,525000,24
+Aaron Laffey,New York Mets,Bullpen,New York,NL East,480000,27
+Anthony Recker,New York Mets,Catcher,New York,NL East,490840,28
+Bobby Parnell,New York Mets,Bullpen,New York,NL East,1700000,27
+Brandon Lyon,New York Mets,Bullpen,New York,NL East,750000,32
+Collin Cowgill,New York Mets,Outfielder,New York,NL East,493520,26
+Daniel Murphy,New York Mets,Second baseman,New York,NL East,2925000,27
+David Wright,New York Mets,Third baseman,New York,NL East,10192071,29
+Dillon Gee,New York Mets,Starting pitcher,New York,NL East,527375,26
+Frank Francisco,New York Mets,Closer,New York,NL East,6500000,32
+Greg Burke,New York Mets,Bullpen,New York,NL East,550000,30
+Ike Davis,New York Mets,First baseman,New York,NL East,3125000,25
+Jenrry Mejia,New York Mets,Starting pitcher,New York,NL East,494925,23
+Jeremy Hefner,New York Mets,Starting pitcher,New York,NL East,500625,27
+Jeurys Familia,New York Mets,Bullpen,New York,NL East,491750,23
+Johan Santana,New York Mets,Starting pitcher,New York,NL East,24644708,33
+John Buck,New York Mets,Catcher,New York,NL East,6500000,31
+Jon Niese,New York Mets,Starting pitcher,New York,NL East,3050000,25
+Jordany Valdespin,New York Mets,Utility,New York,NL East,496645,24
+Josh Edgin,New York Mets,Bullpen,New York,NL East,493500,25
+Justin Turner,New York Mets,Utility,New York,NL East,504547,27
+Kirk Nieuwenhuis,New York Mets,Center fielder,New York,NL East,498124,24
+LaTroy Hawkins,New York Mets,Bullpen,New York,NL East,480000,39
+Lucas Duda,New York Mets,Left fielder,New York,NL East,519240,26
+Matt Harvey,New York Mets,Starting pitcher,New York,NL East,498750,23
+Mike Baxter,New York Mets,Right fielder,New York,NL East,500318,27
+Robert Carson,New York Mets,Bullpen,New York,NL East,491375,24
+Ruben Tejada,New York Mets,Shortstop,New York,NL East,514701,22
+Scott Atchison,New York Mets,Bullpen,New York,NL East,700000,36
+Scott Rice,New York Mets,Bullpen,New York,NL East,490000,31
+Shaun Marcum,New York Mets,Starting pitcher,New York,NL East,4000000,30
+Zach Lutz,New York Mets,Infielder,New York,NL East,490040,25
+Alex Rodriguez,New York Yankees,Third baseman,New York,AL East,29000000,36
+Andy Pettitte,New York Yankees,Starting pitcher,New York,AL East,12000000,40
+Boone Logan,New York Yankees,Bullpen,New York,AL East,3150000,27
+Brennan Boesch,New York Yankees,Outfielder,New York,AL East,1500000,27
+Brett Gardner,New York Yankees,Left fielder,New York,AL East,2850000,28
+CC Sabathia,New York Yankees,Starting pitcher,New York,AL East,24285714,31
+Cesar Cabral,New York Yankees,Bullpen,New York,AL East,490000,24
+Chris Stewart,New York Yankees,Catcher,New York,AL East,515100,30
+Clay Rapada,New York Yankees,Bullpen,New York,AL East,553625,31
+Cody Eppley,New York Yankees,Bullpen,New York,AL East,510350,26
+Curtis Granderson,New York Yankees,Center fielder,New York,AL East,15000000,31
+David Aardsma,New York Yankees,Bullpen,New York,AL East,540000,30
+David Phelps,New York Yankees,Bullpen,New York,AL East,512425,25
+David Robertson,New York Yankees,Bullpen,New York,AL East,3100000,27
+Derek Jeter,New York Yankees,Shortstop,New York,AL East,16729365,38
+Eduardo Nunez,New York Yankees,Utility,New York,AL East,533300,25
+Francisco Cervelli,New York Yankees,Catcher,New York,AL East,515350,26
+Hiroki Kuroda,New York Yankees,Starting pitcher,New York,AL East,15000000,37
+Ichiro Suzuki,New York Yankees,Right fielder,New York,AL East,6500000,38
+Ivan Nova,New York Yankees,Starting pitcher,New York,AL East,575600,25
+Jayson Nix,New York Yankees,Utility,New York,AL East,900000,29
+Joba Chamberlain,New York Yankees,Bullpen,New York,AL East,1875000,26
+Kevin Youkilis,New York Yankees,Third baseman,New York,AL East,12000000,33
+Mariano Rivera,New York Yankees,Closer,New York,AL East,10000000,42
+Mark Teixeira,New York Yankees,First baseman,New York,AL East,23125000,32
+Melky Mesa,New York Yankees,Outfielder,New York,AL East,490200,26
+Michael Pineda,New York Yankees,Starting pitcher,New York,AL East,528475,24
+Robinson Cano,New York Yankees,Second baseman,New York,AL East,15000000,29
+Sam Demel,New York Yankees,Bullpen,New York,AL East,491200,27
+Shawn Kelley,New York Yankees,Bullpen,New York,AL East,935000,28
+Travis Hafner,New York Yankees,Designated hitter,New York,AL East,2000000,35
+Vernon Wells,New York Yankees,Left fielder,New York,AL East,24642857,34
+A.J. Griffin,Oakland Athletics,Starting pitcher,California,AL West,492500,24
+Adam Rosales,Oakland Athletics,Utility,California,AL West,700000,29
+Andy Parrino,Oakland Athletics,Infielder,California,AL West,492500,27
+Bartolo Colon,Oakland Athletics,Starting pitcher,California,AL West,3000000,39
+Brandon Moss,Oakland Athletics,First baseman,California,AL West,1600000,28
+Brett Anderson,Oakland Athletics,Starting pitcher,California,AL West,5750000,24
+Chris Resop,Oakland Athletics,Bullpen,California,AL West,1350000,29
+Dan Straily,Oakland Athletics,Starting pitcher,California,AL West,492500,23
+Daric Barton,Oakland Athletics,First baseman,California,AL West,1100000,26
+Derek Norris,Oakland Athletics,Catcher,California,AL West,492500,23
+Eric Sogard,Oakland Athletics,Infielder,California,AL West,495000,26
+Evan Scribner,Oakland Athletics,Bullpen,California,AL West,495000,27
+Fernando Rodriguez,Oakland Athletics,Bullpen,California,AL West,492000,28
+Grant Balfour,Oakland Athletics,Closer,California,AL West,4500000,34
+Hiroyuki Nakajima,Oakland Athletics,Shortstop,California,AL West,2875000,30
+Jarrod Parker,Oakland Athletics,Starting pitcher,California,AL West,495000,23
+Jed Lowrie,Oakland Athletics,Second baseman,California,AL West,2400000,28
+Jerry Blevins,Oakland Athletics,Bullpen,California,AL West,1100000,28
+John Jaso,Oakland Athletics,Catcher,California,AL West,1800000,28
+Jordan Norberto,Oakland Athletics,Starting pitcher,California,AL West,495000,26
+Josh Donaldson,Oakland Athletics,Third baseman,California,AL West,492500,27
+Josh Reddick,Oakland Athletics,Right fielder,California,AL West,510000,25
+Nate Freiman,Oakland Athletics,First baseman,California,AL West,490000,26
+Pat Neshek,Oakland Athletics,Bullpen,California,AL West,975000,31
+Pedro Figueroa,Oakland Athletics,Bullpen,California,AL West,492500,27
+Ryan Cook,Oakland Athletics,Bullpen,California,AL West,505000,25
+Scott Sizemore,Oakland Athletics,Third baseman,California,AL West,500000,28
+Sean Doolittle,Oakland Athletics,Bullpen,California,AL West,492500,25
+Seth Smith,Oakland Athletics,Outfielder,California,AL West,3675000,29
+Tom Milone,Oakland Athletics,Starting pitcher,California,AL West,495000,25
+Travis Blackley,Oakland Athletics,Starting pitcher,California,AL West,550000,29
+Antonio Bastardo,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,1400000,26
+Ben Revere,Philadelphia Phillies,Center fielder,Pennsylvania,NL East,515000,24
+Carlos Ruiz,Philadelphia Phillies,Catcher,Pennsylvania,NL East,5000000,33
+Chad Durbin,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,850000,34
+Chase Utley,Philadelphia Phillies,Second baseman,Pennsylvania,NL East,15285714,33
+Cliff Lee,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,25000000,33
+Cole Hamels,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,20500000,28
+Delmon Young,Philadelphia Phillies,Right fielder,Pennsylvania,NL East,750000,26
+Domonic Brown,Philadelphia Phillies,Left fielder,Pennsylvania,NL East,500000,24
+Ender Inciarte,Philadelphia Phillies,Outfielder,Pennsylvania,NL East,490000,22
+Erik Kratz,Philadelphia Phillies,Catcher,Pennsylvania,NL East,496000,32
+Freddy Galvis,Philadelphia Phillies,Infielder,Pennsylvania,NL East,490000,23
+Jeremy Horst,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,497000,27
+Jimmy Rollins,Philadelphia Phillies,Shortstop,Pennsylvania,NL East,11000000,33
+John Lannan,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,2500000,27
+John Mayberry Jr.,Philadelphia Phillies,Left fielder,Pennsylvania,NL East,517000,28
+Jonathan Papelbon,Philadelphia Phillies,Closer,Pennsylvania,NL East,13000000,31
+Kevin Frandsen,Philadelphia Phillies,Utility,Pennsylvania,NL East,850000,30
+Kyle Kendrick,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,4500000,27
+Lance Nix,Philadelphia Phillies,Outfielder,Pennsylvania,NL East,1350000,31
+Michael Stutes,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,492500,25
+Michael Young,Philadelphia Phillies,Third baseman,Pennsylvania,NL East,18374975,35
+Mike Adams,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,5000000,33
+Phillippe Aumont,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,490000,24
+Raul Valdes,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,505000,35
 Roy Halladay,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,20000000,35
 Ryan Howard,Philadelphia Phillies,First baseman,Pennsylvania,NL East,20000000,32
-Barry Zito,San Francisco Giants,Starting pitcher,California,NL West,20000000,34
-Alfonso Soriano,Chicago Cubs,Left fielder,Illinois,NL Central,19000000,36
-Joey Votto,Cincinnati Reds,First baseman,Ohio,NL Central,18910655,28
-Michael Young,Philadelphia Phillies,Third baseman,Pennsylvania,NL East,18374975,35
-Josh Hamilton,Los Angeles Angels,Right fielder,California,AL West,17400000,31
-Josh Beckett,Los Angeles Dodgers,Starting pitcher,California,NL West,17000000,32
-Derek Jeter,New York Yankees,Shortstop,New York,AL East,16729365,38
-Jayson Werth,Washington Nationals,Right fielder,"Washington, D.C.",NL East,16571429,33
 A.J. Burnett,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,16500000,35
-Bronson Arroyo,Cincinnati Reds,Starting pitcher,Ohio,NL Central,16445535,35
-Matt Holliday,St. Louis Cardinals,Left fielder,Missouri,NL Central,16272110,32
-Jered Weaver,Los Angeles Angels,Starting pitcher,California,AL West,16200000,29
-Jake Peavy,Chicago White Sox,Starting pitcher,Illinois,AL Central,16157271,31
-Albert Pujols,Los Angeles Angels,First baseman,California,AL West,16000000,32
-Adrian Beltre,Texas Rangers,Third baseman,Texas,AL West,16000000,33
-John Lackey,Boston Red Sox,Starting pitcher,Massachusetts,AL East,15950000,34
-John Danks,Chicago White Sox,Starting pitcher,Illinois,AL Central,15750000,27
-Hanley Ramirez,Los Angeles Dodgers,Shortstop,California,NL West,15500000,28
-Nick Markakis,Baltimore Orioles,Right fielder,Maryland,AL East,15350000,28
-Chase Utley,Philadelphia Phillies,Second baseman,Pennsylvania,NL East,15285714,33
-Adam Dunn,Chicago White Sox,Designated hitter,Illinois,AL Central,15000000,32
-Justin Morneau,Minnesota Twins,First baseman,Minnesota,AL Central,15000000,31
-Robinson Cano,New York Yankees,Second baseman,New York,AL East,15000000,29
-Curtis Granderson,New York Yankees,Center fielder,New York,AL East,15000000,31
-Hiroki Kuroda,New York Yankees,Starting pitcher,New York,AL East,15000000,37
-David Ortiz,Boston Red Sox,Designated hitter,Massachusetts,AL East,14500000,36
-Yadier Molina,St. Louis Cardinals,Catcher,Missouri,NL Central,14200000,29
-Ryan Zimmerman,Washington Nationals,Third baseman,"Washington, D.C.",NL East,14100000,27
-Jose Bautista,Toronto Blue Jays,Right fielder,Toronto,AL East,14000000,31
-Hunter Pence,San Francisco Giants,Right fielder,California,NL West,13800000,29
-Josh Johnson,Toronto Blue Jays,Starting pitcher,Toronto,AL East,13750000,28
-Wandy Rodriguez,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,13500000,33
-Andre Ethier,Los Angeles Dodgers,Right fielder,California,NL West,13500000,30
-Ryan Dempster,Boston Red Sox,Starting pitcher,Massachusetts,AL East,13250000,35
-Ted Lilly,Los Angeles Dodgers,Starting pitcher,California,NL West,13166667,36
-Dan Uggla,Atlanta Braves,Second baseman,Georgia,NL East,13146942,32
-B.J. Upton,Atlanta Braves,Center fielder,Georgia,NL East,13050000,27
-Alex Rios,Chicago White Sox,Center fielder,Illinois,AL Central,13000000,31
-Victor Martinez,Detroit Tigers,Designated hitter,Michigan,AL Central,13000000,34
-Ervin Santana,Kansas City Royals,Starting pitcher,Missouri,AL Central,13000000,29
-Shane Victorino,Boston Red Sox,Right fielder,Massachusetts,AL East,13000000,31
-Ian Kinsler,Texas Rangers,Second baseman,Texas,AL West,13000000,30
-Edwin Jackson,Chicago Cubs,Starting pitcher,Illinois,NL Central,13000000,28
-Carlos Beltran,St. Louis Cardinals,Right fielder,Missouri,NL Central,13000000,35
-Jonathan Papelbon,Philadelphia Phillies,Closer,Pennsylvania,NL East,13000000,31
-Dan Haren,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,13000000,31
-Paul Konerko,Chicago White Sox,First baseman,Illinois,AL Central,12501506,36
-Torii Hunter,Detroit Tigers,Right fielder,Michigan,AL Central,12000000,36
-Andy Pettitte,New York Yankees,Starting pitcher,New York,AL East,12000000,40
-Kevin Youkilis,New York Yankees,Third baseman,New York,AL East,12000000,33
-Mark Buehrle,Toronto Blue Jays,Starting pitcher,Toronto,AL East,12000000,33
-Adam Wainwright,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,12000000,30
-Brian McCann,Atlanta Braves,Catcher,Georgia,NL East,12000000,28
-Chris Carpenter,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,11941975,37
-Clayton Kershaw,Los Angeles Dodgers,Starting pitcher,California,NL West,11750000,24
-Rafael Soriano,Washington Nationals,Closer,"Washington, D.C.",NL East,11742091,32
-Jon Lester,Boston Red Sox,Starting pitcher,Massachusetts,AL East,11625000,28
-C.J. Wilson,Los Angeles Angels,Starting pitcher,California,AL West,11500000,31
-Ricky Nolasco,Miami Marlins,Starting pitcher,Florida,NL East,11500000,29
-Nick Swisher,Cleveland Indians,Right fielder,Ohio,AL Central,11000000,32
-James Shields,Kansas City Royals,Starting pitcher,Missouri,AL Central,11000000,30
-Rickie Weeks,Milwaukee Brewers,Second baseman,Wisconsin,NL Central,11000000,29
-Jimmy Rollins,Philadelphia Phillies,Shortstop,Pennsylvania,NL East,11000000,33
-Jorge De La Rosa,Colorado Rockies,Starting pitcher,Colorado,NL West,11000000,31
-Chad Billingsley,Los Angeles Dodgers,Starting pitcher,California,NL West,11000000,27
-Michael Cuddyer,Colorado Rockies,Right fielder,Colorado,NL West,10500000,33
-Corey Hart,Milwaukee Brewers,First baseman,Wisconsin,NL Central,10333333,30
-Dustin Pedroia,Boston Red Sox,Second baseman,Massachusetts,AL East,10250000,28
-Nelson Cruz,Texas Rangers,Right fielder,Texas,AL West,10250000,31
-Matt Garza,Chicago Cubs,Starting pitcher,Illinois,NL Central,10250000,28
-David Wright,New York Mets,Third baseman,New York,NL East,10192071,29
-Carlos Marmol,Chicago Cubs,Closer,Illinois,NL Central,10133333,29
-Brandon Phillips,Cincinnati Reds,Second baseman,Ohio,NL Central,10083333,31
-Kyle Lohse,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,10063922,34
-Brian Roberts,Baltimore Orioles,Second baseman,Maryland,AL East,10000000,34
-Mariano Rivera,New York Yankees,Closer,New York,AL East,10000000,42
-Jose Reyes,Toronto Blue Jays,Shortstop,Toronto,AL East,10000000,29
-Lance Berkman,Texas Rangers,Designated hitter,Texas,AL West,10000000,36
-Aramis Ramirez,Milwaukee Brewers,Third baseman,Wisconsin,NL Central,10000000,34
-Adam LaRoche,Washington Nationals,First baseman,"Washington, D.C.",NL East,10000000,32
-Martin Prado,Arizona Diamondbacks,Third baseman,Arizona,NL West,7000000,28
-Huston Street,San Diego Padres,Closer,California,NL West,7000000,28
-Michael Bourn,Cleveland Indians,Center fielder,Ohio,AL Central,7000000,30
-Jeff Francoeur,Kansas City Royals,Right fielder,Missouri,AL Central,6750000,28
-Jason Hammel,Baltimore Orioles,Starting pitcher,Maryland,AL East,6750000,29
-Max Scherzer,Detroit Tigers,Starting pitcher,Michigan,AL Central,6725000,27
-Marco Scutaro,San Francisco Giants,Second baseman,California,NL West,6666667,36
-Asdrubal Cabrera,Cleveland Indians,Shortstop,Ohio,AL Central,6500000,26
-Jim Johnson,Baltimore Orioles,Closer,Maryland,AL East,6500000,29
-Ichiro Suzuki,New York Yankees,Right fielder,New York,AL East,6500000,38
-Joe Blanton,Los Angeles Angels,Starting pitcher,California,AL West,6500000,31
-Hisashi Iwakuma,Seattle Mariners,Starting pitcher,Washington,AL West,6500000,31
-Paul Maholm,Atlanta Braves,Starting pitcher,Georgia,NL East,6500000,30
-John Buck,New York Mets,Catcher,New York,NL East,6500000,31
-Frank Francisco,New York Mets,Closer,New York,NL East,6500000,32
-J.J. Putz,Arizona Diamondbacks,Closer,Arizona,NL West,6500000,35
-Kurt Suzuki,Washington Nationals,Catcher,"Washington, D.C.",NL East,6487500,28
-Chris Capuano,Los Angeles Dodgers,Starting pitcher,California,NL West,6375000,33
-Gio Gonzalez,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,6350000,26
-Todd Helton,Colorado Rockies,First baseman,Colorado,NL West,6175000,38
-Mark Reynolds,Cleveland Indians,First baseman,Ohio,AL Central,6000000,28
-Jhonny Peralta,Detroit Tigers,Shortstop,Michigan,AL Central,6000000,30
-Joe Saunders,Seattle Mariners,Starting pitcher,Washington,AL West,6000000,31
-Scott Feldman,Chicago Cubs,Starting pitcher,Illinois,NL Central,6000000,29
-Cody Ross,Arizona Diamondbacks,Right fielder,Arizona,NL West,6000000,31
-Aaron Harang,Los Angeles Dodgers,Starting pitcher,California,NL West,6000000,34
-Jeremy Affeldt,San Francisco Giants,Bullpen,California,NL West,6000000,33
-Jaime Garcia,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,5875000,25
-Starlin Castro,Chicago Cubs,Shortstop,Illinois,NL Central,5857143,22
-David Murphy,Texas Rangers,Left fielder,Texas,AL West,5775000,30
-Ubaldo Jimenez,Cleveland Indians,Starting pitcher,Ohio,AL Central,5750000,28
-Clay Buchholz,Boston Red Sox,Starting pitcher,Massachusetts,AL East,5750000,27
-Brett Anderson,Oakland Athletics,Starting pitcher,California,AL West,5750000,24
-Edinson Volquez,San Diego Padres,Starting pitcher,California,NL West,5725000,28
-Trevor Cahill,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,5700000,24
-Pablo Sandoval,San Francisco Giants,Third baseman,California,NL West,5700000,25
-Justin Masterson,Cleveland Indians,Starting pitcher,Ohio,AL Central,5687500,27
-Ben Zobrist,Tampa Bay Rays,Utility,Florida,AL East,5687300,31
-Matt Thornton,Chicago White Sox,Bullpen,Illinois,AL Central,5500000,35
-Joaquin Benoit,Detroit Tigers,Bullpen,Michigan,AL Central,5500000,34
-Matt Wieters,Baltimore Orioles,Catcher,Maryland,AL East,5500000,26
-Scott Baker,Chicago Cubs,Starting pitcher,Illinois,NL Central,5500000,31
-Clint Barmes,Pittsburgh Pirates,Shortstop,Pennsylvania,NL Central,5500000,33
-Aaron Hill,Arizona Diamondbacks,Second baseman,Arizona,NL West,5500000,30
-Brandon League,Los Angeles Dodgers,Closer,California,NL West,5500000,29
-Homer Bailey,Cincinnati Reds,Starting pitcher,Ohio,NL Central,5350000,26
-Jordan Zimmerman,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,5350000,26
-Kendrys Morales,Seattle Mariners,First baseman,Washington,AL West,5250000,29
-Brandon McCarthy,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,5250000,28
-Mark Ellis,Los Angeles Dodgers,Second baseman,California,NL West,5250000,35
-Clayton Richard,San Diego Padres,Starting pitcher,California,NL West,5240000,28
-Matt Harrison,Texas Rangers,Starting pitcher,Texas,AL West,5200000,26
-Adam Lind,Toronto Blue Jays,Outfielder,Toronto,AL East,5150000,28
-Rick Porcello,Detroit Tigers,Starting pitcher,Michigan,AL Central,5100000,23
-Chris Iannetta,Los Angeles Angels,Catcher,California,AL West,5050000,29
-Elvis Andrus,Texas Rangers,Shortstop,Texas,AL West,5050000,23
-Jeremy Guthrie,Kansas City Royals,Starting pitcher,Missouri,AL Central,5000000,33
-Jonny Gomes,Boston Red Sox,Left fielder,Massachusetts,AL East,5000000,31
-Mike Napoli,Boston Red Sox,First baseman,Massachusetts,AL East,5000000,30
-Yunel Escobar,Tampa Bay Rays,Shortstop,Florida,AL East,5000000,29
-R.A. Dickey,Toronto Blue Jays,Starting pitcher,Toronto,AL East,5000000,37
-Scott Downs,Los Angeles Angels,Bullpen,California,AL West,5000000,36
-Carlos Villanueva,Chicago Cubs,Starting pitcher,Illinois,NL Central,5000000,28
-John Axford,Milwaukee Brewers,Closer,Wisconsin,NL Central,5000000,29
-Mike Adams,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,5000000,33
-Carlos Ruiz,Philadelphia Phillies,Catcher,Pennsylvania,NL East,5000000,33
-Ryan Vogelsong,San Francisco Giants,Starting pitcher,California,NL West,5000000,34
-Aroldis Chapman,Cincinnati Reds,Starting pitcher,Ohio,NL Central,4835772,24
-Denard Span,Washington Nationals,Center fielder,"Washington, D.C.",NL East,4750000,28
-Matt Guerrier,Los Angeles Dodgers,Bullpen,California,NL West,4711499,33
 Andrew McCutchen,Pittsburgh Pirates,Center fielder,Pennsylvania,NL Central,4708333,25
-Colby Rasmus,Toronto Blue Jays,Center fielder,Toronto,AL East,4675000,25
-Sean Marshall,Cincinnati Reds,Bullpen,Ohio,NL Central,4625000,29
-Luke Hochevar,Kansas City Royals,Starting pitcher,Missouri,AL Central,4560000,28
-Jesse Crain,Chicago White Sox,Bullpen,Illinois,AL Central,4500000,30
-Bruce Chen,Kansas City Royals,Starting pitcher,Missouri,AL Central,4500000,35
-Kevin Correia,Minnesota Twins,Starting pitcher,Minnesota,AL Central,4500000,31
-Jarrod Saltalamacchia,Boston Red Sox,Catcher,Massachusetts,AL East,4500000,27
-Grant Balfour,Oakland Athletics,Closer,California,AL West,4500000,34
-Kyuji Fujikawa,Chicago Cubs,Bullpen,Illinois,NL Central,4500000,32
-Garrett Jones,Pittsburgh Pirates,First baseman,Pennsylvania,NL Central,4500000,31
-Jason Motte,St. Louis Cardinals,Closer,Missouri,NL Central,4500000,30
-Kyle Kendrick,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,4500000,27
-Eric O'Flaherty,Atlanta Braves,Bullpen,Georgia,NL East,4320000,27
-Carlos Gomez,Milwaukee Brewers,Center fielder,Wisconsin,NL Central,4300000,27
-Ian Kennedy,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,4265000,27
-Koji Uehara,Boston Red Sox,Bullpen,Massachusetts,AL East,4250000,37
-David DeJesus,Chicago Cubs,Center fielder,Illinois,NL Central,4250000,32
-Mat Latos,Cincinnati Reds,Starting pitcher,Ohio,NL Central,4250000,24
-Rafael Betancourt,Colorado Rockies,Closer,Colorado,NL West,4250000,27
-Javier Lopez,San Francisco Giants,Bullpen,California,NL West,4250000,34
-Tsuyoshi Wada,Baltimore Orioles,Starting pitcher,Maryland,AL East,4200000,31
-Santiago Casilla,San Francisco Giants,Bullpen,California,NL West,4166667,31
-Andrew Bailey,Boston Red Sox,Bullpen,Massachusetts,AL East,4100000,28
-Alberto Callaspo,Los Angeles Angels,Third baseman,California,AL West,4100000,29
-Matt Belisle,Colorado Rockies,Bullpen,Colorado,NL West,4100000,32
-Doug Fister,Detroit Tigers,Starting pitcher,Michigan,AL Central,4000000,28
-Omar Infante,Detroit Tigers,Second baseman,Michigan,AL Central,4000000,30
-Mike Pelfrey,Minnesota Twins,Starting pitcher,Minnesota,AL Central,4000000,29
-Jonathan Broxton,Cincinnati Reds,Closer,Ohio,NL Central,4000000,28
-Shaun Marcum,New York Mets,Starting pitcher,New York,NL East,4000000,30
-Tyler Clippard,Washington Nationals,Bullpen,"Washington, D.C.",NL East,4000000,27
-Casey Janssen,Toronto Blue Jays,Closer,Toronto,AL East,3900000,30
-Stephen Strasburg,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,3900000,23
-Ian Desmond,Washington Nationals,Shortstop,"Washington, D.C.",NL East,3800000,26
-Jamey Carroll,Minnesota Twins,Second baseman,Minnesota,AL Central,3750000,38
-Dexter Fowler,Colorado Rockies,Left fielder,Colorado,NL West,3750000,26
-Jerry Hairston Jr.,Los Angeles Dodgers,Utility,California,NL West,3750000,36
-Tommy Hanson,Los Angeles Angels,Starting pitcher,California,AL West,3725000,25
-J.A. Happ,Toronto Blue Jays,Starting pitcher,Toronto,AL East,3700000,29
-Seth Smith,Oakland Athletics,Outfielder,California,AL West,3675000,29
-Wei-Yin Chen,Baltimore Orioles,Starting pitcher,Maryland,AL East,3655333,26
-Jason Heyward,Atlanta Braves,Right fielder,Georgia,NL East,3650000,22
-Sean Burnett,Los Angeles Angels,Bullpen,California,AL West,3625000,29
-Jeff Keppinger,Chicago White Sox,Utility,Illinois,AL Central,3500000,32
-Octavio Dotel,Detroit Tigers,Bullpen,Michigan,AL Central,3500000,38
-Austin Jackson,Detroit Tigers,Center fielder,Michigan,AL Central,3500000,25
-Ryan Doumit,Minnesota Twins,Catcher,Minnesota,AL Central,3500000,31
-Ryan Madson,Los Angeles Angels,Closer,California,AL West,3500000,32
-Sergio Romo,San Francisco Giants,Closer,California,NL West,3500000,29
-Derek Holland,Texas Rangers,Starting pitcher,Texas,AL West,3400000,25
-Hyun-Jin Ryu,Los Angeles Dodgers,Starting pitcher,California,NL West,3333333,25
-Chris Davis,Baltimore Orioles,First baseman,Maryland,AL East,3300000,26
-Neil Walker,Pittsburgh Pirates,Second baseman,Pennsylvania,NL Central,3300000,26
-Roberto Hernandez,Tampa Bay Rays,Bullpen,Florida,AL East,3250000,32
-Brendan Ryan,Seattle Mariners,Shortstop,Washington,AL West,3250000,30
-Leonys Martin,Texas Rangers,Center fielder,Texas,AL West,3250000,24
-Edward Mujica,St. Louis Cardinals,Bullpen,Missouri,NL Central,3200000,28
-Ramon Hernandez,Colorado Rockies,Catcher,Colorado,NL West,3200000,36
-Luke Gregerson,San Diego Padres,Bullpen,California,NL West,3200000,28
-Joe Smith,Cleveland Indians,Bullpen,Ohio,AL Central,3150000,28
-Boone Logan,New York Yankees,Bullpen,New York,AL East,3150000,27
-David Freese,St. Louis Cardinals,Third baseman,Missouri,NL Central,3150000,29
-Brad Ziegler,Arizona Diamondbacks,Bullpen,Arizona,NL West,3150000,32
-Ike Davis,New York Mets,First baseman,New York,NL East,3125000,25
-David Ross,Boston Red Sox,Catcher,Massachusetts,AL East,3100000,35
-David Robertson,New York Yankees,Bullpen,New York,AL East,3100000,27
-Nick Masset,Cincinnati Reds,Bullpen,Ohio,NL Central,3100000,30
-Cameron Maybin,San Diego Padres,Center fielder,California,NL West,3100000,25
-Mike Leake,Cincinnati Reds,Starting pitcher,Ohio,NL Central,3060000,24
-Jon Niese,New York Mets,Starting pitcher,New York,NL East,3050000,25
-James McDonald,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,3025000,27
-Alcides Escobar,Kansas City Royals,Shortstop,Missouri,AL Central,3000000,25
-Jeff Niemann,Tampa Bay Rays,Starting pitcher,Florida,AL East,3000000,29
-Joel Peralta,Tampa Bay Rays,Bullpen,Florida,AL East,3000000,36
-Maicer Izturis,Toronto Blue Jays,Second baseman,Toronto,AL East,3000000,31
-Darren Oliver,Toronto Blue Jays,Bullpen,Toronto,AL East,3000000,41
-Bud Norris,Houston Astros,Starting pitcher,Texas,AL West,3000000,27
-Bartolo Colon,Oakland Athletics,Starting pitcher,California,AL West,3000000,39
-Eric Chavez,Arizona Diamondbacks,Third baseman,Arizona,NL West,3000000,34
-Nick Hundley,San Diego Padres,Catcher,California,NL West,3000000,28
-Jason Marquis,San Diego Padres,Starting pitcher,California,NL West,3000000,33
-Alex Avila,Detroit Tigers,Catcher,Michigan,AL Central,2950000,25
-Ryan Roberts,Tampa Bay Rays,Utility,Florida,AL East,2950000,31
-Gordon Beckham,Chicago White Sox,Second baseman,Illinois,AL Central,2925000,25
-Daniel Murphy,New York Mets,Second baseman,New York,NL East,2925000,27
-Carlos Pena,Houston Astros,First baseman,Texas,AL West,2900000,34
-Neftali Feliz,Texas Rangers,Starting pitcher,Texas,AL West,2900000,24
-Hiroyuki Nakajima,Oakland Athletics,Shortstop,California,AL West,2875000,30
-Brett Gardner,New York Yankees,Left fielder,New York,AL East,2850000,28
-J.P. Howell,Los Angeles Dodgers,Bullpen,California,NL West,2850000,29
-Drew Stubbs,Cleveland Indians,Center fielder,Ohio,AL Central,2825000,27
-Dayan Viciedo,Chicago White Sox,Left fielder,Illinois,AL Central,2800000,23
-Wade Davis,Kansas City Royals,Starting pitcher,Missouri,AL Central,2800000,26
-Luke Scott,Tampa Bay Rays,Designated hitter,Florida,AL East,2750000,34
-Sergio Santos,Toronto Blue Jays,Bullpen,Toronto,AL East,2750000,29
-Raul Ibanez,Seattle Mariners,Left fielder,Washington,AL West,2750000,40
-Geovany Soto,Texas Rangers,Catcher,Texas,AL West,2750000,29
-Tom Gorzelanny,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2750000,29
-Adeiny Hechavarria,Miami Marlins,Shortstop,Florida,NL East,2750000,23
-Placido Polanco,Miami Marlins,Third baseman,Florida,NL East,2750000,36
-Dustin Ackley,Seattle Mariners,Second baseman,Washington,AL West,2700000,24
-Will Venable,San Diego Padres,Right fielder,California,NL West,2675000,29
-Alfredo Aceves,Boston Red Sox,Bullpen,Massachusetts,AL East,2650000,29
-Jeff Samardzija,Chicago Cubs,Starting pitcher,Illinois,NL Central,2640000,27
-Emilio Bonifacio,Toronto Blue Jays,Utility,Toronto,AL East,2600000,27
-Kris Medlen,Atlanta Braves,Starting pitcher,Georgia,NL East,2600000,26
-Evan Longoria,Tampa Bay Rays,Third baseman,Florida,AL East,2500018,26
-Glen Perkins,Minnesota Twins,Closer,Minnesota,AL Central,2500000,29
-Fernando Rodney,Tampa Bay Rays,Closer,Florida,AL East,2500000,35
-Rajai Davis,Toronto Blue Jays,Outfielder,Toronto,AL East,2500000,31
-Scott Hairston,Chicago Cubs,Outfielder,Illinois,NL Central,2500000,32
-Jason Grilli,Pittsburgh Pirates,Closer,Pennsylvania,NL Central,2500000,35
-Jeff Karstens,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,2500000,29
-Ty Wigginton,St. Louis Cardinals,Utility,Missouri,NL Central,2500000,34
-John Lannan,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,2500000,27
-Drew Storen,Washington Nationals,Bullpen,"Washington, D.C.",NL East,2500000,24
-Kelly Johnson,Tampa Bay Rays,Second baseman,Florida,AL East,2450000,30
-Matt Joyce,Tampa Bay Rays,Right fielder,Florida,AL East,2450000,27
-Jed Lowrie,Oakland Athletics,Second baseman,California,AL West,2400000,28
-Ryan Hanigan,Cincinnati Reds,Catcher,Ohio,NL Central,2350000,31
-Gerardo Parra,Arizona Diamondbacks,Outfielder,Arizona,NL West,2350000,25
-Ross Detwiler,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,2337500,26
-Craig Breslow,Boston Red Sox,Bullpen,Massachusetts,AL East,2325000,31
-Matt Lindstrom,Chicago White Sox,Bullpen,Illinois,AL Central,2300000,32
-Chris Johnson,Atlanta Braves,Third baseman,Georgia,NL East,2287500,27
-Tyler Colvin,Colorado Rockies,Outfielder,Colorado,NL West,2275000,26
-Mike Aviles,Cleveland Indians,Utility,Ohio,AL Central,2250000,31
-Nate Schierholtz,Chicago Cubs,Right fielder,Illinois,NL Central,2250000,28
-Mike Gonzalez,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2250000,34
-Nick Hundley,San Diego Padres,Catcher,California,NL West,3000000,28
-Jason Marquis,San Diego Padres,Starting pitcher,California,NL West,3000000,33
-Alex Avila,Detroit Tigers,Catcher,Michigan,AL Central,2950000,25
-Ryan Roberts,Tampa Bay Rays,Utility,Florida,AL East,2950000,31
-Gordon Beckham,Chicago White Sox,Second baseman,Illinois,AL Central,2925000,25
-Daniel Murphy,New York Mets,Second baseman,New York,NL East,2925000,27
-Carlos Pena,Houston Astros,First baseman,Texas,AL West,2900000,34
-Neftali Feliz,Texas Rangers,Starting pitcher,Texas,AL West,2900000,24
-Hiroyuki Nakajima,Oakland Athletics,Shortstop,California,AL West,2875000,30
-Brett Gardner,New York Yankees,Left fielder,New York,AL East,2850000,28
-J.P. Howell,Los Angeles Dodgers,Bullpen,California,NL West,2850000,29
-Drew Stubbs,Cleveland Indians,Center fielder,Ohio,AL Central,2825000,27
-Dayan Viciedo,Chicago White Sox,Left fielder,Illinois,AL Central,2800000,23
-Wade Davis,Kansas City Royals,Starting pitcher,Missouri,AL Central,2800000,26
-Luke Scott,Tampa Bay Rays,Designated hitter,Florida,AL East,2750000,34
-Sergio Santos,Toronto Blue Jays,Bullpen,Toronto,AL East,2750000,29
-Raul Ibanez,Seattle Mariners,Left fielder,Washington,AL West,2750000,40
-Geovany Soto,Texas Rangers,Catcher,Texas,AL West,2750000,29
-Tom Gorzelanny,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2750000,29
-Adeiny Hechavarria,Miami Marlins,Shortstop,Florida,NL East,2750000,23
-Placido Polanco,Miami Marlins,Third baseman,Florida,NL East,2750000,36
-Dustin Ackley,Seattle Mariners,Second baseman,Washington,AL West,2700000,24
-Will Venable,San Diego Padres,Right fielder,California,NL West,2675000,29
-Alfredo Aceves,Boston Red Sox,Bullpen,Massachusetts,AL East,2650000,29
-Jeff Samardzija,Chicago Cubs,Starting pitcher,Illinois,NL Central,2640000,27
-Emilio Bonifacio,Toronto Blue Jays,Utility,Toronto,AL East,2600000,27
-Kris Medlen,Atlanta Braves,Starting pitcher,Georgia,NL East,2600000,26
-Evan Longoria,Tampa Bay Rays,Third baseman,Florida,AL East,2500018,26
-Glen Perkins,Minnesota Twins,Closer,Minnesota,AL Central,2500000,29
-Fernando Rodney,Tampa Bay Rays,Closer,Florida,AL East,2500000,35
-Rajai Davis,Toronto Blue Jays,Outfielder,Toronto,AL East,2500000,31
-Scott Hairston,Chicago Cubs,Outfielder,Illinois,NL Central,2500000,32
-Jason Grilli,Pittsburgh Pirates,Closer,Pennsylvania,NL Central,2500000,35
-Jeff Karstens,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,2500000,29
-Ty Wigginton,St. Louis Cardinals,Utility,Missouri,NL Central,2500000,34
-John Lannan,Philadelphia Phillies,Starting pitcher,Pennsylvania,NL East,2500000,27
-Drew Storen,Washington Nationals,Bullpen,"Washington, D.C.",NL East,2500000,24
-Kelly Johnson,Tampa Bay Rays,Second baseman,Florida,AL East,2450000,30
-Matt Joyce,Tampa Bay Rays,Right fielder,Florida,AL East,2450000,27
-Jed Lowrie,Oakland Athletics,Second baseman,California,AL West,2400000,28
-Ryan Hanigan,Cincinnati Reds,Catcher,Ohio,NL Central,2350000,31
-Gerardo Parra,Arizona Diamondbacks,Outfielder,Arizona,NL West,2350000,25
-Ross Detwiler,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,2337500,26
-Craig Breslow,Boston Red Sox,Bullpen,Massachusetts,AL East,2325000,31
-Matt Lindstrom,Chicago White Sox,Bullpen,Illinois,AL Central,2300000,32
-Chris Johnson,Atlanta Braves,Third baseman,Georgia,NL East,2287500,27
-Tyler Colvin,Colorado Rockies,Outfielder,Colorado,NL West,2275000,26
-Mike Aviles,Cleveland Indians,Utility,Ohio,AL Central,2250000,31
-Nate Schierholtz,Chicago Cubs,Right fielder,Illinois,NL Central,2250000,28
-Mike Gonzalez,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,2250000,34
-Darren O'Day,Baltimore Orioles,Bullpen,Maryland,AL East,2200000,29
-Jacob Turner,Miami Marlins,Starting pitcher,Florida,NL East,2150000,21
-Ramon Santiago,Detroit Tigers,Utility,Michigan,AL Central,2100000,32
-Alejandro De Aza,Chicago White Sox,Right fielder,Illinois,AL Central,2075000,28
-Jose Iglesias,Boston Red Sox,Shortstop,Massachusetts,AL East,2062500,22
-Jared Burton,Minnesota Twins,Bullpen,Minnesota,AL Central,2050000,31
-Wilson Betemit,Baltimore Orioles,Utility,Maryland,AL East,2000000,30
-Nate McLouth,Baltimore Orioles,Left fielder,Maryland,AL East,2000000,30
-Travis Hafner,New York Yankees,Designated hitter,New York,AL East,2000000,35
-James Loney,Tampa Bay Rays,First baseman,Florida,AL East,2000000,28
-Jerome Williams,Los Angeles Angels,Bullpen,California,AL West,2000000,30
-Colby Lewis,Texas Rangers,Starting pitcher,Texas,AL West,2000000,32
-Joakim Soria,Texas Rangers,Bullpen,Texas,AL West,2000000,28
-Ian Stewart,Chicago Cubs,Third baseman,Illinois,NL Central,2000000,27
-Ryan Ludwick,Cincinnati Reds,Left fielder,Ohio,NL Central,2000000,33
-Charlie Morton,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,2000000,28
-Bryce Harper,Washington Nationals,Left fielder,"Washington, D.C.",NL East,2000000,19
-Yasiel Puig,Los Angeles Dodgers,Outfielder,California,NL West,2000000,22
-A.J. Ellis,Los Angeles Dodgers,Catcher,California,NL West,2000000,31
-Chris Denorfia,San Diego Padres,Outfielder,California,NL West,2000000,31
-Marco Estrada,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,1955000,28
-Willie Bloomquist,Arizona Diamondbacks,Utility,Arizona,NL West,1900000,34
-Joba Chamberlain,New York Yankees,Bullpen,New York,AL East,1875000,26
-Daniel Bard,Boston Red Sox,Bullpen,Massachusetts,AL East,1862500,27
-Jose Veras,Houston Astros,Closer,Texas,AL West,1850000,32
-Tommy Hunter,Baltimore Orioles,Bullpen,Maryland,AL East,1820000,25
-John Jaso,Oakland Athletics,Catcher,California,AL West,1800000,28
-Jose Mijares,San Francisco Giants,Bullpen,California,NL West,1800000,27
-Wilton Lopez,Colorado Rockies,Bullpen,Colorado,NL West,1762500,28
-Matt Albers,Cleveland Indians,Bullpen,Ohio,AL Central,1750000,29
-Felipe Paulino,Kansas City Royals,Starting pitcher,Missouri,AL Central,1750000,28
-Dioner Navarro,Chicago Cubs,Catcher,Illinois,NL Central,1750000,28
-Gaby Sanchez,Pittsburgh Pirates,First baseman,Pennsylvania,NL Central,1750000,28
-Allen Craig,St. Louis Cardinals,First baseman,Missouri,NL Central,1750000,27
-Cliff Pennington,Arizona Diamondbacks,Shortstop,Arizona,NL West,1750000,28
-Norichika Aoki,Milwaukee Brewers,Right fielder,Wisconsin,NL Central,1712500,30
-Bobby Parnell,New York Mets,Bullpen,New York,NL East,1700000,27
-Jhoulys Chacin,Colorado Rockies,Starting pitcher,Colorado,NL West,1650000,24
-Jonny Venters,Atlanta Braves,Bullpen,Georgia,NL East,1625000,27
-Brian Matusz,Baltimore Orioles,Bullpen,Maryland,AL East,1600000,25
-Brandon Moss,Oakland Athletics,First baseman,California,AL West,1600000,28
-Robert Andino,Seattle Mariners,Utility,Washington,AL West,1600000,28
-Reed Johnson,Atlanta Braves,Outfielder,Georgia,NL East,1600000,35
-Greg Dobbs,Miami Marlins,Utility,Florida,NL East,1600000,33
-Juan Pierre,Miami Marlins,Left fielder,Florida,NL East,1600000,34
-Burke Badenhop,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,1550000,29
-Jose Molina,Tampa Bay Rays,Catcher,Florida,AL East,1500000,37
-Dustin McGowan,Toronto Blue Jays,Starting pitcher,Toronto,AL East,1500000,30
-Oliver Perez,Seattle Mariners,Bullpen,Washington,AL West,1500000,30
-Kelly Shoppach,Seattle Mariners,Catcher,Washington,AL West,1500000,32
-Jason Frasor,Texas Rangers,Bullpen,Texas,AL West,1500000,35
-Randy Choate,St. Louis Cardinals,Bullpen,Missouri,NL Central,1500000,36
-Gerald Laird,Atlanta Braves,Catcher,Georgia,NL East,1500000,32
-Jeff Mathis,Miami Marlins,Catcher,Florida,NL East,1500000,29
-Jeff Francis,Colorado Rockies,Starting pitcher,Colorado,NL West,1500000,31
-Nick Punto,Los Angeles Dodgers,Utility,California,NL West,1500000,34
-Skip Schumaker,Los Angeles Dodgers,Utility,California,NL West,1500000,32
-Andres Torres,San Francisco Giants,Outfielder,California,NL West,1500000,34
-John McDonald,Pittsburgh Pirates,Infielder,Pennsylvania,NL Central,1500000,38
-Brennan Boesch,New York Yankees,Outfielder,New York,AL East,1500000,27
-Franklin Morales,Boston Red Sox,Bullpen,Massachusetts,AL East,1487500,26
-Andrew Miller,Boston Red Sox,Bullpen,Massachusetts,AL East,1475000,27
-Mitchell Boggs,St. Louis Cardinals,Bullpen,Missouri,NL Central,1475000,28
-Alex Gonzalez,Milwaukee Brewers,Shortstop,Wisconsin,NL Central,1450000,35
-Ronald Belisario,Los Angeles Dodgers,Bullpen,California,NL West,1450000,29
-Antonio Bastardo,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,1400000,26
-David Hernandez,Arizona Diamondbacks,Bullpen,Arizona,NL West,1375000,27
-Jonathan Sanchez,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,1375000,30
-Chris Resop,Oakland Athletics,Bullpen,California,AL West,1350000,29
-Shawn Camp,Chicago Cubs,Bullpen,Illinois,NL Central,1350000,36
-Lance Nix,Philadelphia Phillies,Outfielder,Pennsylvania,NL East,1350000,31
-Eric Hinske,Arizona Diamondbacks,Outfielder,Arizona,NL West,1350000,34
-Joe Thatcher,San Diego Padres,Bullpen,California,NL West,1350000,30
-Gregor Blanco,San Francisco Giants,Left fielder,California,NL West,1350000,28
-Chris Heisey,Cincinnati Reds,Outfielder,Ohio,NL Central,1325000,27
-Brian Duensing,Minnesota Twins,Bullpen,Minnesota,AL Central,1300000,29
-Mark Kotsay,San Diego Padres,Utility,California,NL West,1300000,36
-Aaron Crow,Kansas City Royals,Bullpen,Missouri,AL Central,1280000,25
-Tony Sipp,Arizona Diamondbacks,Bullpen,Arizona,NL West,1275000,29
-Everth Cabrera,San Diego Padres,Second baseman,California,NL West,1275000,25
-Kyle Farnsworth,Tampa Bay Rays,Bullpen,Florida,AL East,1250000,36
-Josh Thole,Toronto Blue Jays,Catcher,Toronto,AL East,1250000,25
 Brandon Inge,Pittsburgh Pirates,Third baseman,Pennsylvania,NL Central,1250000,35
-Roger Bernadina,Washington Nationals,Outfielder,"Washington, D.C.",NL East,1212500,28
-Jose Arredondo,Cincinnati Reds,Bullpen,Ohio,NL Central,1200000,28
-Kevin Jepsen,Los Angeles Angels,Bullpen,California,AL West,1181250,27
-Cory Luebke,San Diego Padres,Starting pitcher,California,NL West,1125000,27
-Yonder Alonso,San Diego Padres,First baseman,California,NL West,1120000,25
-Matt Moore,Tampa Bay Rays,Starting pitcher,Florida,AL East,1100000,23
-Daric Barton,Oakland Athletics,First baseman,California,AL West,1100000,26
-Jerry Blevins,Oakland Athletics,Bullpen,California,AL West,1100000,28
-Mark Rzepczynski,St. Louis Cardinals,Bullpen,Missouri,NL Central,1100000,26
-Miguel Tejada,Kansas City Royals,Infielder,Missouri,AL Central,1100000,38
-James Russell,Chicago Cubs,Bullpen,Illinois,NL Central,1075000,26
-Chris Getz,Kansas City Royals,Second baseman,Missouri,AL Central,1050000,28
-Kameron Loe,Seattle Mariners,Bullpen,Washington,AL West,1050000,31
-Wesley Wright,Houston Astros,Bullpen,Texas,AL West,1025000,27
-Lou Marson,Cleveland Indians,Catcher,Ohio,AL Central,1000000,26
-George Kottaras,Kansas City Royals,Catcher,Missouri,AL Central,1000000,29
-Salvador Perez,Kansas City Royals,Catcher,Missouri,AL Central,1000000,22
-Luis Ayala,Baltimore Orioles,Bullpen,Maryland,AL East,1000000,34
-Nolan Reimold,Baltimore Orioles,Outfielder,Maryland,AL East,1000000,28
-Sean Rodriguez,Tampa Bay Rays,Utility,Florida,AL East,1000000,27
-Jason Bay,Seattle Mariners,Left fielder,Washington,AL West,1000000,33
-Jorge Soler,Chicago Cubs,Outfielder,Illinois,NL Central,1000000,20
-Jack Hannahan,Cincinnati Reds,Third baseman,Ohio,NL Central,1000000,32
-Manny Parra,Cincinnati Reds,Bullpen,Ohio,NL Central,1000000,29
-Francisco Liriano,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,1000000,28
-Jon Rauch,Miami Marlins,Bullpen,Florida,NL East,1000000,33
-Chad Tracy,Washington Nationals,Utility,"Washington, D.C.",NL East,1000000,32
-Rich Hill,Cleveland Indians,Bullpen,Ohio,AL Central,1000000,33
-Yasmani Grandal,San Diego Padres,Catcher,California,NL West,990000,24
-Pat Neshek,Oakland Athletics,Bullpen,California,AL West,975000,31
-Ryan Webb,Miami Marlins,Bullpen,Florida,NL East,975000,26
-Logan Ondrusek,Cincinnati Reds,Bullpen,Ohio,NL Central,950000,27
-Shawn Kelley,New York Yankees,Bullpen,New York,AL East,935000,28
-Luis Valbuena,Chicago Cubs,Utility,Illinois,NL Central,930000,26
-John Baker,San Diego Padres,Catcher,California,NL West,930000,31
-Joaquin Arias,San Francisco Giants,Utility,California,NL West,925000,27
-Jose Tabata,Pittsburgh Pirates,Outfielder,Pennsylvania,NL Central,916667,23
-Madison Bumgarner,San Francisco Giants,Starting pitcher,California,NL West,916667,22
-Jayson Nix,New York Yankees,Utility,New York,AL East,900000,29
-Jonathan Herrera,Colorado Rockies,Utility,Colorado,NL West,900000,27
-Yuniesky Betancourt,Milwaukee Brewers,Infielder,Wisconsin,NL Central,900000,31
-Alfredo Simon,Cincinnati Reds,Bullpen,Ohio,NL Central,890000,31
-Brayan Pena,Detroit Tigers,Catcher,Michigan,AL Central,875000,30
-Craig Stammen,Washington Nationals,Bullpen,"Washington, D.C.",NL East,875000,28
-Chris Sale,Chicago White Sox,Starting pitcher,Illinois,AL Central,850000,23
-Phil Coke,Detroit Tigers,Bullpen,Michigan,AL Central,850000,29
-Jonathan Lucroy,Milwaukee Brewers,Catcher,Wisconsin,NL Central,850000,26
-Chad Durbin,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,850000,34
-Kevin Frandsen,Philadelphia Phillies,Utility,Pennsylvania,NL East,850000,30
-Chris Narveson,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,840000,30
-Troy Patton,Baltimore Orioles,Bullpen,Maryland,AL East,815000,26
-Junichi Tazawa,Boston Red Sox,Bullpen,Massachusetts,AL East,815000,26
-Wil Nieves,Arizona Diamondbacks,Catcher,Arizona,NL West,800000,34
-Miguel Olivo,Miami Marlins,Catcher,Florida,NL East,800000,34
-Carlos Santana,Cleveland Indians,Catcher,Ohio,AL Central,750000,26
-Juan Gutierrez,Kansas City Royals,Bullpen,Missouri,AL Central,750000,24
-Henry Blanco,Toronto Blue Jays,Catcher,Toronto,AL East,750000,40
-Mark DeRosa,Toronto Blue Jays,Utility,Toronto,AL East,750000,37
-Brandon Lyon,New York Mets,Bullpen,New York,NL East,750000,32
-Delmon Young,Philadelphia Phillies,Right fielder,Pennsylvania,NL East,750000,26
-Jason Giambi,Cleveland Indians,Designated hitter,Ohio,AL Central,750000,42
-Chad Gaudin,San Francisco Giants,Bullpen,California,NL West,750000,30
-Cristhian Martinez,Atlanta Braves,Bullpen,Georgia,NL East,749750,30
-Sam Fuld,Tampa Bay Rays,Outfielder,Florida,AL East,725000,30
-Paul Janish,Atlanta Braves,Shortstop,Georgia,NL East,725000,29
-Ronny Cedeno,Houston Astros,Infielder,Texas,AL West,718000,30
-Dewayne Wise,Chicago White Sox,Outfielder,Illinois,AL Central,700000,34
-Drew Butera,Minnesota Twins,Catcher,Minnesota,AL Central,700000,28
-Adam Rosales,Oakland Athletics,Utility,California,AL West,700000,29
-Josh Kinney,Seattle Mariners,Bullpen,Washington,AL West,700000,33
-Pedro Alvarez,Pittsburgh Pirates,Third baseman,Pennsylvania,NL Central,700000,25
-Scott Atchison,New York Mets,Bullpen,New York,NL East,700000,36
-Zach Duke,Washington Nationals,Bullpen,"Washington, D.C.",NL East,700000,29
-Tim Wood,Minnesota Twins,Bullpen,Minnesota,AL Central,675000,30
-Craig Kimbrel,Atlanta Braves,Closer,Georgia,NL East,655000,24
-Taylor Teagarden,Baltimore Orioles,Catcher,Maryland,AL East,650000,28
-Kyle Blanks,San Diego Padres,Outfielder,California,NL West,605000,25
-Brett Hayes,Kansas City Royals,Catcher,Missouri,AL Central,600000,25
-Ivan Nova,New York Yankees,Starting pitcher,New York,AL East,575600,25
-Darwin Barney,Chicago Cubs,Second baseman,Illinois,NL Central,562000,26
-Blake Wood,Cleveland Indians,Bullpen,Ohio,AL Central,560000,27
-Freddie Freeman,Atlanta Braves,First baseman,Georgia,NL East,560000,22
-Clay Rapada,New York Yankees,Bullpen,New York,AL East,553625,31
-Travis Blackley,Oakland Athletics,Starting pitcher,California,AL West,550000,29
-Greg Burke,New York Mets,Bullpen,New York,NL East,550000,30
-Ramiro Pena,Atlanta Braves,Infielder,Georgia,NL East,550000,23
-Jordan Walden,Atlanta Braves,Bullpen,Georgia,NL East,541500,24
-David Aardsma,New York Yankees,Bullpen,New York,AL East,540000,30
-Mark Trumbo,Los Angeles Angels,Designated hitter,California,AL West,540000,26
-Greg Holland,Kansas City Royals,Bullpen,Missouri,AL Central,539500,26
-Giancarlo Stanton,Miami Marlins,Right fielder,Florida,NL East,537000,22
-Tim Collins,Kansas City Royals,Bullpen,Missouri,AL Central,534500,22
-Eduardo Nunez,New York Yankees,Utility,New York,AL East,533300,25
-Luis Mendoza,Kansas City Royals,Bullpen,Missouri,AL Central,532000,28
-Brandon Belt,San Francisco Giants,First baseman,California,NL West,531500,24
-Scott Diamond,Minnesota Twins,Starting pitcher,Minnesota,AL Central,530000,25
-Ernesto Frieri,Los Angeles Angels,Bullpen,California,AL West,530000,26
-Brandon Crawford,San Francisco Giants,Shortstop,California,NL West,530000,25
-Michael Pineda,New York Yankees,Starting pitcher,New York,AL East,528475,24
-Eric Hosmer,Kansas City Royals,First baseman,Missouri,AL Central,528250,22
-Travis Wood,Chicago Cubs,Bullpen,Illinois,NL Central,527500,25
-Todd Frazier,Cincinnati Reds,Third baseman,Ohio,NL Central,527500,26
-Dillon Gee,New York Mets,Starting pitcher,New York,NL East,527375,26
-Michael Brantley,Cleveland Indians,Left fielder,Ohio,AL Central,526900,25
-Danny Espinosa,Washington Nationals,Second baseman,"Washington, D.C.",NL East,526250,25
-Vance Worley,Minnesota Twins,Starting pitcher,Minnesota,AL Central,525000,24
-Mike Moustakas,Kansas City Royals,Third baseman,Missouri,AL Central,524500,23
-Jon Jay,St. Louis Cardinals,Center fielder,Missouri,NL Central,524000,27
-Mark Melancon,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,521000,27
-Elliot Johnson,Kansas City Royals,Infielder,Missouri,AL Central,520500,29
-Addison Reed,Chicago White Sox,Closer,Illinois,AL Central,520000,23
-Trevor Plouffe,Minnesota Twins,Third baseman,Minnesota,AL Central,520000,26
-Lucas Duda,New York Mets,Left fielder,New York,NL East,519240,26
-Felix Doubront,Boston Red Sox,Starting pitcher,Massachusetts,AL East,518500,24
-Daniel Hudson,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,518500,25
-John Mayberry Jr.,Philadelphia Phillies,Left fielder,Pennsylvania,NL East,517000,28
-Jake Arrieta,Baltimore Orioles,Starting pitcher,Maryland,AL East,516500,26
-Francisco Cervelli,New York Yankees,Catcher,New York,AL East,515350,26
-Chris Stewart,New York Yankees,Catcher,New York,AL East,515100,30
-Ben Revere,Philadelphia Phillies,Center fielder,Pennsylvania,NL East,515000,24
-Ruben Tejada,New York Mets,Shortstop,New York,NL East,514701,22
-Justin Smoak,Seattle Mariners,First baseman,Washington,AL West,514000,25
-Lance Lynn,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,513000,25
-Michael Saunders,Seattle Mariners,Right fielder,Washington,AL West,512600,25
-Peter Bourjos,Los Angeles Angels,Center fielder,California,AL West,512500,25
-Jordan Schafer,Atlanta Braves,Outfielder,Georgia,NL East,512500,26
-David Phelps,New York Yankees,Bullpen,New York,AL East,512425,25
-Fernando Salas,St. Louis Cardinals,Bullpen,Missouri,NL Central,512000,27
-Kenley Jansen,Los Angeles Dodgers,Bullpen,California,NL West,512000,24
-Daniel Descalso,St. Louis Cardinals,Second baseman,Missouri,NL Central,511000,25
-Kyle Seager,Seattle Mariners,Utility,Washington,AL West,510400,24
-Cody Eppley,New York Yankees,Bullpen,New York,AL East,510350,26
-Tyler Flowers,Chicago White Sox,Catcher,Illinois,AL Central,510000,26
-Brett Cecil,Toronto Blue Jays,Bullpen,Toronto,AL East,510000,25
-Mike Trout,Los Angeles Angels,Left fielder,California,AL West,510000,20
-Josh Reddick,Oakland Athletics,Right fielder,California,AL West,510000,25
-Sam LeCure,Cincinnati Reds,Bullpen,Ohio,NL Central,510000,28
-Brandon Beachy,Atlanta Braves,Starting pitcher,Georgia,NL East,510000,25
-Michael Bowden,Chicago Cubs,Bullpen,Illinois,NL Central,509500,25
-Jason Kipnis,Cleveland Indians,Second baseman,Ohio,AL Central,509400,25
-Tom Wilhelmsen,Seattle Mariners,Closer,Washington,AL West,509100,28
-Esmil Rogers,Toronto Blue Jays,Bullpen,Toronto,AL East,509000,26
-Chris Tillman,Baltimore Orioles,Starting pitcher,Maryland,AL East,508500,24
-Mike Carp,Boston Red Sox,Outfielder,Massachusetts,AL East,508500,26
-Kelvin Herrera,Kansas City Royals,Bullpen,Missouri,AL Central,508175,22
-Henderson Alvarez,Miami Marlins,Starting pitcher,Florida,NL East,507900,22
-Eric Stults,San Diego Padres,Starting pitcher,California,NL West,507600,33
-Nate Jones,Chicago White Sox,Bullpen,Illinois,AL Central,507500,26
-Blake Beavan,Seattle Mariners,Starting pitcher,Washington,AL West,506700,23
-Jake McGee,Tampa Bay Rays,Bullpen,Florida,AL East,506200,25
-Jarrod Dyson,Kansas City Royals,Center fielder,Missouri,AL Central,506000,27
-Alexi Ogando,Texas Rangers,Starting pitcher,Texas,AL West,506000,28
-Jose Altuve,Houston Astros,Second baseman,Texas,AL West,505700,22
-J.P. Arencibia,Toronto Blue Jays,Catcher,Toronto,AL East,505600,26
-Tony Watson,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,505500,27
-Matt Reynolds,Arizona Diamondbacks,Bullpen,Arizona,NL West,505500,27
-Daniel Nava,Boston Red Sox,Outfielder,Massachusetts,AL East,505500,30
-Casper Wells,Seattle Mariners,Outfielder,Washington,AL West,505400,27
-Danny Duffy,Kansas City Royals,Starting pitcher,Missouri,AL Central,505125,24
-Angel Sanchez,Chicago White Sox,Shortstop,Illinois,AL Central,505000,29
-Hector Santiago,Chicago White Sox,Bullpen,Illinois,AL Central,505000,24
-Andy Dirks,Detroit Tigers,Left fielder,Michigan,AL Central,505000,26
-Josh Roenicke,Minnesota Twins,Bullpen,Minnesota,AL Central,505000,29
-Ryan Cook,Oakland Athletics,Bullpen,California,AL West,505000,25
-Travis Snider,Pittsburgh Pirates,Right fielder,Pennsylvania,NL Central,505000,24
-Michael McKenry,Pittsburgh Pirates,Catcher,Pennsylvania,NL Central,505000,27
-Mike Minor,Atlanta Braves,Starting pitcher,Georgia,NL East,505000,24
-Steve Cishek,Miami Marlins,Closer,Florida,NL East,505000,26
-Scott Elbert,Los Angeles Dodgers,Bullpen,California,NL West,505000,26
-Raul Valdes,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,505000,35
-Xavier Paul,Cincinnati Reds,Outfielder,Ohio,NL Central,505000,28
-Luis Cruz,Los Angeles Dodgers,Third baseman,California,NL West,505000,29
-Justin Turner,New York Mets,Utility,New York,NL East,504547,27
-Jared Hughes,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,504500,26
-Ryan Mattheus,Washington Nationals,Bullpen,"Washington, D.C.",NL East,504500,28
-Clayton Mortensen,Boston Red Sox,Bullpen,Massachusetts,AL East,504500,27
-Charlie Furbush,Seattle Mariners,Bullpen,Washington,AL West,504500,26
-Guillermo Moscoso,Chicago Cubs,Starting pitcher,Illinois,NL Central,504250,29
-Matt Carpenter,St. Louis Cardinals,Third baseman,Missouri,NL Central,504000,26
-Josh Collmenter,Arizona Diamondbacks,Bullpen,Arizona,NL West,504000,26
-Anthony Bass,San Diego Padres,Bullpen,California,NL West,503600,24
-Chris Coghlan,Miami Marlins,Outfielder,Florida,NL East,503500,27
-Jesus Montero,Seattle Mariners,Catcher,Washington,AL West,503300,22
-Jesus Guzman,San Diego Padres,Utility,California,NL West,503200,28
-Lorenzo Cain,Kansas City Royals,Center fielder,Missouri,AL Central,503175,26
-Jeremy Hellickson,Tampa Bay Rays,Starting pitcher,Florida,AL East,503000,25
-Welington Castillo,Chicago Cubs,Catcher,Illinois,NL Central,503000,25
-Josh Harrison,Pittsburgh Pirates,Third baseman,Pennsylvania,NL Central,503000,24
-Tony Cruz,St. Louis Cardinals,Catcher,Missouri,NL Central,503000,25
-Mitch Moreland,Texas Rangers,First baseman,Texas,AL West,502700,26
-Brayan Villarreal,Detroit Tigers,Bullpen,Michigan,AL Central,502500,25
-Anthony Swarzak,Minnesota Twins,Bullpen,Minnesota,AL Central,502500,26
-Pedro Strop,Baltimore Orioles,Bullpen,Maryland,AL East,502500,27
-Pedro Ciriaco,Boston Red Sox,Utility,Massachusetts,AL East,502500,26
-Jason Donald,Cincinnati Reds,Utility,Ohio,NL Central,502500,28
-Hector Sanchez,San Francisco Giants,Catcher,California,NL West,502500,22
-Alex Cobb,Tampa Bay Rays,Starting pitcher,Florida,AL East,502200,24
-Miguel Gonzalez,Baltimore Orioles,Starting pitcher,Maryland,AL East,502000,28
-Chris Leroux,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,502000,28
-Nathan Eovaldi,Miami Marlins,Starting pitcher,Florida,NL East,502000,22
-Vinnie Pestano,Cleveland Indians,Bullpen,Ohio,AL Central,501900,27
-Josh Tomlin,Cleveland Indians,Starting pitcher,Ohio,AL Central,501800,27
-Desmond Jennings,Tampa Bay Rays,Left fielder,Florida,AL East,501800,25
-Bryan Shaw,Cleveland Indians,Bullpen,Ohio,AL Central,501700,25
-Cesar Ramos,Tampa Bay Rays,Bullpen,Florida,AL East,501300,28
-Wilson Ramos,Washington Nationals,Catcher,"Washington, D.C.",NL East,501250,24
-Steve Lombardozzi,Washington Nationals,Utility,"Washington, D.C.",NL East,501250,23
-Craig Gentry,Texas Rangers,Outfielder,Texas,AL West,501000,28
-Henry Rodriguez,Washington Nationals,Bullpen,"Washington, D.C.",NL East,501000,25
-Andrew Cashner,San Diego Padres,Bullpen,California,NL West,500800,25
-Lucas Harrell,Houston Astros,Starting pitcher,Texas,AL West,500700,27
-Jeremy Hefner,New York Mets,Starting pitcher,New York,NL East,500625,27
-Wade Miley,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,500500,25
-Tyson Ross,San Diego Padres,Starting pitcher,California,NL West,500500,25
-Mike Baxter,New York Mets,Right fielder,New York,NL East,500318,27
-Josh Lindblom,Texas Rangers,Bullpen,Texas,AL West,500100,25
-Jose Quintana,Chicago White Sox,Starting pitcher,Illinois,AL Central,500000,23
-Al Alburqueque,Detroit Tigers,Bullpen,Michigan,AL Central,500000,26
-Darin Mastroianni,Minnesota Twins,Center fielder,Minnesota,AL Central,500000,26
-Casey Fien,Minnesota Twins,Bullpen,Minnesota,AL Central,500000,28
-Luis Perez,Toronto Blue Jays,Bullpen,Toronto,AL East,500000,27
-Brett Lawrie,Toronto Blue Jays,Third baseman,Toronto,AL East,500000,22
-Scott Sizemore,Oakland Athletics,Third baseman,California,AL West,500000,28
-Jeanmar Gomez,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,500000,25
-Starling Marte,Pittsburgh Pirates,Left fielder,Pennsylvania,NL Central,500000,23
-Domonic Brown,Philadelphia Phillies,Left fielder,Pennsylvania,NL East,500000,24
-Paul Goldschmidt,Arizona Diamondbacks,First baseman,Arizona,NL West,500000,24
-Cole DeVries,Minnesota Twins,Starting pitcher,Minnesota,AL Central,500000,28
-Jon Garland,Colorado Rockies,Starting pitcher,Colorado,NL West,500000,33
-Kyle Drabek,Toronto Blue Jays,Starting pitcher,Toronto,AL East,499500,24
-Logan Forsythe,San Diego Padres,Third baseman,California,NL West,499000,25
-Reid Brignac,Colorado Rockies,Infielder,Colorado,NL West,499000,27
-Steve Delabar,Toronto Blue Jays,Bullpen,Toronto,AL East,498900,28
-Dale Thayer,San Diego Padres,Bullpen,California,NL West,498900,32
-Matt Harvey,New York Mets,Starting pitcher,New York,NL East,498750,23
-Brad Brach,San Diego Padres,Bullpen,California,NL West,498200,26
-Kirk Nieuwenhuis,New York Mets,Center fielder,New York,NL East,498124,24
-Drew Smyly,Detroit Tigers,Bullpen,Michigan,AL Central,498000,23
-Ryan Kalish,Boston Red Sox,Outfielder,Massachusetts,AL East,498000,24
-Will Middlebrooks,Boston Red Sox,Third baseman,Massachusetts,AL East,498000,23
-Rhiner Cruz,Houston Astros,Bullpen,Texas,AL West,498000,25
-Anthony Rizzo,Chicago Cubs,First baseman,Illinois,NL Central,498000,22
-Mike Fiers,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,498000,27
-Shane Robinson,St. Louis Cardinals,Outfielder,Missouri,NL Central,498000,28
-Tony Abreu,San Francisco Giants,Infielder,California,NL West,498000,28
-Donald Veal,Chicago White Sox,Bullpen,Illinois,AL Central,497500,28
-Chris Parmelee,Minnesota Twins,Right fielder,Minnesota,AL Central,497500,25
-Brian Dozier,Minnesota Twins,Utility,Minnesota,AL Central,497500,25
-Zack Cozart,Cincinnati Reds,Shortstop,Ohio,NL Central,497500,26
-Jeff Locke,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,497500,24
-Joe Paterson,Arizona Diamondbacks,Bullpen,Arizona,NL West,497500,26
-Tony Campana,Arizona Diamondbacks,Outfielder,Arizona,NL West,497500,26
-Robbie Ross,Texas Rangers,Bullpen,Texas,AL West,497400,23
-Alexi Amarista,San Diego Padres,Utility,California,NL West,497400,23
-Alex White,Houston Astros,Starting pitcher,Texas,AL West,497100,23
-Jeremy Horst,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,497000,27
-Jordany Valdespin,New York Mets,Utility,New York,NL East,496645,24
-Jason Castro,Houston Astros,Catcher,Texas,AL West,496600,25
-Alex Torres,Tampa Bay Rays,Bullpen,Florida,AL East,496500,25
-Michael Schwimer,Toronto Blue Jays,Bullpen,Toronto,AL East,496500,27
-Zach McAllister,Cleveland Indians,Starting pitcher,Ohio,AL Central,496400,24
-Juan Francisco,Atlanta Braves,Third baseman,Georgia,NL East,496250,25
-Julio Borbon,Texas Rangers,Outfielder,Texas,AL West,496000,26
-Erik Kratz,Philadelphia Phillies,Catcher,Pennsylvania,NL East,496000,32
-Steve Clevenger,Chicago Cubs,Catcher,Illinois,NL Central,496000,26
-Xavier Cedeno,Houston Astros,Bullpen,Texas,AL West,495900,25
-Jeremy Jeffress,Toronto Blue Jays,Bullpen,Toronto,AL East,495900,25
-Michael Kirkman,Texas Rangers,Bullpen,Texas,AL West,495800,25
-Lucas Luetge,Seattle Mariners,Bullpen,Washington,AL West,495500,25
-Frank Herrmann,Cleveland Indians,Bullpen,Ohio,AL Central,495500,28
-Liam Hendriks,Minnesota Twins,Starting pitcher,Minnesota,AL Central,495000,23
-Pedro Floriman Jr.,Minnesota Twins,Utility,Minnesota,AL Central,495000,25
-Tyler Robertson,Minnesota Twins,Bullpen,Minnesota,AL Central,495000,24
-Manny Machado,Baltimore Orioles,Third baseman,Maryland,AL East,495000,19
-Carlos Corporan,Houston Astros,Catcher,Texas,AL West,495000,28
-Brett Wallace,Houston Astros,First baseman,Texas,AL West,495000,25
-Hank Conger,Los Angeles Angels,Catcher,California,AL West,495000,24
-Tom Milone,Oakland Athletics,Starting pitcher,California,AL West,495000,25
-Jarrod Parker,Oakland Athletics,Starting pitcher,California,AL West,495000,23
-Randall Delgado,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,495000,22
-Steve Johnson,Baltimore Orioles,Bullpen,Maryland,AL East,495000,25
-John Hester,Los Angeles Angels,Catcher,California,AL West,495000,29
-Garret Richards,Los Angeles Angels,Starting pitcher,California,AL West,495000,24
-Eduardo Escobar,Minnesota Twins,Infielder,Minnesota,AL Central,495000,24
-Jordan Norberto,Oakland Athletics,Starting pitcher,California,AL West,495000,26
-Evan Scribner,Oakland Athletics,Bullpen,California,AL West,495000,27
-Eric Sogard,Oakland Athletics,Infielder,California,AL West,495000,26
-Jenrry Mejia,New York Mets,Starting pitcher,New York,NL East,494925,23
-Justin Ruggiano,Miami Marlins,Center fielder,Florida,NL East,494500,30
-George Kontos,San Francisco Giants,Bullpen,California,NL West,494500,27
-Marwin Gonzalez,Houston Astros,Third baseman,Texas,AL West,494400,23
-Joe Wieland,San Diego Padres,Starting pitcher,California,NL West,494300,23
-Aaron Loup,Toronto Blue Jays,Bullpen,Toronto,AL East,494200,24
-Chris Carter,Houston Astros,First baseman,Texas,AL West,494000,25
-Martin Maldonado,Milwaukee Brewers,Catcher,Wisconsin,NL Central,494000,26
-Bret Pill,San Francisco Giants,Utility,California,NL West,494000,27
-Darin Downs,Detroit Tigers,Bullpen,Michigan,AL Central,494000,28
-Patrick Corbin,Arizona Diamondbacks,Starting pitcher,Arizona,NL West,494000,23
-James Darnell,San Diego Padres,Third baseman,California,NL West,493700,26
-David Huff,Cleveland Indians,Bullpen,Ohio,AL Central,493600,27
-Tanner Scheppers,Texas Rangers,Bullpen,Texas,AL West,493600,26
-Collin Cowgill,New York Mets,Outfielder,New York,NL East,493520,26
-Ryan Flaherty,Baltimore Orioles,Second baseman,Maryland,AL East,493500,25
-Josh Edgin,New York Mets,Bullpen,New York,NL East,493500,25
-Justin Wilson,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,493500,25
-Hector Ambriz,Houston Astros,Bullpen,Texas,AL West,493400,28
-Drew Hutchison,Toronto Blue Jays,Starting pitcher,Toronto,AL East,493200,22
-Hector Gimenez,Chicago White Sox,Catcher,Illinois,AL Central,493000,29
-Fernando Martinez,Houston Astros,Outfielder,Texas,AL West,493000,23
-Joe Kelly,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,493000,24
-Leyson Septimo,Chicago White Sox,Bullpen,Illinois,AL Central,493000,27
-Dylan Axelrod,Chicago White Sox,Starting pitcher,Illinois,AL Central,493000,27
+Charlie Morton,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,2000000,28
 Chase d'Arnaud,Pittsburgh Pirates,Infielder,Pennsylvania,NL Central,493000,26
-Tyler Moore,Washington Nationals,Left fielder,"Washington, D.C.",NL East,493000,25
-Dave Carpenter,Los Angeles Angels,Bullpen,California,AL West,493000,27
-Lonnie Chisenhall,Cleveland Indians,Third baseman,Ohio,AL Central,492900,23
-Cody Allen,Cleveland Indians,Bullpen,Ohio,AL Central,492600,24
-Justin Maxwell,Houston Astros,Outfielder,Texas,AL West,492500,28
-Sean Doolittle,Oakland Athletics,Bullpen,California,AL West,492500,25
-A.J. Griffin,Oakland Athletics,Starting pitcher,California,AL West,492500,24
-Derek Norris,Oakland Athletics,Catcher,California,AL West,492500,23
-Michael Dunn,Miami Marlins,Bullpen,Florida,NL East,492500,27
-Michael Stutes,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,492500,25
-Josh Donaldson,Oakland Athletics,Third baseman,California,AL West,492500,27
-Pedro Figueroa,Oakland Athletics,Bullpen,California,AL West,492500,27
-Andy Parrino,Oakland Athletics,Infielder,California,AL West,492500,27
-Dan Straily,Oakland Athletics,Starting pitcher,California,AL West,492500,23
-J.J. Hoover,Cincinnati Reds,Bullpen,Ohio,NL Central,492500,25
-Stephen Fife,Los Angeles Dodgers,Starting pitcher,California,NL West,492500,26
-Elian Herrera,Los Angeles Dodgers,Utility,California,NL West,492500,23
-Stephen Pryor,Seattle Mariners,Bullpen,Washington,AL West,492200,23
-Nick Hagadone,Cleveland Indians,Bullpen,Ohio,AL Central,492100,26
-Martin Perez,Texas Rangers,Bullpen,Texas,AL West,492000,21
-Brett Jackson,Chicago Cubs,Outfielder,Illinois,NL Central,492000,23
-Jean Segura,Milwaukee Brewers,Shortstop,Wisconsin,NL Central,492000,22
-Eric Young Jr.,Colorado Rockies,Utility,Colorado,NL West,492000,27
-Brian Omogrosso,Chicago White Sox,Bullpen,Illinois,AL Central,492000,28
-Andrew Romine,Los Angeles Angels,Infielder,California,AL West,492000,27
-Fernando Rodriguez,Oakland Athletics,Bullpen,California,AL West,492000,28
-Cory Burns,Texas Rangers,Bullpen,Texas,AL West,492000,25
-Dave Sappelt,Chicago Cubs,Outfielder,Illinois,NL Central,492000,26
-Jim Henderson,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,492000,30
-Matt Dominguez,Houston Astros,Third baseman,Texas,AL West,491800,22
-Jeurys Familia,New York Mets,Bullpen,New York,NL East,491750,23
-Brandon Barnes,Houston Astros,Outfielder,Texas,AL West,491700,26
-Carter Capps,Seattle Mariners,Bullpen,Washington,AL West,491700,22
-Logan Morrison,Miami Marlins,First baseman,Florida,NL East,491500,24
-Donovan Solano,Miami Marlins,Second baseman,Florida,NL East,491500,24
-Wade LeBlanc,Miami Marlins,Starting pitcher,Florida,NL East,491500,27
-Steven Rodriguez,Los Angeles Dodgers,Bullpen,California,NL West,491500,21
+Chris Leroux,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,502000,28
+Clint Barmes,Pittsburgh Pirates,Shortstop,Pennsylvania,NL Central,5500000,33
+Francisco Liriano,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,1000000,28
+Gaby Sanchez,Pittsburgh Pirates,First baseman,Pennsylvania,NL Central,1750000,28
+Garrett Jones,Pittsburgh Pirates,First baseman,Pennsylvania,NL Central,4500000,31
+James McDonald,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,3025000,27
+Jared Hughes,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,504500,26
+Jason Grilli,Pittsburgh Pirates,Closer,Pennsylvania,NL Central,2500000,35
+Jeanmar Gomez,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,500000,25
+Jeff Karstens,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,2500000,29
+Jeff Locke,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,497500,24
+John McDonald,Pittsburgh Pirates,Infielder,Pennsylvania,NL Central,1500000,38
+Jonathan Sanchez,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,1375000,30
+Jose Tabata,Pittsburgh Pirates,Outfielder,Pennsylvania,NL Central,916667,23
+Josh Harrison,Pittsburgh Pirates,Third baseman,Pennsylvania,NL Central,503000,24
+Justin Wilson,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,493500,25
+Mark Melancon,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,521000,27
+Michael McKenry,Pittsburgh Pirates,Catcher,Pennsylvania,NL Central,505000,27
+Neil Walker,Pittsburgh Pirates,Second baseman,Pennsylvania,NL Central,3300000,26
+Pedro Alvarez,Pittsburgh Pirates,Third baseman,Pennsylvania,NL Central,700000,25
+Starling Marte,Pittsburgh Pirates,Left fielder,Pennsylvania,NL Central,500000,23
+Tony Watson,Pittsburgh Pirates,Bullpen,Pennsylvania,NL Central,505500,27
+Travis Snider,Pittsburgh Pirates,Right fielder,Pennsylvania,NL Central,505000,24
+Wandy Rodriguez,Pittsburgh Pirates,Starting pitcher,Pennsylvania,NL Central,13500000,33
+Alexi Amarista,San Diego Padres,Utility,California,NL West,497400,23
+Andrew Cashner,San Diego Padres,Bullpen,California,NL West,500800,25
+Anthony Bass,San Diego Padres,Bullpen,California,NL West,503600,24
+Brad Brach,San Diego Padres,Bullpen,California,NL West,498200,26
+Cameron Maybin,San Diego Padres,Center fielder,California,NL West,3100000,25
 Casey Kelly,San Diego Padres,Starting pitcher,California,NL West,491400,23
-Robert Carson,New York Mets,Bullpen,New York,NL East,491375,24
+Chris Denorfia,San Diego Padres,Outfielder,California,NL West,2000000,31
+Clayton Richard,San Diego Padres,Starting pitcher,California,NL West,5240000,28
+Cory Luebke,San Diego Padres,Starting pitcher,California,NL West,1125000,27
+Dale Thayer,San Diego Padres,Bullpen,California,NL West,498900,32
+Edinson Volquez,San Diego Padres,Starting pitcher,California,NL West,5725000,28
+Eric Stults,San Diego Padres,Starting pitcher,California,NL West,507600,33
+Everth Cabrera,San Diego Padres,Second baseman,California,NL West,1275000,25
+Huston Street,San Diego Padres,Closer,California,NL West,7000000,28
+James Darnell,San Diego Padres,Third baseman,California,NL West,493700,26
+Jason Marquis,San Diego Padres,Starting pitcher,California,NL West,3000000,33
+Jesus Guzman,San Diego Padres,Utility,California,NL West,503200,28
+Joe Thatcher,San Diego Padres,Bullpen,California,NL West,1350000,30
+Joe Wieland,San Diego Padres,Starting pitcher,California,NL West,494300,23
+John Baker,San Diego Padres,Catcher,California,NL West,930000,31
+Kyle Blanks,San Diego Padres,Outfielder,California,NL West,605000,25
+Logan Forsythe,San Diego Padres,Third baseman,California,NL West,499000,25
+Luke Gregerson,San Diego Padres,Bullpen,California,NL West,3200000,28
+Mark Kotsay,San Diego Padres,Utility,California,NL West,1300000,36
+Nick Hundley,San Diego Padres,Catcher,California,NL West,3000000,28
 Tommy Layne,San Diego Padres,Bullpen,California,NL West,491300,28
-Andrelton Simmons,Atlanta Braves,Shortstop,Georgia,NL East,491250,22
-Luis Avilan,Atlanta Braves,Bullpen,Georgia,NL East,491250,23
-Cory Gearrin,Atlanta Braves,Bullpen,Georgia,NL East,491250,26
-Sam Demel,New York Yankees,Bullpen,New York,AL East,491200,27
-Arodys Vizcaino,Chicago Cubs,Bullpen,Illinois,NL Central,491000,22
-Mat Gamel,Milwaukee Brewers,First baseman,Wisconsin,NL Central,491000,26
-Brandon Kintzler,Milwaukee Brewers,Bullpen,Wisconsin,NL Central,491000,27
-Mark Rogers,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,491000,26
-Taylor Green,Milwaukee Brewers,Utility,Wisconsin,NL Central,491000,25
-Adam Eaton,Arizona Diamondbacks,Center fielder,Arizona,NL West,491000,23
-Rex Brothers,Colorado Rockies,Bullpen,Colorado,NL West,491000,24
-Chris Nelson,Colorado Rockies,Third baseman,Colorado,NL West,491000,26
-Juan Nicasio,Colorado Rockies,Starting pitcher,Colorado,NL West,491000,25
-Jordan Pacheco,Colorado Rockies,Catcher,Colorado,NL West,491000,26
-Wilin Rosario,Colorado Rockies,Catcher,Colorado,NL West,491000,23
-Adam Ottavino,Colorado Rockies,Bullpen,Colorado,NL West,491000,26
-Tim Federowicz,Los Angeles Dodgers,Catcher,California,NL West,491000,24
-Christian Garcia,Washington Nationals,Bullpen,"Washington, D.C.",NL East,491000,27
-Kole Calhoun,Los Angeles Angels,Right fielder,California,AL West,491000,25
-Jurickson Profar,Texas Rangers,Shortstop,Texas,AL West,491000,20
-Didi Gregorius,Arizona Diamondbacks,Shortstop,Arizona,NL West,491000,23
-A.J. Pollock,Arizona Diamondbacks,Outfielder,Arizona,NL West,491000,25
-Edgmer Escalona,Colorado Rockies,Bullpen,Colorado,NL West,491000,26
-Anthony Recker,New York Mets,Catcher,New York,NL East,490840,28
+Tyson Ross,San Diego Padres,Starting pitcher,California,NL West,500500,25
+Will Venable,San Diego Padres,Right fielder,California,NL West,2675000,29
+Yasmani Grandal,San Diego Padres,Catcher,California,NL West,990000,24
+Yonder Alonso,San Diego Padres,First baseman,California,NL West,1120000,25
+Andres Torres,San Francisco Giants,Outfielder,California,NL West,1500000,34
+Barry Zito,San Francisco Giants,Starting pitcher,California,NL West,20000000,34
+Brandon Belt,San Francisco Giants,First baseman,California,NL West,531500,24
+Brandon Crawford,San Francisco Giants,Shortstop,California,NL West,530000,25
+Bret Pill,San Francisco Giants,Utility,California,NL West,494000,27
+Chad Gaudin,San Francisco Giants,Bullpen,California,NL West,750000,30
 Eric Surkamp,San Francisco Giants,Bullpen,California,NL West,490500,25
-Conor Gillaspie,Chicago White Sox,Third baseman,Illinois,AL Central,490500,25
-Jean Machi,San Francisco Giants,Bullpen,California,NL West,490500,30
 Francisco Peguero,San Francisco Giants,Left fielder,California,NL West,490500,24
-Alex Castellanos,Los Angeles Dodgers,Left fielder,California,NL West,490500,26
-Josh Wall,Los Angeles Dodgers,Bullpen,California,NL West,490500,26
-Melky Mesa,New York Yankees,Outfielder,New York,AL East,490200,26
-Zach Lutz,New York Mets,Infielder,New York,NL East,490040,25
-Carlos Carrasco,Cleveland Indians,Starting pitcher,Ohio,AL Central,490000,28
-Jeff Bianchi,Milwaukee Brewers,Utility,Wisconsin,NL Central,490000,25
-Wily Peralta,Milwaukee Brewers,Starting pitcher,Wisconsin,NL Central,490000,23
-Pete Kozma,St. Louis Cardinals,Infielder,Missouri,NL Central,490000,24
-Shelby Miller,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,21
-Trevor Rosenthal,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,22
-Julio Teheran,Atlanta Braves,Starting pitcher,Georgia,NL East,490000,21
-Jose Ceda,Miami Marlins,Bullpen,Florida,NL East,490000,26
-Rob Brantly,Miami Marlins,Catcher,Florida,NL East,490000,22
-Gorkys Hernandez,Miami Marlins,Outfielder,Florida,NL East,490000,24
-T.J. McFarland,Baltimore Orioles,Starting pitcher,Maryland,AL East,490000,23
-Avisail Garcia,Detroit Tigers,Right fielder,Michigan,AL Central,490000,21
-Josh Fields,Houston Astros,Infielder,Texas,AL West,490000,30
-Brad Peacock,Houston Astros,Starting pitcher,Texas,AL West,490000,25
-Scott Rice,New York Mets,Bullpen,New York,NL East,490000,31
-Phillippe Aumont,Philadelphia Phillies,Bullpen,Pennsylvania,NL East,490000,24
-Freddy Galvis,Philadelphia Phillies,Infielder,Pennsylvania,NL East,490000,23
-Ender Inciarte,Philadelphia Phillies,Outfielder,Pennsylvania,NL East,490000,22
-Matt Adams,St. Louis Cardinals,First baseman,Missouri,NL Central,490000,24
-Adron Chambers,St. Louis Cardinals,Outfielder,Missouri,NL Central,490000,26
-Maikel Cleto,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,23
-Ryan Jackson,St. Louis Cardinals,Infielder,Missouri,NL Central,490000,24
-Luis Jimenez,Los Angeles Angels,Third baseman,California,AL West,490000,25
-Andrew Taylor,Los Angeles Angels,Bullpen,California,AL West,490000,26
-Aaron Hicks,Minnesota Twins,Center fielder,Minnesota,AL Central,490000,23
-Ryan Pressly,Minnesota Twins,Starting pitcher,Minnesota,AL Central,490000,24
-Cesar Cabral,New York Yankees,Bullpen,New York,AL East,490000,24
-Nate Freiman,Oakland Athletics,First baseman,California,AL West,490000,26
+George Kontos,San Francisco Giants,Bullpen,California,NL West,494500,27
+Gregor Blanco,San Francisco Giants,Left fielder,California,NL West,1350000,28
+Hector Sanchez,San Francisco Giants,Catcher,California,NL West,502500,22
+Hunter Pence,San Francisco Giants,Right fielder,California,NL West,13800000,29
+Javier Lopez,San Francisco Giants,Bullpen,California,NL West,4250000,34
+Jean Machi,San Francisco Giants,Bullpen,California,NL West,490500,30
+Jeremy Affeldt,San Francisco Giants,Bullpen,California,NL West,6000000,33
+Joaquin Arias,San Francisco Giants,Utility,California,NL West,925000,27
+Jose Mijares,San Francisco Giants,Bullpen,California,NL West,1800000,27
+Madison Bumgarner,San Francisco Giants,Starting pitcher,California,NL West,916667,22
+Marco Scutaro,San Francisco Giants,Second baseman,California,NL West,6666667,36
+Matt Cain,San Francisco Giants,Starting pitcher,California,NL West,20833333,27
+Pablo Sandoval,San Francisco Giants,Third baseman,California,NL West,5700000,25
+Ryan Vogelsong,San Francisco Giants,Starting pitcher,California,NL West,5000000,34
+Santiago Casilla,San Francisco Giants,Bullpen,California,NL West,4166667,31
+Sergio Romo,San Francisco Giants,Closer,California,NL West,3500000,29
+Tim Lincecum,San Francisco Giants,Starting pitcher,California,NL West,22250000,28
+Tony Abreu,San Francisco Giants,Infielder,California,NL West,498000,28
+Blake Beavan,Seattle Mariners,Starting pitcher,Washington,AL West,506700,23
 Brandon Maurer,Seattle Mariners,Starting pitcher,Washington,AL West,490000,22
-Leury Garcia,Texas Rangers,Shortstop,Texas,AL West,490000,22
+Brendan Ryan,Seattle Mariners,Shortstop,Washington,AL West,3250000,30
+Carter Capps,Seattle Mariners,Bullpen,Washington,AL West,491700,22
+Casper Wells,Seattle Mariners,Outfielder,Washington,AL West,505400,27
+Charlie Furbush,Seattle Mariners,Bullpen,Washington,AL West,504500,26
+Dustin Ackley,Seattle Mariners,Second baseman,Washington,AL West,2700000,24
+Felix Hernandez,Seattle Mariners,Starting pitcher,Washington,AL West,20557143,26
+Hisashi Iwakuma,Seattle Mariners,Starting pitcher,Washington,AL West,6500000,31
+Jason Bay,Seattle Mariners,Left fielder,Washington,AL West,1000000,33
+Jesus Montero,Seattle Mariners,Catcher,Washington,AL West,503300,22
+Joe Saunders,Seattle Mariners,Starting pitcher,Washington,AL West,6000000,31
+Josh Kinney,Seattle Mariners,Bullpen,Washington,AL West,700000,33
+Justin Smoak,Seattle Mariners,First baseman,Washington,AL West,514000,25
+Kameron Loe,Seattle Mariners,Bullpen,Washington,AL West,1050000,31
+Kelly Shoppach,Seattle Mariners,Catcher,Washington,AL West,1500000,32
+Kendrys Morales,Seattle Mariners,First baseman,Washington,AL West,5250000,29
+Kyle Seager,Seattle Mariners,Utility,Washington,AL West,510400,24
+Lucas Luetge,Seattle Mariners,Bullpen,Washington,AL West,495500,25
+Michael Saunders,Seattle Mariners,Right fielder,Washington,AL West,512600,25
+Oliver Perez,Seattle Mariners,Bullpen,Washington,AL West,1500000,30
+Raul Ibanez,Seattle Mariners,Left fielder,Washington,AL West,2750000,40
+Robert Andino,Seattle Mariners,Utility,Washington,AL West,1600000,28
+Stephen Pryor,Seattle Mariners,Bullpen,Washington,AL West,492200,23
+Tom Wilhelmsen,Seattle Mariners,Closer,Washington,AL West,509100,28
+Adam Wainwright,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,12000000,30
+Adron Chambers,St. Louis Cardinals,Outfielder,Missouri,NL Central,490000,26
+Allen Craig,St. Louis Cardinals,First baseman,Missouri,NL Central,1750000,27
+Carlos Beltran,St. Louis Cardinals,Right fielder,Missouri,NL Central,13000000,35
+Chris Carpenter,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,11941975,37
+Daniel Descalso,St. Louis Cardinals,Second baseman,Missouri,NL Central,511000,25
+David Freese,St. Louis Cardinals,Third baseman,Missouri,NL Central,3150000,29
+Edward Mujica,St. Louis Cardinals,Bullpen,Missouri,NL Central,3200000,28
+Fernando Salas,St. Louis Cardinals,Bullpen,Missouri,NL Central,512000,27
+Jaime Garcia,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,5875000,25
+Jason Motte,St. Louis Cardinals,Closer,Missouri,NL Central,4500000,30
+Joe Kelly,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,493000,24
+Jon Jay,St. Louis Cardinals,Center fielder,Missouri,NL Central,524000,27
+Lance Lynn,St. Louis Cardinals,Starting pitcher,Missouri,NL Central,513000,25
+Maikel Cleto,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,23
+Mark Rzepczynski,St. Louis Cardinals,Bullpen,Missouri,NL Central,1100000,26
+Matt Adams,St. Louis Cardinals,First baseman,Missouri,NL Central,490000,24
+Matt Carpenter,St. Louis Cardinals,Third baseman,Missouri,NL Central,504000,26
+Matt Holliday,St. Louis Cardinals,Left fielder,Missouri,NL Central,16272110,32
+Mitchell Boggs,St. Louis Cardinals,Bullpen,Missouri,NL Central,1475000,28
+Pete Kozma,St. Louis Cardinals,Infielder,Missouri,NL Central,490000,24
+Randy Choate,St. Louis Cardinals,Bullpen,Missouri,NL Central,1500000,36
+Ryan Jackson,St. Louis Cardinals,Infielder,Missouri,NL Central,490000,24
+Shane Robinson,St. Louis Cardinals,Outfielder,Missouri,NL Central,498000,28
+Shelby Miller,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,21
+Tony Cruz,St. Louis Cardinals,Catcher,Missouri,NL Central,503000,25
+Trevor Rosenthal,St. Louis Cardinals,Bullpen,Missouri,NL Central,490000,22
+Ty Wigginton,St. Louis Cardinals,Utility,Missouri,NL Central,2500000,34
+Yadier Molina,St. Louis Cardinals,Catcher,Missouri,NL Central,14200000,29
+Alex Cobb,Tampa Bay Rays,Starting pitcher,Florida,AL East,502200,24
+Alex Torres,Tampa Bay Rays,Bullpen,Florida,AL East,496500,25
+Ben Zobrist,Tampa Bay Rays,Utility,Florida,AL East,5687300,31
+Cesar Ramos,Tampa Bay Rays,Bullpen,Florida,AL East,501300,28
+Desmond Jennings,Tampa Bay Rays,Left fielder,Florida,AL East,501800,25
+Evan Longoria,Tampa Bay Rays,Third baseman,Florida,AL East,2500018,26
+Fernando Rodney,Tampa Bay Rays,Closer,Florida,AL East,2500000,35
+Jake McGee,Tampa Bay Rays,Bullpen,Florida,AL East,506200,25
+James Loney,Tampa Bay Rays,First baseman,Florida,AL East,2000000,28
+Jeff Niemann,Tampa Bay Rays,Starting pitcher,Florida,AL East,3000000,29
+Jeremy Hellickson,Tampa Bay Rays,Starting pitcher,Florida,AL East,503000,25
+Joel Peralta,Tampa Bay Rays,Bullpen,Florida,AL East,3000000,36
+Jose Molina,Tampa Bay Rays,Catcher,Florida,AL East,1500000,37
+Kelly Johnson,Tampa Bay Rays,Second baseman,Florida,AL East,2450000,30
+Kyle Farnsworth,Tampa Bay Rays,Bullpen,Florida,AL East,1250000,36
+Luke Scott,Tampa Bay Rays,Designated hitter,Florida,AL East,2750000,34
+Matt Joyce,Tampa Bay Rays,Right fielder,Florida,AL East,2450000,27
+Matt Moore,Tampa Bay Rays,Starting pitcher,Florida,AL East,1100000,23
+Roberto Hernandez,Tampa Bay Rays,Bullpen,Florida,AL East,3250000,32
+Ryan Roberts,Tampa Bay Rays,Utility,Florida,AL East,2950000,31
+Sam Fuld,Tampa Bay Rays,Outfielder,Florida,AL East,725000,30
+Sean Rodriguez,Tampa Bay Rays,Utility,Florida,AL East,1000000,27
+Yunel Escobar,Tampa Bay Rays,Shortstop,Florida,AL East,5000000,29
+Adrian Beltre,Texas Rangers,Third baseman,Texas,AL West,16000000,33
+Alexi Ogando,Texas Rangers,Starting pitcher,Texas,AL West,506000,28
+Colby Lewis,Texas Rangers,Starting pitcher,Texas,AL West,2000000,32
+Cory Burns,Texas Rangers,Bullpen,Texas,AL West,492000,25
+Craig Gentry,Texas Rangers,Outfielder,Texas,AL West,501000,28
+David Murphy,Texas Rangers,Left fielder,Texas,AL West,5775000,30
+Derek Holland,Texas Rangers,Starting pitcher,Texas,AL West,3400000,25
+Elvis Andrus,Texas Rangers,Shortstop,Texas,AL West,5050000,23
+Geovany Soto,Texas Rangers,Catcher,Texas,AL West,2750000,29
+Ian Kinsler,Texas Rangers,Second baseman,Texas,AL West,13000000,30
+Jason Frasor,Texas Rangers,Bullpen,Texas,AL West,1500000,35
+Joakim Soria,Texas Rangers,Bullpen,Texas,AL West,2000000,28
 Joe Ortiz,Texas Rangers,Bullpen,Texas,AL West,490000,22
-Anthony Varvaro,Atlanta Braves,Bullpen,Georgia,NL East,490000,28
-Hector Rondon,Chicago Cubs,Starting pitcher,Illinois,NL Central,490000,25
-Aaron Cook,Colorado Rockies,Starting pitcher,Colorado,NL West,490000,34
-Edwar Cabrera,Colorado Rockies,Starting pitcher,Colorado,NL West,490000,25
-Josh Rutledge,Colorado Rockies,Shortstop,Colorado,NL West,490000,23
-Joe Mahoney,Miami Marlins,First baseman,Florida,NL East,490000,26
-A.J. Ramos,Miami Marlins,Bullpen,Florida,NL East,490000,26
-Alfredo Silverio,Miami Marlins,Outfielder,Florida,NL East,490000,25
-Kyle Skipworth,Miami Marlins,Catcher,Florida,NL East,490000,23
-Khris Davis,Milwaukee Brewers,Left fielder,Wisconsin,NL Central,490000,25
-Logan Schafer,Milwaukee Brewers,Center fielder,Wisconsin,NL Central,490000,26
-Devin Mesoraco,Cincinnati Reds,Catcher,Ohio,NL Central,480000,24
-LaTroy Hawkins,New York Mets,Bullpen,New York,NL East,480000,39
-Aaron Laffey,New York Mets,Bullpen,New York,NL East,480000,27
-Philip Humber,Houston Astros,Starting pitcher,Texas,AL West,480000,29
+Josh Lindblom,Texas Rangers,Bullpen,Texas,AL West,500100,25
+Julio Borbon,Texas Rangers,Outfielder,Texas,AL West,496000,26
+Jurickson Profar,Texas Rangers,Shortstop,Texas,AL West,491000,20
+Lance Berkman,Texas Rangers,Designated hitter,Texas,AL West,10000000,36
+Leonys Martin,Texas Rangers,Center fielder,Texas,AL West,3250000,24
+Leury Garcia,Texas Rangers,Shortstop,Texas,AL West,490000,22
+Martin Perez,Texas Rangers,Bullpen,Texas,AL West,492000,21
+Matt Harrison,Texas Rangers,Starting pitcher,Texas,AL West,5200000,26
+Michael Kirkman,Texas Rangers,Bullpen,Texas,AL West,495800,25
+Mitch Moreland,Texas Rangers,First baseman,Texas,AL West,502700,26
+Neftali Feliz,Texas Rangers,Starting pitcher,Texas,AL West,2900000,24
+Nelson Cruz,Texas Rangers,Right fielder,Texas,AL West,10250000,31
+Robbie Ross,Texas Rangers,Bullpen,Texas,AL West,497400,23
+Tanner Scheppers,Texas Rangers,Bullpen,Texas,AL West,493600,26
+Aaron Loup,Toronto Blue Jays,Bullpen,Toronto,AL East,494200,24
+Adam Lind,Toronto Blue Jays,Outfielder,Toronto,AL East,5150000,28
+Brett Cecil,Toronto Blue Jays,Bullpen,Toronto,AL East,510000,25
+Brett Lawrie,Toronto Blue Jays,Third baseman,Toronto,AL East,500000,22
+Casey Janssen,Toronto Blue Jays,Closer,Toronto,AL East,3900000,30
+Colby Rasmus,Toronto Blue Jays,Center fielder,Toronto,AL East,4675000,25
+Darren Oliver,Toronto Blue Jays,Bullpen,Toronto,AL East,3000000,41
+Drew Hutchison,Toronto Blue Jays,Starting pitcher,Toronto,AL East,493200,22
+Dustin McGowan,Toronto Blue Jays,Starting pitcher,Toronto,AL East,1500000,30
+Emilio Bonifacio,Toronto Blue Jays,Utility,Toronto,AL East,2600000,27
+Esmil Rogers,Toronto Blue Jays,Bullpen,Toronto,AL East,509000,26
+Henry Blanco,Toronto Blue Jays,Catcher,Toronto,AL East,750000,40
+J.A. Happ,Toronto Blue Jays,Starting pitcher,Toronto,AL East,3700000,29
+J.P. Arencibia,Toronto Blue Jays,Catcher,Toronto,AL East,505600,26
+Jeremy Jeffress,Toronto Blue Jays,Bullpen,Toronto,AL East,495900,25
+Jose Bautista,Toronto Blue Jays,Right fielder,Toronto,AL East,14000000,31
+Jose Reyes,Toronto Blue Jays,Shortstop,Toronto,AL East,10000000,29
+Josh Johnson,Toronto Blue Jays,Starting pitcher,Toronto,AL East,13750000,28
+Josh Thole,Toronto Blue Jays,Catcher,Toronto,AL East,1250000,25
+Kyle Drabek,Toronto Blue Jays,Starting pitcher,Toronto,AL East,499500,24
+Luis Perez,Toronto Blue Jays,Bullpen,Toronto,AL East,500000,27
+Maicer Izturis,Toronto Blue Jays,Second baseman,Toronto,AL East,3000000,31
+Mark Buehrle,Toronto Blue Jays,Starting pitcher,Toronto,AL East,12000000,33
+Mark DeRosa,Toronto Blue Jays,Utility,Toronto,AL East,750000,37
+Michael Schwimer,Toronto Blue Jays,Bullpen,Toronto,AL East,496500,27
+R.A. Dickey,Toronto Blue Jays,Starting pitcher,Toronto,AL East,5000000,37
+Rajai Davis,Toronto Blue Jays,Outfielder,Toronto,AL East,2500000,31
+Sergio Santos,Toronto Blue Jays,Bullpen,Toronto,AL East,2750000,29
+Steve Delabar,Toronto Blue Jays,Bullpen,Toronto,AL East,498900,28
+Adam LaRoche,Washington Nationals,First baseman,"Washington, D.C.",NL East,10000000,32
+Bryce Harper,Washington Nationals,Left fielder,"Washington, D.C.",NL East,2000000,19
+Chad Tracy,Washington Nationals,Utility,"Washington, D.C.",NL East,1000000,32
+Christian Garcia,Washington Nationals,Bullpen,"Washington, D.C.",NL East,491000,27
+Craig Stammen,Washington Nationals,Bullpen,"Washington, D.C.",NL East,875000,28
+Dan Haren,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,13000000,31
+Danny Espinosa,Washington Nationals,Second baseman,"Washington, D.C.",NL East,526250,25
+Denard Span,Washington Nationals,Center fielder,"Washington, D.C.",NL East,4750000,28
+Drew Storen,Washington Nationals,Bullpen,"Washington, D.C.",NL East,2500000,24
+Gio Gonzalez,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,6350000,26
+Henry Rodriguez,Washington Nationals,Bullpen,"Washington, D.C.",NL East,501000,25
+Ian Desmond,Washington Nationals,Shortstop,"Washington, D.C.",NL East,3800000,26
+Jayson Werth,Washington Nationals,Right fielder,"Washington, D.C.",NL East,16571429,33
+Jordan Zimmerman,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,5350000,26
+Kurt Suzuki,Washington Nationals,Catcher,"Washington, D.C.",NL East,6487500,28
+Rafael Soriano,Washington Nationals,Closer,"Washington, D.C.",NL East,11742091,32
+Roger Bernadina,Washington Nationals,Outfielder,"Washington, D.C.",NL East,1212500,28
+Ross Detwiler,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,2337500,26
+Ryan Mattheus,Washington Nationals,Bullpen,"Washington, D.C.",NL East,504500,28
+Ryan Zimmerman,Washington Nationals,Third baseman,"Washington, D.C.",NL East,14100000,27
+Stephen Strasburg,Washington Nationals,Starting pitcher,"Washington, D.C.",NL East,3900000,23
+Steve Lombardozzi,Washington Nationals,Utility,"Washington, D.C.",NL East,501250,23
+Tyler Clippard,Washington Nationals,Bullpen,"Washington, D.C.",NL East,4000000,27
+Tyler Moore,Washington Nationals,Left fielder,"Washington, D.C.",NL East,493000,25
+Wilson Ramos,Washington Nationals,Catcher,"Washington, D.C.",NL East,501250,24
+Zach Duke,Washington Nationals,Bullpen,"Washington, D.C.",NL East,700000,29
