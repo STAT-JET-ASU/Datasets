@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -146,6 +145,7 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -179,7 +179,7 @@ summary {
 
 <h1 class="title toc-ignore">Class Data Files</h1>
 <h4 class="author">Instructor: Jill E. Thomley (<a href="mailto:thomleyje@appstate.edu">thomleyje@appstate.edu</a>)</h4>
-<h4 class="date">Updated: Sunday, October 06, 2019 @ 06:18:14 PM</h4>
+<h4 class="date">Updated: Tuesday, December 10, 2019 @ 03:36:43 PM</h4>
 
 </div>
 
@@ -253,18 +253,19 @@ datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version, requires l
 <h2>Chihara &amp; Hesterberg 2nd Edition</h2>
 <p>These datafiles come from Chihara, L. and Hesterberg, T. (2018). <a href="https://sites.google.com/site/chiharahesterberg/home"><em>Mathematical Statistics with Resampling and R, 2nd Edition</em></a>. New Jersey: John Wiley &amp; Sons. They are also available in the <code>resampledata</code> package.</p>
 <pre><code># to read into RStudio using a url
-# and then assign it to an object
+# then assign dataset to an object
 datasetname &lt;- read.csv(&quot;URL HERE&quot;) # base code version
 datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse version, requires library(readr)
 
 # to read from resampledata package
-# and then assign it to an object
+# then assign dataset to an object
 library(resampledata)
-datasetname &lt;- datasetnameHERE</code></pre>
+datasetname &lt;- datasetname
+Example: flightdelays &lt;- FlightDelays</code></pre>
 <ul>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv">Alelager.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv">Bangladesh.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Beerwings.csv">Beerwings.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Beerwings.csv">Beerwings.csv</a> // <a href="ChiharaDescriptions/beerwings.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/BookPrices.csv">BookPrices.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bushmeat.csv">Bushmeat.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Cereals.csv">Cereals.csv</a></li>
@@ -274,10 +275,10 @@ datasetname &lt;- datasetnameHERE</code></pre>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Diving2017.csv">Diving2017.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Fatalities.csv">Fatalities.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/FishMercury.csv">FishMercury.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/FlightDelays.csv">FlightDelays.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/FlightDelays.csv">FlightDelays.csv</a> // <a href="ChiharaDescriptions/flightdelays.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Girls2004.csv">Girls2004.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Groceries.csv">Groceries.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/GSS2002.csv">GSS2002.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/GSS2002.csv">GSS2002.csv</a> // <a href="ChiharaDescriptions/gss2002.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/IceCream.csv">IceCream.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/ILBoys.csv">ILBoys.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Illiteracy.csv">Illiteracy.csv</a></li>
@@ -285,10 +286,10 @@ datasetname &lt;- datasetnameHERE</code></pre>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/MathAnxiety.csv">MathAnxiety.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Maunaloa.csv">Maunaloa.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/MnGroundwater.csv">MnGroundwater.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/MobileAds.csv">MobileAds.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/MobileAds.csv">MobileAds.csv</a> // <a href="ChiharaDescriptions/mobileads.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Nasdaq.csv">Nasdaq.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/NBA1617.csv">NBA1617.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/NCBirths2004.csv">NCBirths2004.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/NCBirths2004.csv">NCBirths2004.csv</a> // <a href="ChiharaDescriptions/ncbirths2004.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Olympics2012.csv">Olympics2012.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Phillies2009.csv">Phillies2009.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Pitchers2005.csv">Pitchers2005.csv</a></li>
@@ -296,18 +297,18 @@ datasetname &lt;- datasetnameHERE</code></pre>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Quetzal.csv">Quetzal.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/RangersTwins2016.csv">RangersTwins2016.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Reading.csv">Reading.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Recidivism.csv">Recidivism.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Recidivism.csv">Recidivism.csv</a> // <a href="ChiharaDescriptions/recidivism.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Salaries.csv">Salaries.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Service.csv">Service.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Skateboard.csv">SSkateboard.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Skating2010.csv">Skating2010.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Spruce.csv">Spruce.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Spruce.csv">Spruce.csv</a> // <a href="ChiharaDescriptions/spruce.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Starcraft.csv">Starcraft.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Titanic.csv">Titanic.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Turbine.csv">Turbine.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/TV.csv">TV.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/TXBirths2004.csv">TXBirths2004.csv</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Verizon.csv">Verizon.csv</a></li>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Verizon.csv">Verizon.csv</a> // <a href="ChiharaDescriptions/verizon.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Volleyball2009.csv">Volleyball2009.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/wafers.csv">wafers.csv</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Walleye.csv">Walleye.csv</a></li>
