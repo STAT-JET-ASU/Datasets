@@ -80,7 +80,7 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/shipsanitation.csv)
 * [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv)
 * [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv)
-* [STT3850majors.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/STT3850majors.csv)
+* [STT3850majors.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/stt3850majors.csv)
 * [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSE.csv)
 * [titanicCLSU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSU.csv)
 * [titanicSESU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicSESU.csv)
