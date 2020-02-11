@@ -1,6 +1,6 @@
 ceremony,decade,category,name,age,title
-1929,1920s-30s,Best Actor,Emil Jannings,44,
-1929,1920s-30s,Best Actress,Janet Gaynor,22,
+1929,1920s-30s,Best Actor,Emil Jannings,44,"The Last Command, The way of All Flesh"
+1929,1920s-30s,Best Actress,Janet Gaynor,22,"7th Heaven, Street Angel, Sunrise: A Song of Two Humans"
 1930,1920s-30s,Best Actor,Warner Baxter,41,In Old Arizona
 1930,1920s-30s,Best Actor,George Arliss,62,Disraeli
 1930,1920s-30s,Best Actress,Mary Pickford,37,Coquette
@@ -349,3 +349,7 @@ ceremony,decade,category,name,age,title
 2019,2010s,Best Actress,Olivia Coleman,45,The Favourite
 2019,2010s,Supporting Actor,Mahershala Ali,45,Green Book
 2019,2010s,Supporting Actress,Regina King,48,If Beale Street Could Talk
+2020,2020s,Best Actor,Joaquin Phoenix,45,Joker
+2020,2020s,Best Actress,Renée Zellweger,50,Judy
+2020,2020s,Supporting Actor,Brad Pitt,56,Once Upon a Time in Hollywood
+2020,2020s,Supporting Actress,Laura dern,52,Marriage Story
