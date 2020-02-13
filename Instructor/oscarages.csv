@@ -14,7 +14,7 @@ ceremony,decade,category,name,age,title
 1934,1920s-30s,Best Actress,Katharine Hepburn,26,Morning Glory
 1935,1920s-30s,Best Actor,Clark Gable,34,It Happened One Night
 1935,1920s-30s,Best Actress,Collette Colbert,31,It Happened One Night
-1936,1920s-30s,Best Actor,Victor McLaglen,52,The Informer
+1936,1920s-30s,Best Actor,Victor McLaglen,49,The Informer
 1936,1920s-30s,Best Actress,Bette Davis,27,Dangerous
 1937,1920s-30s,Best Actor,Paul Muni,41,The Story of Louis Pasteur
 1937,1920s-30s,Best Actress,Luise Rainer,26,The Great Ziegfeld
@@ -31,7 +31,7 @@ ceremony,decade,category,name,age,title
 1940,1940s,Best Actor,Robert Donat,34,"Goodbye, Mr. Chips"
 1940,1940s,Best Actress,Vivien Leigh,26,Gone with the Wind
 1940,1940s,Supporting Actor,Thomas Mitchell,47,Stagecoach
-1940,1940s,Supporting Actress,Hattie McDaniel,44,Gone with the Wind
+1940,1940s,Supporting Actress,Hattie McDaniel,46,Gone with the Wind
 1941,1940s,Best Actor,James Stewart,32,The Philadelphia Story
 1941,1940s,Best Actress,Ginger Rogers,29,Kitty Foyle
 1941,1940s,Supporting Actor,Walter Brennan,46,The Westerner
@@ -41,19 +41,19 @@ ceremony,decade,category,name,age,title
 1942,1940s,Supporting Actor,Donald Crisp,59,How Green Was My Valley
 1942,1940s,Supporting Actress,Mary Astor,35,The Great Lie
 1943,1940s,Best Actor,James Cagney,43,Yankee Doodle Dandy
-1943,1940s,Best Actress,Greer Garson,39,Mrs. Miniver
+1943,1940s,Best Actress,Greer Garson,38,Mrs. Miniver
 1943,1940s,Supporting Actor,Van Heflin,32,Johnny Eager
 1943,1940s,Supporting Actress,Teresa Wright,24,Mrs. Miniver
 1944,1940s,Best Actor,Paul Lukas,48,Watch on the Rhine
-1944,1940s,Best Actress,Jennifer Jones,24,The Song of Bernadette
+1944,1940s,Best Actress,Jennifer Jones,25,The Song of Bernadette
 1944,1940s,Supporting Actor,Charles Coburn,66,The More the Merrier
 1944,1940s,Supporting Actress,Katina Paxinou,43,For Whom the Bell Tolls
 1945,1940s,Best Actor,Bing Crosby,41,Going My Way
 1945,1940s,Best Actress,Ingrid Bergman,29,Gaslight
 1945,1940s,Supporting Actor,Barry Fitzgerald,57,Going My Way
 1945,1940s,Supporting Actress,Ethel Barrymore,65,None but the Lonely Heart
-1946,1940s,Best Actor,Ray Milland,41,The Lost Weekend
-1946,1940s,Best Actress,Joan Crawford,37,Mildred Pierce
+1946,1940s,Best Actor,Ray Milland,39,The Lost Weekend
+1946,1940s,Best Actress,Joan Crawford,40,Mildred Pierce
 1946,1940s,Supporting Actor,James Dunn,44,A Tree Grown in Brooklyn
 1946,1940s,Supporting Actress,Anne Revere,42,National Velvet
 1947,1940s,Best Actor,Fredric March,49,The Best Years of Our Lives
@@ -61,27 +61,27 @@ ceremony,decade,category,name,age,title
 1947,1940s,Supporting Actor,Harold Russell,33,The Best Years of Our Lives
 1947,1940s,Supporting Actress,Anne Baxter,23,The Razor's Edge
 1948,1940s,Best Actor,Ronald Colman,57,A Double Life
-1948,1940s,Best Actress,Loretta Young,34,The Farmer's Daughter
+1948,1940s,Best Actress,Loretta Young,35,The Farmer's Daughter
 1948,1940s,Supporting Actor,Edmund Gwenn,70,Miracle in 34th Street
 1948,1940s,Supporting Actress,Celeste Holm,30,Gentleman's Agreement
 1949,1940s,Best Actor,Laurence Olivier,41,Hamlet
-1949,1940s,Best Actress,Jane Wyman,34,Johnny Belinda
-1949,1940s,Supporting Actor,Walter Huston,64,The Treasure of the Sierra Madre
+1949,1940s,Best Actress,Jane Wyman,32,Johnny Belinda
+1949,1940s,Supporting Actor,Walter Huston,65,The Treasure of the Sierra Madre
 1949,1940s,Supporting Actress,Claire Trevor,39,Key Largo
 1950,1950s,Best Actor,Broderick Crawford,38,All the King's Men
 1950,1950s,Best Actress,Olivia de Havilland,33,The Heiress
 1950,1950s,Supporting Actor,Dean Jagger,46,Twelve O'Clock High
 1950,1950s,Supporting Actress,Mercedes McCambridge,34,All the King's Men
-1951,1950s,Best Actor,Jose Ferrer,42,Cyrano de Bergerac
-1951,1950s,Best Actress,Judy Holliday,28,Born Yesterday
+1951,1950s,Best Actor,Jose Ferrer,39,Cyrano de Bergerac
+1951,1950s,Best Actress,Judy Holliday,29,Born Yesterday
 1951,1950s,Supporting Actor,George Sanders,44,All About Eve
-1951,1950s,Supporting Actress,Josephine Hull,65,Harvey
+1951,1950s,Supporting Actress,Josephine Hull,74,Harvey
 1952,1950s,Best Actor,Humphrey Bogart,52,The African Queen
 1952,1950s,Best Actress,Vivien Leigh,38,A Streetcar Named Desire
 1952,1950s,Supporting Actor,Karl Malden,40,A Streetcar Named Desire
 1952,1950s,Supporting Actress,Kim Hunter,29,A Streetcar Named Desire
 1953,1950s,Best Actor,Gary Cooper,51,High Noon
-1953,1950s,Best Actress,Shirley Booth,45,"Come Back, Little Sheba"
+1953,1950s,Best Actress,Shirley Booth,54,"Come Back, Little Sheba"
 1953,1950s,Supporting Actor,Anthony Quinn,37,Viva Zapata!
 1953,1950s,Supporting Actress,Gloria Grahame,29,The Bad and the Beautiful
 1954,1950s,Best Actor,William Holden,35,Stalag 17
@@ -89,31 +89,31 @@ ceremony,decade,category,name,age,title
 1954,1950s,Supporting Actor,Frank Sinatra,38,From Here to Eternity
 1954,1950s,Supporting Actress,Donna Reed,33,From Here to Eternity
 1955,1950s,Best Actor,Marlon Brando,30,On the Waterfront
-1955,1950s,Best Actress,Grace Kelly,26,The Country Girl
+1955,1950s,Best Actress,Grace Kelly,25,The Country Girl
 1955,1950s,Supporting Actor,Edmond O'Brien,39,The Barefoot Contessa
 1955,1950s,Supporting Actress,Eva Marie Saint,30,On the Waterfront
 1956,1950s,Best Actor,Ernest Borgnine,39,Marty
-1956,1950s,Best Actress,Anna Magnani,47,The Rose Tattoo
+1956,1950s,Best Actress,Anna Magnani,48,The Rose Tattoo
 1956,1950s,Supporting Actor,Jack Lemmon,31,Mister Roberts
 1956,1950s,Supporting Actress,Jo Van Fleet,41,East of Eden
-1957,1950s,Best Actor,Yul Brynner,41,The King and I
+1957,1950s,Best Actor,Yul Brynner,36,The King and I
 1957,1950s,Best Actress,Ingrid Bergman,41,Anastasia
 1957,1950s,Supporting Actor,Anthony Quinn,41,Lust for Life
-1957,1950s,Supporting Actress,Dorothy Malone,32,Written on the Wind
+1957,1950s,Supporting Actress,Dorothy Malone,33,Written on the Wind
 1958,1950s,Best Actor,Alec Guinness,43,The Bridge on the River Kwai
-1958,1950s,Best Actress,Joanne Woodward,27,The Three Faces of Eve
+1958,1950s,Best Actress,Joanne Woodward,28,The Three Faces of Eve
 1958,1950s,Supporting Actor,Red Buttons,39,Sayonara
 1958,1950s,Supporting Actress,Miyoshi Umeki,28,Sayonara
-1959,1950s,Best Actor,David Niven,48,Separate Tables
-1959,1950s,Best Actress,Susan Hayward,39,I Want to Live!
+1959,1950s,Best Actor,David Niven,49,Separate Tables
+1959,1950s,Best Actress,Susan Hayward,41,I Want to Live!
 1959,1950s,Supporting Actor,Burl Ives,49,The Big Country
 1959,1950s,Supporting Actress,Wendy Hiller,46,Separate Tables
 1960,1960s,Best Actor,Charlton Heston,36,Ben-Hur
-1960,1960s,Best Actress,Simone Signoret,38,Room at the Top
+1960,1960s,Best Actress,Simone Signoret,39,Room at the Top
 1960,1960s,Supporting Actor,Hugh Griffith,47,Ben-Hur
 1960,1960s,Supporting Actress,Shelley Winters,39,The Diary of Anne Frank
 1961,1960s,Best Actor,Burt Lancaster,47,Elmer Gantry
-1961,1960s,Best Actress,Elisabeth Taylor,28,BUtterfield 8
+1961,1960s,Best Actress,Elisabeth Taylor,29,BUtterfield 8
 1961,1960s,Supporting Actor,Peter Ustinov,40,Spartacus
 1961,1960s,Supporting Actress,Shirley Jones,27,Elmer Gantry
 1962,1960s,Best Actor,Maximilian Schell,31,Judgment at Nuremberg
@@ -125,35 +125,35 @@ ceremony,decade,category,name,age,title
 1963,1960s,Supporting Actor,Ed Begley,62,Sweet Bird of Youth
 1963,1960s,Supporting Actress,Patty Duke,16,The Miracle Worker
 1964,1960s,Best Actor,Sidney Poitier,37,Lilies of the Field
-1964,1960s,Best Actress,Patricia Neal,37,Hud
+1964,1960s,Best Actress,Patricia Neal,38,Hud
 1964,1960s,Supporting Actor,Melvyn Douglas,63,Hud
 1964,1960s,Supporting Actress,Margaret Rutherford,71,The V.I.P.s
 1965,1960s,Best Actor,Rex Harrison,57,My Fair Lady
-1965,1960s,Best Actress,Julie Andrews,30,Mary Poppins
+1965,1960s,Best Actress,Julie Andrews,29,Mary Poppins
 1965,1960s,Supporting Actor,Peter Ustinov,43,Topkapi
-1965,1960s,Supporting Actress,Lila Kedrova,46,Zorba the Greek
+1965,1960s,Supporting Actress,Lila Kedrova,55,Zorba the Greek
 1966,1960s,Best Actor,Lee Marvin,42,Cat Ballou
-1966,1960s,Best Actress,Julie Christie,24,Darling
+1966,1960s,Best Actress,Julie Christie,25,Darling
 1966,1960s,Supporting Actor,Martin Balsam,46,A Thousand Crowns
 1966,1960s,Supporting Actress,Shelley Winters,45,A Patch of Blue
 1967,1960s,Best Actor,Paul Scofield,45,A Man for All Seasons
-1967,1960s,Best Actress,Elizabeth Taylor,34,Who's Afraid of Virginia Woolf
+1967,1960s,Best Actress,Elizabeth Taylor,35,Who's Afraid of Virginia Woolf
 1967,1960s,Supporting Actor,Walter Matthau,46,The Fortune Cookie
 1967,1960s,Supporting Actress,Sandy Dennis,29,Who's Afraid of Virginia Woolf
 1968,1960s,Best Actor,Rod Steiger,42,In the Heat of the Night
 1968,1960s,Best Actress,Katharine Hepburn,60,Guess Who's Coming to Dinner
 1968,1960s,Supporting Actor,George Kennedy,43,Cool Hand Luke
 1968,1960s,Supporting Actress,Estelle Parsons,40,Bonne and Clyde
-1969,1960s,Best Actor,Cliff Robertson,43,Charly
-1969,1960s,Best Actress,Barbra Streisand,26,The Lion in Winter
-1969,1960s,Best Actress,Katharine Hepburn,61,Funny Girl
+1969,1960s,Best Actor,Cliff Robertson,45,Charly
+1969,1960s,Best Actress,Barbra Streisand,26,Funny Girl
+1969,1960s,Best Actress,Katharine Hepburn,61,The Lion in Winter
 1969,1960s,Supporting Actor,Jack Albertson,61,The Subject Was Roses
 1969,1960s,Supporting Actress,Ruth Gordon,72,Rosemary's Baby
 1970,1970s,Best Actor,John Wayne,62,True Grit
 1970,1970s,Best Actress,Maggie Smith,35,The Prime of Miss Jean Brodie
 1970,1970s,Supporting Actor,Gig Young,56,"They Shoot Horses, Don't They?"
 1970,1970s,Supporting Actress,Goldie Hawn,24,Cactus Flower
-1971,1970s,Best Actor,George C. Scott,44,Patton
+1971,1970s,Best Actor,George C. Scott,43,Patton
 1971,1970s,Best Actress,Glenda Jackson,34,Women in Love
 1971,1970s,Supporting Actor,John Mills,63,Ryan's Daughter
 1971,1970s,Supporting Actress,Helen Hayes,70,Airport
@@ -161,28 +161,28 @@ ceremony,decade,category,name,age,title
 1972,1970s,Best Actress,Jane Fonda,34,Klute
 1972,1970s,Supporting Actor,Ben Johnson,53,The Last Picture Show
 1972,1970s,Supporting Actress,Cloris Leachman,45,The Last Picture Show
-1973,1970s,Best Actor,Marlon Brando,49,The Godfather
-1973,1970s,Best Actress,Liza Minnelli,26,Cabaret
+1973,1970s,Best Actor,Marlon Brando,48,The Godfather
+1973,1970s,Best Actress,Liza Minnelli,27,Cabaret
 1973,1970s,Supporting Actor,Joel Grey,40,Cabaret
 1973,1970s,Supporting Actress,Eileen Heckart,53,Butterflies Are Free
 1974,1970s,Best Actor,Jack Lemmon,49,Save the Tiger
 1974,1970s,Best Actress,Glenda Jackson,37,A Tough of Class
 1974,1970s,Supporting Actor,John Houseman,71,The Paper Chase
 1974,1970s,Supporting Actress,Tatum O'Neal,10,Paper Moon
-1975,1970s,Best Actor,Art Carney,57,Harry and Tonto
+1975,1970s,Best Actor,Art Carney,56,Harry and Tonto
 1975,1970s,Best Actress,Ellen Burstyn,42,Alice Doesn't Live Here Any More
 1975,1970s,Supporting Actor,Robert De Niro,31,The Godfather Part II
 1975,1970s,Supporting Actress,Ingrid Bergman,59,Murder on the Orient Express
 1976,1970s,Best Actor,Jack Nicholson,38,One Flew Over the Cuckoo's Nest
 1976,1970s,Best Actress,Louise Fletcher,41,One Flew Over the Cuckoo's Nest
 1976,1970s,Supporting Actor,George Burns,80,The Sunshine Boys
-1976,1970s,Supporting Actress,Lee Grant,48,Shampoo
+1976,1970s,Supporting Actress,Lee Grant,50,Shampoo
 1977,1970s,Best Actor,Peter Finch,60,Network
-1977,1970s,Best Actress,Faye Dunaway,35,Network
+1977,1970s,Best Actress,Faye Dunaway,36,Network
 1977,1970s,Supporting Actor,Jason Robards,54,All The President's Men
 1977,1970s,Supporting Actress,Beatrice Straight,62,Network
 1978,1970s,Best Actor,Richard Dreyfuss,30,The Goodbye Girl
-1978,1970s,Best Actress,Diane Keaton,31,Annie Hall
+1978,1970s,Best Actress,Diane Keaton,32,Annie Hall
 1978,1970s,Supporting Actor,Jason Robards,55,Julia
 1978,1970s,Supporting Actress,Vanessa Redgrave,41,Julia
 1979,1970s,Best Actor,Jon Voight,40,Coming Home
@@ -194,10 +194,10 @@ ceremony,decade,category,name,age,title
 1980,1980s,Supporting Actor,Melvyn Douglas,79,Being There
 1980,1980s,Supporting Actress,Meryl Streep,30,Kramer vs. Kramer
 1981,1980s,Best Actor,Robert De Niro,37,Raging Bull
-1981,1980s,Best Actress,Sissy Spacek,30,Coal Miner's Daughter
+1981,1980s,Best Actress,Sissy Spacek,31,Coal Miner's Daughter
 1981,1980s,Supporting Actor,Timothy Hutton,20,Ordinary People
 1981,1980s,Supporting Actress,Mary Steenburgen,28,Melvin and Howard
-1982,1980s,Best Actor,Henry Fonda,74,On Golden Pond
+1982,1980s,Best Actor,Henry Fonda,76,On Golden Pond
 1982,1980s,Best Actress,Katharine Hepburn,74,On Golden Pond
 1982,1980s,Supporting Actor,John Gielgud,77,Arthur
 1982,1980s,Supporting Actress,Maureen Stapleton,56,Reds
@@ -230,7 +230,7 @@ ceremony,decade,category,name,age,title
 1989,1980s,Supporting Actor,Kevin Kline,41,A Fish Called Wanda
 1989,1980s,Supporting Actress,Geena Davis,33,The Accidental Tourist
 1990,1990s,Best Actor,Daniel Day-Lewis,32,My Left Foot
-1990,1990s,Best Actress,Jessica Tandy,81,Driving Miss Daisy
+1990,1990s,Best Actress,Jessica Tandy,80,Driving Miss Daisy
 1990,1990s,Supporting Actor,Denzel Washington,35,Glory
 1990,1990s,Supporting Actress,Brenda Fricker,45,My Left Foot
 1991,1990s,Best Actor,Jeremy Irons,43,Reversal of Fortune
@@ -246,7 +246,7 @@ ceremony,decade,category,name,age,title
 1993,1990s,Supporting Actor,Gene Hackman,63,Unforgiven
 1993,1990s,Supporting Actress,Marisa Tomei,28,My Cousin Vinnie
 1994,1990s,Best Actor,Tom Hanks,37,Philadelphia
-1994,1990s,Best Actress,Holly Hunter,35,The Piano
+1994,1990s,Best Actress,Holly Hunter,36,The Piano
 1994,1990s,Supporting Actor,Tommy Lee Jones,47,The Fugitive
 1994,1990s,Supporting Actress,Anna Paquin,11,The Piano
 1995,1990s,Best Actor,Tom Hanks,38,Forrest Gump
@@ -262,31 +262,31 @@ ceremony,decade,category,name,age,title
 1997,1990s,Supporting Actor,"Cuba Gooding, Jr.",29,Jerry Maguire
 1997,1990s,Supporting Actress,Juliette Binoche,33,The English Patient
 1998,1990s,Best Actor,Jack Nicholson,60,As Good as It Gets
-1998,1990s,Best Actress,Helen Hunt,33,As Good as It Gets
+1998,1990s,Best Actress,Helen Hunt,34,As Good as It Gets
 1998,1990s,Supporting Actor,Robin Williams,46,Good Will Hunting
 1998,1990s,Supporting Actress,Kim Basinger,44,L.A. Confidential
 1999,1990s,Best Actor,Roberto Benigni,46,Life Is Beautiful
-1999,1990s,Best Actress,Gwyneth Paltrow,25,Shakespeare in Love
+1999,1990s,Best Actress,Gwyneth Paltrow,26,Shakespeare in Love
 1999,1990s,Supporting Actor,James Coburn,70,Affliction
 1999,1990s,Supporting Actress,Judi Dench,64,Shakespeare in Love
 2000,2000s,Best Actor,Kevin Spacey,40,American Beauty
-2000,2000s,Best Actress,Hilary Swank,24,Boys Don't Cry
+2000,2000s,Best Actress,Hilary Swank,25,Boys Don't Cry
 2000,2000s,Supporting Actor,Michael Caine,67,The Cider House Rules
 2000,2000s,Supporting Actress,Angelina Jolie,24,"Girl, Interrupted"
 2001,2000s,Best Actor,Russell Crowe,36,Gladiator
-2001,2000s,Best Actress,Julia Roberts,32,Erin Brockovich
+2001,2000s,Best Actress,Julia Roberts,33,Erin Brockovich
 2001,2000s,Supporting Actor,Benicio del Toro,34,Traffic
 2001,2000s,Supporting Actress,Marcia Gay Harden,41,Pollock
 2002,2000s,Best Actor,Denzel Washington,47,Training Day
-2002,2000s,Best Actress,Halle Berry,34,Monster's Ball
+2002,2000s,Best Actress,Halle Berry,35,Monster's Ball
 2002,2000s,Supporting Actor,Jim Broadbent,52,Iris
 2002,2000s,Supporting Actress,Jennifer Connelly,31,A Beautiful Mind
 2003,2000s,Best Actor,Adrien Brody,29,The Pianist
-2003,2000s,Best Actress,Nicole Kidman,34,The Hours
+2003,2000s,Best Actress,Nicole Kidman,35,The Hours
 2003,2000s,Supporting Actor,Chris Cooper,51,Adaption
 2003,2000s,Supporting Actress,Catherine Zeta-Jones,33,Chicago
 2004,2000s,Best Actor,Sean Penn,43,Mystic River
-2004,2000s,Best Actress,Charlize Theron,27,Monster
+2004,2000s,Best Actress,Charlize Theron,28,Monster
 2004,2000s,Supporting Actor,Tim Robbins,45,Mystic River
 2004,2000s,Supporting Actress,Renee Zellweger,34,Cold Mountain
 2005,2000s,Best Actor,Jamie Foxx,37,Ray
@@ -320,7 +320,7 @@ ceremony,decade,category,name,age,title
 2012,2010s,Best Actor,Jean Dujardin,39,The Artist
 2012,2010s,Best Actress,Meryl Streep,62,The Iron Lady
 2012,2010s,Supporting Actor,Christopher Plummer,82,Beginners
-2012,2010s,Supporting Actress,Octavia Spencer,39,The Help
+2012,2010s,Supporting Actress,Octavia Spencer,41,The Help
 2013,2010s,Best Actor,Daniel Day Lewis,55,Lincoln
 2013,2010s,Best Actress,Jennifer Lawrence,22,Silver Linings Playbook
 2013,2010s,Supporting Actor,Christoph Waltz,56,Django Unchained
@@ -334,7 +334,7 @@ ceremony,decade,category,name,age,title
 2015,2010s,Supporting Actor,J.K. Simmons,60,Whiplash
 2015,2010s,Supporting Actress,Patricia Arquette,46,Boyhood
 2016,2010s,Best Actor,Leonardo DiCaprio,41,The Revenant
-2016,2010s,Best Actress,Brie Larson,27,Room
+2016,2010s,Best Actress,Brie Larson,26,Room
 2016,2010s,Supporting Actor,Mark Rylance,56,Bridge of Spies
 2016,2010s,Supporting Actress,Alicia Vikander,27,The Danish Girl
 2017,2010s,Best Actor,Casey Affleck,41,Manchester by the Sea
@@ -345,7 +345,7 @@ ceremony,decade,category,name,age,title
 2018,2010s,Best Actress,Frances McDormand,60,Three Billboards Outside Ebbing Missouri
 2018,2010s,Supporting Actor,Sam Rockwell,49,Three Billboards Outside Ebbing Missouri
 2018,2010s,Supporting Actress,Allison Janney,58,I Tonya
-2019,2010s,Best Actor,Rami Malek,38,Bohemian Rapsody
+2019,2010s,Best Actor,Rami Malek,37,Bohemian Rapsody
 2019,2010s,Best Actress,Olivia Coleman,45,The Favourite
 2019,2010s,Supporting Actor,Mahershala Ali,45,Green Book
 2019,2010s,Supporting Actress,Regina King,48,If Beale Street Could Talk
