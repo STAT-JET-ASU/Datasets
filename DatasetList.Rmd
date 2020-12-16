@@ -178,4 +178,12 @@ These datasets were compiled or acquired by Dr. Thomley from Jeremy Balka's [JB 
     datasetname <- read.csv("URL HERE") # base code version, creates a data frame
     datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
     
-* [jbstatsguineapigs.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/JBSTatistics/jbstatsguineapigs.csv)
+* [jbstatsguineapigs.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/JBStatistics/jbstatsguineapigs.csv)
+
+***
+
+```{r}
+sessionInfo()
+```
+
+
