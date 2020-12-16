@@ -4,18 +4,19 @@ author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 
   html_document: 
-    theme: cosmo
+    theme: yeti
+    toc: TRUE
 ---
 
 <hr>
 
-## Instructor Files
+### Instructor Data Files
 
-These datasets were compiled or acquired by Dr. Thomley from a variety of sources. See  **descriptions** for more information about some datasets. Click on the dataset name to see the CSV file and get its URL.
+These datasets were compiled or acquired by Dr. Thomley from various sources. More information is provided for some datasets under the  **description** link beside the filename. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
-    datasetname <- read.csv("URL HERE") # base code version
-    datasetname <- read_csv("URL HERE") # tidyverse version, requires library(readr)
+    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
@@ -95,14 +96,14 @@ These datasets were compiled or acquired by Dr. Thomley from a variety of source
 * [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv) //
   [description](InstructorDescriptions/wcsweatherdays.html)
 
-## Chihara & Hesterberg 2nd Edition
+### Chihara & Hesterberg 2nd Edition Data Files
 
-These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical Statistics with Resampling and R, 2nd Edition_](https://sites.google.com/site/chiharahesterberg/home). New Jersey: John Wiley & Sons. They are also available in the `resampledata` package.
+These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical Statistics with Resampling and R, 2nd Edition_](https://sites.google.com/site/chiharahesterberg/home). New Jersey: John Wiley & Sons. They are also available in the `resampledata` package. More information is provided for some datasets under the  **description** link beside the filename. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
     # then assign dataset to an object
-    datasetname <- read.csv("URL HERE") # base code version
-    datasetname <- read_csv("URL HERE") # tidyverse version, requires library(readr)
+    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
     
     # to read from resampledata package
     # then assign dataset to an object
@@ -110,7 +111,6 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
     datasetname <- datasetname
     Example: flightdelays <- FlightDelays
     
-
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
 * [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
 * [Beerwings.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Beerwings.csv) //
@@ -170,3 +170,12 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
 * [Walleye.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Walleye.csv)
 * [Watertable.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Watertable.csv)
 
+### JB Statistics and Stats 101 Data Files
+
+These datasets were compiled or acquired by Dr. Thomley from Jeremy Balka's [JB Statistics](https://www.youtube.com/user/jbstatistics) and Brandon Foltz's [Stats 101 videos](https://www.youtube.com/c/BrandonFoltz/). More information is provided for some datasets under the  **description** link beside the filename. Click on the dataset name to see the CSV file and get its URL.
+
+    # to read into RStudio using a url
+    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
+    
+* [jbstatsguineapigs.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/JBSTatistics/jbstatsguineapigs.csv)
