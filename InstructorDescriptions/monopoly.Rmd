@@ -21,7 +21,7 @@ library(dplyr)
 
 ### Description
 
-Monopoly is a board game in which players roll two six-sided dice to move around the game board. They buy and trade properties, and once they have all street properties of one color (a monopoly) they may develop them with houses and hotels. There are also railroad and utility properties which cannot be developed, but whose rent value increases if a player owns more than one. Players collect "rent"" from their opponents when an opponent lands on one of their properties. The goal is to drive all other players into bankruptcy.
+Monopoly is a board game in which players roll two six-sided dice to move around the game board. They buy and trade properties, and once they have all street properties of one color (a monopoly) they may develop them with houses and hotels. There are also railroad and utility properties which cannot be developed, but whose rent value increases if a player owns more than one. Players collect "rent" from their opponents when an opponent lands on one of their properties. The goal is to drive all other players into bankruptcy.
 
 ```{r, echo = FALSE, fig.align="center"}
 knitr::include_graphics("images/monopoly.jpg", dpi = 100)
