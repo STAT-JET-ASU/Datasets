@@ -34,7 +34,7 @@ The `galtonheightdata` dataset was [created under the direction of Dr. James A. 
 * Family: family the child belongs to, labeled 1 to 204 and 136A
 * Father: father's height in inches
 * Mother: mother's height in inches
-* Gender: child's gender, male (M) or female (F)
+* Gender: child's gender, male or female (1800's classifications)
 * Height: child height in inches
 * Kids: number of children in the child's family
 
