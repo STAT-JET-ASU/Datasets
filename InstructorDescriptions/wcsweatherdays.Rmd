@@ -53,6 +53,4 @@ head(DATA)
 
 ### References
 
-[NC School Calendar Regulations](http://www.dpi.state.nc.us/fbs/accounting/calendar/)
-
 [Watauga County Schools Calendar](https://www.wataugaschools.org/domain/886)
