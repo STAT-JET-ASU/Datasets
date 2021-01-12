@@ -54,5 +54,3 @@ glimpse(DATA)
 
 [Monopoly Rents (with houses and hotels)](http://www.falstad.com/monopoly.html)
 
-[Monopoly Prices, Rents, and Rules](http://www.math.yorku.ca/~zabrocki/math2042/Monopoly/prices.html)
-
