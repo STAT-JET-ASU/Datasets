@@ -41,7 +41,7 @@ All K-12 schools in North Carolina schools are required to complete a minimum of
 * mar_days: number of days canceled for inclement weather in March
 * apr_days: number of days canceled for inclement weather in April
 * may_days: number of days canceled for inclement weather in May
-* total_days: number of says canceled for the school year
+* total_days: number of days canceled for the school year
 * total_snow: total inches of snow during the school year
 
 ```{r}
