@@ -15,8 +15,8 @@ output:
 These datasets were compiled or acquired by Dr. Thomley from various sources. More information is provided for some datasets under the  **description** link beside the filename. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
-    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
-    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
+    datasetname <- read.csv("URL HERE") # base code, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse, creates a tibble, requires library(readr)
 
 * [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
@@ -102,8 +102,8 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
 
     # to read into RStudio using a url
     # then assign dataset to an object
-    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
-    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
+    datasetname <- read.csv("URL HERE") # base code, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse, creates a tibble, requires library(readr) or library(tidyverse)
     
     # to read from resampledata package
     # then assign dataset to an object
@@ -175,16 +175,14 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
 These datasets were compiled or acquired by Dr. Thomley from Jeremy Balka's [JB Statistics](https://www.youtube.com/user/jbstatistics) and Brandon Foltz's [Stats 101 videos](https://www.youtube.com/c/BrandonFoltz/). More information is provided for some datasets under the  **description** link beside the filename. Click on the dataset name to see the CSV file and get its URL.
 
     # to read into RStudio using a url
-    datasetname <- read.csv("URL HERE") # base code version, creates a data frame
-    datasetname <- read_csv("URL HERE") # tidyverse version, creates a tibble, requires library(readr)
+    datasetname <- read.csv("URL HERE") # base code, creates a data frame
+    datasetname <- read_csv("URL HERE") # tidyverse, creates a tibble, requires library(readr) or library(tidyverse)
     
 * [jbstatsguineapigs.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/JBStatistics/jbstatsguineapigs.csv)
-
+* [stats101smartphones.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Stats101/stats101smartphoness.csv)
 
 ***
 
 ```{r}
 sessionInfo()
 ```
-
-
