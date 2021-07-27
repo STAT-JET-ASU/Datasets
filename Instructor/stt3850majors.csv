@@ -607,64 +607,64 @@ AS,Senior,Fermentation Sciences,Other Sciences,S20,2019-2020
 AS,Senior,Computer Science,Computer Science,S20,2019-2020
 AS,Junior,Computer Science,Computer Science,S20,2019-2020
 GC,Freshman,Computer Science,Computer Science,S20,2019-2020
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,"Mathematics, Computation",S21,Mathematical Sciences,2020-2021
-AS,Junior,"Environmental Science, Earth Systems Science",S21,Other Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Senior,"Mathematics, General Mathematics",S21,Mathematical Sciences,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-FA,Senior,"Communication, Journalism",S21,Other,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,"Environmental Science, Life Science",S21,Other Science,2020-2021
-AS,Senior,"Environmental Science, Life Science",S21,Other Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Senior,Computer Science,S21,Computer Science,2020-2021
-AS,Senior,"Mathematics, Business",S21,Mathematical Sciences,2020-2021
-AS,Junior,"Psychology, Business",S21,Other,2020-2021
-AS,Sophomore,"Mathematics, Statistics",S21,Mathematical Sciences,2020-2021
-AS,Junior,Fermentation Sciences,S21,Other Science,2020-2021
-AS,Senior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Senior,"Geology, Paleontology",S21,Other Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Senior,"Mathematics, General Mathematics",S21,Mathematical Sciences,2020-2021
-AS,Junior,"Psychology, Business",S21,Other,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Fermentation Sciences,S21,Other Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Junior,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,"Mathematics, Statistics",S21,Mathematical Sciences,2020-2021
-AS,Junior,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Junior,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Senior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Fermentation Sciences,S21,Other Science,2020-2021
-GC,Freshman,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,"Chemistry, Environmental",S21,Other Science,2020-2021
-CB,Junior,"Marketing, General Marketing",S21,Other,2020-2021
-AS,Senior,Computer Science,S21,Computer Science,2020-2021
-GC,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-GC,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,"Environmental Science, Life Science",S21,Other Science,2020-2021
-AS,Junior,"Environmental Science, Life Science",S21,Other Science,2020-2021
-GC,Freshman,Computer Science,S21,Computer Science,2020-2021
-GC,Sophomore,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Sophomore,Computer Science,S21,Computer Science,2020-2021
-GC,Sophomore,Accounting,S21,Other,2020-2021
-AS,Sophomore,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Junior,Actuarial Science,S21,Mathematical Sciences,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
-AS,Junior,Computer Science,S21,Computer Science,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,"Mathematics, Computation",Mathematical Sciences,S21,2020-2021
+AS,Junior,"Environmental Science, Earth Systems Science",Other Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+FA,Senior,"Communication, Journalism",Other,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,"Environmental Science, Life Science",Other Science,S21,2020-2021
+AS,Senior,"Environmental Science, Life Science",Other Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Senior,Computer Science,Computer Science,S21,2020-2021
+AS,Senior,"Mathematics, Business",Mathematical Sciences,S21,2020-2021
+AS,Junior,"Psychology, Business",Other,S21,2020-2021
+AS,Sophomore,"Mathematics, Statistics",Mathematical Sciences,S21,2020-2021
+AS,Junior,Fermentation Sciences,Other Science,S21,2020-2021
+AS,Senior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Senior,"Geology, Paleontology",Other Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,S21,2020-2021
+AS,Junior,"Psychology, Business",Other,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Fermentation Sciences,Other Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Junior,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,"Mathematics, Statistics",Mathematical Sciences,S21,2020-2021
+AS,Junior,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Junior,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Senior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Fermentation Sciences,Other Science,S21,2020-2021
+GC,Freshman,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,"Chemistry, Environmental",Other Science,S21,2020-2021
+CB,Junior,"Marketing, General Marketing",Other,S21,2020-2021
+AS,Senior,Computer Science,Computer Science,S21,2020-2021
+GC,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+GC,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,"Environmental Science, Life Science",Other Science,S21,2020-2021
+AS,Junior,"Environmental Science, Life Science",Other Science,S21,2020-2021
+GC,Freshman,Computer Science,Computer Science,S21,2020-2021
+GC,Sophomore,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
+GC,Sophomore,Accounting,Other,S21,2020-2021
+AS,Sophomore,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Junior,Actuarial Science,Mathematical Sciences,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
+AS,Junior,Computer Science,Computer Science,S21,2020-2021
