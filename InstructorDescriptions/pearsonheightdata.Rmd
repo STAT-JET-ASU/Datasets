@@ -22,7 +22,7 @@ library(dplyr)
 
 ### Description
 
-Karl Pearson studied the relationship between the heights of men and their adult sons, similar to research done by his colleague [Francis Galton](galtonheightdata.html). Pearson’s original data was measured and rounded to the nearest inch. The authors of an introductory statistics tectbook added a small amount of random uniform noise "to render it continuous"---but not large enough to fundamentally change its meaning. 
+Karl Pearson studied the relationship between the heights of men and their adult sons, similar to research done by his colleague [Francis Galton](galtonheightdata.html). Pearson’s original data was measured and rounded to the nearest inch. The authors of an introductory statistics textbook added a small amount of random uniform noise "to render it continuous"---but not large enough to fundamentally change its meaning. 
 
 
 ### Variables
