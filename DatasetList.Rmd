@@ -118,7 +118,7 @@ These datafiles come from Chihara, L. and Hesterberg, T. (2018). [_Mathematical 
     Example: flightdelays <- FlightDelays
     
 * [Alelager.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Alelager.csv)
-* [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
+* [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv) //   [description](ChiharaDescriptions/Bangladesh.html)
 * [Beerwings.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Beerwings.csv) //
   [description](ChiharaDescriptions/beerwings.html)
 * [BookPrices.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/BookPrices.csv)
