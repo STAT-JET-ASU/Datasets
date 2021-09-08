@@ -51,10 +51,10 @@ head(DATA)
 
 * FamilyID: family identifier, families 13, 50, 84, 11, 120, 161, 189, and 202
 * Children : number of children in the family
-* Father: father's height in inches
-* Mother: mother's height in inches
+* Father: value + 60 = father's height in inches
+* Mother: value + 60 mother's height in inches
 * Child: whether the child was a son or a daughter
-* Height: child's height in inches
+* Height: value + 60 = child's height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliessub.csv")
@@ -63,7 +63,7 @@ head(DATA)
 ```
 
 
-### Variables---Parents Only
+### Variables---Main Parents Only
 
 * FamilyID: family identifier, labeled 1 to 204 and 136A 
 * Father: father's height in inches
