@@ -23,6 +23,8 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [galtonparentheights.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv)
 
+<i class="fas fa-database"></i> [galtonfamiliesnotebook.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesnotebook.csv)
+
 
 ### Description
 
