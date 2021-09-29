@@ -67,7 +67,7 @@ head(DATA)
 
 ### Variables---Main Parents Only
 
-* FamilyID: family identifier, labeled 1 to 204 and 136A 
+* FamilyID: family identifier, labeled 1 to 205 (205 = family 136A) 
 * Father: father's height in inches
 * Mother: mother's height in inches
 
