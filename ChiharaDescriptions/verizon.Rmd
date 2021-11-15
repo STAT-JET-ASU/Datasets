@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Verizon Repair Times"
-author: "Chihara, L. and Hesterberg, T. (2018). Mathematical Statistics with Resampling and R, 2nd Ed."
+author: "Chihara, L. and Hesterberg, T. (2018). *Mathematical Statistics with Resampling and R, 2nd Ed.*"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 
   html_document: 
@@ -10,20 +10,21 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  comment = NULL
+)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [Recidivism.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Recidivism.csv)
+<i class="fas fa-database"></i> [`Verizon.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Verizon.csv)
 
-This dataset is described on pp. 3-4 of the textbook. You may load it from the dataset URL linked above or from the `resampledata` package.
-    
-```{r}
+This is one of the case studies from Chapter 1 of the textbook (pp. 3-4). You may load it from the URL linked above or the `resampledata` package.
+
+```{r glimpsedata}
+library(resampledata)
 library(tidyverse)
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Recidivism.csv")
-glimpse(DATA)
-head(DATA)
+glimpse(Verizon)
 ```
-
 

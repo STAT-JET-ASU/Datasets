@@ -1,6 +1,6 @@
 ---
 title: "Dataset: Bangladesh"
-author: "Chihara, L. and Hesterberg, T. (2018). Mathematical Statistics with Resampling and R, 2nd Ed."
+author: "Chihara, L. and Hesterberg, T. (2018). *Mathematical Statistics with Resampling and R, 2nd Ed.*"
 date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
 output: 
   html_document: 
@@ -10,14 +10,17 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  comment = NULL
+)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [Bangladesh.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
+<i class="fas fa-database"></i> [`Bangladesh.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
 
-Bangladesh has suffered the largest population-level poisoning in history. Millions of its citizens were exposed to naturally-occurring arsenic from tube-wells. Ironically, the wells had been installed to provide cleaner water than surface sources in order to reduce gastrointestinal diseases that were having a large negative impact on health. Studies in other countries found that 10% of people who consumed water with 500 micrograms of arsenic per liter (mcg/l) might ultimately die from cancers caused by arsenic. The Bangladesh dataset is introduced on p. 114 of the textbook. You may load it from the dataset URL linked above or from the `resampledata` package. It contains contaminant data for a sample of 271 tube wells in Bangladesh. Cobalt is another heavy metal that is naturally-occurring in groundwater. All measurements are recorded in units of micrograms per liter (mcg/l or μg/l), also known as parts per billion (ppb).
+Bangladesh has suffered the largest population-level poisoning in history. Millions of its citizens were exposed to naturally-occurring arsenic from tube-wells. Ironically, the wells had been installed to provide cleaner water than surface sources in order to reduce gastrointestinal diseases that were having a large negative impact on health. Studies in other countries found that 10% of people who consumed water with 500 micrograms of arsenic per liter (mcg/l) might ultimately die from cancers caused by arsenic. The Bangladesh dataset is introduced on p. 114 of the textbook. You may load it from the dataset URL linked above or from the `resampledata` package. It contains contaminant data for a sample of 271 tube wells in Bangladesh. Cobalt is another heavy metal that is naturally-occurring in groundwater. All data measurements are in units of micrograms per liter (mcg/l or μg/l), also known as parts per billion (ppb). The CDC recommends a minimum free chlorine residual of 0.2 mg/L (ppm) in drinking water to ensure adequate disinfection and a maximum residual of 2 mg/L to minimize taste and odor concerns.
 
 ### Variables
 
@@ -25,14 +28,20 @@ Bangladesh has suffered the largest population-level poisoning in history. Milli
 * Chlorine: amount of chlorine
 * Cobalt: amount of cobalt
 
-```{r}
+```{r glimpsedata}
+library(resampledata)
 library(tidyverse)
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv")
-glimpse(DATA)
-head(DATA)
+glimpse(Bangladesh)
 ```
 
-References:
+### References:
 
-[Contamination of drinking-water by arsenic
+* [Contamination of drinking-water by arsenic
 in Bangladesh: a public health emergency](https://www.who.int/bulletin/archives/78%289%291093.pdf)
+* [EPA: Drinking Water in Arsenic Rule History](https://www.epa.gov/dwreginfo/drinking-water-arsenic-rule-history)
+* [EPA: National Primary Drinking Water Regulations](https://www.epa.gov/sites/default/files/2016-06/documents/npwdr_complete_table.pdf)
+* [Agency for Toxic Substances and Disease Registry: Public Health Statement (Cobalt)](https://www.atsdr.cdc.gov/ToxProfiles/tp33-c1-b.pdf)
+
+<hr>
+
+
