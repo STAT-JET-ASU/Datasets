@@ -1,4 +1,4 @@
-Rank,Building,City,Height_meters,Floors,Completed,Material,Use
+Rank,Building,City,Height,Floors,Completed,Material,Use
 26,One World Trade Center,New York City,541.3,94,2014,composite,office
 43,Willis Tower,Chicago,442.1,108,1974,steel,office
 47,Trump International Hotel & Tower,Chicago,423.2,98,2009,concrete,residential / hotel
