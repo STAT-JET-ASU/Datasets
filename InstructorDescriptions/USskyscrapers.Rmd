@@ -1,0 +1,49 @@
+---
+title: "US Skyscrapers Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`USskyscrapers.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USskyscrapers.csv)
+
+### Description
+
+Data about structures in the United States that are $\ge$ 100 meters tall (as of ~2015).
+
+### Variables
+
+* Building: name of the structure
+* City: city in which the structure is located
+* Height: height in meters
+* Floors: how many floors
+* Completed: when construction was completed
+* Material: primary construction material(s)
+* Use: primary use(s)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USskyscrapers.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Source: StatCrunch public datasets 
+
+<hr>
+

@@ -10,20 +10,20 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE, echo = FALSE)
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
 library(readr)
 library(dplyr)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
-
+<i class="fas fa-database"></i> [`unemployment.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
 
 ### Description
 
 The official unemployment rate is the fraction of the labor force that is unemployed, expressed as a percentage. For this measure, "unemployed" is defined as people who are willing and available to work and who have actively sought employment the past four weeks, but are not working. People with temporary, part-time, or full-time jobs, or people who perform at least 15 hours of unpaid family work, are considered employed. People who cannot  work due to a disability or who have stopped looking for work (e.g., who have become discouraged and given up), are not considered part of the labor force.
-
 
 ### Variables
 
@@ -37,7 +37,6 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
 ### References
 
 [Bureau of Labor Statistics: Seasonally Adjusted Unemployment Rate](https://data.bls.gov/timeseries/LNS14000000)
@@ -45,3 +44,6 @@ head(DATA)
 [Bureau of Labor Statistics: What is Seasonal Adjustment?](https://www.bls.gov/cps/seasfaq.htm)
 
 [Investopedia: Unemployment](https://www.investopedia.com/terms/u/unemploymentrate.asp)
+
+<hr>
+

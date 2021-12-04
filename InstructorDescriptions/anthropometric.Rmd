@@ -10,11 +10,13 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE, echo = FALSE)
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
 library(readr)
 library(dplyr)
 ```
-
 <hr>
 
 <i class="fas fa-database"></i> [`anthropometric.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv)
@@ -22,7 +24,6 @@ library(dplyr)
 <i class="fas fa-database"></i> [`egyptianskulls.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
 
 See also [Galton Height Dataset](galtonheightdata.html) and [Pearson Height Dataset](pearsonheightdata.html)
-
 
 ### Description
 
@@ -34,8 +35,7 @@ Although he was among the first to approach anthropometrics in a systematic mann
 
 The anthropometric data here were collected from students in Dr. Thomley's STT1810 and STT3850 courses at Appalachian State University.
 
-
-### Variables in `anthropometric.csv`
+### Variables---Anthropometric Dataset
 
 * gender: self-identified gender
 * ideal: self-chosen ideal height in inches
@@ -53,8 +53,7 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
-### Variables in `egyptianskulls.csv`
+### Variables---Egyptian Skulls Dataset
 
 * maxbreadth: see image below (in mm)
 * basibregmatic: see image below (in mm)
@@ -76,7 +75,9 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
 ### References
 
-Thomson, Arthur and Randall-MacIver, David. (1905). [***Ancient Races of the Thebaid***](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+
+<hr>
+

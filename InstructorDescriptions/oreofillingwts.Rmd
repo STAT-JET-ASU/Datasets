@@ -1,0 +1,44 @@
+---
+title: "Oreo Filling Weights Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`oreofillingwts.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oreofillingwts.csv)
+
+### Description
+
+Weights of the "Oreo creme" filling in a sample of Oreo Original^TM^ and Oreo Double Stuf^TM^ cookies.
+
+### Variables
+
+* type: cookie type (original or double)
+* fillgrams: filling weight in grams
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oreofillingwts.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Source: http://jse.amstat.org/v4n2/datasets.shoemaker.html 
+
+<hr>
+

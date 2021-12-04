@@ -10,20 +10,20 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE, echo = FALSE)
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
 library(readr)
 library(dplyr)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [wcsweatherdays.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
-
+<i class="fas fa-database"></i> [`wcsweatherdays.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv)
 
 ### Description
 
 All K-12 schools in North Carolina schools are required to complete a minimum of 1,025 hours of instruction or 185 student days in a school year. Watauga County Schools starts the school year with calendar that includes 180 student days. However, the system typically has several county-wide closings every year as a result of inclement weather. These days must be made up either during the year (e.g., Saturday school or moving teacher workdays) or by adding days to the end of the year. Even with makeups, the number of days students miss is of concern to many people because they feel canceled days disrupt student learning, especially considering the pressure to perform well on standardized tests and the [NC School Report Cards](https://ncreportcards.ondemand.sas.com/src/?county=Watauga).
-
 
 ### Variables
 
@@ -50,7 +50,9 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
 ### References
 
 [Watauga County Schools Calendar](https://www.wataugaschools.org/domain/886)
+
+<hr>
+

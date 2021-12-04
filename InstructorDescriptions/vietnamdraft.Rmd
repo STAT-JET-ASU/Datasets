@@ -8,26 +8,26 @@ output:
     theme: cosmo
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(comment = "", message = FALSE, warning = FALSE, echo = FALSE)
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
 library(readr)
 library(dplyr)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
+<i class="fas fa-database"></i> [`vietnamdraft.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv)
 
-<i class="fas fa-database"></i> [vietnamdraftadmin.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraftadmin.csv)
-
+<i class="fas fa-database"></i> [`vietnamdraftadmin.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraftadmin.csv)
 
 ### Description
 
 In December 1969, the U.S. Selective Service System conducted a lottery to a determine draft order for eligible men in the upcoming year. The 366 days of the year (including February 29) were written on small pieces of paper. Each was placed in a plastic capsule, then the capsules were hand-mixed in a cardboard box and dumped in a glass jar. Capsules were pulled out by hand one at a time. The first birthday chosen was September 14. Anyone born on that day in 1944 through 1950 was assigned draft lottery number 1 and they were the first group of men called up. By the end of 1970, men with draft numbers 1 through 195 were called up to serve, in the order they were drawn. Some people asserted that the numbers were not randomly distributed through the year, in particular when you compared the first half and second half of the year. (["Statisticians Charge Draft Lottery Was Not Random,"](https://www.nytimes.com/1970/01/04/archives/statisticians-charge-draft-lottery-was-not-random.html) New York Times, Jan . 4, 1970)
 
 ![Representative Alexander Pirnie (R-NY) drawing the first draft number. Image is public domain.](https://stat-jet-asu.github.io/Moodlepics/draftlottery1968.jpg)
-
 
 ### Variables
 
@@ -45,7 +45,6 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
 ### Variables
 
 * draftyear: year of potential call-up/induction
@@ -59,7 +58,6 @@ glimpse(DATA)
 head(DATA)
 ```
 
-
 ### References
 
 Video: [CBS News Lottery Draft -1969](https://youtu.be/-p5X1FjyD_g)
@@ -71,3 +69,6 @@ Video: [CBS News Lottery Draft -1969](https://youtu.be/-p5X1FjyD_g)
 [Would your draft number have been called?](https://www.usatoday.com/vietnam-war/draft-picker)
 
 [Vietnam Draft Lottery Data](http://www.randomservices.org/random/data/Draft.html)
+
+<hr>
+

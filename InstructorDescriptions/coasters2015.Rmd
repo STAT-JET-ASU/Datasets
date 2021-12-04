@@ -8,19 +8,22 @@ output:
     theme: cosmo
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
+library(readr)
+library(dplyr)
 ```
-
 <hr>
 
-<i class="fas fa-database"></i> [coasters2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv)
-
+<i class="fas fa-database"></i> [`coasters2015.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv)
 
 ### Description
 
 The [Roller Coaster Database](https://rcdb.com/) gathers information about every roller coaster in the world, past or present. This dataset contains data for coasters that were new in 2015.
-
 
 ### Variables
 
@@ -40,8 +43,9 @@ DATA <- read.csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master
 glimpse(DATA)
 ```
 
-
 ### References
 
 Source: https://dasl.datadescription.com/datafile/coasters-2015/
+
+<hr>
 
