@@ -21,11 +21,13 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [`couples.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv)
 
+<i class="fas fa-database"></i> [`husbandswives.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/husbandswives.csv)
+
 ### Description
 
-This dataset contains a sample of heterosexual married couples.
+These datasets contains samples of heterosexual married couples. The second dataset is taken from a 1980 study of the heights and weights of the adult population in Great Britain. They represent a random sample of married couples. 
 
-### Variables
+### Variables---Couples Dataset
 
 * Names: names of the husband and wife
 * wAge: wife's age in years
@@ -39,9 +41,28 @@ glimpse(DATA)
 head(DATA)
 ```
 
+### Variables---Husbands and Wives Dataset
+
+* Age_Husband: husband's age in years when the data were collected
+* Ht_Husband: husband's height in millimeters
+* Age_Wife: wife's age in years when the data were collected
+* Ht_Wife: wife's height in millimeters
+* Age_Husb_at_Marriage: husband's age in years when the couple married
+* Years_Married: how many years the couple has been married
+* Age_Wife_At_Marriage: wife's age in years when the couple married
+* Duration: whether or not the duration of the marriage is > 20
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/husbandswives.csv")
+glimpse(DATA)
+head(DATA)
+```
+
 ### References
 
-Source: https://dasl.datadescription.com/datafile/couples/
+Source 1: https://dasl.datadescription.com/datafile/couples/ 
+
+Source 2: Marsh, C. (1988) *Exploring Data*. Cambridge, UK: Polity Press, 315.
 
 Chalabi, M. (2014, December 4). How Common Is It For A Man To Be Shorter Than His Partner? [Blog post]. Retrieved from https://fivethirtyeight.com/features/how-common-is-it-for-a-man-to-be-shorter-than-his-partner/
 
