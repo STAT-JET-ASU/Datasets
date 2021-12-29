@@ -1,0 +1,67 @@
+---
+title: "NFL Players 2016 Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`NFLplayers2016.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv)
+
+<i class="fas fa-database"></i> [`NFLpositions.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLpositions.csv)
+
+### Description
+
+Data about all National Football League (NFL) players in 2016.
+
+### Variables---NFL Players 2016 Dataset
+
+* Jersey: jersey number
+* Name: player name
+* Position: player position
+* Age: player age
+* Height: player height
+* Weight: player weight
+* Years: number of years played
+* College: college attended
+* Team: team played for
+* PositionGrp: groupings for positions
+* Side:  offense, defense, or special teams
+* Level: grouping for number of years played
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### Variables---NFL Positions Dataset
+
+* Position: position abbreviation
+* PositionExp: full position name
+    
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLpositions.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+
+<hr>
+
