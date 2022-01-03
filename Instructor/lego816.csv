@@ -1,4 +1,4 @@
-number,name,price,pieces,minifigs,minifigsspec,agemin,agemax,there,type,rating,exclusive,rare
+number,name,price,pieces,minifigs,minifigsspec,agemin,agemax,theme,type,rating,exclusive,rare
 75821,Piggy Car Escape,12.99,74,2,1,6,12,Angry Birds,Pop Culture,3,0,0
 75822,Piggy Plane Attack,19.99,168,2,2,6,12,Angry Birds,Pop Culture,5,0,0
 75823,Bird Island Egg Heist,29.99,277,3,3,6,12,Angry Birds,Pop Culture,4,0,0
