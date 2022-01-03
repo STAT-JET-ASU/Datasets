@@ -27,7 +27,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [balance.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/balance.csv)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
-* [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/bodytemps.csv) //
+* [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) //
