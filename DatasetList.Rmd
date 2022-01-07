@@ -30,12 +30,18 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
+* [cappunish20220107.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv) //
+  [description](InstructorDescriptions/cappunish.html)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) //
   [description](InstructorDescriptions/cereals.html)
 * [coasters2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/coasters2015.csv) //
   [description](InstructorDescriptions/coasters2015.html)
 * [couples.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv) //
   [description](InstructorDescriptions/couples.html)
+* [deathrowrace.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv) //
+  [description](InstructorDescriptions/cappunish.html)
+* [deathrowsize.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv) //
+  [description](InstructorDescriptions/cappunish.html)
 * [diamondquality.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/diamondquality.csv) //
   [description](InstructorDescriptions/diamondquality.html)
 * [dietcrackers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv) //
@@ -43,7 +49,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) //
   [description](InstructorDescriptions/anthropometric.html)
 * [electoralvotes.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.csv)
-* [executions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions.csv)
+* [executions19762021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv) //
+  [description](InstructorDescriptions/cappunish.html)
 * [farmpop1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop1.csv)
 * [farmpop2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop2.csv)
 * [fastfood2017.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fastfood2017.csv) //

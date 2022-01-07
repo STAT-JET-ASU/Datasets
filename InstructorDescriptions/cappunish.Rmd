@@ -1,0 +1,110 @@
+---
+title: "Capital Punishment Dataset<br>Size of Death Row Dataset<br>Executions Since 1976 Dataset<br>Death Row Demographics Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(message = FALSE, 
+                      warning = FALSE, 
+                      echo = FALSE,
+                      comment = NA)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`cappunish20220107.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv)
+
+<i class="fas fa-database"></i> [`deathrowsize.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv)
+
+<i class="fas fa-database"></i> [`executions19762021.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv)
+
+<i class="fas fa-database"></i> [`deathrowrace.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsizerace.csv)
+
+### Description
+
+Data about the death penalty in the United States as of January 7, 2022, from the non-profit organization [Death Penalty Information Center](https://deathpenaltyinfo.org/).
+
+### Variables---Capital Punishment Dataset
+
+* `state`: state name (including District of Columbia)
+* `region`: US Census region
+* `division`: US Census regional subdivision
+* `court`: US Court of Appeals regional circuit 
+* `dp1`: whether or not the state legally has the death penalty (yes/no)
+* `dp2`: `dp1` but also indicates states that have a governor's moratorium
+* `abolished`: year capital punishment was legally abolished in the state
+* `post1976`: number of executions after 1976 (state only)
+* `pre1976`: number of executions before 1976 (may include federal/military)
+* `prisoners`: total number of prisoners currently on death row
+* `women`: number of women on death row (subset of `prisoners`)
+* `freed`: number of innocent people later freed from death row
+* `clemency`: number of people who were granted clemency
+* `life`: whether the state can sentence an adult to life without parole
+* `lifejuvie`: whether the state can sentence a juvenile to life without parole
+* `felony`: whether someone can get the death penalty as a felony accessory
+* `sentence`: who decides on whether someone gets a death penalty sentence
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### Variables---Size of Death Row Dataset
+
+* `year`: year (includes each year from 1968 to 2021)
+* `total`: total prisoners on death row during that year
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### Variables---Executions Since 1976 Dataset
+
+* `state`: state name (including District of Columbia and Federal Government)
+* `yxxxx`: year (includes each year from 1976 to 2021)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### Variables---Death Row Demographics Dataset
+
+* `state`: state name (including US Government and US Military)
+* `black`: number of black death row inmates
+* `white`: number of white death row inmates (non-latinx)
+* `latinx`: number of latinx death row inmates
+* `nativeam`: number of native american death row inmates
+* `asian`: number of asian death row inmates
+* `unknown`: number of death row inmates with unknown race/ethnicity
+
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Source: [Death Penalty Information Center: State by State](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state)
+
+[Census Regions and Divisions of the United States](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
+
+[United States Court of Appeals Circuit Map](https://www.uscourts.gov/sites/default/files/u.s._federal_courts_circuit_map_1.pdf)
+
+[Legal Information Institute: Furman v. Georgia (1972)](https://www.law.cornell.edu/wex/furman_v_georgia_(1972))
+
+<hr>
+
