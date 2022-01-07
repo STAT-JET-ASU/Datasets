@@ -1,0 +1,31 @@
+state,black,white,latinx,nativeam,asian,unknown
+Alabama,86,83,2,0,0,0
+Arizona,18,70,23,4,3,0
+Arkansas,15,15,1,0,0,0
+California,250,229,183,9,28,0
+Florida,130,187,19,1,1,0
+Georgia,23,19,3,0,0,0
+Idaho,0,8,0,0,0,0
+Indiana,2,6,0,0,0,0
+Kansas,3,6,0,0,0,0
+Kentucky,3,24,0,0,0,0
+Louisiana,44,18,3,0,0,0
+Mississippi,22,16,1,0,1,0
+Missouri,7,14,0,0,0,0
+Montana,0,2,0,0,0,0
+Nebraska,2,4,6,0,0,0
+Nevada,24,31,9,0,2,0
+New Hampshire,1,0,0,0,0,0
+North Carolina,73,55,4,6,1,0
+Ohio,75,57,3,0,1,0
+Oklahoma,18,21,2,2,0,0
+Oregon,2,17,3,1,0,1
+Pennsylvania,66,50,12,0,2,0
+South Carolina,21,17,1,0,0,0
+South Dakota,0,1,0,0,0,0
+Tennessee,25,22,0,0,2,0
+Texas,88,54,52,0,4,0
+Utah,1,4,1,1,0,0
+Wyoming,0,1,0,0,0,0
+US Gov,18,20,7,0,1,0
+Military,2,2,0,0,0,0
