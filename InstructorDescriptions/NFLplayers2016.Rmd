@@ -61,7 +61,9 @@ head(DATA)
 
 ### References
 
-Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+[Wikipedia: American Football Positions](https://en.wikipedia.org/wiki/American_football_positions)
+
+[Wikipedia: Glossary of American Football Terms](https://en.wikipedia.org/wiki/Glossary_of_American_football_terms)
 
 <hr>
 
