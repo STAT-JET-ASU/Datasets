@@ -40,7 +40,7 @@ Data about all National Football League (NFL) players in 2016.
 * Team: team played for
 * PositionGrp: groupings for positions
 * Side:  offense, defense, or special teams
-* Level: grouping for number of years played
+* Playtime: grouping for number of years played
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv")
