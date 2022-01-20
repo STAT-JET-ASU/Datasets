@@ -138,10 +138,10 @@ CB,Senior,Economics,Other,S15,2014-2015
 CB,Senior,"Economics, International Economics",Other,S15,2014-2015
 FA,Sophomore,"Communication, Journalism",Other,S15,2014-2015
 CB,Senior,Finance and Banking,Other,S15,2014-2015
-AS,Junior,"Psychology, Business",Other,S15,2014-2015
-AS,Junior,"Psychology, Natural Science",Other,S15,2014-2015
-AS,Senior,"Psychology, Natural Science",Other,S15,2014-2015
-AS,Senior,"Psychology, Natural Science",Other,S15,2014-2015
+AS,Junior,"Psychology, Business",Other Sciences,S15,2014-2015
+AS,Junior,"Psychology, Natural Science",Other Sciences,S15,2014-2015
+AS,Senior,"Psychology, Natural Science",Other Sciences,S15,2014-2015
+AS,Senior,"Psychology, Natural Science",Other Sciences,S15,2014-2015
 AS,Junior,Environmental Science,Other Sciences,S15,2014-2015
 AS,Junior,Environmental Science,Other Sciences,S15,2014-2015
 AS,Junior,Environmental Science,Other Sciences,S15,2014-2015
@@ -166,8 +166,8 @@ AS,Senior,Computer Science,Computer Science,Sum15,2014-2015
 AS,Senior,Computer Science,Computer Science,Sum15,2014-2015
 AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,Sum15,2014-2015
 AS,Senior,"Mathematics, Sec Education",Mathematical Sciences,Sum15,2014-2015
-AS,Senior,"Psychology, Natural Science",Other,Sum15,2014-2015
-AS,Senior,"Psychology, Natural Science",Other,Sum15,2014-2015
+AS,Senior,"Psychology, Natural Science",Other Sciences,Sum15,2014-2015
+AS,Senior,"Psychology, Natural Science",Other Sciences,Sum15,2014-2015
 AS,Senior,Environmental Science,Other Sciences,Sum15,2014-2015
 AS,Senior,Environmental Science,Other Sciences,Sum15,2014-2015
 AS,Senior,Environmental Science,Other Sciences,Sum15,2014-2015
@@ -327,7 +327,7 @@ AS,Junior,History,Other,F16,2016-2017
 AS,Senior,"Geography, General Geography",Other,F16,2016-2017
 HS,Senior,Health Care Management,Other,F16,2016-2017
 AS,Senior,"Interdisciplinary Studies, Individually Designed",Other,F16,2016-2017
-AS,Senior,"Psychology, Social Science",Other,F16,2016-2017
+AS,Senior,"Psychology, Social Science",Other Sciences,F16,2016-2017
 AS,Junior,"Chemistry, Environmental",Other Sciences,F16,2016-2017
 AS,Junior,Environmental Science,Other Sciences,F16,2016-2017
 AS,Senior,"Chemistry, Environmental",Other Sciences,F16,2016-2017
@@ -399,7 +399,7 @@ AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,S18,2017-2018
 AS,Sophomore,"Mathematics, Business",Mathematical Sciences,S18,2017-2018
 FA,Sophomore,"Theatre Arts, Performance",Other,S18,2017-2018
 AS,Senior,"Political Science, American Politics",Other,S18,2017-2018
-AS,Senior,"Psychology, Natural Science",Other,S18,2017-2018
+AS,Senior,"Psychology, Natural Science",Other Sciences,S18,2017-2018
 AS,Junior,Environmental Science,Other Sciences,S18,2017-2018
 AS,Junior,"Environmental Science, Environmental Professional",Other Sciences,S18,2017-2018
 AS,Senior,Environmental Science,Other Sciences,S18,2017-2018
@@ -479,8 +479,8 @@ AS,Sophomore,"Mathematics, Statistics",Mathematical Sciences,F18,2018-2019
 AS,Sophomore,"Mathematics, Statistics",Mathematical Sciences,F18,2018-2019
 AS,Senior,"Geology, Paleontology",Other,F18,2018-2019
 AS,Senior,"Geology, Paleontology",Other,F18,2018-2019
-AS,Senior,Psychology,Other,F18,2018-2019
-AS,Senior,"Psychology, Natural Science",Other,F18,2018-2019
+AS,Senior,Psychology,Other Sciences,F18,2018-2019
+AS,Senior,"Psychology, Natural Science",Other Sciences,F18,2018-2019
 AS,Junior,Environmental Science,Other Sciences,F18,2018-2019
 AS,Senior,"Chemistry, Environmental",Other Sciences,F18,2018-2019
 AS,Senior,Environmental Science,Other Sciences,F18,2018-2019
@@ -591,7 +591,7 @@ AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,S20,2019-2020
 AS,Junior,"Mathematics, Secondary Education",Mathematical Sciences,S20,2019-2020
 AS,Junior,Computer Science,Computer Science,S20,2019-2020
 AS,Junior,"Mathematics, Business",Mathematical Sciences,S20,2019-2020
-AS,Senior,"Psychology, Business",Other,S20,2019-2020
+AS,Senior,"Psychology, Business",Other Sciences,S20,2019-2020
 GC,Freshman,Computer Science,Computer Science,S20,2019-2020
 AS,Junior,Computer Science,Computer Science,S20,2019-2020
 AS,Senior,Environmental Science,Other Sciences,S20,2019-2020
@@ -622,7 +622,7 @@ AS,Junior,Computer Science,Computer Science,S21,2020-2021
 AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
 AS,Senior,Computer Science,Computer Science,S21,2020-2021
 AS,Senior,"Mathematics, Business",Mathematical Sciences,S21,2020-2021
-AS,Junior,"Psychology, Business",Other,S21,2020-2021
+AS,Junior,"Psychology, Business",Other Sciences,S21,2020-2021
 AS,Sophomore,"Mathematics, Statistics",Mathematical Sciences,S21,2020-2021
 AS,Junior,Fermentation Sciences,Other Sciences,S21,2020-2021
 AS,Senior,Computer Science,Computer Science,S21,2020-2021
@@ -632,7 +632,7 @@ AS,Junior,Computer Science,Computer Science,S21,2020-2021
 AS,Senior,"Geology, Paleontology",Other Sciences,S21,2020-2021
 AS,Junior,Computer Science,Computer Science,S21,2020-2021
 AS,Senior,"Mathematics, General Mathematics",Mathematical Sciences,S21,2020-2021
-AS,Junior,"Psychology, Business",Other,S21,2020-2021
+AS,Junior,"Psychology, Business",Other Sciences,S21,2020-2021
 AS,Sophomore,Computer Science,Computer Science,S21,2020-2021
 AS,Sophomore,Fermentation Sciences,Other Sciences,S21,2020-2021
 AS,Junior,Computer Science,Computer Science,S21,2020-2021
