@@ -20,13 +20,13 @@ knitr::opts_chunk$set(
 
 <i class="fas fa-database"></i> [`Bangladesh.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Chihara/Bangladesh.csv)
 
-Bangladesh has suffered the largest population-level poisoning in history. Millions of its citizens were exposed to naturally-occurring arsenic from tube-wells. Ironically, the wells had been installed to provide cleaner water than surface sources in order to reduce gastrointestinal diseases that were having a large negative impact on health. Studies in other countries found that 10% of people who consumed water with 500 micrograms of arsenic per liter (mcg/l) might ultimately die from cancers caused by arsenic. The Bangladesh dataset is introduced on p. 114 of the textbook. You may load it from the dataset URL linked above or from the `resampledata` package. It contains contaminant data for a sample of 271 tube wells in Bangladesh. Cobalt is another heavy metal that is naturally-occurring in groundwater. All data measurements are in units of micrograms per liter (mcg/l or μg/l), also known as parts per billion (ppb). The CDC recommends a minimum free chlorine residual of 0.2 mg/L (ppm) in drinking water to ensure adequate disinfection and a maximum residual of 2 mg/L to minimize taste and odor concerns.
+Bangladesh has suffered the largest population-level poisoning in history. Millions of its citizens were exposed to naturally-occurring arsenic from tube-wells. Ironically, the wells had been installed to provide cleaner water than surface sources in order to reduce gastrointestinal diseases that were having a large negative impact on health. Studies in other countries found that 10% of people who consumed water with 500 micrograms of arsenic per liter (mcg/l) might ultimately die from cancers caused by arsenic. The Bangladesh dataset is introduced on p. 114 of the textbook. You may load it from the dataset URL linked above or from the `resampledata` package. It contains contaminant data for a sample of 271 tube wells in Bangladesh. Cobalt is another heavy metal that is naturally-occurring in groundwater. The CDC recommends a minimum free chlorine residual of 0.2 mg/L (ppm) in drinking water to ensure adequate disinfection and a maximum residual of 2 mg/L to minimize taste and odor concerns. WHO (the World Health Organization) has determined a "safe" threshold of 10 μg/l (ppb) or less for arsenic. 
 
 ### Variables
 
-* Arsenic: amount of arsenic
-* Chlorine: amount of chlorine
-* Cobalt: amount of cobalt
+* Arsenic: amount of arsenic in parts per billion (ppb) or micrograms per liter (mcg/l or μg/l)
+* Chlorine: amount of chlorine in parts per million (ppm)
+* Cobalt: amount of cobalt in parts per billion (ppb) or micrograms per liter (mcg/l or μg/l)
 
 ```{r glimpsedata}
 library(resampledata)
