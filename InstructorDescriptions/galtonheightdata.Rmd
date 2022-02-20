@@ -39,10 +39,10 @@ The `galtonfamiliesmain` dataset was [created under the direction of Dr. James A
 
 * FamilyID: family identifier, labeled 1 to 204 and 136A, excluding the eight 
 * Children : number of children in the family
-* Father: father's height in inches
-* Mother: mother's height in inches
+* Father: father's measured height in inches
+* Mother: mother's measured height in inches
 * Child: whether the child was a son or a daughter
-* Height: child's height in inches
+* Height: child's measured height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesmain.csv")
