@@ -1,69 +1,72 @@
 Position,PositionExp
+B,Back
+BB,Blocking Back
+C,Center
+CB,Cornerback
+DB,Defensive Back
+DE,Defensive End
+DG,Defensive Guard
+DL,Defensive Lineman
+DT,Defensive Tackle
+E,End
+FB,Fullback
+FL,Flanker
+FS,Free Safety
+G,Guard
+HB,Halfback
+ILB,Inside Linebacker
+K,Kicker
+KR,Kick Returner
+LB,Linebacker
+LCB,Left Cornerback
+LDE,Left Defensive End
+LDH,Left Defensive Halfback
+LDT,Left Defensive Tackle
+LE,Left End
+LG,Left Guard
+LH,Left Halfback
+LILB,Left Inside Linebacker
+LLB,Left Linebacker
+LOLB,Left Outside Linebacker
+LOT,Left Offensive Tackle
+LS,Long Snapper (pre-1970 this may indicate Left Safety)
+LT,Left Tackle
+MG,Middle Guard
+MIKE,Middle Linebacker
+MLB,Middle Linebacker
+NT,Nose Tackle
+OG,Offensive Guard
+OLB,Outside Linebacker
+OT,Offensive Tackle
+P,Punter
+PK,Place Kicker
+PR,Punt Returner
 QB,Quarterback
 RB,Running back
-HB,Halfback
-TB,Tailback
-FB,Fullback
-LH,Left Halfback
-RH,Right Halfback
-BB,Blocking Back
-B,Back
-WB,Wingback
-WR,Wide Receiver
-FL,Flanker
-SE,Split End
-E,End
-TE,Tight End
-LE,Left End
-LT,Left Tackle
-LOT,Left Offensive Tackle
-T,Tackle
-LG,Left Guard
-G,Guard
-C,Center
-RG,Right Guard
-RT,Right Tackle
-ROT,Right Offensive Tackle
-RE,Right End
-DL,Defensive Lineman
-LDE,Left Defensive End
-DE,Defensive End
-LDT,Left Defensive Tackle
-DT,Defensive Tackle
-NT,Nose Tackle
-MG,Middle Guard
-DG,Defensive Guard
-RDT,Right Defensive Tackle
+RCB,Right Cornerback
 RDE,Right Defensive End
-LOLB,Left Outside Linebacker
-RUSH,Rush Linebacker
-OLB,Outside Linebacker
-LLB,Left Linebacker
-LILB,Left Inside Linebacker
-WILL,Weak Side Linebacker
-ILB,Inside Linebacker
-SLB,Strong Side Linebacker
-MLB,Middle Linebacker
-MIKE,Middle Linebacker
-WLB,Weak Side Linebacker
+RDH,Right Defensive Halfback
+RDT,Right Defensive Tackle
+RE,Right End
+RET,Returner
+RG,Right Guard
+RH,Right Halfback
 RILB,Right Inside Linebacker
 RLB,Right Linebacker
 ROLB,Right Outside Linebacker
-SAM,Strong Side Linebacker
-LB,Linebacker
-LCB,Left Cornerback
-CB,Cornerback
-RCB,Right Cornerback
-SS,Strong Safety
-FS,Free Safety
-LDH,Left Defensive Halfback
-RDH,Right Defensive Halfback
-LS,Long Snapper (pre-1970 this may indicate Left Safety)
-S,Safety
+ROT,Right Offensive Tackle
 RS,Right Safety
-DB,Defensive Back
-K,Kicker
-P,Punter
-PR,Punt Returner
-KR,Kick Returner
-RET,Returner
+RT,Right Tackle
+RUSH,Rush Linebacker
+S,Safety
+SAM,Strong Side Linebacker
+SE,Split End
+SLB,Strong Side Linebacker
+SS,Strong Safety
+T,Tackle
+TB,Tailback
+TE,Tight End
+WB,Wingback
+WILL,Weak Side Linebacker
+WLB,Weak Side Linebacker
+WR,Wide Receiver

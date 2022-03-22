@@ -54,10 +54,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Garrett Swanson,P,22,72,230,0,Fresno State,Arizona,Special Teams,Special Teams,Rookie
 2,Drew Butler,P,27,73,217,4,Georgia,Arizona,Special Teams,Special Teams,1-4 Yrs
 7,Chandler Catanzaro,PK,25,75,200,3,Clemson,Arizona,Special Teams,Special Teams,1-4 Yrs
-9,Matt Barkley,Quarterback,25,74,227,4,USC,Arizona,Quarterback,Offense,1-4 Yrs
-5,Drew Stanton,Quarterback,32,75,243,10,Michigan State,Arizona,Quarterback,Offense,9-12 Yrs
-3,Carson Palmer,Quarterback,36,77,235,14,USC,Arizona,Quarterback,Offense,13+ Yrs
-,Jake Coker,Quarterback,23,77,236,0,Alabama,Arizona,Quarterback,Offense,Rookie
+9,Matt Barkley,QB,25,74,227,4,USC,Arizona,QB,Offense,1-4 Yrs
+5,Drew Stanton,QB,32,75,243,10,Michigan State,Arizona,QB,Offense,9-12 Yrs
+3,Carson Palmer,QB,36,77,235,14,USC,Arizona,QB,Offense,13+ Yrs
+,Jake Coker,QB,23,77,236,0,Alabama,Arizona,QB,Offense,Rookie
 33,Kerwynn Williams,RB,25,68,198,3,Utah State,Arizona,Tailback,Offense,1-4 Yrs
 38,Andre Ellington,RB,27,69,199,4,Clemson,Arizona,Tailback,Offense,1-4 Yrs
 30,Stepfan Taylor,RB,25,69,216,4,Stanford,Arizona,Tailback,Offense,1-4 Yrs
@@ -148,10 +148,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 5,Matt Bosher,P,28,72,208,6,Miami,Atlanta,Special Teams,Special Teams,5-8 Yrs
 3,Matt Bryant,PK,41,69,203,15,Baylor,Atlanta,Special Teams,Special Teams,13+ Yrs
 23,Nick Rose,PK,,74,203,0,Texas,Atlanta,Special Teams,Special Teams,Rookie
-8,Matt Simms,Quarterback,27,75,210,2,Tennessee,Atlanta,Quarterback,Offense,1-4 Yrs
-2,Matt Ryan,Quarterback,31,76,217,9,Boston College,Atlanta,Quarterback,Offense,9-12 Yrs
-12,Sean Renfree,Quarterback,26,77,225,4,Duke,Atlanta,Quarterback,Offense,1-4 Yrs
-8,Matt Schaub,Quarterback,35,78,245,13,Virginia,Atlanta,Quarterback,Offense,13+ Yrs
+8,Matt Simms,QB,27,75,210,2,Tennessee,Atlanta,QB,Offense,1-4 Yrs
+2,Matt Ryan,QB,31,76,217,9,Boston College,Atlanta,QB,Offense,9-12 Yrs
+12,Sean Renfree,QB,26,77,225,4,Duke,Atlanta,QB,Offense,1-4 Yrs
+8,Matt Schaub,QB,35,78,245,13,Virginia,Atlanta,QB,Offense,13+ Yrs
 26,Tevin Coleman,RB,23,72,210,2,Indiana,Atlanta,Tailback,Offense,1-4 Yrs
 33,Terron Ward,RB,24,67,201,2,Oregon State,Atlanta,Tailback,Offense,1-4 Yrs
 24,Devonta Freeman,RB,24,68,206,3,Florida State,Atlanta,Tailback,Offense,1-4 Yrs
@@ -231,10 +231,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 4,Sam Koch,P,33,73,219,11,Nebraska,Baltimore,Special Teams,Special Teams,9-12 Yrs
 ,Wil Lutz,PK,22,72,190,0,Georgia State,Baltimore,Special Teams,Special Teams,Rookie
 9,Justin Tucker,PK,26,73,183,5,Texas,Baltimore,Special Teams,Special Teams,5-8 Yrs
-,Josh Johnson,Quarterback,30,75,205,8,San Diego,Baltimore,Quarterback,Offense,5-8 Yrs
-1,Jerrod Johnson,Quarterback,27,77,251,1,Texas A&M,Baltimore,Quarterback,Offense,1-4 Yrs
-5,Joe Flacco,Quarterback,31,78,245,9,Delaware,Baltimore,Quarterback,Offense,9-12 Yrs
-7,Ryan Mallett,Quarterback,28,78,245,6,Arkansas,Baltimore,Quarterback,Offense,5-8 Yrs
+,Josh Johnson,QB,30,75,205,8,San Diego,Baltimore,QB,Offense,5-8 Yrs
+1,Jerrod Johnson,QB,27,77,251,1,Texas A&M,Baltimore,QB,Offense,1-4 Yrs
+5,Joe Flacco,QB,31,78,245,9,Delaware,Baltimore,QB,Offense,9-12 Yrs
+7,Ryan Mallett,QB,28,78,245,6,Arkansas,Baltimore,QB,Offense,5-8 Yrs
 37,Javorius Allen,RB,24,72,220,2,USC,Baltimore,Tailback,Offense,1-4 Yrs
 34,Lorenzo Taliaferro,RB,24,72,225,3,Coastal Carolina,Baltimore,Tailback,Offense,1-4 Yrs
 29,Justin Forsett,RB,30,68,195,9,California,Baltimore,Tailback,Offense,9-12 Yrs
@@ -319,9 +319,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 4,Jordan Gay,PK,26,73,200,3,Centre,Buffalo,Special Teams,Special Teams,1-4 Yrs
 2,Dan Carpenter,PK,30,74,228,9,Montana,Buffalo,Special Teams,Special Teams,9-12 Yrs
 ,Marshall Morgan,PK,22,75,201,0,Georgia,Buffalo,Special Teams,Special Teams,Rookie
-5,Tyrod Taylor,Quarterback,26,73,215,6,Virginia Tech,Buffalo,Quarterback,Offense,5-8 Yrs
-3,EJ Manuel,Quarterback,26,76,237,4,Florida State,Buffalo,Quarterback,Offense,1-4 Yrs
-12,Cardale Jones,Quarterback,23,77,250,0,Ohio State,Buffalo,Quarterback,Offense,Rookie
+5,Tyrod Taylor,QB,26,73,215,6,Virginia Tech,Buffalo,QB,Offense,5-8 Yrs
+3,EJ Manuel,QB,26,76,237,4,Florida State,Buffalo,QB,Offense,1-4 Yrs
+12,Cardale Jones,QB,23,77,250,0,Ohio State,Buffalo,QB,Offense,Rookie
 38,Daniel Herron,RB,27,70,212,4,Ohio State,Buffalo,Tailback,Offense,1-4 Yrs
 32,Jonathan Williams,RB,22,70,219,0,Arkansas,Buffalo,Tailback,Offense,Rookie
 25,LeSean McCoy,RB,28,71,208,8,Pittsburgh,Buffalo,Tailback,Offense,5-8 Yrs
@@ -408,9 +408,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Mike Scifres,P,35,74,215,14,Western Illinois,Carolina,Special Teams,Special Teams,13+ Yrs
 ,Swayze Waters,PK,29,71,178,1,UAB,Carolina,Special Teams,Special Teams,1-4 Yrs
 9,Graham Gano,PK,29,74,205,7,Florida State,Carolina,Special Teams,Special Teams,5-8 Yrs
-14,Joe Webb,Quarterback,29,76,235,7,UAB,Carolina,Quarterback,Offense,5-8 Yrs
-1,Cam Newton,Quarterback,27,77,245,6,Auburn,Carolina,Quarterback,Offense,5-8 Yrs
-3,Derek Anderson,Quarterback,33,78,230,12,Oregon State,Carolina,Quarterback,Offense,9-12 Yrs
+14,Joe Webb,QB,29,76,235,7,UAB,Carolina,QB,Offense,5-8 Yrs
+1,Cam Newton,QB,27,77,245,6,Auburn,Carolina,QB,Offense,5-8 Yrs
+3,Derek Anderson,QB,33,78,230,12,Oregon State,Carolina,QB,Offense,9-12 Yrs
 47,Devon Johnson,RB,22,72,243,0,Marshall,Carolina,Tailback,Offense,Rookie
 ,Jalen Simmons,RB,24,68,205,0,South Carolina State,Carolina,Tailback,Offense,Rookie
 28,Jonathan Stewart,RB,29,70,235,9,Oregon,Carolina,Tailback,Offense,9-12 Yrs
@@ -490,9 +490,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Ben LeCompte,P,23,70,196,0,North Dakota State,Chicago,Special Teams,Special Teams,Rookie
 16,Pat O'Donnell,P,25,76,220,3,Miami,Chicago,Special Teams,Special Teams,1-4 Yrs
 9,Robbie Gould,PK,34,72,185,12,Penn State,Chicago,Special Teams,Special Teams,9-12 Yrs
-12,David Fales,Quarterback,25,73,219,2,San Jose State,Chicago,Quarterback,Offense,1-4 Yrs
-,Brian Hoyer,Quarterback,30,74,215,8,Michigan State,Chicago,Quarterback,Offense,5-8 Yrs
-6,Jay Cutler,Quarterback,33,75,220,11,Vanderbilt,Chicago,Quarterback,Offense,9-12 Yrs
+12,David Fales,QB,25,73,219,2,San Jose State,Chicago,QB,Offense,1-4 Yrs
+,Brian Hoyer,QB,30,74,215,8,Michigan State,Chicago,QB,Offense,5-8 Yrs
+6,Jay Cutler,QB,33,75,220,11,Vanderbilt,Chicago,QB,Offense,9-12 Yrs
 33,Jeremy Langford,RB,24,72,208,2,Michigan State,Chicago,Tailback,Offense,1-4 Yrs
 32,Senorise Perry,RB,24,72,187,3,Louisville,Chicago,Tailback,Offense,1-4 Yrs
 35,Jacquizz Rodgers,RB,26,66,199,6,Oregon State,Chicago,Tailback,Offense,5-8 Yrs
@@ -578,10 +578,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Zach Hocker,PK,24,72,191,2,Arkansas,Cincinnati,Special Teams,Special Teams,1-4 Yrs
 2,Mike Nugent,PK,34,70,190,12,Ohio State,Cincinnati,Special Teams,Special Teams,9-12 Yrs
 ,Jon Brown,PK,23,70,202,0,Louisville,Cincinnati,Special Teams,Special Teams,Rookie
-14,Andy Dalton,Quarterback,28,74,216,6,TCU,Cincinnati,Quarterback,Offense,5-8 Yrs
-3,Keith Wenning,Quarterback,25,74,223,1,Ball State,Cincinnati,Quarterback,Offense,1-4 Yrs
-,Joe Licata,Quarterback,23,74,210,0,Buffalo,Cincinnati,Quarterback,Offense,Rookie
-5,AJ McCarron,Quarterback,25,75,210,2,Alabama,Cincinnati,Quarterback,Offense,1-4 Yrs
+14,Andy Dalton,QB,28,74,216,6,TCU,Cincinnati,QB,Offense,5-8 Yrs
+3,Keith Wenning,QB,25,74,223,1,Ball State,Cincinnati,QB,Offense,1-4 Yrs
+,Joe Licata,QB,23,74,210,0,Buffalo,Cincinnati,QB,Offense,Rookie
+5,AJ McCarron,QB,25,75,210,2,Alabama,Cincinnati,QB,Offense,1-4 Yrs
 ,Tra Carson,RB,23,72,231,0,Texas A&M,Cincinnati,Tailback,Offense,Rookie
 7,Dy'Shawn Mobley,RB,22,72,225,0,Eastern Kentucky,Cincinnati,Tailback,Offense,Rookie
 25,Giovani Bernard,RB,24,69,205,4,North Carolina,Cincinnati,Tailback,Offense,1-4 Yrs
@@ -672,10 +672,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 8,Andy Lee,P,33,73,185,13,Pittsburgh,Cleveland,Special Teams,Special Teams,13+ Yrs
 ,Patrick Murray,PK,25,67,182,3,Fordham,Cleveland,Special Teams,Special Teams,1-4 Yrs
 6,Travis Coons,PK,24,73,200,2,Washington,Cleveland,Special Teams,Special Teams,1-4 Yrs
-6,Cody Kessler,Quarterback,23,73,224,0,USC,Cleveland,Quarterback,Offense,Rookie
-7,Austin Davis,Quarterback,27,74,221,5,Southern Mississippi,Cleveland,Quarterback,Offense,5-8 Yrs
-10,Robert Griffin,Quarterback,26,74,222,5,Baylor,Cleveland,Quarterback,Offense,5-8 Yrs
-13,Josh McCown,Quarterback,37,76,218,14,Sam Houston State,Cleveland,Quarterback,Offense,13+ Yrs
+6,Cody Kessler,QB,23,73,224,0,USC,Cleveland,QB,Offense,Rookie
+7,Austin Davis,QB,27,74,221,5,Southern Mississippi,Cleveland,QB,Offense,5-8 Yrs
+10,Robert Griffin,QB,26,74,222,5,Baylor,Cleveland,QB,Offense,5-8 Yrs
+13,Josh McCown,QB,37,76,218,14,Sam Houston State,Cleveland,QB,Offense,13+ Yrs
 29,Duke Johnson Jr.,RB,22,69,210,2,Miami,Cleveland,Tailback,Offense,1-4 Yrs
 25,Raheem Mostert,RB,24,70,195,2,Purdue,Cleveland,Tailback,Offense,1-4 Yrs
 34,Isaiah Crowell,RB,23,71,225,3,Alabama State,Cleveland,Tailback,Offense,1-4 Yrs
@@ -757,10 +757,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 6,Chris Jones,P,27,72,205,5,Carson-Newman,Dallas,Special Teams,Special Teams,5-8 Yrs
 2,Matt Wile,P,24,74,223,0,Michigan,Dallas,Special Teams,Special Teams,Rookie
 5,Dan Bailey,PK,28,72,195,6,Oklahoma State,Dallas,Special Teams,Special Teams,5-8 Yrs
-17,Kellen Moore,Quarterback,27,72,200,5,Boise State,Dallas,Quarterback,Offense,5-8 Yrs
-7,Jameill Showers,Quarterback,24,73,230,1,UTEP,Dallas,Quarterback,Offense,1-4 Yrs
-9,Tony Romo,Quarterback,36,74,230,14,Eastern Illinois,Dallas,Quarterback,Offense,13+ Yrs
-15,Dak Prescott,Quarterback,22,74,226,0,Mississippi State,Dallas,Quarterback,Offense,Rookie
+17,Kellen Moore,QB,27,72,200,5,Boise State,Dallas,QB,Offense,5-8 Yrs
+7,Jameill Showers,QB,24,73,230,1,UTEP,Dallas,QB,Offense,1-4 Yrs
+9,Tony Romo,QB,36,74,230,14,Eastern Illinois,Dallas,QB,Offense,13+ Yrs
+15,Dak Prescott,QB,22,74,226,0,Mississippi State,Dallas,QB,Offense,Rookie
 6,Darius Jackson,RB,22,72,221,0,Eastern Michigan,Dallas,Tailback,Offense,Rookie
 15,Ezekiel Elliott,RB,21,72,225,0,Ohio State,Dallas,Tailback,Offense,Rookie
 25,Lance Dunbar,RB,26,68,195,5,North Texas,Dallas,Tailback,Offense,5-8 Yrs
@@ -835,9 +835,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 4,Britton Colquitt,P,31,75,205,8,Tennessee,Denver,Special Teams,Special Teams,5-8 Yrs
 92,Riley Dixon,P,22,76,221,0,Syracuse,Denver,Special Teams,Special Teams,Rookie
 8,Brandon McManus,PK,24,75,201,3,Temple,Denver,Special Teams,Special Teams,1-4 Yrs
-6,Mark Sanchez,Quarterback,29,74,225,8,USC,Denver,Quarterback,Offense,5-8 Yrs
-13,Trevor Siemian,Quarterback,24,75,220,2,Northwestern,Denver,Quarterback,Offense,1-4 Yrs
-12,Paxton Lynch,Quarterback,22,79,245,0,Memphis,Denver,Quarterback,Offense,Rookie
+6,Mark Sanchez,QB,29,74,225,8,USC,Denver,QB,Offense,5-8 Yrs
+13,Trevor Siemian,QB,24,75,220,2,Northwestern,Denver,QB,Offense,1-4 Yrs
+12,Paxton Lynch,QB,22,79,245,0,Memphis,Denver,QB,Offense,Rookie
 22,C.J. Anderson,RB,25,68,224,4,California,Denver,Tailback,Offense,1-4 Yrs
 35,Kapri Bibbs,RB,23,69,203,2,Colorado State,Denver,Tailback,Offense,1-4 Yrs
 28,Cyrus Gray,RB,26,70,206,3,Texas A&M,Denver,Tailback,Offense,1-4 Yrs
@@ -918,9 +918,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 6,Sam Martin,P,26,73,211,4,Appalachian State,Detroit,Special Teams,Special Teams,1-4 Yrs
 5,Matt Prater,PK,31,70,211,10,UCF,Detroit,Special Teams,Special Teams,9-12 Yrs
 ,Devon Bell,PK,23,74,194,0,Mississippi State,Detroit,Special Teams,Special Teams,Rookie
-9,Matthew Stafford,Quarterback,28,75,226,8,Georgia,Detroit,Quarterback,Offense,5-8 Yrs
-15,Jake Rudock,Quarterback,23,75,207,0,Michigan,Detroit,Quarterback,Offense,Rookie
-8,Dan Orlovsky,Quarterback,32,77,215,11,Connecticut,Detroit,Quarterback,Offense,9-12 Yrs
+9,Matthew Stafford,QB,28,75,226,8,Georgia,Detroit,QB,Offense,5-8 Yrs
+15,Jake Rudock,QB,23,75,207,0,Michigan,Detroit,QB,Offense,Rookie
+8,Dan Orlovsky,QB,32,77,215,11,Connecticut,Detroit,QB,Offense,9-12 Yrs
 21,Ameer Abdullah,RB,23,68,203,2,Nebraska,Detroit,Tailback,Offense,1-4 Yrs
 25,Theo Riddick,RB,25,69,200,4,Notre Dame,Detroit,Tailback,Offense,1-4 Yrs
 ,Stevan Ridley,RB,27,71,220,6,LSU,Detroit,Tailback,Offense,5-8 Yrs
@@ -1009,10 +1009,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 8,Tim Masthay,P,29,73,200,7,Kentucky,Green Bay,Special Teams,Special Teams,5-8 Yrs
 1,Peter Mortell,P,23,74,200,0,Minnesota,Green Bay,Special Teams,Special Teams,Rookie
 2,Mason Crosby,PK,31,73,207,10,Colorado,Green Bay,Special Teams,Special Teams,9-12 Yrs
-6,Joe Callahan,Quarterback,23,73,215,0,null,Green Bay,Quarterback,Offense,Rookie
-12,Aaron Rodgers,Quarterback,32,74,225,12,California,Green Bay,Quarterback,Offense,9-12 Yrs
-,Marquise Williams,Quarterback,23,74,216,0,North Carolina,Green Bay,Quarterback,Offense,Rookie
-7,Brett Hundley,Quarterback,23,75,226,2,UCLA,Green Bay,Quarterback,Offense,1-4 Yrs
+6,Joe Callahan,QB,23,73,215,0,null,Green Bay,QB,Offense,Rookie
+12,Aaron Rodgers,QB,32,74,225,12,California,Green Bay,QB,Offense,9-12 Yrs
+,Marquise Williams,QB,23,74,216,0,North Carolina,Green Bay,QB,Offense,Rookie
+7,Brett Hundley,QB,23,75,226,2,UCLA,Green Bay,QB,Offense,1-4 Yrs
 38,John Crockett,RB,24,72,217,1,North Dakota State,Green Bay,Tailback,Offense,1-4 Yrs
 ,Brandon Burks,RB,22,69,194,0,Troy,Green Bay,Tailback,Offense,Rookie
 ,Brandon Ross,RB,,70,205,0,Maryland,Green Bay,Tailback,Offense,Rookie
@@ -1101,9 +1101,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 70,Jeff Adams,OT,26,79,305,3,Columbia,Houston,Offensive Line,Offense,1-4 Yrs
 9,Shane Lechler,P,39,74,237,17,Texas A&M,Houston,Special Teams,Special Teams,13+ Yrs
 8,Nick Novak,PK,34,72,198,9,Maryland,Houston,Special Teams,Special Teams,9-12 Yrs
-5,Brandon Weeden,Quarterback,32,76,228,5,Oklahoma State,Houston,Quarterback,Offense,5-8 Yrs
-3,Tom Savage,Quarterback,26,76,228,3,Pittsburgh,Houston,Quarterback,Offense,1-4 Yrs
-17,Brock Osweiler,Quarterback,25,80,240,5,Arizona State,Houston,Quarterback,Offense,5-8 Yrs
+5,Brandon Weeden,QB,32,76,228,5,Oklahoma State,Houston,QB,Offense,5-8 Yrs
+3,Tom Savage,QB,26,76,228,3,Pittsburgh,Houston,QB,Offense,1-4 Yrs
+17,Brock Osweiler,QB,25,80,240,5,Arizona State,Houston,QB,Offense,5-8 Yrs
 7,Tyler Ervin,RB,22,69,192,0,San Jose State,Houston,Tailback,Offense,Rookie
 41,Jonathan Grimes,RB,26,70,209,4,William & Mary,Houston,Tailback,Offense,1-4 Yrs
 26,Lamar Miller,RB,25,70,225,5,Miami,Houston,Tailback,Offense,5-8 Yrs
@@ -1188,9 +1188,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 73,Mitchell Van Dyk,OT,25,79,299,2,Portland State,Indianapolis,Offensive Line,Offense,1-4 Yrs
 1,Pat McAfee,P,29,73,233,8,West Virginia,Indianapolis,Special Teams,Special Teams,5-8 Yrs
 4,Adam Vinatieri,PK,43,72,206,21,South Dakota State,Indianapolis,Special Teams,Special Teams,13+ Yrs
-16,Scott Tolzien,Quarterback,28,74,213,6,Wisconsin,Indianapolis,Quarterback,Offense,5-8 Yrs
-7,Stephen Morris,Quarterback,23,74,218,1,Miami,Indianapolis,Quarterback,Offense,1-4 Yrs
-12,Andrew Luck,Quarterback,26,76,240,5,Stanford,Indianapolis,Quarterback,Offense,5-8 Yrs
+16,Scott Tolzien,QB,28,74,213,6,Wisconsin,Indianapolis,QB,Offense,5-8 Yrs
+7,Stephen Morris,QB,23,74,218,1,Miami,Indianapolis,QB,Offense,1-4 Yrs
+12,Andrew Luck,QB,26,76,240,5,Stanford,Indianapolis,QB,Offense,5-8 Yrs
 40,Trey Williams,RB,23,67,195,2,Texas A&M,Indianapolis,Tailback,Offense,1-4 Yrs
 23,Frank Gore,RB,33,69,217,12,Miami,Indianapolis,Tailback,Offense,9-12 Yrs
 28,Jordan Todman,RB,26,69,203,5,Connecticut,Indianapolis,Tailback,Offense,5-8 Yrs
@@ -1278,10 +1278,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Pearce Slater,OT,22,79,333,0,San Diego State,Jacksonville,Offensive Line,Offense,Rookie
 8,Brad Nortman,P,26,74,215,5,Wisconsin,Jacksonville,Special Teams,Special Teams,5-8 Yrs
 2,Jason Myers,PK,25,70,195,2,Marist,Jacksonville,Special Teams,Special Teams,1-4 Yrs
-10,Brandon Allen,Quarterback,23,73,217,0,Arkansas,Jacksonville,Quarterback,Offense,Rookie
-7,Chad Henne,Quarterback,31,75,220,9,Michigan,Jacksonville,Quarterback,Offense,9-12 Yrs
-,Max Wittek,Quarterback,22,76,236,0,Hawaii,Jacksonville,Quarterback,Offense,Rookie
-5,Blake Bortles,Quarterback,24,77,245,3,UCF,Jacksonville,Quarterback,Offense,1-4 Yrs
+10,Brandon Allen,QB,23,73,217,0,Arkansas,Jacksonville,QB,Offense,Rookie
+7,Chad Henne,QB,31,75,220,9,Michigan,Jacksonville,QB,Offense,9-12 Yrs
+,Max Wittek,QB,22,76,236,0,Hawaii,Jacksonville,QB,Offense,Rookie
+5,Blake Bortles,QB,24,77,245,3,UCF,Jacksonville,QB,Offense,1-4 Yrs
 33,Chris Ivory,RB,28,72,222,7,Tiffin University,Jacksonville,Tailback,Offense,5-8 Yrs
 16,Denard Robinson,RB,25,72,215,4,Michigan,Jacksonville,Tailback,Offense,1-4 Yrs
 29,Joe Banyard,RB,27,70,221,4,UTEP,Jacksonville,Tailback,Offense,1-4 Yrs
@@ -1368,10 +1368,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 69,Reid Fragel,OT,25,80,308,2,Ohio State,Kansas City,Offensive Line,Offense,1-4 Yrs
 2,Dustin Colquitt,P,34,75,210,12,Tennessee,Kansas City,Special Teams,Special Teams,9-12 Yrs
 5,Cairo Santos,PK,24,68,160,3,Tulane,Kansas City,Special Teams,Special Teams,1-4 Yrs
-7,Aaron Murray,Quarterback,25,73,207,3,Georgia,Kansas City,Quarterback,Offense,1-4 Yrs
-8,Kevin Hogan,Quarterback,23,75,217,0,Stanford,Kansas City,Quarterback,Offense,Rookie
-11,Alex Smith,Quarterback,32,76,217,12,Utah,Kansas City,Quarterback,Offense,9-12 Yrs
-9,Tyler Bray,Quarterback,24,78,215,3,Tennessee,Kansas City,Quarterback,Offense,1-4 Yrs
+7,Aaron Murray,QB,25,73,207,3,Georgia,Kansas City,QB,Offense,1-4 Yrs
+8,Kevin Hogan,QB,23,75,217,0,Stanford,Kansas City,QB,Offense,Rookie
+11,Alex Smith,QB,32,76,217,12,Utah,Kansas City,QB,Offense,9-12 Yrs
+9,Tyler Bray,QB,24,78,215,3,Tennessee,Kansas City,QB,Offense,1-4 Yrs
 13,De'Anthony Thomas,RB,23,68,176,3,Oregon,Kansas City,Tailback,Offense,1-4 Yrs
 35,Charcandrick West,RB,25,70,205,3,Abilene Christian,Kansas City,Tailback,Offense,1-4 Yrs
 34,Knile Davis,RB,24,70,227,4,Arkansas,Kansas City,Tailback,Offense,1-4 Yrs
@@ -1448,11 +1448,11 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 6,Johnny Hekker,P,26,77,236,5,Oregon State,Los Angeles,Special Teams,Special Teams,5-8 Yrs
 4,Greg Zuerlein,PK,28,72,196,5,Missouri Western,Los Angeles,Special Teams,Special Teams,5-8 Yrs
 ,Taylor Bertolet,PK,23,69,174,0,Texas A&M,Los Angeles,Special Teams,Special Teams,Rookie
-17,Case Keenum,Quarterback,28,73,205,5,Houston,Los Angeles,Quarterback,Offense,5-8 Yrs
-,Dylan Thompson,Quarterback,24,75,218,2,South Carolina,Los Angeles,Quarterback,Offense,1-4 Yrs
-16,Jared Goff,Quarterback,21,76,215,0,California,Los Angeles,Quarterback,Offense,Rookie
-5,Nick Foles,Quarterback,27,78,243,5,Arizona,Los Angeles,Quarterback,Offense,5-8 Yrs
-14,Sean Mannion,Quarterback,24,78,233,2,Oregon State,Los Angeles,Quarterback,Offense,1-4 Yrs
+17,Case Keenum,QB,28,73,205,5,Houston,Los Angeles,QB,Offense,5-8 Yrs
+,Dylan Thompson,QB,24,75,218,2,South Carolina,Los Angeles,QB,Offense,1-4 Yrs
+16,Jared Goff,QB,21,76,215,0,California,Los Angeles,QB,Offense,Rookie
+5,Nick Foles,QB,27,78,243,5,Arizona,Los Angeles,QB,Offense,5-8 Yrs
+14,Sean Mannion,QB,24,78,233,2,Oregon State,Los Angeles,QB,Offense,1-4 Yrs
 34,Chase Reynolds,RB,28,72,205,4,Montana,Los Angeles,Tailback,Offense,1-4 Yrs
 27,Tre Mason,RB,22,68,207,3,Auburn,Los Angeles,Tailback,Offense,1-4 Yrs
 ,Terrence Magee,RB,23,69,215,3,LSU,Los Angeles,Tailback,Offense,1-4 Yrs
@@ -1532,10 +1532,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,Sam Young,OT,29,80,320,7,Notre Dame,Miami,Offensive Line,Offense,5-8 Yrs
 4,Matt Darr,P,24,73,220,2,Tennessee,Miami,Special Teams,Special Teams,1-4 Yrs
 3,Andrew Franks,PK,23,73,205,2,Rensselaer,Miami,Special Teams,Special Teams,1-4 Yrs
-12,Brandon Doughty,Quarterback,24,74,216,0,Western Kentucky,Miami,Quarterback,Offense,Rookie
-8,Matt Moore,Quarterback,31,75,220,9,Oregon State,Miami,Quarterback,Offense,9-12 Yrs
-2,Zac Dysert,Quarterback,26,75,221,2,Miami (OH),Miami,Quarterback,Offense,1-4 Yrs
-17,Ryan Tannehill,Quarterback,27,76,220,5,Texas A&M,Miami,Quarterback,Offense,5-8 Yrs
+12,Brandon Doughty,QB,24,74,216,0,Western Kentucky,Miami,QB,Offense,Rookie
+8,Matt Moore,QB,31,75,220,9,Oregon State,Miami,QB,Offense,9-12 Yrs
+2,Zac Dysert,QB,26,75,221,2,Miami (OH),Miami,QB,Offense,1-4 Yrs
+17,Ryan Tannehill,QB,27,76,220,5,Texas A&M,Miami,QB,Offense,5-8 Yrs
 23,Jay Ajayi,RB,23,72,228,2,Boise State,Miami,Tailback,Offense,1-4 Yrs
 17,Kenyan Drake,RB,22,72,210,0,Alabama,Miami,Tailback,Offense,Rookie
 ,Isaiah Pead,RB,26,70,204,4,Cincinnati,Miami,Tailback,Offense,1-4 Yrs
@@ -1624,10 +1624,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 71,Phil Loadholt,OT,30,80,345,8,Oklahoma,Minnesota,Offensive Line,Offense,5-8 Yrs
 18,Jeff Locke,P,26,72,195,4,UCLA,Minnesota,Special Teams,Special Teams,1-4 Yrs
 3,Blair Walsh,PK,26,70,170,5,Georgia,Minnesota,Special Teams,Special Teams,5-8 Yrs
-6,Taylor Heinicke,Quarterback,23,73,210,2,Old Dominion,Minnesota,Quarterback,Offense,1-4 Yrs
-5,Teddy Bridgewater,Quarterback,23,74,215,3,Louisville,Minnesota,Quarterback,Offense,1-4 Yrs
-13,Shaun Hill,Quarterback,36,75,230,15,Maryland,Minnesota,Quarterback,Offense,13+ Yrs
-,Joel Stave,Quarterback,24,77,226,0,Wisconsin,Minnesota,Quarterback,Offense,Rookie
+6,Taylor Heinicke,QB,23,73,210,2,Old Dominion,Minnesota,QB,Offense,1-4 Yrs
+5,Teddy Bridgewater,QB,23,74,215,3,Louisville,Minnesota,QB,Offense,1-4 Yrs
+13,Shaun Hill,QB,36,75,230,15,Maryland,Minnesota,QB,Offense,13+ Yrs
+,Joel Stave,QB,24,77,226,0,Wisconsin,Minnesota,QB,Offense,Rookie
 44,Matt Asiata,RB,28,72,219,5,Utah,Minnesota,Tailback,Offense,5-8 Yrs
 31,Jerick McKinnon,RB,24,69,205,3,Georgia Southern,Minnesota,Tailback,Offense,1-4 Yrs
 ,Jhurell Pressley,RB,24,71,198,0,New Mexico,Minnesota,Tailback,Offense,Rookie
@@ -1712,9 +1712,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 77,Nate Solder,OT,28,80,325,6,Colorado,New England,Offensive Line,Offense,5-8 Yrs
 6,Ryan Allen,P,26,74,220,4,Louisiana Tech,New England,Special Teams,Special Teams,1-4 Yrs
 3,Stephen Gostkowski,PK,32,73,215,11,Memphis,New England,Special Teams,Special Teams,9-12 Yrs
-10,Jimmy Garoppolo,Quarterback,24,74,225,3,Eastern Illinois,New England,Quarterback,Offense,1-4 Yrs
-12,Jacoby Brissett,Quarterback,23,75,236,0,NC State,New England,Quarterback,Offense,Rookie
-12,Tom Brady,Quarterback,38,76,225,17,Michigan,New England,Quarterback,Offense,13+ Yrs
+10,Jimmy Garoppolo,QB,24,74,225,3,Eastern Illinois,New England,QB,Offense,1-4 Yrs
+12,Jacoby Brissett,QB,23,75,236,0,NC State,New England,QB,Offense,Rookie
+12,Tom Brady,QB,38,76,225,17,Michigan,New England,QB,Offense,13+ Yrs
 29,LeGarrette Blount,RB,29,72,250,7,Oregon,New England,Tailback,Offense,5-8 Yrs
 36,Tyler Gaffney,RB,25,72,220,3,Stanford,New England,Tailback,Offense,1-4 Yrs
 47,Joey Iosefa,RB,25,72,245,1,Hawaii,New England,Tailback,Offense,1-4 Yrs
@@ -1788,9 +1788,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 6,Thomas Morstead,P,30,76,235,8,SMU,New Orleans,Special Teams,Special Teams,5-8 Yrs
 ,Connor Barth,PK,30,71,200,7,North Carolina,New Orleans,Special Teams,Special Teams,5-8 Yrs
 5,Kai Forbath,PK,28,71,197,5,UCLA,New Orleans,Special Teams,Special Teams,5-8 Yrs
-9,Drew Brees,Quarterback,37,72,209,16,Purdue,New Orleans,Quarterback,Offense,13+ Yrs
-18,Garrett Grayson,Quarterback,25,74,220,2,Colorado State,New Orleans,Quarterback,Offense,1-4 Yrs
-7,Luke McCown,Quarterback,35,76,217,13,Louisiana Tech,New Orleans,Quarterback,Offense,13+ Yrs
+9,Drew Brees,QB,37,72,209,16,Purdue,New Orleans,QB,Offense,13+ Yrs
+18,Garrett Grayson,QB,25,74,220,2,Colorado State,New Orleans,QB,Offense,1-4 Yrs
+7,Luke McCown,QB,35,76,217,13,Louisiana Tech,New Orleans,QB,Offense,13+ Yrs
 34,Tim Hightower,RB,30,72,220,5,Richmond,New Orleans,Tailback,Offense,5-8 Yrs
 2,Daniel Lasco,RB,23,72,207,0,California,New Orleans,Tailback,Offense,Rookie
 22,Mark Ingram,RB,26,69,215,6,Alabama,New Orleans,Tailback,Offense,5-8 Yrs
@@ -1870,8 +1870,8 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 9,Brad Wing,P,25,75,205,3,LSU,New York Giants,Special Teams,Special Teams,1-4 Yrs
 3,Josh Brown,PK,37,72,202,14,Nebraska,New York Giants,Special Teams,Special Teams,13+ Yrs
 5,Tom Obarski,PK,23,70,177,0,Concordia-St. Paul,New York Giants,Special Teams,Special Teams,Rookie
-12,Ryan Nassib,Quarterback,26,74,223,4,Syracuse,New York Giants,Quarterback,Offense,1-4 Yrs
-10,Eli Manning,Quarterback,35,76,218,13,Ole Miss,New York Giants,Quarterback,Offense,13+ Yrs
+12,Ryan Nassib,QB,26,74,223,4,Syracuse,New York Giants,QB,Offense,1-4 Yrs
+10,Eli Manning,QB,35,76,218,13,Ole Miss,New York Giants,QB,Offense,13+ Yrs
 26,Orleans Darkwa,RB,24,72,215,3,Tulane,New York Giants,Tailback,Offense,1-4 Yrs
 33,Bobby Rainey,RB,28,68,212,5,Western Kentucky,New York Giants,Tailback,Offense,5-8 Yrs
 34,Shane Vereen,RB,27,70,205,6,California,New York Giants,Tailback,Offense,5-8 Yrs
@@ -1953,9 +1953,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 68,Breno Giacomini,OT,30,79,318,9,Louisville,New York Jets,Offensive Line,Offense,9-12 Yrs
 49,Lachlan Edwards,P,24,76,209,0,Sam Houston State,New York Jets,Special Teams,Special Teams,Rookie
 2,Nick Folk,PK,31,73,222,10,Arizona,New York Jets,Special Teams,Special Teams,9-12 Yrs
-9,Bryce Petty,Quarterback,25,75,230,2,Baylor,New York Jets,Quarterback,Offense,1-4 Yrs
-7,Geno Smith,Quarterback,25,75,221,4,West Virginia,New York Jets,Quarterback,Offense,1-4 Yrs
-14,Christian Hackenberg,Quarterback,21,76,228,0,Penn State,New York Jets,Quarterback,Offense,Rookie
+9,Bryce Petty,QB,25,75,230,2,Baylor,New York Jets,QB,Offense,1-4 Yrs
+7,Geno Smith,QB,25,75,221,4,West Virginia,New York Jets,QB,Offense,1-4 Yrs
+14,Christian Hackenberg,QB,21,76,228,0,Penn State,New York Jets,QB,Offense,Rookie
 29,Khiry Robinson,RB,26,72,220,4,West Texas A&M,New York Jets,Tailback,Offense,1-4 Yrs
 30,Zac Stacy,RB,25,69,224,4,Vanderbilt,New York Jets,Tailback,Offense,1-4 Yrs
 ,Dominique Williams,RB,25,69,205,1,Wagner,New York Jets,Tailback,Offense,1-4 Yrs
@@ -2039,9 +2039,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 7,Marquette King,P,27,72,195,5,Fort Valley State,Oakland,Special Teams,Special Teams,5-8 Yrs
 3,Giorgio Tavecchio,PK,26,70,180,0,California,Oakland,Special Teams,Special Teams,Rookie
 11,Sebastian Janikowski,PK,38,73,265,17,Florida State,Oakland,Special Teams,Special Teams,13+ Yrs
-14,Matt McGloin,Quarterback,26,73,210,4,Penn State,Oakland,Quarterback,Offense,1-4 Yrs
-4,Derek Carr,Quarterback,25,75,215,3,Fresno State,Oakland,Quarterback,Offense,1-4 Yrs
-18,Connor Cook,Quarterback,23,76,216,0,Michigan State,Oakland,Quarterback,Offense,Rookie
+14,Matt McGloin,QB,26,73,210,4,Penn State,Oakland,QB,Offense,1-4 Yrs
+4,Derek Carr,QB,25,75,215,3,Fresno State,Oakland,QB,Offense,1-4 Yrs
+18,Connor Cook,QB,23,76,216,0,Michigan State,Oakland,QB,Offense,Rookie
 22,Taiwan Jones,RB,27,72,195,6,Eastern Washington,Oakland,Tailback,Offense,5-8 Yrs
 21,DeAndre Washington,RB,23,67,198,0,Texas Tech,Oakland,Tailback,Offense,Rookie
 ,Jalen Richard,RB,22,68,207,0,Southern Mississippi,Oakland,Tailback,Offense,Rookie
@@ -2129,9 +2129,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 8,Donnie Jones,P,36,74,221,13,LSU,Philadelphia,Special Teams,Special Teams,13+ Yrs
 1,Cody Parkey,PK,24,72,193,3,Auburn,Philadelphia,Special Teams,Special Teams,1-4 Yrs
 6,Caleb Sturgis,PK,26,69,192,4,Florida,Philadelphia,Special Teams,Special Teams,1-4 Yrs
-10,Chase Daniel,Quarterback,29,72,225,8,Missouri,Philadelphia,Quarterback,Offense,5-8 Yrs
-7,Sam Bradford,Quarterback,28,76,224,7,Oklahoma,Philadelphia,Quarterback,Offense,5-8 Yrs
-11,Carson Wentz,Quarterback,23,77,232,0,North Dakota State,Philadelphia,Quarterback,Offense,Rookie
+10,Chase Daniel,QB,29,72,225,8,Missouri,Philadelphia,QB,Offense,5-8 Yrs
+7,Sam Bradford,QB,28,76,224,7,Oklahoma,Philadelphia,QB,Offense,5-8 Yrs
+11,Carson Wentz,QB,23,77,232,0,North Dakota State,Philadelphia,QB,Offense,Rookie
 24,Ryan Mathews,RB,28,72,220,7,Fresno State,Philadelphia,Tailback,Offense,5-8 Yrs
 ,Cedric O'Neal,RB,22,72,213,0,Valdosta State,Philadelphia,Tailback,Offense,Rookie
 43,Darren Sproles,RB,33,66,190,12,Kansas State,Philadelphia,Tailback,Offense,9-12 Yrs
@@ -2211,10 +2211,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 41,Will Monday,P,23,76,212,0,Duke,Pittsburgh,Special Teams,Special Teams,Rookie
 4,Jordan Berry,P,25,77,195,2,Eastern Kentucky,Pittsburgh,Special Teams,Special Teams,1-4 Yrs
 9,Chris Boswell,PK,25,74,185,2,Rice,Pittsburgh,Special Teams,Special Teams,1-4 Yrs
-5,Bruce Gradkowski,Quarterback,33,73,220,11,Toledo,Pittsburgh,Quarterback,Offense,9-12 Yrs
-3,Landry Jones,Quarterback,27,75,225,4,Oklahoma,Pittsburgh,Quarterback,Offense,1-4 Yrs
-7,Ben Roethlisberger,Quarterback,34,77,240,13,Miami (OH),Pittsburgh,Quarterback,Offense,13+ Yrs
-13,Dustin Vaughan,Quarterback,25,77,240,2,West Texas A&M,Pittsburgh,Quarterback,Offense,1-4 Yrs
+5,Bruce Gradkowski,QB,33,73,220,11,Toledo,Pittsburgh,QB,Offense,9-12 Yrs
+3,Landry Jones,QB,27,75,225,4,Oklahoma,Pittsburgh,QB,Offense,1-4 Yrs
+7,Ben Roethlisberger,QB,34,77,240,13,Miami (OH),Pittsburgh,QB,Offense,13+ Yrs
+13,Dustin Vaughan,QB,25,77,240,2,West Texas A&M,Pittsburgh,QB,Offense,1-4 Yrs
 ,Brandon Brown-Dukes,RB,24,68,195,0,Mercyhurst,Pittsburgh,Tailback,Offense,Rookie
 34,DeAngelo Williams,RB,33,69,207,11,Memphis,Pittsburgh,Tailback,Offense,9-12 Yrs
 38,Daryl Richardson,RB,26,70,196,3,Abilene Christian,Pittsburgh,Tailback,Offense,1-4 Yrs
@@ -2302,11 +2302,11 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 3,Kasey Redfern,P,24,74,215,1,Wofford,San Diego,Special Teams,Special Teams,1-4 Yrs
 38,Drew Kaser,P,23,74,212,0,Texas A&M,San Diego,Special Teams,Special Teams,Rookie
 2,Josh Lambo,PK,25,72,215,2,Texas A&M,San Diego,Special Teams,Special Teams,1-4 Yrs
-16,Terrell Chestnut,Quarterback,24,71,188,0,West Virginia,San Diego,Quarterback,Offense,Rookie
-2,Mike Bercovici,Quarterback,23,73,210,0,Arizona State,San Diego,Quarterback,Offense,Rookie
-10,Kellen Clemens,Quarterback,33,74,220,11,Oregon,San Diego,Quarterback,Offense,9-12 Yrs
-17,Philip Rivers,Quarterback,34,77,228,13,NC State,San Diego,Quarterback,Offense,13+ Yrs
-,Zach Mettenberger,Quarterback,25,77,224,3,LSU,San Diego,Quarterback,Offense,1-4 Yrs
+16,Terrell Chestnut,QB,24,71,188,0,West Virginia,San Diego,QB,Offense,Rookie
+2,Mike Bercovici,QB,23,73,210,0,Arizona State,San Diego,QB,Offense,Rookie
+10,Kellen Clemens,QB,33,74,220,11,Oregon,San Diego,QB,Offense,9-12 Yrs
+17,Philip Rivers,QB,34,77,228,13,NC State,San Diego,QB,Offense,13+ Yrs
+,Zach Mettenberger,QB,25,77,224,3,LSU,San Diego,QB,Offense,1-4 Yrs
 39,Danny Woodhead,RB,31,68,200,9,Chadron State,San Diego,Tailback,Offense,9-12 Yrs
 43,Branden Oliver,RB,25,68,208,3,Buffalo,San Diego,Tailback,Offense,1-4 Yrs
 35,Kenneth Farrow,RB,23,70,220,0,Houston,San Diego,Tailback,Offense,Rookie
@@ -2392,10 +2392,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 5,Bradley Pinion,P,22,77,229,2,Clemson,San Francisco,Special Teams,Special Teams,1-4 Yrs
 9,Phil Dawson,PK,41,71,200,18,Texas,San Francisco,Special Teams,Special Teams,13+ Yrs
 49,John Lunsford,PK,22,73,214,0,Liberty,San Francisco,Special Teams,Special Teams,Rookie
-9,Thaddeus Lewis,Quarterback,28,74,219,4,Duke,San Francisco,Quarterback,Offense,1-4 Yrs
-6,Jeff Driskel,Quarterback,23,75,230,0,Louisiana Tech,San Francisco,Quarterback,Offense,Rookie
-7,Colin Kaepernick,Quarterback,28,76,230,6,Nevada,San Francisco,Quarterback,Offense,5-8 Yrs
-2,Blaine Gabbert,Quarterback,26,76,235,6,Missouri,San Francisco,Quarterback,Offense,5-8 Yrs
+9,Thaddeus Lewis,QB,28,74,219,4,Duke,San Francisco,QB,Offense,1-4 Yrs
+6,Jeff Driskel,QB,23,75,230,0,Louisiana Tech,San Francisco,QB,Offense,Rookie
+7,Colin Kaepernick,QB,28,76,230,6,Nevada,San Francisco,QB,Offense,5-8 Yrs
+2,Blaine Gabbert,QB,26,76,235,6,Missouri,San Francisco,QB,Offense,5-8 Yrs
 28,Carlos Hyde,RB,24,72,235,3,Ohio State,San Francisco,Tailback,Offense,1-4 Yrs
 32,DuJuan Harris,RB,27,68,203,3,Troy,San Francisco,Tailback,Offense,1-4 Yrs
 22,Mike Davis,RB,23,69,217,2,South Carolina,San Francisco,Tailback,Offense,1-4 Yrs
@@ -2481,8 +2481,8 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 ,J'Marcus Webb,OT,27,79,330,6,West Texas A&M,Seattle,Offensive Line,Offense,5-8 Yrs
 9,Jon Ryan,P,34,72,217,11,University of Regina,Seattle,Special Teams,Special Teams,9-12 Yrs
 4,Steven Hauschka,PK,31,76,210,9,NC State,Seattle,Special Teams,Special Teams,9-12 Yrs
-3,Russell Wilson,Quarterback,27,71,206,5,Wisconsin,Seattle,Quarterback,Offense,5-8 Yrs
-,Trevone Boykin,Quarterback,22,71,211,0,TCU,Seattle,Quarterback,Offense,Rookie
+3,Russell Wilson,QB,27,71,206,5,Wisconsin,Seattle,QB,Offense,5-8 Yrs
+,Trevone Boykin,QB,22,71,211,0,TCU,Seattle,QB,Offense,Rookie
 20,C.J. Prosise,RB,22,72,220,0,Notre Dame,Seattle,Tailback,Offense,Rookie
 34,Thomas Rawls,RB,22,69,215,2,Central Michigan,Seattle,Tailback,Offense,1-4 Yrs
 32,Christine Michael,RB,25,70,221,4,Texas A&M,Seattle,Tailback,Offense,1-4 Yrs
@@ -2557,10 +2557,10 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 5,Jacob Schum,P,27,71,211,2,Buffalo,Tampa Bay,Special Teams,Special Teams,1-4 Yrs
 ,Bryan Anger,P,27,75,205,5,California,Tampa Bay,Special Teams,Special Teams,5-8 Yrs
 19,Roberto Aguayo,PK,22,72,207,0,Florida State,Tampa Bay,Special Teams,Special Teams,Rookie
-,Dan LeFevour,Quarterback,29,75,230,2,Central Michigan,Tampa Bay,Quarterback,Offense,1-4 Yrs
-3,Jameis Winston,Quarterback,22,76,231,2,Florida State,Tampa Bay,Quarterback,Offense,1-4 Yrs
-4,Ryan Griffin,Quarterback,26,77,210,3,Tulane,Tampa Bay,Quarterback,Offense,1-4 Yrs
-8,Mike Glennon,Quarterback,26,78,225,4,NC State,Tampa Bay,Quarterback,Offense,1-4 Yrs
+,Dan LeFevour,QB,29,75,230,2,Central Michigan,Tampa Bay,QB,Offense,1-4 Yrs
+3,Jameis Winston,QB,22,76,231,2,Florida State,Tampa Bay,QB,Offense,1-4 Yrs
+4,Ryan Griffin,QB,26,77,210,3,Tulane,Tampa Bay,QB,Offense,1-4 Yrs
+8,Mike Glennon,QB,26,78,225,4,NC State,Tampa Bay,QB,Offense,1-4 Yrs
 34,Charles Sims,RB,25,72,211,3,West Virginia,Tampa Bay,Tailback,Offense,1-4 Yrs
 36,Storm Johnson,RB,24,72,216,2,UCF,Tampa Bay,Tailback,Offense,1-4 Yrs
 22,Doug Martin,RB,27,69,223,5,Boise State,Tampa Bay,Tailback,Offense,5-8 Yrs
@@ -2641,9 +2641,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 6,Brett Kern,P,30,74,214,9,Toledo,Tennessee,Special Teams,Special Teams,9-12 Yrs
 4,Ryan Succop,PK,29,74,218,8,South Carolina,Tennessee,Special Teams,Special Teams,5-8 Yrs
 ,Aldrick Rosas,PK,21,74,195,0,Southern Oregon,Tennessee,Special Teams,Special Teams,Rookie
-16,Matt Cassel,Quarterback,34,76,228,12,USC,Tennessee,Quarterback,Offense,9-12 Yrs
-11,Alex Tanney,Quarterback,28,76,220,2,Monmouth (IL),Tennessee,Quarterback,Offense,1-4 Yrs
-8,Marcus Mariota,Quarterback,22,76,222,2,Oregon,Tennessee,Quarterback,Offense,1-4 Yrs
+16,Matt Cassel,QB,34,76,228,12,USC,Tennessee,QB,Offense,9-12 Yrs
+11,Alex Tanney,QB,28,76,220,2,Monmouth (IL),Tennessee,QB,Offense,1-4 Yrs
+8,Marcus Mariota,QB,22,76,222,2,Oregon,Tennessee,QB,Offense,1-4 Yrs
 ,DeMarco Murray,RB,28,72,217,6,Oklahoma,Tennessee,Tailback,Offense,5-8 Yrs
 22,Dexter McCluster,RB,27,68,170,7,Ole Miss,Tennessee,Tailback,Offense,5-8 Yrs
 26,Antonio Andrews,RB,23,70,225,3,Western Kentucky,Tennessee,Tailback,Offense,1-4 Yrs
@@ -2733,9 +2733,9 @@ Jersey,Name,Position,Age,Height,Weight,Years,College,Team,PositionGrp,Side,Playt
 74,Kevin Bowen,OT,23,81,330,0,East Central,Washington,Offensive Line,Offense,Rookie
 5,Tress Way,P,26,73,215,3,Oklahoma,Washington,Special Teams,Special Teams,1-4 Yrs
 3,Dustin Hopkins,PK,25,74,193,3,Florida State,Washington,Special Teams,Special Teams,1-4 Yrs
-16,Colt McCoy,Quarterback,29,73,215,7,Texas,Washington,Quarterback,Offense,5-8 Yrs
-8,Kirk Cousins,Quarterback,27,75,202,5,Michigan State,Washington,Quarterback,Offense,5-8 Yrs
-7,Nate Sudfeld,Quarterback,22,78,234,0,Indiana,Washington,Quarterback,Offense,Rookie
+16,Colt McCoy,QB,29,73,215,7,Texas,Washington,QB,Offense,5-8 Yrs
+8,Kirk Cousins,QB,27,75,202,5,Michigan State,Washington,QB,Offense,5-8 Yrs
+7,Nate Sudfeld,QB,22,78,234,0,Indiana,Washington,QB,Offense,Rookie
 25,Chris Thompson,RB,25,68,193,3,Florida State,Washington,Tailback,Offense,1-4 Yrs
 ,Kelsey Young,RB,,70,198,0,Boise State,Washington,Tailback,Offense,Rookie
 32,Silas Redd,RB,24,70,200,3,USC,Washington,Tailback,Offense,1-4 Yrs
