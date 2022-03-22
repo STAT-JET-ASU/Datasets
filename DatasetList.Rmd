@@ -18,7 +18,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
     datasetname <- read.csv("URL HERE") # base code, creates a data frame
     datasetname <- read_csv("URL HERE") # tidyverse, creates a tibble, requires readr package
 
-* [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+* [annualinflation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv) //
+  [description](InstructorDescriptions/annualinflation.html)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
   [description](InstructorDescriptions/anthropometric.html)
 * [ATLhurricanes18512020.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ATLhurricanes18512020.csv) //
@@ -27,6 +28,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [balance.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/balance.csv)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
+* [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
+  [description](ChiharaDescriptions/billionaires.html)
 * [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
@@ -96,8 +99,6 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [powerballjackpot.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballjackpot.csv)
 * [powerballnumbers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballnumbers.csv)
 * [powerballsets.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/powerballsets.csv)
-* [redecorduels.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/redecorduels.csv)
-* [redecorranks.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/redecorranks.csv)
 * [semmelweisannualbyclinic.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/semmelweisannualbyclinic.csv)
 * [semmelweisannualdublin1784.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/semmelweisannualdublin1784.csv)
 * [semmelweisannualvienna1784.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/semmelweisannualvienna1784.csv)

@@ -1,0 +1,57 @@
+---
+title: "Bloomberg Billionaires Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`billionaires_2021_10_31.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv)
+
+<i class="fas fa-database"></i> [`billionaires_2021_10_31_raw.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31_raw.csv)
+
+
+
+### Description
+
+The [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/) is a daily ranking of the world’s 500 richest people. More details are given on each billionaire’s profile page (may require a subscription). Monetary values and list rankings are updated at the close of every stock trading day in New York City. This dataset is from October 31, 2021.
+
+### Variables
+
+* `Rank`: person's rank on the list
+* `Name`: person's name
+* `Total_Net_Worth`: raw value of net worth as given on Bloomberg
+* `Total_Net_Worth_Bil`: numeric net worth in billions of dollars
+* `LastChange`: raw value for change in net worth as given on Bloomberg
+* `LastChange_Bil`: numeric change in net worth in billions of dollars
+* `YTDChange`: raw value for year-to-date change in net worth as given on Bloomberg
+* `YTDChange_Bil`: numeric year-to-date change in net worth in billions of dollars
+* `Country`: person's country of citizenship
+* `Industry`: person's primary industry
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Source: [Billionaire's Index | Kaggle](https://www.kaggle.com/datasets/kkhandekar/billionaires-index)
+
+<hr>
