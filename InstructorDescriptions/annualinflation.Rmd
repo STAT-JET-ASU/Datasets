@@ -1,0 +1,47 @@
+---
+title: "Annual Inflation Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+
+### Description
+
+Annual US inflation from December to December (i.e., December YOY), calculated using Consumer Price Index (CPI) for all urban consumers. For example, the Dec-Dec inflation for 2021 is as follows. You can multiply by 100 to express as a percentage.
+
+$$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
+
+### Variables
+
+* `year`: calendar year
+* `inflationYOY`: December YOY inflation
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[US Inflation Calculator: Consumer Price Index Data from 1913 to 2022](https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/)
+
+<hr>

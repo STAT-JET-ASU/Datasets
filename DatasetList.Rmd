@@ -22,7 +22,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
   [description](InstructorDescriptions/anthropometric.html)
 * [ATLhurricanes18512020.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ATLhurricanes18512020.csv) //
-  [description](InstructorDescriptions/ATLhurricanes18512020.csv)
+  [description](InstructorDescriptions/ATLhurricanes18512020.html)
 * [audiology.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/audiology.csv)
 * [balance.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/balance.csv)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
