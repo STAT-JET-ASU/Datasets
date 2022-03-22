@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -80,4 +82,3 @@ head(DATA)
 Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
 
 <hr>
-

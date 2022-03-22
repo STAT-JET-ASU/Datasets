@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -67,4 +69,3 @@ glimpse(DATA)
 * https://www.kaggle.com/crawford/80-cereals/discussion/154053
 
 <hr>
-

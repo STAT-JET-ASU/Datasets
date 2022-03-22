@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -64,4 +66,3 @@ Chase, Melissa A. and Machida, Moe. (2011). The Role of Sport as a Social Status
 Lunscombe, Belinda (2011, February 8). Why Kids Bully: Because They’re Popular [blog post]. Retrieved from http://healthland.time.com/2011/02/08/do-popular-kids-bully-more/print/.
 
 <hr>
-

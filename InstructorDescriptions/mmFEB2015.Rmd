@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -50,4 +52,3 @@ Lopez, G. (2015, February 12). States where you can get high at a same-sex weddi
 Bump, P. (2014, November 5). This Venn diagram shows where you can both smoke weed and get a same-sex marriage. [Blog post]. Retrieved from https://www.washingtonpost.com/news/the-fix/wp/2014/11/05/this-venn-diagram-shows-where-you-can-both-smoke-weed-and-get-a-same-sex-marriage/ (link now behind paywall)
 
 <hr>
-

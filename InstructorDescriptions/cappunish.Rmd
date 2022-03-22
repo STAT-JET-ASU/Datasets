@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -107,4 +109,3 @@ Source: [Death Penalty Information Center: State by State](https://deathpenaltyi
 [Legal Information Institute: Furman v. Georgia (1972)](https://www.law.cornell.edu/wex/furman_v_georgia_(1972))
 
 <hr>
-

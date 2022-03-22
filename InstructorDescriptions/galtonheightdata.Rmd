@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -84,4 +86,3 @@ head(DATA)
 Galton, Francis. (1886). Regression toward mediocrity in hereditary stature. _The Journal of the Anthropological Institute of Great Britain and Ireland_, 15, pp. 246-263.
 
 <hr>
-

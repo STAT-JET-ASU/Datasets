@@ -10,10 +10,12 @@ output:
 
 ```{r setup, include = FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
-knitr::opts_chunk$set(message = FALSE, 
-                      warning = FALSE, 
-                      echo = FALSE,
-                      comment = NA)
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
 library(readr)
 library(dplyr)
 ```
@@ -71,4 +73,3 @@ Chalabi, M. (2015, January 22). What’s The Average Age Difference In A Couple?
 Stulp G, Buunk AP, Pollet TV, Nettle D, Verhulst S (2013) Are Human Mating Preferences with Respect to Height Reflected in Actual Pairings?. PLOS ONE 8(1): e54186. https://doi.org/10.1371/journal.pone.0054186
 
 <hr>
-
