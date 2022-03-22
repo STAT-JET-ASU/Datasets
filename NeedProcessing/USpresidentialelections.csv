@@ -1,0 +1,60 @@
+Year,Winner,Winner Party,Popular Votes,Popular Vote Percentage,Vote Margin,Vote Margin Percentage,Electoral College Won,Total Electoral College Available,Runner-up,Runner-up Party,Voter Turnout Percentage
+1788,George Washington,Ind.,43782,100,43782,100,69,69,None,None,11.6
+1792,George Washington,Ind.,28579,100,28579,100,132,132,None,None,6.3
+1796,John Adams,Fed.,35726,53.45,4611,6.9,71,138,Thomas Jefferson,D.-R.,20.1
+1800,Thomas Jefferson,D.-R.,41330,61.43,15378,22.86,73,138,Aaron Burr,D.-R.,32.3
+1804,Thomas Jefferson,D.-R.,104110,72.79,65191,45.58,162,176,Charles C. Pinckney,Fed.,23.8
+1808,James Madison,D.-R.,124732,64.74,62301,32.33,122,175,Charles C. Pinckney,Fed.,36.8
+1812,James Madison,D.-R.,140431,50.37,7650,2.74,128,217,DeWitt Clinton,D.-R.,40.4
+1816,James Monroe,D.-R.,76592,68.16,41852,37.24,183,217,Rufus King,Fed.,23.5
+1820,James Monroe,D.-R.,87343,80.61,69828,64.69,231,232,John Quincy Adams,D.-R.,10.1
+1824,John Quincy Adams,D.-R.,113142,30.92,-38221,-10.44,84,261,Andrew Jackson,D.-R.,26.9
+1828,Andrew Jackson,Dem.,642806,55.93,140839,12.25,178,261,John Quincy Adams,N. R.,57.3
+1832,Andrew Jackson,Dem.,702735,54.74,228628,17.81,219,286,Henry Clay,N. R.,57
+1836,Martin Van Buren,Dem.,763291,50.79,213384,14.2,170,294,William Henry Harrison,Whig,56.5
+1840,William Henry Harrison,Whig,1275583,52.87,145938,6.05,234,294,Martin Van Buren,Dem.,80.3
+1844,James Polk,Dem.,1339570,49.54,39413,1.45,170,275,Henry Clay,Whig,79.2
+1848,Zachary Taylor,Whig,1360235,47.28,137882,4.79,163,290,Lewis Cass,Dem.,72.8
+1852,Franklin Pierce,Dem.,1605943,50.83,219525,6.95,254,296,Winfield Scott,Whig,69.5
+1856,James Buchanan,Dem.,1835140,45.29,494472,12.2,174,296,John Fremont,Rep.,79.4
+1860,Abraham Lincoln,Rep.,1855993,39.65,474049,10.13,180,303,John Breckinridge,Dem.,81.8
+1864,Abraham Lincoln,Rep.,2211317,55.03,405090,10.08,212,233,George McClellan,Dem.,76.3
+1868,Ulysses Grant,Rep.,3013790,52.66,304810,5.32,214,294,Horatio Seymour,Dem.,80.9
+1872,Ulysses Grant,Rep.,3597439,55.58,763729,11.8,286,352,Horace Greeley,L. R.,72.1
+1876,Rutherford Hayes,Rep.,4034142,47.92,-252666,-3,185,369,Samuel Tilden,Dem.,82.6
+1880,James Garfield,Rep.,4453337,48.31,1898,0.09,214,369,Winfield Scott Hancock,Dem.,80.5
+1884,Grover Cleveland,Dem.,4914482,48.85,57579,0.57,219,401,James Blaine,Rep.,78.2
+1888,Benjamin Harrison,Rep.,5443633,47.8,-94530,-0.83,233,401,Grover Cleveland,Dem.,80.5
+1892,Grover Cleveland,Dem.,5553898,46.02,363099,3.01,277,444,Benjamin Harrison,Rep.,75.8
+1896,William McKinley,Rep.,7112138,51.02,601331,4.31,271,447,William Jennings Bryan,Dem.,79.6
+1900,William McKinley,Rep.,7228864,51.64,857932,6.12,292,447,William Jennings Bryan,Dem.,73.7
+1904,Theodore Roosevelt,Rep.,7630557,56.42,2546677,18.83,336,476,Alton Brooks Parker,Dem.,65.5
+1908,William Taft,Rep.,7678335,51.57,1269356,8.53,321,483,William Jennings Bryan,Dem.,65.7
+1912,Woodrow Wilson,Dem.,6296284,41.84,2173563,14.44,435,531,Theodore Roosevelt,Prog.,59
+1916,Woodrow Wilson,Dem.,9126868,49.24,578140,3.12,277,531,Charles Evans Hughes,Rep.,61.8
+1920,Warren Harding,Rep.,16144093,60.32,7004432,26.17,404,531,James Cox,Dem.,49.2
+1924,Calvin Coolidge,Rep.,15723789,54.04,7337547,25.22,382,531,John Davis,Dem.,48.9
+1928,Herbert Hoover,Rep.,21427123,58.21,6411659,17.41,444,531,Al Smith,Dem.,56.9
+1932,Franklin Roosevelt,Dem.,22821277,57.41,7060023,17.76,472,531,Herbert Hoover,Rep.,56.9
+1936,Franklin Roosevelt,Dem.,27752648,60.8,11070786,24.26,523,531,Alf Landon,Rep.,61
+1940,Franklin Roosevelt,Dem.,27313945,54.74,4966201,9.96,449,531,Wendell Willkie,Rep.,62.4
+1944,Franklin Roosevelt,Dem.,25612916,53.39,3594987,7.5,432,531,Thomas Dewey,Rep.,55.9
+1948,Harry Truman,Dem.,24179347,49.55,2188055,4.48,303,531,Thomas Dewey,Rep.,52.2
+1952,Dwight Eisenhower,Rep.,34075529,55.18,6700439,10.85,442,531,Adlai Stevenson,Dem.,62.3
+1956,Dwight Eisenhower,Rep.,35579180,57.37,9551152,15.4,457,531,Adlai Stevenson,Dem.,60.2
+1960,John Kennedy,Dem.,34220984,49.72,112827,0.17,303,537,Richard Nixon,Rep.,63.8
+1964,Lyndon Johnson,Dem.,43127041,61.05,15951287,22.58,486,538,Barry Goldwater,Rep.,62.8
+1968,Richard Nixon,Rep.,31783783,43.42,511944,0.7,301,538,Hubert Humphrey,Dem.,62.5
+1972,Richard Nixon,Rep.,47168710,60.67,17995488,23.15,520,538,George McGovern,Dem.,56.2
+1976,Jimmy Carter,Dem.,40831881,50.08,1683247,2.06,297,538,Gerald Ford,Rep.,54.8
+1980,Ronald Reagan,Rep.,43903230,50.75,8423115,9.74,489,538,Jimmy Carter,Dem.,54.2
+1984,Ronald Reagan,Rep.,54455472,58.77,16878120,18.21,525,538,Walter Mondale,Dem.,55.2
+1988,George H. W. Bush,Rep.,48886597,53.37,7077121,7.72,426,538,Michael Dukakis,Dem.,52.8
+1992,Bill Clinton,Dem.,44909806,43.01,5805256,5.56,370,538,George H. W. Bush,Rep.,58.1
+1996,Bill Clinton,Dem.,47400125,49.23,8201370,8.51,379,538,Bob Dole,Rep.,51.7
+2000,George W. Bush,Rep.,50460110,47.87,-543816,-0.51,271,538,Al Gore,Dem.,54.2
+2004,George W. Bush,Rep.,62040610,50.73,3012171,2.46,286,538,John Kerry,Dem.,60.1
+2008,Barack Obama,Dem.,69498516,52.93,9550193,7.27,365,538,John McCain,Rep.,61.6
+2012,Barack Obama,Dem.,65915795,51.06,4982291,3.86,332,538,Mitt Romney,Rep.,58.6
+2016,Donald Trump,Rep.,62979636,45.98,-2864974,-2.1,304,538,Hillary Rodham Clinton,Dem.,60.2
+2020,Joseph Biden,Dem.,81268867,50.91,7060140,4.45,306,538,Donald Trump,Rep.,66.8

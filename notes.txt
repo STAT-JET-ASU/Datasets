@@ -1,0 +1,27 @@
+# https://www.pro-football-reference.com/about/positions.htm
+# http://www.allsportstalk.net/nfl-teams
+# https://worldpopulationreview.com/state-rankings/nfl-teams-by-state
+# https://www.weather.gov/mfl/saffirsimpson
+
+# Hurricanes reaching Category 3 and higher are considered 
+# major hurricanes because of their potential for significant 
+# loss of life and damage.
+
+# update unemployment dataset
+
+# update oscars dataset
+
+# check homing pigeon data source and move if needed
+
+# https://www.skyscrapercenter.com/countries
+
+# add skyscrapers data to list
+
+# come back shack burgers?
+
+# https://news.gallup.com/poll/116500/presidential-approval-ratings-george-bush.aspx  
+
+# https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm
+
+# https://skewthescript.org/
+
