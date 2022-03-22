@@ -29,7 +29,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
 * [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
-  [description](ChiharaDescriptions/billionaires.html)
+  [description](InstructorDescriptions/billionaires.html)
 * [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
