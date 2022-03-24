@@ -51,7 +51,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/dietcrackers.html)
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) //
   [description](InstructorDescriptions/anthropometric.html)
-* [electoralvotes.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoralvotes.csv)
+* [electoral.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoral.csv)
 * [executions19762021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv) //
   [description](InstructorDescriptions/cappunish.html)
 * [farmpop1.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/farmpop1.csv)
