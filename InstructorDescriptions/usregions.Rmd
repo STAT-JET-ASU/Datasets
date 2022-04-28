@@ -1,0 +1,55 @@
+---
+title: "US Regions Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`usregions.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+
+### Description
+
+Includes some of the regional categorizations of the United States.
+
+### Variables
+
+* `state`: state name
+* `census_region`: U.S. Census Bureau region
+* `census_division`: U.S. Census Bureau sub-region 
+* `economic_region`: Bureau of Economic Analysis region
+* `ombfed_region`: Office of Management & Budget region 
+* `court_circuit`: U.S. Courts of Appeals circuit
+* `ars_region`: Agricultural Research Service region
+* `park_region`: National Park Service region
+* `padd_district1`: Petroleum Administration for Defense district
+* `padd_district2`: Petroleum Administration for Defense districts with East Coast sub-districts
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[Even the US government can't agree on how to divide up the states into regions](https://www.businessinsider.com/regions-of-united-states-2018-5#its-no-wonder-its-so-hard-to-say-once-and-for-all-which-states-are-in-which-regions-11)
+
+[Wikipedia: List of regions in the United States](https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States)
+
+<hr>

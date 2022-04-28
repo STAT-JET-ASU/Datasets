@@ -25,8 +25,6 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [`billionaires_2021_10_31_raw.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31_raw.csv)
 
-
-
 ### Description
 
 The [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/) is a daily ranking of the world’s 500 richest people. More details are given on each billionaire’s profile page (may require a subscription). Monetary values and list rankings are updated at the close of every stock trading day in New York City. This dataset is from October 31, 2021.

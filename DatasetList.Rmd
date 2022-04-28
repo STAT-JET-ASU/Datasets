@@ -116,7 +116,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/unemployment.html)
 * [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/uscounties2013.csv)
 * [USpresidentialdemographics.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USpresidentialdemographics.csv)
-* [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv)
+* [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv) //
+  [description](InstructorDescriptions/usregions.html)
 * [USskyscrapers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USskyscrapers.csv) //
   [description](InstructorDescriptions/USskyscrapers.html)
 * [vietnamdraft.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv) //
