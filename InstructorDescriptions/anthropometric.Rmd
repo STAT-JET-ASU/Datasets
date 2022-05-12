@@ -1,7 +1,7 @@
 ---
 title: "Anthropometric Dataset<br>Egyptian Skulls Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -23,13 +23,9 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [`anthropometric.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv)
 
-<i class="fas fa-database"></i> [`egyptianskulls.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
-
-See also [Galton Height Dataset](galtonheightdata.html) and [Pearson Height Dataset](pearsonheightdata.html)
-
 ### Description
 
-Anthropometry is the measurement and study of the physical proportions and functional capabilities of the human body. The name is derived from the Greek word *anthros* ("man") and *metron* ("measure"). The contemporary field of ergonomics (also known as *human factors*) explicitly considers anthropometric principles in the design of many products, processes, and systems intended for use by people (e.g., clothing, furniture, medical devices, hand tools, keyboards, vehicles). There are many important applications in the area of [safety](https://www.cdc.gov/niosh/topics/anthropometry/default.html), including [crash test dummies](http://www.humaneticsatd.com/crash-test-dummies/). Crime scene investigators, pathologists, historians, and forensic anthropologists also make extensive use of anthropometric measurements. The related term *craniometry* refers to measurements of the cranium (skull). 
+Anthropometry is the measurement and study of the physical proportions and functional capabilities of the human body. The name is derived from the Greek word *anthros* ("man") and *metron* ("measure"). The contemporary field of ergonomics (also known as *human factors*) explicitly considers anthropometric principles in the design of many products, processes, and systems intended for use by people (e.g., clothing, furniture, medical devices, hand tools, keyboards, vehicles). There are many important applications in the area of [safety](https://www.cdc.gov/niosh/topics/anthropometry/default.html), including construction of vehicle [crash test dummies](http://www.humaneticsatd.com/crash-test-dummies/). Crime scene investigators, pathologists, historians, and forensic anthropologists also make extensive use of anthropometric measurements. The related term *craniometry* refers to measurements of the cranium (skull).
 
 Belgian scholar [Adolphe Quetelet](http://www-groups.dcs.st-and.ac.uk/history/Biographies/Quetelet.html) (1796-1874) was a pioneer in anthopometry. Among his many pursuits, which included investigations in the disciplines later known as sociology and criminology, he was interested in the quantification of what he referred to as *l'homme moyen* ("the average man"). His measurements helped to demonstrate the natural distribution and variability of various aspects of the human body, like height and weight, both of which he believed followed a bell-shaped curve (i.e., normal distribution). The measure we now call Body Mass Index (BMI) was developed by Quetelet sometime between 1830 and 1850.
 
@@ -37,7 +33,7 @@ Although he was among the first to approach anthropometrics in a systematic mann
 
 The anthropometric data here were collected from students in Dr. Thomley's STT1810 and STT3850 courses at Appalachian State University.
 
-### Variables---Anthropometric Dataset
+### Variables
 
 * gender: self-identified gender
 * ideal: self-chosen ideal height in inches
@@ -55,30 +51,8 @@ glimpse(DATA)
 head(DATA)
 ```
 
-### Variables---Egyptian Skulls Dataset
-
-* maxbreadth: see image below (in mm)
-* basibregmatic: see image below (in mm)
-* basialveolar: see image below (in mm)
-* nasalht: see image below (in mm)
-* time1: years before or after 0 C.E.
-* time2: time as categories
-    * early predynastic period (circa 4000 BCE)
-    * late predynastic period (circa 3300 BCE)
-    * 12th and 13th dynasties (circa 1850 BCE)
-    * Ptolemiac period (circa 200 BCE)
-    * Roman period (circa 150 CE)
-    
-![](https://stat-jet-asu.github.io/Moodlepics/skullmeasurements.png)
-
-```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv")
-glimpse(DATA)
-head(DATA)
-```
-
 ### References
 
-Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+[The ideal height: 5’6” for a woman, 5’11” for a man](https://yougov.co.uk/topics/politics/articles-reports/2014/07/11/ideal-height-56-woman-511-man)
 
 <hr>

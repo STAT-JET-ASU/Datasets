@@ -1,0 +1,52 @@
+---
+title: "NC Regions Dataset NEED TO CREATE"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`ncregions.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+
+### Description
+
+Includes some of the regional categorizations of North Carolina.
+
+### Variables
+
+* `county`: county name
+* `name`: TBA
+* `name`: TBA
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ncregions.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[Children's Services Practice Notes: How Rural Is North Carolina?](https://practicenotes.org/vol12_no3/NC.htm)
+
+[NC Rural Center: North Carolina Counties](https://www.ncruralcenter.org/about-us/)
+
+[Wataugawatch: Urban/Suburban/Rural Counties in North Carolina](https://blog.wataugawatch.net/2019/11/urbansuburbanrural-counties-in-north.html)
+
+[US Census Bureau County Population Totals: 2020-2021](https://www.census.gov/data/tables/time-series/demo/popest/2020s-counties-total.html)
+
+<hr>

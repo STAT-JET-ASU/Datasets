@@ -1,0 +1,56 @@
+---
+title: "Egyptian Skulls Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`egyptianskulls.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv)
+
+### Description
+
+Anthropometry is the measurement and study of the physical proportions and functional capabilities of the human body. The name is derived from the Greek word *anthros* ("man") and *metron* ("measure"). The contemporary field of ergonomics (also known as *human factors*) explicitly considers anthropometric principles in the design of many products, processes, and systems intended for use by people (e.g., clothing, furniture, medical devices, hand tools, keyboards, vehicles). There are many important applications in the area of [safety](https://www.cdc.gov/niosh/topics/anthropometry/default.html), including construction of vehicle [crash test dummies](http://www.humaneticsatd.com/crash-test-dummies/). Crime scene investigators, pathologists, historians, and forensic anthropologists also make extensive use of anthropometric measurements. The related term *craniometry* refers to measurements of the cranium (skull). 
+
+### Variables
+
+* maxbreadth: see image below (in mm)
+* basibregmatic: see image below (in mm)
+* basialveolar: see image below (in mm)
+* nasalht: see image below (in mm)
+* time1: years before or after 0 C.E.
+* time2: time as categories
+    * early predynastic period (circa 4000 BCE)
+    * late predynastic period (circa 3300 BCE)
+    * 12th and 13th dynasties (circa 1850 BCE)
+    * Ptolemiac period (circa 200 BCE)
+    * Roman period (circa 150 CE)
+    
+![](https://stat-jet-asu.github.io/Moodlepics/skullmeasurements.png)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Thomson, Arthur and Randall-MacIver, David. (1905). [*Ancient Races of the Thebaid*](https://books.google.com/books/about/The_Ancient_Races_of_the_Thebaid.html?id=7eQ-AAAAYAAJ). Oxford: Oxford University Press.
+
+<hr>

@@ -21,17 +21,17 @@ library(dplyr)
 ```
 <hr>
 
-<i class="fas fa-database"></i> [`cappunish20220107.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv)
+<i class="fas fa-database"></i> [`cappunish20220512.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220512.csv)
 
 <i class="fas fa-database"></i> [`deathrowsize.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv)
 
-<i class="fas fa-database"></i> [`executions19762021.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv)
+<i class="fas fa-database"></i> [`executions19762021.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2021.csv)
 
 <i class="fas fa-database"></i> [`deathrowrace.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsizerace.csv)
 
 ### Description
 
-Data about the death penalty in the United States as of January 7, 2022, from the non-profit organization [Death Penalty Information Center](https://deathpenaltyinfo.org/).
+Data about the death penalty in the United States as of May 12, 2022.
 
 ### Variables---Capital Punishment Dataset
 
@@ -54,15 +54,17 @@ Data about the death penalty in the United States as of January 7, 2022, from th
 * `sentence`: who decides on whether someone gets a death penalty sentence
 
 ```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv")
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220512.csv")
 glimpse(DATA)
 head(DATA)
 ```
 
 ### Variables---Size of Death Row Dataset
 
-* `year`: year (includes each year from 1968 to 2021)
-* `total`: total prisoners on death row during that year
+Number of prisoners on death row for each year from 1968 to 2021.
+
+* `year`: year
+* `total`: total prisoners on death row
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv")
@@ -72,16 +74,20 @@ head(DATA)
 
 ### Variables---Executions Since 1976 Dataset
 
-* `state`: state name (including District of Columbia and Federal Government)
-* `yxxxx`: year (includes each year from 1976 to 2021)
+Number of executions per year for each state, DC, and the federal government.
+
+* `state`: state (including District of Columbia and Federal Government)
+* `yxxxx`: year (number of executions for each year from 1976 to 2021)
 
 ```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv")
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2021.csv")
 glimpse(DATA)
 head(DATA)
 ```
 
 ### Variables---Death Row Demographics Dataset
+
+State-by-state death row populations by race as of January 1, 2022.
 
 * `state`: state name (including US Government and US Military)
 * `black`: number of black death row inmates
@@ -91,7 +97,6 @@ head(DATA)
 * `asian`: number of asian death row inmates
 * `unknown`: number of death row inmates with unknown race/ethnicity
 
-
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv")
 glimpse(DATA)
@@ -100,7 +105,11 @@ head(DATA)
 
 ### References
 
-Source: [Death Penalty Information Center: State by State](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state)
+Source: [Death Penalty Information Center](https://deathpenaltyinfo.org)
+
+* [State by State](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state)
+* [Size of Death Row by Year](https://deathpenaltyinfo.org/death-row/overview/size-of-death-row-by-year)
+* [Racial Demographics](https://deathpenaltyinfo.org/death-row/overview/demographics)
 
 [Census Regions and Divisions of the United States](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
 

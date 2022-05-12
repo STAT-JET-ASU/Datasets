@@ -1,0 +1,47 @@
+---
+title: "Boone Snowfall Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`boonesnowfall.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
+
+### Description
+
+Historical snowfall data for Boone, NC.
+
+### Variables
+
+* `winter`: years spanned by the observation
+* `inches`: number of inches of snow and ice
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[Snow Totals for Boone, NC](https://www.booneweather.com/Almanac/Boone+Snow)
+
+And other miscellaneous weather sites.
+
+<hr>

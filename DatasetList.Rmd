@@ -22,17 +22,16 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/annualinflation.html)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
   [description](InstructorDescriptions/anthropometric.html)
-* [ATLhurricanes18512020.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ATLhurricanes18512020.csv) //
+* [atlantichurricanes18512021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512021.csv) //
   [description](InstructorDescriptions/ATLhurricanes18512020.html)
-* [audiology.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/audiology.csv)
-* [balance.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/balance.csv)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
 * [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
   [description](InstructorDescriptions/billionaires.html)
 * [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
   [description](ChiharaDescriptions/bodytemps.html)
-* [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv)
+* [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv) //
+  [description](InstructorDescriptions/boonesnowfall.html)
 * [cappunish20220107.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv) //
   [description](InstructorDescriptions/cappunish.html)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) //
@@ -50,7 +49,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [dietcrackers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv) //
   [description](InstructorDescriptions/dietcrackers.html)
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) //
-  [description](InstructorDescriptions/anthropometric.html)
+  [description](InstructorDescriptions/egyptianskulls.html)
 * [electoral.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoral.csv)
 * [executions19762021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions19762021.csv) //
   [description](InstructorDescriptions/cappunish.html)

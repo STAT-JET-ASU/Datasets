@@ -47,4 +47,10 @@ head(DATA)
 
 [Investopedia: Unemployment](https://www.investopedia.com/terms/u/unemploymentrate.asp)
 
+[US Bureau of Labor Statistics: Databases, Tables & Calculators by Subject](https://www.bls.gov/data/)
+
+https://data.bls.gov/timeseries/LNS14000000?years_option=all_years
+
+https://www.bls.gov/cps/prev_yrs.htm
+
 <hr>

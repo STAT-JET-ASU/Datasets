@@ -1,7 +1,7 @@
 ---
 title: "Oreo Filling Weights Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -40,6 +40,8 @@ head(DATA)
 
 ### References
 
-Source: http://jse.amstat.org/v4n2/datasets.shoemaker.html 
+Source: StatCrunch public datasets 
+
+[MIT scientists reveal why it's hard to evenly split Oreo filling between two halves](https://www.engadget.com/mit-oreo-cookie-cream-device-because-science-175016653.html)
 
 <hr>
