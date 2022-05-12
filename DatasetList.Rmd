@@ -7,7 +7,6 @@ output:
     theme: yeti
     toc: TRUE
 ---
-
 <hr>
 
 ### Instructor Data Files
@@ -209,8 +208,7 @@ These datasets were compiled or acquired by Dr. Thomley from Jeremy Balka's [JB 
 * [jbstatsguineapigs.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/JBStatistics/jbstatsguineapigs.csv)
 * [stats101smartphones.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Stats101/stats101smartphones.csv)
 
-***
-
+<hr>
 ```{r}
 sessionInfo()
 ```
