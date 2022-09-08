@@ -22,7 +22,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
   [description](InstructorDescriptions/anthropometric.html)
 * [atlantichurricanes18512021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512021.csv) //
-  [description](InstructorDescriptions/ATLhurricanes18512020.html)
+  [description](InstructorDescriptions/atlantichurricanes18512020.html)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
 * [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
@@ -72,7 +72,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [maunaloaCO2annual.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2annual.csv)
 * [mlb2002.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2002.csv)
 * [mlb2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2013.csv)
-* [MLBsalaries19852015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/MLBsalaries19852015.csv)
+* [mlbsalaries1985to2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlbsalaries1985to2015.csv)
 * [mmFEB2015.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mmFEB2015.csv) //
   [description](InstructorDescriptions/mmFEB2015.html)
 * [monopolygame.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv) //
