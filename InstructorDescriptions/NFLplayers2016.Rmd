@@ -35,8 +35,8 @@ Data about all National Football League (NFL) players in 2016.
 * Name: player name
 * Position: player position
 * Age: player age
-* Height: player height
-* Weight: player weight
+* Height: player height in inches
+* Weight: player weight in pounds
 * Years: number of years played
 * College: college attended
 * Team: team played for
