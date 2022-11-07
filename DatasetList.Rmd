@@ -31,7 +31,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv) //
   [description](InstructorDescriptions/boonesnowfall.html)
-* [cappunish20220107.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv) //
+* [cappunish20221106.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish2021106.csv) //
   [description](InstructorDescriptions/cappunish.html)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) //
   [description](InstructorDescriptions/cereals.html)

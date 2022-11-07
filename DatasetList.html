@@ -336,8 +336,8 @@ pre code {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -345,16 +345,9 @@ pre code {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -401,8 +394,7 @@ pre code {
 
 <h1 class="title toc-ignore">Class Data Files</h1>
 <h4 class="author">Instructor: Jill E. Thomley (<a href="mailto:thomleyje@appstate.edu" class="email">thomleyje@appstate.edu</a>)</h4>
-<h4 class="date">Updated: Thursday, September 08, 2022 @ 12:39:09
-AM</h4>
+<h4 class="date">Updated: Monday, November 07, 2022 @ 11:24:30 AM</h4>
 
 </div>
 
@@ -441,7 +433,7 @@ datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse, creates a tibble, 
 // <a href="ChiharaDescriptions/bodytemps.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv">boonesnowfall.csv</a>
 // <a href="InstructorDescriptions/boonesnowfall.html">description</a></li>
-<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20220107.csv">cappunish20220107.csv</a>
+<li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish2021106.csv">cappunish20221106.csv</a>
 // <a href="InstructorDescriptions/cappunish.html">description</a></li>
 <li><a href="https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv">cereals.csv</a>
 // <a href="InstructorDescriptions/cereals.html">description</a></li>
@@ -651,11 +643,11 @@ datasetname &lt;- read_csv(&quot;URL HERE&quot;) # tidyverse, creates a tibble, 
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] digest_0.6.29   R6_2.5.1        jsonlite_1.8.0  magrittr_2.0.3 
-##  [5] evaluate_0.16   stringi_1.7.8   cachem_1.0.6    rlang_1.0.5    
-##  [9] cli_3.3.0       rstudioapi_0.14 jquerylib_0.1.4 bslib_0.4.0    
-## [13] rmarkdown_2.16  tools_3.6.0     stringr_1.4.1   xfun_0.32      
-## [17] yaml_2.3.5      fastmap_1.1.0   compiler_3.6.0  htmltools_0.5.3
+##  [1] digest_0.6.30   R6_2.5.1        jsonlite_1.8.3  magrittr_2.0.3 
+##  [5] evaluate_0.17   stringi_1.7.8   cachem_1.0.6    rlang_1.0.6    
+##  [9] cli_3.4.1       rstudioapi_0.14 jquerylib_0.1.4 bslib_0.4.1    
+## [13] rmarkdown_2.17  tools_3.6.0     stringr_1.4.1   xfun_0.34      
+## [17] yaml_2.3.6      fastmap_1.1.0   compiler_3.6.0  htmltools_0.5.3
 ## [21] knitr_1.40      sass_0.4.2</code></pre>
 </div>
 
