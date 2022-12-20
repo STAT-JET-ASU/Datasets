@@ -1,7 +1,7 @@
 ---
 title: "Body Temperatures Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -40,7 +40,7 @@ Some questions we could investigate with these data include:
 
 * sex: whether the person was male or female (as a binary, since this is older data)
 * tempF: the person's body temperature in degrees Fahrenheit
-* heartbpm: the person's pulse in beats perminute 
+* heartbpm: the person's pulse in beats per minute 
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/bodytemps.csv")
@@ -50,4 +50,4 @@ head(DATA)
 
 ### References
 
-Source: http://jse.amstat.org/v4n2/datasets.shoemaker.html 
+Source: [Shoemaker, Allen L. (1996). "What's Normal? -- Temperature, Gender, and Heart Rate," *Journal of Statistics Education* 4(2).](http://jse.amstat.org/v4n2/datasets.shoemaker.html) 

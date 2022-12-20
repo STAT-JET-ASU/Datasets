@@ -1,5 +1,5 @@
 ---
-title: "Anthropometric Dataset<br>Egyptian Skulls Dataset"
+title: "Anthropometric Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 

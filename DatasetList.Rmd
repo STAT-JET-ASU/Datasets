@@ -1,7 +1,7 @@
 ---
 title: "Class Data Files"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     theme: yeti
@@ -31,7 +31,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](ChiharaDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv) //
   [description](InstructorDescriptions/boonesnowfall.html)
-* [cappunish20221106.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish2021106.csv) //
+* [cappunish20221106.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20221106.csv) //
   [description](InstructorDescriptions/cappunish.html)
 * [cereals.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv) //
   [description](InstructorDescriptions/cereals.html)
@@ -102,7 +102,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [semmelweisannualvienna1784.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/semmelweisannualvienna1784.csv)
 * [semmelweismonthly.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/semmelweismonthly.csv)
 * [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/shipsanitation.csv)
-* [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv)
+* [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv) //
+  [description](InstructorDescriptions/smallpox.html)
 * [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv)
 * [STT3850majors.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/stt3850majors.csv)
 * [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSE.csv)
