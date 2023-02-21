@@ -1,0 +1,54 @@
+---
+title: "Atlantic Hurricanes 1851-2022 Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`atlantichurricanes18512022.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512022.csv)
+
+### Description
+
+Data about Atlantic Ocean hurricanes from 1851 to 2022. The Atlantic hurricane season is roughly from June through November. Tropical cyclones in the North Atlantic are called hurricanes, tropical storms, or tropical depressions.
+
+### Variables
+
+* Year: calendar year
+* Named: number of named storms
+* Hurricanes: number of hurricanes
+* Major: number of major hurricanes (Category 3 and higher)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512022.csv")
+glimpse(DATA)
+head(DATA)
+tail(DATA)
+```
+
+### References
+
+Source: StatCrunch public datasets 
+
+[Active 2021 Atlantic hurricane season officially ends](https://www.noaa.gov/news-release/active-2021-atlantic-hurricane-season-officially-ends)
+
+Landsea, Chris and Blake, Eric. (June 30, 2021). ["Was 2020 a Record-Breaking Hurricane Season? Yes, But..."](https://noaanhc.wordpress.com/2021/06/30/was-2020-a-record-breaking-hurricane-season-yes-but/) Inside the Eye, the Offical Blog of the National Hurricane Center.
+
+[Wikipedia 2022 Atlantic Hurricane Season](https://en.wikipedia.org/wiki/2022_Atlantic_hurricane_season)
+
+<hr>
