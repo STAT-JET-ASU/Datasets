@@ -1,0 +1,58 @@
+---
+title: "Lego Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`lego816.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv)
+
+### Description
+
+The data contains Lego sets that were available on the Lego website in August 2016.
+
+### Variables
+
+* `number`: set ID number
+* `name`: set name
+* `price`: set price in USD
+* `pieces`: number of pieces
+* `minifigs`: number of mini figures
+* `minifigsspec`: number of special mini figures
+* `agemin`: minimum age listed on the box
+* `agemax`: maximum age listed on the box
+* `theme`: the set's general theme (e.g., `City`, `Star Wars`)
+* `type`: the set's type (e.g., `Kids`, `Pop Culture`)
+* `rating`: average user rating on a scale of 1 to 5
+* `exclusive`: exclusive sets can only be bought from Lego (0 = no, 1 = yes) 
+* `rare`: whether or not the set is considered to be rare (0 = no, 1 = yes) 
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[Brickset: LEGO set guide and database | 2016](https://brickset.com/sets/year-2016)
+
+[Rebrickable: LEGO Catalog Database Downloads](https://rebrickable.com/downloads/)
+
+<hr>

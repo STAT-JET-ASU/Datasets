@@ -21,8 +21,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/annualinflation.html)
 * [anthropometric.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv) //
   [description](InstructorDescriptions/anthropometric.html)
-* [atlantichurricanes18512021.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512021.csv) //
-  [description](InstructorDescriptions/atlantichurricanes18512020.html)
+* [atlantichurricanes18512022.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512022.csv) //
+  [description](InstructorDescriptions/atlantichurricanes18512022.html)
 * [batterylife.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/batterylife.csv)
 * [berkeley.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/berkeley.csv)
 * [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
@@ -39,6 +39,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/coasters2015.html)
 * [couples.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv) //
   [description](InstructorDescriptions/couples.html)
+* [cpidata2022.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata2022.csv) //
+  [description](InstructorDescriptions/annualinflation.html)
 * [deathrowrace.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv) //
   [description](InstructorDescriptions/cappunish.html)
 * [deathrowsize.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv) //

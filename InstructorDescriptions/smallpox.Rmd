@@ -1,0 +1,57 @@
+---
+title: "Watson's Smallpox Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`smallpox.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+
+### Description
+
+In 1762, Sir William Watson became the physician for the Hospital for the Maintenance and Education of Exposed and Deserted Children, known more commonly as the "Foundling Hospital". At the time, the leading cause of death among children in London was smallpox (about one in four). When the hospital was opened, the board of governors ordered that all children who were not already immune to smallpox be inoculated. Most doctors preparing patients for inoculation used a combination of a meatless diet and purgatives. Many also prescribed antimony and mercury. Watson doubted that the poisonous mercury was beneficial, but since most fashionable physicians used it, he needed to have evidence of its lack of efficacy. There was also no consensus on the best source of the inoculum. Some physicians used a very early lesion, some a mature pock, and others a late, almost resolved lesion.
+
+In 1767, Watson conducted experiments to explore these questions. He made sure that all the children had the same diet, clothes, play areas, and and sleeping dormitories. They were inoculated at the same time and place with thin ‘watery ichor’ from an early lesion on a patient with natural smallpox. The only difference was their preparation. In his first experiment, 31 children were divided into three groups. Ten children (5 boys and 5 girls) received a mixture of mercury and jalap (a laxative) before and after innoculation; ten children (5 of each sex) got an infusion of senna and syrup of roses (a mild laxative) on three occasions and 11 boys received no other treatment.
+
+In Watson's second experiment, a 4 boys and 4 girls were given three doses of mercury; 4 boys and 4 girls were given the infusion of senna and syrup of roses; 6 boys and 1 girl received no other treatment. This was to further assess the efficacy of mercury. A mature pock on an inoculated patient was used as the inoculum. In his third experiment, Watson used a late lesion from an inoculated patient as his source. Ten boys and 10 girls were inoculated without being given any other treatment.
+
+Note: Earlier studies had established that mortality for inoculated people was about 1 in 50, whereas patients with naturally acquired smallpox died at a rate of 1 in 6. By 1765, better techniques reduced mortality from inoculation to less than 1 in 500. Studies like Watson's would be highly ethically questionable today; children are a specially protected group by today's standards because of *informed consent*.
+
+
+### Variables
+
+* `experiment`: which experiment the data come from (1, 2, or 3)
+* `source`: source of the smallpox inoculum (early, mature, late)
+* `pretreatment`: what type of pre-treatment the child received
+* `pocks`: the total number of pocks that appeared on the child
+
+Note: the number of pocks is closely related to prognosis/outcome.
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+Source: [Boylston, Arthur. (2014). "William Watson’s use of controlled clinical experiments in 1767," *Journal of the Royal Society of Medicine*, 107(6), 246-248.
+https://doi.org/10.1177/0141076814536351](https://journals.sagepub.com/doi/10.1177/0141076814536351)
+
+<hr>

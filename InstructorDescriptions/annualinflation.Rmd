@@ -21,7 +21,8 @@ library(dplyr)
 ```
 <hr>
 
-<i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+<i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)<br>
+<i class="fas fa-database"></i> [`cpidata2022.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata2022.csv)
 
 ### Description
 
@@ -36,6 +37,29 @@ $$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv")
+glimpse(DATA)
+head(DATA)
+tail(DATA)
+```
+
+### Variables
+
+* `year`: calendar year
+* `Jan`: January CPI values
+* `Feb`: February CPI values
+* `Mar`: March CPI values
+* `Apr`: April CPI values
+* `May`: May CPI values
+* `Jun`: June CPI values
+* `Jul`: July CPI values
+* `Aug`: August CPI values
+* `Sep`: September CPI values
+* `Oct`: October CPI values
+* `Nov`: November CPI values
+* `Dec`: December CPI values
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata2022.csv")
 glimpse(DATA)
 head(DATA)
 ```
