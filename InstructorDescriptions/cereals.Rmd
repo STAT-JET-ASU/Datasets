@@ -1,7 +1,7 @@
 ---
 title: "Cereals Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -27,7 +27,7 @@ library(dplyr)
 
 Students collected nutrition label information from cereals in a Wegman's supermarket (circa early 1990s). The nutrition variables in the dataset are for one serving. Missing data is indicated by `-1`.
 
-### Variables in `cereals.csv`
+### Variables
 
 * name: cereal name
 * mfr: manufacturer

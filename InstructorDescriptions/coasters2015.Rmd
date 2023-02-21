@@ -1,7 +1,7 @@
 ---
 title: "Rollercoasters Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -48,5 +48,7 @@ glimpse(DATA)
 ### References
 
 Source: https://dasl.datadescription.com/datafile/coasters-2015/
+
+[Roller Coaster Database Census Report](https://rcdb.com/census.htm)
 
 <hr>

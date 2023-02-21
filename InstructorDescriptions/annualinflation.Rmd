@@ -1,5 +1,5 @@
 ---
-title: "Annual Inflation Dataset"
+title: "Annual Inflation Dataset<br>Consumer Price Index (CPI) Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
@@ -30,7 +30,7 @@ Annual US inflation from December to December (i.e., December YOY), calculated u
 
 $$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
 
-### Variables
+### Variables---Annual Inflation Dataset
 
 * `year`: calendar year
 * `inflationYOY`: December YOY inflation
@@ -42,7 +42,7 @@ head(DATA)
 tail(DATA)
 ```
 
-### Variables
+### Variables---Consumer Price Index Dataset
 
 * `year`: calendar year
 * `Jan`: January CPI values
