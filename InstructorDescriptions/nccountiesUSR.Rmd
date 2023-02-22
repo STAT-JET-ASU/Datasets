@@ -1,0 +1,52 @@
+---
+title: "NC Counties Urban/Suburban/Rural Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`nccountiesUSR.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)
+
+### Description
+
+A classification of counties in North Carolina as urban, suburban, and rural.
+
+### Variables
+
+* `Region`: classification (Urban, Suburban, Rural)
+* `County`: county name
+* `City`: 
+    * name of the central city (urban regions)
+    * name of the Metropolitan Statistical Area Principal City (suburban regions) 
+    * `NA` (rural regions)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccountiesUSR.csv")
+glimpse(DATA)
+head(DATA)
+tail(DATA)
+```
+
+### References
+
+[wataugawatch 11/13/2019: Urban/Suburban/Rural Counties in North Carolina](https://blog.wataugawatch.net/2019/11/urbansuburbanrural-counties-in-north.html)
+
+[Old North State Politics: OMB Definition of Metropolitan Statistical Areas & Creating Urban/Suburban/Rural Classifications in NC](http://www.oldnorthstatepolitics.com/p/blog-page_5.html)
+
+<hr>
