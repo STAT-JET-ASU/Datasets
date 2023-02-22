@@ -28,7 +28,7 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [billionaires.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Kaggle/billionaires_2021_10_31.csv) //
   [description](InstructorDescriptions/billionaires.html)
 * [bodytemps.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Intructor/bodytemps.csv) //
-  [description](ChiharaDescriptions/bodytemps.html)
+  [description](InstructorDescriptions/bodytemps.html)
 * [boonesnowfall.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/boonesnowfall.csv) //
   [description](InstructorDescriptions/boonesnowfall.html)
 * [cappunish20221106.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cappunish20221106.csv) //
@@ -69,7 +69,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [happyface.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/happyface.csv)
 * [homingpigeons.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv) //
   [description](InstructorDescriptions/homingpigeons.html)
-* [lego816.cvs](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv)
+* [lego816.cvs](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/lego816.csv) //
+  [description](InstructorDescriptions/lego816.html)
 * [maunaloaCO2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2.csv)
 * [maunaloaCO2annual.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/maunaloaCO2annual.csv)
 * [mlb2002.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mlb2002.csv)
@@ -79,6 +80,10 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/mmFEB2015.html)
 * [monopolygame.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/monopolygame.csv) //
   [description](InstructorDescriptions/monopoly.html)
+* [movies2005.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/movies2005.csv) //
+  [description](InstructorDescriptions/movies2005.html)  
+* [nailpolish.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nailpolish.csv) //
+  [description](InstructorDescriptions/nailpolish.html)   
 * [nccounties20102016.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccounties20102016.csv)
 * [nccountiesUSR.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccountiesUSR.csv)
 * [NFLplayers2016.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv) //
@@ -106,7 +111,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [shipsanitation.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/shipsanitation.csv)
 * [smallpox.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/smallpox.csv) //
   [description](InstructorDescriptions/smallpox.html)
-* [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv)
+* [sunspots.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv) //
+  [description](InstructorDescriptions/sunspots.html)
 * [STT3850majors.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/stt3850majors.csv)
 * [titanicCLSE.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSE.csv)
 * [titanicCLSU.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/titanicCLSU.csv)
@@ -115,8 +121,6 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [tommypickles2.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/tommypickles2.csv)
 * [unemployment.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv) //
   [description](InstructorDescriptions/unemployment.html)
-* [uscounties2013.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/uscounties2013.csv)
-* [USpresidentialdemographics.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USpresidentialdemographics.csv)
 * [usregions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/usregions.csv) //
   [description](InstructorDescriptions/usregions.html)
 * [USskyscrapers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USskyscrapers.csv) //

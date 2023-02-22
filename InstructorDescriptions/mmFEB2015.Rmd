@@ -1,7 +1,7 @@
 ---
 title: "Gay Marriage and Marijuana Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,15 +29,15 @@ These data come from a [2015 Vox article](https://www.vox.com/2014/11/7/7169501/
 
 ### Variables
 
-* state: state name
-* marriage: whether gay marriage was legal in Feb 2015
-* mgmethod: method by which gay marriage became legal
-* mgyear: year in which gay marriage was legalized
-* marijuana: whether marijuana use was legal in Feb 2015
-* mjtype: type of legal marijuana use (none if illegal)
-* mjmethod: method by which use marijuana was legalized
-* mjyear: yearn which  marijuana use was legalized
-* region: census region of the state
+* `state`: state name
+* `marriage`: whether gay marriage was legal in Feb 2015
+* `mgmethod`: method by which gay marriage became legal
+* `mgyear`: year in which gay marriage was legalized
+* `marijuana`: whether marijuana use was legal in Feb 2015
+* `mjtype`: type of legal marijuana use (none if illegal)
+* `mjmethod`: method by which use marijuana was legalized
+* `mjyear`: yearn which  marijuana use was legalized
+* `region`: census region of the state
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/mmFEB2015.csv")

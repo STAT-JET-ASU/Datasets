@@ -33,19 +33,19 @@ knitr::include_graphics("images/monopoly.jpg", dpi = 150)
 
 ### Variables
 
-* name: property name
-* type: property type (street, railroad, utility)
-* color: property color (for streets)
-* spaces: number of spaces from Go
-* cost: purchase price
-* mortgage: amount the players gets for mortgaging the property
-* house_price: how much it costs to add a house to the property
-* rent_0: rental price with no houses or hotel
-* rent_1: rental price with 1 house
-* rent_2: rental price with 2 houses
-* rent_3: rental price with 3 houses
-* rent_4: rental price with 4 houses
-* rent_hotel: rental price with a hotel
+* `name`: property name
+* `type`: property type (street, railroad, utility)
+* `color`: property color (for streets)
+* `spaces`: number of spaces from Go
+* `cost`: purchase price
+* `mortgage`: amount the players gets for mortgaging the property
+* `house_price`: how much it costs to add a house to the property
+* `rent_0`: rental price with no houses or hotel
+* `rent_1`: rental price with 1 house
+* `rent_2`: rental price with 2 houses
+* `rent_3`: rental price with 3 houses
+* `rent_4`: rental price with 4 houses
+* `rent_hotel`: rental price with a hotel
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)

@@ -1,7 +1,7 @@
 ---
 title: "Nail Polish Experiment Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,8 +29,8 @@ A student preparing for a triathlon suspected that the time she spent training i
 
 ### Variables
 
-* Color: nail polish color
-* PctChipped: % of nail chipped off during stress testing
+* `Color`: nail polish color
+* `PctChipped`: % of nail chipped off during stress testing
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nailpolish.csv")
