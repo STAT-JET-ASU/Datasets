@@ -45,10 +45,6 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/cappunish.html)
 * [deathrowsize.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv) //
   [description](InstructorDescriptions/cappunish.html)
-* [diamondquality.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/diamondquality.csv) //
-  [description](InstructorDescriptions/diamondquality.html)
-* [dietcrackers.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/dietcrackers.csv) //
-  [description](InstructorDescriptions/dietcrackers.html)
 * [egyptianskulls.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/egyptianskulls.csv) //
   [description](InstructorDescriptions/egyptianskulls.html)
 * [electoral.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/electoral.csv)
@@ -84,8 +80,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
   [description](InstructorDescriptions/movies2005.html)  
 * [nailpolish.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nailpolish.csv) //
   [description](InstructorDescriptions/nailpolish.html)   
-* [nccounties20102016.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccounties20102016.csv)
-* [nccountiesUSR.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccountiesUSR.csv)
+* [nccountiesUSR.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/nccountiesUSR.csv) //
+  [description](InstructorDescriptions/nccountiesUSR.csv.html) 
 * [NFLplayers2016.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv) //
   [description](InstructorDescriptions/NFLplayers2016.html)
 * [NFLpositions.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLpositions.csv) //
