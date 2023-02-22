@@ -29,13 +29,13 @@ Data about structures in the United States that are $\ge$ 100 meters tall (as of
 
 ### Variables
 
-* Building: name of the structure
-* City: city in which the structure is located
-* Height: height in meters
-* Floors: how many floors
-* Completed: when construction was completed
-* Material: primary construction material(s)
-* Use: primary use(s)
+* `Building`: name of the structure
+* `City`: city in which the structure is located
+* `Height`: height in meters
+* `Floors`: how many floors
+* `Completed`: when construction was completed
+* `Material`: primary construction material(s)
+* `Use`: primary use(s)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/USskyscrapers.csv")

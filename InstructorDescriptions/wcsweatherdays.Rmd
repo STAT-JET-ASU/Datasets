@@ -29,22 +29,22 @@ All K-12 schools in North Carolina schools are required to complete a minimum of
 
 ### Variables
 
-* year: school year
-* fall: fall year of the school year
-* start_date: first day for students
-* end_date: last day for students
-* aug_days: number of days canceled for inclement weather in August
-* sep_days: number of days canceled for inclement weather in September
-* oct_days: number of days canceled for inclement weather in October
-* nov_days: number of days canceled for inclement weather in November
-* dec_days: number of days canceled for inclement weather in December
-* jan_days: number of days canceled for inclement weather in January
-* feb_days: number of days canceled for inclement weather in February
-* mar_days: number of days canceled for inclement weather in March
-* apr_days: number of days canceled for inclement weather in April
-* may_days: number of days canceled for inclement weather in May
-* total_days: number of days canceled for the school year
-* total_snow: total inches of snow during the school year
+* `year`: school year
+* `fall`: fall year of the school year
+* `start_date`: first day for students
+* `end_date`: last day for students
+* `aug_days`: number of days canceled for inclement weather in August
+* `sep_days`: number of days canceled for inclement weather in September
+* `oct_days`: number of days canceled for inclement weather in October
+* `nov_days`: number of days canceled for inclement weather in November
+* `dec_days`: number of days canceled for inclement weather in December
+* `jan_days`: number of days canceled for inclement weather in January
+* `feb_days`: number of days canceled for inclement weather in February
+* `mar_days`: number of days canceled for inclement weather in March
+* `apr_days`: number of days canceled for inclement weather in April
+* `may_days`: number of days canceled for inclement weather in May
+* `total_days`: number of days canceled for the school year
+* `total_snow`: total inches of snow during the school year
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv")

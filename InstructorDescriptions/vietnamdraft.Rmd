@@ -33,13 +33,13 @@ In December 1969, the U.S. Selective Service System conducted a lottery to a det
 
 ### Variables
 
-* month: month of the year
-* day: day of the month
-* birthyear: birth year(s) of registrants eligible to be drafted
-* drawyear: year in which the numbers were drawn
-* draftyear: year of potential call-up and induction
-* halfyear: Jan 1 to Jun 30 (first half) or July 1 to Dec 31 (second half)  
-* draftnumber: draft number (order) for each day in a given calendar year
+* `month`: month of the year
+* `day`: day of the month
+* `birthyear`: birth year(s) of registrants eligible to be drafted
+* `drawyear`: year in which the numbers were drawn
+* `draftyear`: year of potential call-up and induction
+* `halfyear`: Jan 1 to Jun 30 (first half) or July 1 to Dec 31 (second half)  
+* `draftnumber`: draft number (order) for each day in a given calendar year
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraft.csv")
@@ -49,10 +49,10 @@ head(DATA)
 
 ### Variables
 
-* draftyear: year of potential call-up/induction
-* drawdate: date on which the numbers were drawn
-* birthyear: birth year(s) of registrants eligible to be drafted
-* maxcalled: highest draft number called up in that draft year
+* `draftyear`: year of potential call-up/induction
+* `drawdate`: date on which the numbers were drawn
+* `birthyear`: birth year(s) of registrants eligible to be drafted
+* `maxcalled`: highest draft number called up in that draft year
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/vietnamdraftadmin.csv")

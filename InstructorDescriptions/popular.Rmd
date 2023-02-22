@@ -42,15 +42,15 @@ Regardless of how they answered the first question, all students were also asked
 
 ### Variables
 
-* gender: boy or girl
-* grade: 4, 5, 6
-* age: age in years
-* district_type: the type of school district (rural, suburban, urban)
-* top_goal: student's choice of what they would most like to do at school (grades, sports, popularity)
-* grades_rank: rank of "making good grades" for popularity (1 = most important, 4 = least important)
-* sports_rank: rank of "being good at sports" for popularity (1 = most important, 4 = least important)
-* looks_rank: rank of "being handsome or pretty" for popularity (1 = most important, 4 = least important)
-* money_rank: rank of "having lots of money" for popularity (1 = most important, 4 = least important)
+* `gender`: boy or girl
+* `grade`: 4, 5, 6
+* `age`: age in years
+* `district_type`: the type of school district (rural, suburban, urban)
+* `top_goal`: student's choice of what they would most like to do at school (grades, sports, popularity)
+* `grades_rank`: rank of "making good grades" for popularity (1 = most important, 4 = least important)
+* `sports_rank`: rank of "being good at sports" for popularity (1 = most important, 4 = least important)
+* `looks_rank`: rank of "being handsome or pretty" for popularity (1 = most important, 4 = least important)
+* `money_rank`: rank of "having lots of money" for popularity (1 = most important, 4 = least important)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/popular.csv")

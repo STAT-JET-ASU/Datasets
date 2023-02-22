@@ -29,8 +29,8 @@ Karl Pearson studied the relationship between the heights of men and their adult
 
 ### Variables
 
-* father: father's height in inches
-* son: son's height in inches
+* `father`: father's height in inches
+* `son`: son's height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/pearsonheightdata.csv")

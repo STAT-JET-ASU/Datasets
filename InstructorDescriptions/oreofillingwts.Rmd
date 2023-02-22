@@ -29,8 +29,8 @@ Weights of the "Oreo creme" filling in a sample of Oreo Original^TM^ and Oreo Do
 
 ### Variables
 
-* type: cookie type (original or double)
-* fillgrams: filling weight in grams
+* `type`: cookie type (original or double)
+* `fillgrams`: filling weight in grams
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oreofillingwts.csv")
