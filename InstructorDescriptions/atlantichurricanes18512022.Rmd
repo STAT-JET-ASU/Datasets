@@ -29,10 +29,10 @@ Data about Atlantic Ocean hurricanes from 1851 to 2022. The Atlantic hurricane s
 
 ### Variables
 
-* Year: calendar year
-* Named: number of named storms
-* Hurricanes: number of hurricanes
-* Major: number of major hurricanes (Category 3 and higher)
+* `Year`: calendar year
+* `Named`: number of named storms
+* `Hurricanes`: number of hurricanes
+* `Major`: number of major hurricanes (Category 3 and higher)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/atlantichurricanes18512022.csv")

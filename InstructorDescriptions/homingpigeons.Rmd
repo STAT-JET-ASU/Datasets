@@ -1,7 +1,7 @@
 ---
 title: "Homing Pigeons Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,8 +29,8 @@ An experiment compared the homing abilities of two groups of homing pigeons. Evi
 
 ### Variables
 
-* group: control or experimental (magnetic pulse) group
-* home: whether the pigeon successfully navigated home
+* `group`: control or experimental (magnetic pulse) group
+* `home`: whether the pigeon successfully navigated home
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/homingpigeons.csv")

@@ -1,7 +1,7 @@
 ---
 title: "Galton Height Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -39,12 +39,12 @@ The `galtonfamiliesmain` dataset was [created under the direction of Dr. James A
 
 ### Variables---Main Dataset
 
-* FamilyID: family identifier, labeled 1 to 204 and 136A, excluding the eight 
-* Children : number of children in the family
-* Father: father's measured height in inches
-* Mother: mother's measured height in inches
-* Child: whether the child was a son or a daughter
-* Height: child's measured height in inches
+* `FamilyID`: family identifier, labeled 1 to 204 and 136A, excluding the eight 
+* `Children` : number of children in the family
+* `Father`: father's measured height in inches
+* `Mother`: mother's measured height in inches
+* `Child`: whether the child was a son or a daughter
+* `Height`: child's measured height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesmain.csv")
@@ -54,12 +54,12 @@ head(DATA)
 
 ### Variables---Eight Families
 
-* FamilyID: family identifier, families 13, 50, 84, 11, 120, 161, 189, and 202
-* Children : number of children in the family
-* Father: value + 60 = father's height in inches
-* Mother: value + 60 mother's height in inches
-* Child: whether the child was a son or a daughter
-* Height: value + 60 = child's height in inches
+* `FamilyID`: family identifier, families 13, 50, 84, 11, 120, 161, 189, and 202
+* `Children` : number of children in the family
+* `Father`: value + 60 = father's height in inches
+* `Mother`: value + 60 mother's height in inches
+* `Child`: whether the child was a son or a daughter
+* `Height`: value + 60 = child's height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliessub.csv")
@@ -69,9 +69,9 @@ head(DATA)
 
 ### Variables---Main Parents Only
 
-* FamilyID: family identifier, labeled 1 to 205 (205 = family 136A) 
-* Father: father's height in inches
-* Mother: mother's height in inches
+* `FamilyID`: family identifier, labeled 1 to 205 (205 = family 136A) 
+* `Father`: father's height in inches
+* `Mother`: mother's height in inches
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonparentheights.csv")

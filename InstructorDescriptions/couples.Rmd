@@ -31,11 +31,11 @@ These datasets contains samples of heterosexual married couples. The second data
 
 ### Variables---Couples Dataset
 
-* Names: names of the husband and wife
-* wAge: wife's age in years
-* hAge: husband's age in years
-* wHeight: wife's height in millimeters
-* hHeight: husband's height in millimeters
+* `Names`: names of the husband and wife
+* `wAge`: wife's age in years
+* `hAge`: husband's age in years
+* `wHeight`: wife's height in millimeters
+* `hHeight`: husband's height in millimeters
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/couples.csv")
@@ -45,14 +45,14 @@ head(DATA)
 
 ### Variables---Husbands and Wives Dataset
 
-* Age_Husband: husband's age in years when the data were collected
-* Ht_Husband: husband's height in millimeters
-* Age_Wife: wife's age in years when the data were collected
-* Ht_Wife: wife's height in millimeters
-* Age_Husb_at_Marriage: husband's age in years when the couple married
-* Years_Married: how many years the couple has been married
-* Age_Wife_At_Marriage: wife's age in years when the couple married
-* Duration: whether or not the duration of the marriage is > 20
+* `Age_Husband`: husband's age in years when the data were collected
+* `Ht_Husband`: husband's height in millimeters
+* `Age_Wife`: wife's age in years when the data were collected
+* `Ht_Wife`: wife's height in millimeters
+* `Age_Husb_at_Marriage`: husband's age in years when the couple married
+* `Years_Married`: how many years the couple has been married
+* `Age_Wife_At_Marriage`: wife's age in years when the couple married
+* `Duration`: whether or not the duration of the marriage is > 20
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/husbandswives.csv")

@@ -1,7 +1,7 @@
 ---
 title: "Full Moon and Crimes Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,8 +29,8 @@ Some research suggests that more crimes occur on full moon nights than during ot
 
 ### Variables
 
-* Offense: type of crime
-* Moon: whether or not the moon was full
+* `Offense`: type of crime
+* `Moon`: whether or not the moon was full
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fullmoon.csv")

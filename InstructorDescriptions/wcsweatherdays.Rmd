@@ -50,6 +50,7 @@ All K-12 schools in North Carolina schools are required to complete a minimum of
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/wcsweatherdays.csv")
 glimpse(DATA)
 head(DATA)
+tail(DATA)
 ```
 
 ### References

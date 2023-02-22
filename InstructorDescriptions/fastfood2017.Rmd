@@ -31,18 +31,18 @@ Data were collected in January 2017 from online nutritional information provided
 
 ### Variables
 
-* restaurant: name of the fast food restaurant
-* item: name of the food item
-* type: type of food item (e.g., burger, chicken nuggets)
-* servingsize: total serving size (g)
-* calories: total calories
-* totalfat: total fat (g)
-* saturatedfat: total saturated fat (g)
-* transfat: total trans fat (g)
-* sodium: total sodium (mg)
-* carbs: total carbs (g)
-* sugars: total sodium (g)
-* protein: total protein (g)
+* `restaurant`: name of the fast food restaurant
+* `item`: name of the food item
+* `type`: type of food item (e.g., burger, chicken nuggets)
+* `servingsize`: total serving size (g)
+* `calories`: total calories
+* `totalfat`: total fat (g)
+* `saturatedfat`: total saturated fat (g)
+* `transfat`: total trans fat (g)
+* `sodium`: total sodium (mg)
+* `carbs`: total carbs (g)
+* `sugars`: total sodium (g)
+* `protein`: total protein (g)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fastfood2017.csv")
@@ -52,11 +52,11 @@ head(DATA)
 
 ### Variables
 
-* burger: name of the burger
-* calories: total calories
-* fat: total fat (g)
-* carbs: total carbs (g)
-* protein: total protein (g)
+* `burger`: name of the burger
+* `calories`: total calories
+* `fat`: total fat (g)
+* `carbs`: total carbs (g)
+* `protein`: total protein (g)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cookoutburgers.csv")

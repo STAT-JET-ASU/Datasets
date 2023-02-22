@@ -29,8 +29,8 @@ Students collected nutrition label information from cereals in a Wegman's superm
 
 ### Variables
 
-* name: cereal name
-* mfr: manufacturer
+* `name`: cereal name
+* `mfr`: manufacturer
    * A = American Home Food Products
    * G = General Mills
    * K = Kellogg's
@@ -38,25 +38,25 @@ Students collected nutrition label information from cereals in a Wegman's superm
    * P = Post
    * Q = Quaker Oats
    * R = Ralston Purina
-* type
+* `type`:
    * C (cold)
    * H (hot)
-* calories: calories
-* protein: grams of protein
-* fat: grams of fat
-* sodium: milligrams of sodium
-* fiber: grams of dietary fiber
-* carbo: grams of complex carbohydrates
-* sugars: grams of sugars
-* potass: milligrams of potassium
-* vitamins: vitamins and minerals
+* `calories`: calories
+* `protein`: grams of protein
+* `fat`: grams of fat
+* `sodium`: milligrams of sodium
+* `fiber`: grams of dietary fiber
+* `carbo`: grams of complex carbohydrates
+* `sugars`: grams of sugars
+* `potass`: milligrams of potassium
+* `vitamins`: vitamins and minerals
    * 0 = none added
    * 25 = enriched, often to 25% FDA recommended
    * 100 = 100% of FDA recommended
-* shelf: display shelf (1, 2, or 3, counting from floor)
-* weight: weight in ounces
-* cups: number of cups
-* rating: Consumer Reports rating
+* `shelf`: display shelf (1, 2, or 3, counting from floor)
+* `weight`: weight in ounces
+* `cups`: number of cups
+* `rating`: Consumer Reports rating
 
 ```{r glimpsedata}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cereals.csv")

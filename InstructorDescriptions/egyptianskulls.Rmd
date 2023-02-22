@@ -29,12 +29,12 @@ Anthropometry is the measurement and study of the physical proportions and funct
 
 ### Variables
 
-* maxbreadth: see image below (in mm)
-* basibregmatic: see image below (in mm)
-* basialveolar: see image below (in mm)
-* nasalht: see image below (in mm)
-* time1: years before or after 0 C.E.
-* time2: time as categories
+* `maxbreadth`: see image below (in mm)
+* `basibregmatic`: see image below (in mm)
+* `basialveolar`: see image below (in mm)
+* `nasalht`: see image below (in mm)
+* `time1`: years before or after 0 C.E.
+* `time2`: time as categories
     * early predynastic period (circa 4000 BCE)
     * late predynastic period (circa 3300 BCE)
     * 12th and 13th dynasties (circa 1850 BCE)

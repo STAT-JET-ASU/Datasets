@@ -1,7 +1,7 @@
 ---
 title: "Fireplaces and Home Prices Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,8 +29,8 @@ This dataset includes a sample of homes from real estate listings, including ask
 
 ### Variables
 
-* Price: asking price of the house
-* Fireplace: dies the house have a fireplace?
+* `Price`: asking price of the house
+* `Fireplace`: does the house have a fireplace?
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/fireplaces.csv")

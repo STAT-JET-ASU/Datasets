@@ -1,7 +1,7 @@
 ---
 title: "Ginko and Memory Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -29,8 +29,8 @@ Researchers conducted experiment to test whether ginkgo biloba helps memory in o
 
 ### Variables
 
-* group: ginko or control group
-* change: change in memory test score (post - pre)
+* `group`: ginko or control group
+* `change`: change in memory test score (post - pre)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/ginkomemory.csv")

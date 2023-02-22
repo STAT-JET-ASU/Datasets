@@ -1,0 +1,52 @@
+---
+title: "Sunspots Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`sunspots.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv)
+
+### Description
+
+Sunspots are dark areas on the surface of the sun. They look dark because they are cooler than other parts of the sun’s surface. They form at where magnetic fields are particularly strong---strong enough to keep some of the heat inside the sun from reaching the surface. Reasonably reliable records of sunspot counts go back to the early 1700s.
+
+### Variables
+
+* `year`: calendar year
+* `month`: calendar month (1-12)
+* `date`: decimal date combining year and month
+* `average`: average number of sunspots per day
+* `sd`: standard deviation of number of sunspots
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+### References
+
+[NASA: Sunspots and Solar Flares](https://spaceplace.nasa.gov/solar-activity/en/)
+
+[SILSO: Sunspot Number](https://www.sidc.be/silso/datafiles#total)
+
+[Spaceweather: The Sunspot Number](https://spaceweather.com/glossary/sunspotnumber.html)
+
+<hr>

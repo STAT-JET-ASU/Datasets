@@ -35,15 +35,15 @@ The anthropometric data here were collected from students in Dr. Thomley's STT18
 
 ### Variables
 
-* gender: self-identified gender
-* ideal: self-chosen ideal height in inches
-* height: measured height in inches
-* armspan: measured armspan in inches
-* forearm: measured forearm length in inches (elbow crease to middle fingertip)
-* hand: measured hand length in inches (wrist crease to tip of middle finger)
-* leg: measured lower leg length in inches (crease at back of knee to floor)
-* foot: foot length in inches (back of heel to tip of longest toe)
-* semester: semester the measurement was made
+* `gender`: self-identified gender
+* `ideal`: self-chosen ideal height in inches
+* `height`: measured height in inches
+* `armspan`: measured armspan in inches
+* `forearm`: measured forearm length in inches (elbow crease to middle fingertip)
+* `hand`: measured hand length in inches (wrist crease to tip of middle finger)
+* `leg`: measured lower leg length in inches (crease at back of knee to floor)
+* `foot`: foot length in inches (back of heel to tip of longest toe)
+* `semester`: semester the measurement was made
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/anthropometric.csv")

@@ -1,7 +1,7 @@
 ---
 title: "Unemployment Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
-date: 'Updated: `r format(Sys.time(), "%A, %B %d, %Y @ %X")`'
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
   html_document: 
     highlight: textmate
@@ -21,7 +21,8 @@ library(dplyr)
 ```
 <hr>
 
-<i class="fas fa-database"></i> [`unemployment.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)
+<i class="fas fa-database"></i> [`unemployment.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv)<br>
+<i class="fas fa-database"></i> [`unemployment_wide.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment_wide.csv)
 
 ### Description
 
@@ -29,14 +30,15 @@ The official unemployment rate is the fraction of the labor force that is unempl
 
 ### Variables
 
-* year: calendar year
-* month: calendar month
-* rate: seasonally adjusted unemployment rate
+* `year`: calendar year
+* `month`: calendar month
+* `rate`: seasonally adjusted unemployment rate
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv")
 glimpse(DATA)
 head(DATA)
+tail(DATA)
 ```
 
 ### References
@@ -49,8 +51,6 @@ head(DATA)
 
 [US Bureau of Labor Statistics: Databases, Tables & Calculators by Subject](https://www.bls.gov/data/)
 
-https://data.bls.gov/timeseries/LNS14000000?years_option=all_years
-
-https://www.bls.gov/cps/prev_yrs.htm
+[BLS Unemployment Rate, All Years](https://data.bls.gov/timeseries/LNS14000000?years_option=all_years)
 
 <hr>

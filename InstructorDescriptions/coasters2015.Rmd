@@ -29,15 +29,15 @@ The [Roller Coaster Database](https://rcdb.com/) gathers information about every
 
 ### Variables
 
-* Name: coaster name
-* Park: park where the rollercoaster is located
-* Track: steel or wooden coaster
-* Speed: speed in mph
-* Height: maximum height in feet
-* Drop: maximum drop in feet
-* Length: length in feet
-* Duration: ride time in seconds
-* Inversions: do the riders turn upside down at any point?
+* `Name`: coaster name
+* `Park`: park where the rollercoaster is located
+* `Track`: steel or wooden coaster
+* `Speed`: speed in mph
+* `Height`: maximum height in feet
+* `Drop`: maximum drop in feet
+* `Length`: length in feet
+* `Duration`: ride time in seconds
+* `Inversions`: do the riders turn upside down at any point?
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr)

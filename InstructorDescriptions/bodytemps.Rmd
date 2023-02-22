@@ -38,9 +38,9 @@ Some questions we could investigate with these data include:
 
 ### Variables
 
-* sex: whether the person was male or female (as a binary, since this is older data)
-* tempF: the person's body temperature in degrees Fahrenheit
-* heartbpm: the person's pulse in beats per minute 
+* `sex`: whether the person was male or female (as a binary, since this is older data)
+* `tempF`: the person's body temperature in degrees Fahrenheit
+* `heartbpm`: the person's pulse in beats per minute 
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/bodytemps.csv")
