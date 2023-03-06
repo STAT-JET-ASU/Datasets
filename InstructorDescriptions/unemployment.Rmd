@@ -32,6 +32,7 @@ The official unemployment rate is the fraction of the labor force that is unempl
 
 * `year`: calendar year
 * `month`: calendar month
+* `date`: decimal date combining year and month
 * `rate`: seasonally adjusted unemployment rate
 
 ```{r}
