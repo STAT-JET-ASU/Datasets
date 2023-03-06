@@ -33,7 +33,7 @@ The official unemployment rate is the fraction of the labor force that is unempl
 * `year`: calendar year
 * `month`: calendar month
 * `date`: decimal date combining year and month
-* `rate`: seasonally adjusted unemployment rate
+* `rate`: seasonally adjusted unemployment rate (e.g., 3.5 = 3.5%)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/unemployment.csv")

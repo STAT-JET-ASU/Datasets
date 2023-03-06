@@ -34,7 +34,7 @@ $$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
 
 * `year`: calendar year
 * `decade`: decade, year 19X0 to 19X9 and 20X0 to 20X9
-* `inflationYOY`: December YOY inflation
+* `inflationYOY`: December YOY inflation rate (e.g., 0.126 = 12.6%)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv")
