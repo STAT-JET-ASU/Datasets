@@ -1,0 +1,52 @@
+state,region,division,court,dp1,dp2,abolished,pre1976,post1976,prisoners,women,freed,clemency,felony,sentence
+Alabama,South,East Southern Central,Eleventh,yes,yes,,708,71,167,5,7,2,no,jury + judge
+Alaska,West,Pacific,Ninth,no,no,1957,12,0,,,0,0,,
+Arizona,West,Mountain,Ninth,yes,"yes, in moratorium",,104,39,115,3,11,0,yes,jury
+Arkansas,South,West Southern Central,Eighth,yes,yes,,478,31,28,0,1,2,yes,jury
+California,West,Pacific,Ninth,yes,"yes, in moratorium",,725,13,686,22,7,2,yes,jury
+Colorado,West,Mountain,Tenth,no,no,2020,101,1,,,0,3,,
+Connecticut,Northeast,New England,Second,no,no,2015,126,1,,,0,0,,
+Delaware,South,South Atlantic,Third,no,no,2016,24,16,,,1,1,,
+District of Columbia,South,South Atlantic,DC,no,no,1981,118,0,,,0,3,,
+Florida,South,South Atlantic,Eleventh,yes,yes,,347,105,318,3,30,6,yes,jury
+Georgia,South,South Atlantic,Eleventh,yes,yes,,950,76,41,1,7,10,no,jury
+Hawaii,West,Pacific,Ninth,no,no,1957,49,0,,,0,0,,
+Idaho,West,Mountain,Ninth,yes,yes,,26,3,8,1,1,1,yes,jury
+Illinois,Midwest,East North Central,Seventh,no,no,2011,348,12,,,21,188,,
+Indiana,Midwest,East North Central,Seventh,yes,yes,,131,22,8,0,2,4,yes,jury
+Iowa,Midwest,West North Central,Eighth,no,no,1965,45,0,,,0,0,,
+Kansas,Midwest,West North Central,Tenth,yes,yes,,57,0,9,0,0,0,yes,jury
+Kentucky,South,East Southern Central,Sixth,yes,yes,,424,3,26,1,1,4,no,jury
+Louisiana,South,West Southern Central,Fifth,yes,yes,,65,28,62,1,12,2,no,jury
+Maine,Northeast,New England,First,no,no,1887,21,0,,,0,0,,
+Maryland,South,South Atlantic,Fourth,no,no,2013,309,5,,,1,6,,
+Massachusetts,Northeast,New England,First,no,no,1984,345,0,,,3,0,,
+Michigan,Midwest,East North Central,Sixth,no,no,1847,13,0,,,0,0,,
+Minnesota,Midwest,West North Central,Eighth,no,no,1911,66,0,,,0,0,,
+Mississippi,South,East Southern Central,Fifth,yes,yes,,351,23,36,1,7,0,yes,jury
+Missouri,Midwest,West North Central,Eighth,yes,yes,,285,94,18,0,4,5,no,jury
+Montana,West,Mountain,Ninth,yes,yes,,71,3,2,0,1,1,yes,jury + judge
+Nebraska,Midwest,West North Central,Eighth,yes,yes,,34,4,12,0,1,0,yes,jury + judge
+Nevada,West,Mountain,Ninth,yes,yes,,61,12,64,0,2,1,yes,jury
+New Hampshire,Northeast,New England,First,no,no,2019,24,0,1,0,0,0,,
+New Jersey,Northeast,Mid-Atlantic,Third,no,no,2007,361,0,,,0,8,,
+New Mexico,West,Mountain,Tenth,no,no,2009,73,1,,,4,5,,
+New York,Northeast,Mid-Atlantic,Second,no,no,2007,1130,0,,,0,0,,
+North Carolina,South,South Atlantic,Fourth,yes,yes,,784,43,140,2,12,5,yes,jury
+North Dakota,Midwest,West North Central,Eighth,no,no,1973,8,0,,,0,0,,
+Ohio,Midwest,East North Central,Sixth,yes,"yes, in moratorium",,438,56,132,1,11,21,yes,jury
+Oklahoma,South,West Southern Central,Tenth,yes,yes,,132,118,43,1,11,5,yes,jury
+Oregon,West,Pacific,Ninth,yes,"yes, in moratorium",,122,2,0,0,0,17,no,jury
+Pennsylvania,Northeast,Mid-Atlantic,Third,yes,"yes, in moratorium",,1040,3,127,1,11,0,no,jury
+Rhode Island,Northeast,New England,First,no,no,1984,52,0,,,0,0,,
+South Carolina,South,South Atlantic,Fourth,yes,yes,,641,43,37,0,2,0,yes,jury
+South Dakota,Midwest,West North Central,Eighth,yes,yes,,15,5,1,0,0,0,yes,jury
+Tennessee,South,East Southern Central,Sixth,yes,yes,,335,13,47,1,3,3,yes,jury
+Texas,South,West Southern Central,Fifth,yes,yes,,755,578,196,6,16,3,yes,jury
+Utah,West,Mountain,Tenth,yes,yes,,43,7,7,0,0,0,no,jury
+Vermont,Northeast,New England,Second,no,no,1972,26,0,,,0,0,,
+Virginia,South,South Atlantic,Fourth,no,no,2021,1277,113,,,1,10,,
+Washington,West,Pacific,Ninth,no,no,2018,105,5,,,1,0,,
+West Virginia,South,South Atlantic,Fourth,no,no,1965,155,0,,,0,0,,
+Wisconsin,Midwest,East North Central,Seventh,no,no,1853,1,0,,,0,0,,
+Wyoming,West,Mountain,Tenth,yes,yes,,22,1,0,0,0,0,yes,jury
