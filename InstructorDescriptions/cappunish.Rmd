@@ -25,9 +25,9 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [`deathrowsize.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsize.csv)
 
-<i class="fas fa-database"></i> [`executions19762021.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2021.csv)
+<i class="fas fa-database"></i> [`executions19762022.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2022.csv)
 
-<i class="fas fa-database"></i> [`deathrowrace.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowsizerace.csv)
+<i class="fas fa-database"></i> [`deathrowrace.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv)
 
 ### Description
 
@@ -59,7 +59,7 @@ head(DATA)
 
 ### Variables---Size of Death Row Dataset
 
-Number of prisoners on death row for each year from 1968 to 2021.
+Number of prisoners on death row for each year from 1968 to 2022.
 
 * `year`: year
 * `total`: total prisoners on death row
@@ -75,10 +75,10 @@ head(DATA)
 Number of executions per year for each state, DC, and the federal government.
 
 * `state`: state (including District of Columbia and Federal Government)
-* `yxxxx`: year (number of executions for each year from 1976 to 2021)
+* `yxxxx`: year (number of executions for each year from 1976 to 2022)
 
 ```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2021.csv")
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/executions1976to2022.csv")
 glimpse(DATA)
 head(DATA)
 ```
