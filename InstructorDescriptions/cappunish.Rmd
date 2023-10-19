@@ -1,5 +1,5 @@
 ---
-title: "Capital Punishment Dataset<br>Size of Death Row Dataset<br>Executions Since 1976 Dataset<br>Death Row Demographics Dataset"
+title: "Capital Punishment Dataset<br>Size of Death Row Dataset<br>Executions Since 1976 Dataset<br>Death Row Demographics Dataset<br>Death Sentences in NC Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
