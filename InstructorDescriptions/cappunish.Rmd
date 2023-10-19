@@ -29,6 +29,8 @@ library(dplyr)
 
 <i class="fas fa-database"></i> [`deathrowrace.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathrowrace.csv)
 
+<i class="fas fa-database"></i> [`deathsentencesNC.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathsentencesNC.csv)
+
 ### Description
 
 Data about the death penalty in the United States as of October 18, 2023.
@@ -101,6 +103,20 @@ glimpse(DATA)
 head(DATA)
 ```
 
+### Variables---Death Sentences in NC Dataset
+
+Number of death sentences imposed in NC from 1977 to 2022.
+
+* `year`: calendar year
+* `sentences`: number of death sentences imposed
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/deathsentencesNC.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+
 ### References
 
 Source: [Death Penalty Information Center](https://deathpenaltyinfo.org)
@@ -108,6 +124,7 @@ Source: [Death Penalty Information Center](https://deathpenaltyinfo.org)
 * [State by State](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state)
 * [Size of Death Row by Year](https://deathpenaltyinfo.org/death-row/overview/size-of-death-row-by-year)
 * [Racial Demographics](https://deathpenaltyinfo.org/death-row/overview/demographics)
+* [Sentencing Data](https://deathpenaltyinfo.org/facts-and-research/sentencing-data)
 
 [Census Regions and Divisions of the United States](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
 
