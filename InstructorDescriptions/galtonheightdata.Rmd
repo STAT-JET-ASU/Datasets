@@ -81,7 +81,7 @@ head(DATA)
 
 ### References
 
-[Random Services: Galton's Height Data](http://www.randomservices.org/random/data/Galton.html)
+[Galton's family data on human stature](https://www.medicine.mcgill.ca/epidemiology/hanley/galton/)
 
 Galton, Francis. (1886). Regression toward mediocrity in hereditary stature. _The Journal of the Anthropological Institute of Great Britain and Ireland_, 15, pp. 246-263.
 
