@@ -25,7 +25,7 @@ library(dplyr)
 
 ### Description
 
-In January 2007, Entertainment Weekly magazine featured a cover story about three Academy Award nominees for Best Actress---Meryl Streep (age 57), Judy Densch (age 72), and Helen Mirren (age 61)---with a cover tagline that proclaimed "The Silver Foxes Rule!" This theme continued inside, with the article focusing in large part on how old these three women were, relative to previous winners, and the perceived Hollywood bias in favor of younger actresses. This discussion persists in one form or another to this day. In March 2023, the website GoldDerby discussed the ages of the actor/actress nominees for the upcoming 2023 awards and noted, "Even though the industry and the Oscars have historically favored the young, especially when it comes to women, things have been trending in the opposite direction the past few years." What does the data say?
+In January 2007, ***Entertainment Weekly*** magazine featured a cover story about three Academy Award nominees for Best Actress---Meryl Streep (age 57), Judy Densch (age 72), and Helen Mirren (age 61)---with a cover tagline that proclaimed "The Silver Foxes Rule!" This theme continued inside, with the article focusing in large part on how old these three women were, relative to previous winners, and the perceived Hollywood bias in favor of younger actresses. This discussion persists in one form or another to this day. In March 2023, the website ***Gold Derby*** discussed the ages of the actor/actress nominees for the upcoming 2023 awards and noted, "Even though the industry and the Oscars have historically favored the young, especially when it comes to women, things have been trending in the opposite direction the past few years." *What does the data say?*
 
 ### Variables
 
