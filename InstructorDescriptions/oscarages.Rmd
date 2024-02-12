@@ -1,0 +1,71 @@
+---
+title: "Annual Inflation Dataset<br>Consumer Price Index (CPI) Dataset"
+author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
+date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
+output: 
+  html_document: 
+    highlight: textmate
+    theme: cosmo
+---
+
+```{r setup, include = FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  echo = FALSE,
+  comment = NA
+)
+library(readr)
+library(dplyr)
+```
+<hr>
+
+<i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)<br>
+<i class="fas fa-database"></i> [`cpidata19132023.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv)
+
+### Description
+
+Annual US inflation from December to December (i.e., December YOY), calculated using Consumer Price Index (CPI) for all urban consumers. For example, the Dec-Dec inflation for 2021 is as follows. You can multiply by 100 to express as a percentage.
+
+$$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
+
+### Variables---Annual Inflation Dataset
+
+* `year`: calendar year
+* `decade`: decade, year 19X0 to 19X9 and 20X0 to 20X9
+* `inflationYOY`: December YOY inflation rate (e.g., 0.126 = 12.6%)
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv")
+glimpse(DATA)
+head(DATA)
+tail(DATA)
+```
+
+### Variables---Consumer Price Index Dataset
+
+* `year`: calendar year
+* `Jan`: January CPI values
+* `Feb`: February CPI values
+* `Mar`: March CPI values
+* `Apr`: April CPI values
+* `May`: May CPI values
+* `Jun`: June CPI values
+* `Jul`: July CPI values
+* `Aug`: August CPI values
+* `Sep`: September CPI values
+* `Oct`: October CPI values
+* `Nov`: November CPI values
+* `Dec`: December CPI values
+
+```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv")
+glimpse(DATA)
+head(DATA)
+tail(DATA)
+```
+
+### References
+
+[US Inflation Calculator: Consumer Price Index Data from 1913 to Present](https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/)
