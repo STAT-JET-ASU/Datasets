@@ -22,7 +22,7 @@ library(dplyr)
 <hr>
 
 <i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)<br>
-<i class="fas fa-database"></i> [`cpidata2022.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata2022.csv)
+<i class="fas fa-database"></i> [`cpidata19132023.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv)
 
 ### Description
 
@@ -60,13 +60,12 @@ tail(DATA)
 * `Dec`: December CPI values
 
 ```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata2022.csv")
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv")
 glimpse(DATA)
 head(DATA)
+tail(DATA)
 ```
 
 ### References
 
-[US Inflation Calculator: Consumer Price Index Data from 1913 to 2022](https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/)
-
-<hr>
+[US Inflation Calculator: Consumer Price Index Data from 1913 to Present](https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/)
