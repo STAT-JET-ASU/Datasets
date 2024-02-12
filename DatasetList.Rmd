@@ -87,7 +87,8 @@ These datasets were compiled or acquired by Dr. Thomley from various sources. Mo
 * [oldfaithful.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oldfaithful.csv)
 * [oreofillingwts.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oreofillingwts.csv) ●
   [description](InstructorDescriptions/oreofillingwts.html)
-* [oscarages.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oscarages.csv)
+* [oscarages.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oscarages.csv) ● 
+  [description](InstructorDescriptions/oscarages.html)
 * [pearsonheightdata.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/pearsonheightdata.csv) ●
   [description](InstructorDescriptions/pearsonheightdata.html)
 * [personalitySTT1810.csv](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/personalitySTT1810.csv)

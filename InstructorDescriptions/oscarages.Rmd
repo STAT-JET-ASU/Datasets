@@ -1,5 +1,5 @@
 ---
-title: "Annual Inflation Dataset<br>Consumer Price Index (CPI) Dataset"
+title: "Oscar Winner Ages Dataset"
 author: "Instructor: Jill E. Thomley (thomleyje@appstate.edu)"
 date: "Updated: `r format(Sys.time(), '%A, %B %d, %Y @ %X')`"
 output: 
@@ -21,46 +21,25 @@ library(dplyr)
 ```
 <hr>
 
-<i class="fas fa-database"></i> [`annualinflation.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv)<br>
-<i class="fas fa-database"></i> [`cpidata19132023.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv)
+<i class="fas fa-database"></i> [`oscarages.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oscarages.csv)<br>
 
 ### Description
 
-Annual US inflation from December to December (i.e., December YOY), calculated using Consumer Price Index (CPI) for all urban consumers. For example, the Dec-Dec inflation for 2021 is as follows. You can multiply by 100 to express as a percentage.
+In January 2007, Entertainment Weekly magazine featured a cover story about three Academy Award nominees for Best Actress---Meryl Streep (age 57), Judy Densch (age 72), and Helen Mirren (age 61)---with a cover tagline that proclaimed "The Silver Foxes Rule!" This theme continued inside, with the article focusing in large part on how old these three women were, relative to previous winners, and the perceived Hollywood bias in favor of younger actresses. This discussion persists in one form or another to this day. In March 2023, the website GoldDerby discussed the ages of the actor/actress nominees for the upcoming 2023 awards and noted, "Even though the industry and the Oscars have historically favored the young, especially when it comes to women, things have been trending in the opposite direction the past few years." What does the data say?
 
-$$\frac{CPI_{\text{Dec 2021}} - CPI_{\text{Dec 2020}}}{CPI_{\text{Dec 2020}}}%$$
+### Variables
 
-### Variables---Annual Inflation Dataset
+ceremony	decade	category	name	age	title
 
-* `year`: calendar year
-* `decade`: decade, year 19X0 to 19X9 and 20X0 to 20X9
-* `inflationYOY`: December YOY inflation rate (e.g., 0.126 = 12.6%)
-
-```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/annualinflation.csv")
-glimpse(DATA)
-head(DATA)
-tail(DATA)
-```
-
-### Variables---Consumer Price Index Dataset
-
-* `year`: calendar year
-* `Jan`: January CPI values
-* `Feb`: February CPI values
-* `Mar`: March CPI values
-* `Apr`: April CPI values
-* `May`: May CPI values
-* `Jun`: June CPI values
-* `Jul`: July CPI values
-* `Aug`: August CPI values
-* `Sep`: September CPI values
-* `Oct`: October CPI values
-* `Nov`: November CPI values
-* `Dec`: December CPI values
+* `ceremony`: year the ceremony was held
+* `decade`: decade, e.g. 1980s and 2020s
+* `category`: Oscar category (Best Actor, Best Actress, Best Supporting Actor, Best Supporting Actress)
+* `name ` : winner's name
+* `age` : winner's age at the time of their win (at the ceremony)
+* `title` : title of the movie(s) for which the winner was nominated
 
 ```{r}
-DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/cpidata19132023.csv")
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/oscarages.csv")
 glimpse(DATA)
 head(DATA)
 tail(DATA)
@@ -68,4 +47,16 @@ tail(DATA)
 
 ### References
 
-[US Inflation Calculator: Consumer Price Index Data from 1913 to Present](https://www.usinflationcalculator.com/inflation/consumer-price-index-and-annual-percent-changes-from-1913-to-2008/)
+[Academy Awards Databases](https://www.oscars.org/oscars/awards-databases)
+
+[Wikipedia: Academy Award for Best Actor](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor)
+
+[Wikipedia: Academy Award for Best Supporting Actor](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actor)
+
+[Wikipedia: Academy Award for Best Actress](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress)
+
+[Wikipedia: Academy Award for Best Supporting Actress](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Supporting_Actress)
+
+[Collins, Clark. (January 19, 2007). "Silver Streak," ***Entertainment Weekly*** # 916.](https://www.simplystreep.com/articles/200701entertainmentweekly/)
+
+[Eng, Joyce. (March 7, 2923). "The Oscars could produce one of the oldest quartets of acting winners ever," ***Gold Derby (website)***. ](https://www.goldderby.com/article/2023/oscar-acting-winners-age/)
