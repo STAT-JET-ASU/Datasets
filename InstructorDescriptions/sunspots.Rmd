@@ -39,6 +39,7 @@ Sunspots are dark areas on the surface of the sun. They look dark because they a
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/sunspots.csv")
 glimpse(DATA)
 head(DATA)
+tail(DATA)
 ```
 
 ### References
