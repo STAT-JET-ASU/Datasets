@@ -21,6 +21,8 @@ library(dplyr)
 ```
 <hr>
 
+<i class="fas fa-database"></i> [`galtonfamiliesall.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesall.csv)
+
 <i class="fas fa-database"></i> [`galtonfamiliesmain.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesmain.csv)
 
 <i class="fas fa-database"></i> [`galtonfamiliessub.csv`](https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliessub.csv)
@@ -33,11 +35,11 @@ See also [Pearson Height Dataset](https://stat-jet-asu.github.io/Datasets/Instru
 
 ### Description
 
-Francis Galton, a cousin of Charles Darwin, studied the relationship between parent heights and the heights of their offspring. From his original article on regression, cited below: "My data consisted of the heights of 930 adult children and of their respective parentages, 205 in number. In every case I transmuted the female statures to their corresponding male equivalents and used them in their transmuted form... The factor I used was 1.08, which is equivalent to adding a little less than one-twelfth to each female height. It differs a very little from the factors employed by other anthropologists..." 
+Francis Galton, a cousin of Charles Darwin, studied the relationship between parent heights and the heights of their offspring. From his original article on regression, cited below: "My data consisted of the heights of 930 [sic] adult children and of their respective parentages, 205 in number. In every case I transmuted the female statures to their corresponding male equivalents and used them in their transmuted form... The factor I used was 1.08, which is equivalent to adding a little less than one-twelfth to each female height. It differs a very little from the factors employed by other anthropologists..." 
 
-The `galtonfamiliesmain` dataset was [created under the direction of Dr. James A. Hanley](http://www.medicine.mcgill.ca/epidemiology/hanley/galton/) from Galton's original paper notebooks. Eight families were left out for illustrative purposes. The "female statures" are in their raw (untransmuted) form. Information about the eight families is found in the `galtonfamiliessub` dataset. The `galtonparentheights` dataset contains just the heights of the parents. 
+The `galtonfamiliesmain` dataset was [created under the direction of Dr. James A. Hanley](http://www.medicine.mcgill.ca/epidemiology/hanley/galton/) from Galton's original paper notebooks. Eight families were left out for illustrative purposes. The "female statures" are in their raw (untransmuted) form. Information about the eight families is found in the `galtonfamiliessub` dataset. The `galtonfamiliesall` dataset has all of the families together. The `galtonparentheights` dataset contains just the heights of the parents. 
 
-### Variables---Main Dataset
+### Variables---Full and Main Dataset
 
 * `FamilyID`: family identifier, labeled 1 to 204 and 136A, excluding the eight 
 * `Children` : number of children in the family
@@ -47,12 +49,18 @@ The `galtonfamiliesmain` dataset was [created under the direction of Dr. James A
 * `Height`: child's measured height in inches
 
 ```{r}
+DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesall.csv")
+glimpse(DATA)
+head(DATA)
+```
+
+```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/galtonfamiliesmain.csv")
 glimpse(DATA)
 head(DATA)
 ```
 
-### Variables---Eight Families
+### Variables---Subset Dataset
 
 * `FamilyID`: family identifier, families 13, 50, 84, 11, 120, 161, 189, and 202
 * `Children` : number of children in the family
