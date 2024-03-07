@@ -25,7 +25,7 @@ library(dplyr)
 
 ### Description
 
-Data about Atlantic Ocean hurricanes from 1851 to 2022. The Atlantic hurricane season is roughly from June through November. Tropical cyclones in the North Atlantic are called hurricanes, tropical storms, or tropical depressions.
+Data about Atlantic Ocean hurricanes from 1851 to 2023. The Atlantic hurricane season is roughly from June through November. Tropical cyclones in the North Atlantic are called hurricanes, tropical storms, or tropical depressions.
 
 ### Variables
 
