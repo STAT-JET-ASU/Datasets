@@ -31,18 +31,18 @@ Data about all National Football League (NFL) players in 2016.
 
 ### Variables---NFL Players 2016 Dataset
 
-* `Jersey`: jersey number
+* `Jersey`: player jersey number
 * `Name`: player name
 * `Position`: player position
 * `Age`: player age
 * `Height`: player height in inches
 * `Weight`: player weight in pounds
-* `Years`: number of years played
-* `College`: college attended
-* `Team`: team played for
-* `PositionGrp`: groupings for positions
+* `Years`: number of years played prior to the 2016 season
+* `College`: college the player attended
+* `Team`: team played for in the 2016 season
+* `PositionGrp`: groupings for player positions (`Position`)
 * `Side`:  offense, defense, or special teams
-* `Playtime`: grouping for number of years played
+* `Playtime`: grouping for number of years played (`Years`)
 
 ```{r}
 DATA <- read_csv("https://raw.githubusercontent.com/STAT-JET-ASU/Datasets/master/Instructor/NFLplayers2016.csv")
